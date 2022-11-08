@@ -1,0 +1,49 @@
+name: Terminology Update Check
+on:
+  schedule:
+    - cron: '0 10 1,15 * *'
+  workflow_dispatch:
+jobs:
+  checker:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Clone repository
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+      - name: Set up Python 3
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+          cache: 'pip'
+      - name: Install python dependencies
+        run: |
+          pip install -r .github/requirements.txt
+      - name: Check for term updates
+        run: |
+          python .github/scripts/terminology_update_check.py --locales .github/locales.txt --repo terminology/
+      - name: Create PR for updating terms in repo
+        if: ${{ failure() }}
+        run: |
+          # Only try to commit if there are pending changes
+          mv -f pontoon_exports/* terminology/
+          cd terminology
+          if [[ $(git diff --exit-code) || $(git ls-files --other --exclude-standard) ]]
+          then
+            UPDATE=$(date +'%Y-%m-%d')
+
+            git config --global user.email "38174554+bcolsson@users.noreply.github.com"
+            git config --global user.name "bcolsson"
+
+            git checkout -B "merge-terminology-$UPDATE"
+            git add .
+            git commit -m "Merge new terms as of $UPDATE"
+            git push -f origin "merge-terminology-$UPDATE"
+
+            # Create pull request, use the last commit message as title
+            gh pr create --fill
+          else
+            echo "No update required"
+          fi
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
