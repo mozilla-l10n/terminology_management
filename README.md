@@ -1,4 +1,4 @@
-# terminology_update_check
+# Terminology Management
 
 This repository contains scripts and workflows for the management of Mozilla's l10n terminology.
 
