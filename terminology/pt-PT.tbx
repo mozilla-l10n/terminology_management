@@ -16,48 +16,6 @@
 	</martifHeader>
 	<text>
 		<body>
-			<termEntry id="c619">
-				<descrip type="context">Modify the appearance and importance of tags using the settings below</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>appearance</term>
-							<termNote type="partOfSpeech">noun</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">The way that something looks</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="pt-PT">
-					<ntig>
-						<termGrp>
-							<term>aspeto</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
-			<termEntry id="c529">
-				<descrip type="context">Mozilla detected a serious abnormality in its internal data</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>abnormality</term>
-							<termNote type="partOfSpeech">noun</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">something that is unusual in an unwelcome or problematic way</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="pt-PT">
-					<ntig>
-						<termGrp>
-							<term>anormalidade</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
 			<termEntry id="c621">
 				<descrip type="context">Your add-ons and customizations have been removed and your browser settings have been restored to their defaults.</descrip>
 				<langSet xml:lang="en-US">
@@ -79,69 +37,6 @@
 					</ntig>
 				</langSet>
 			</termEntry>
-			<termEntry id="c533">
-				<descrip type="context">We encourage users to visualize the state of tracking as an aggregate</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>aggregate</term>
-							<termNote type="partOfSpeech">noun</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">total of individual parts</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="pt-PT">
-					<ntig>
-						<termGrp>
-							<term>agregado</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
-			<termEntry id="c532">
-				<descrip type="context">Generating aggregate reports</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>aggregate</term>
-							<termNote type="partOfSpeech">adjective</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">formed by the total of individual parts</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="pt-PT">
-					<ntig>
-						<termGrp>
-							<term>agregado</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
-			<termEntry id="c523">
-				<descrip type="context"></descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>All Hands</term>
-							<termNote type="partOfSpeech">noun</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">All MoCo and MoFo staffers plus key volunteers - also sometimes the all-mofo meetings that happen before the moco work weeks</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="pt-PT">
-					<ntig>
-						<termGrp>
-							<term>Todos juntos</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
 			<termEntry id="c620">
 				<descrip type="context">If the image is relevant to the content of the document, you must supply alternate text that will appear in text-only browsers</descrip>
 				<langSet xml:lang="en-US">
@@ -159,27 +54,6 @@
 					<ntig>
 						<termGrp>
 							<term>texto alternativo</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
-			<termEntry id="c618">
-				<descrip type="context">Choose the alternative search engines that appear below the address bar; The add-on downloaded from this site could not be installed because it appears to be corrupt.</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>appear</term>
-							<termNote type="partOfSpeech">verb</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">1. To come into sight; become visible or noticeable 2. To seem or give the impression of being</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="pt-PT">
-					<ntig>
-						<termGrp>
-							<term>aparecer</term>
 						</termGrp>
 					</ntig>
 				</langSet>
@@ -331,48 +205,6 @@
 					</ntig>
 				</langSet>
 			</termEntry>
-			<termEntry id="c522">
-				<descrip type="context"></descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>back out</term>
-							<termNote type="partOfSpeech">verb</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">If a code change (to Firefox or anywhere else) goes badly, it may be "backed out", meaning the change is undone. Sometimes several changes will be backed out at once, if it's unclear which one cause the problem.</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="pt-PT">
-					<ntig>
-						<termGrp>
-							<term>retroceder</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
-			<termEntry id="c531">
-				<descrip type="context">The following sources were black boxed</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>black box</term>
-							<termNote type="partOfSpeech">verb</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">to disable breakpoints (execution stop points) of a source code</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="pt-PT">
-					<ntig>
-						<termGrp>
-							<term>caixa negra</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
 			<termEntry id="c596">
 				<descrip type="context">Bookmarks you add will still be saved on your device.</descrip>
 				<langSet xml:lang="en-US">
@@ -411,48 +243,6 @@
 					<ntig>
 						<termGrp>
 							<term>adicionar marcador</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
-			<termEntry id="c527">
-				<descrip type="context">Toggles the boolean preference specified by input</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>boolean</term>
-							<termNote type="partOfSpeech">adjective</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">a logical data type with only two possible values: true or false</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="pt-PT">
-					<ntig>
-						<termGrp>
-							<term>booleano</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
-			<termEntry id="c526">
-				<descrip type="context">You have been booted from the chatroom</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>boot</term>
-							<termNote type="partOfSpeech">verb</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">Remove a user from an online space</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="pt-PT">
-					<ntig>
-						<termGrp>
-							<term>arrancar</term>
 						</termGrp>
 					</ntig>
 				</langSet>
@@ -520,27 +310,6 @@
 					</ntig>
 				</langSet>
 			</termEntry>
-			<termEntry id="c612">
-				<descrip type="context">You are currently on the Firefox release channel</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>channel</term>
-							<termNote type="partOfSpeech">noun</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">Refers to milestone build stages of Firefox (for example: Beta, Nightly, Dev edition, Release, ESR- Extended Support Release). Channels are fixed mechanisms through which we publish the different versions of Firefox.</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="pt-PT">
-					<ntig>
-						<termGrp>
-							<term>canal</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
 			<termEntry id="c611">
 				<descrip type="context">The cipher used for encryption is deprecated and insecure.</descrip>
 				<langSet xml:lang="en-US">
@@ -583,69 +352,6 @@
 					</ntig>
 				</langSet>
 			</termEntry>
-			<termEntry id="c592">
-				<descrip type="context">Rotate clockwise</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>clockwise</term>
-							<termNote type="partOfSpeech">adverb</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">Move in the same direction as the rotating hands of a clock.</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="pt-PT">
-					<ntig>
-						<termGrp>
-							<term>sentido horário</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
-			<termEntry id="c591">
-				<descrip type="context">Choose a compact theme to make more room for tabbed browsing</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>compact</term>
-							<termNote type="partOfSpeech">adjective</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">Occupying little space compared with others of its same type</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="pt-PT">
-					<ntig>
-						<termGrp>
-							<term>compacto</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
-			<termEntry id="c609">
-				<descrip type="context">Doing a full compacting garbage collection as an attempt to free up memory for the allocation.</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>compact - recommend deprioritize</term>
-							<termNote type="partOfSpeech">verb</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">Pack or unite closely together</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="pt-PT">
-					<ntig>
-						<termGrp>
-							<term>compactar - recomendável retirar a prioridade</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
 			<termEntry id="c524">
 				<descrip type="context">A Geolocation request can only be fulfilled in a secure context.This scratchpad executes in the Browser context.</descrip>
 				<langSet xml:lang="en-US">
@@ -663,48 +369,6 @@
 					<ntig>
 						<termGrp>
 							<term>contexto</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
-			<termEntry id="c589">
-				<descrip type="context">Contribute to the development of this add-on</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>contribute</term>
-							<termNote type="partOfSpeech">verb</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">Give time, talents, or skills as part of a larger whole.</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="pt-PT">
-					<ntig>
-						<termGrp>
-							<term>contribuir</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
-			<termEntry id="c590">
-				<descrip type="context">Contribute {n} dollars to the cause.</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>contribute</term>
-							<termNote type="partOfSpeech">verb</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">Give a tangible object as part of a larger whole.</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="pt-PT">
-					<ntig>
-						<termGrp>
-							<term>contribuir</term>
 						</termGrp>
 					</ntig>
 				</langSet>
@@ -768,27 +432,6 @@
 					<ntig>
 						<termGrp>
 							<term>corrompido</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
-			<termEntry id="c585">
-				<descrip type="context">Rotate counterclockwise</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>counterclockwise</term>
-							<termNote type="partOfSpeech">adverb</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">Move in the direction opposite to the rotating hands of a clock.</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="pt-PT">
-					<ntig>
-						<termGrp>
-							<term>sentido anti-horário</term>
 						</termGrp>
 					</ntig>
 				</langSet>
@@ -961,27 +604,6 @@
 					</ntig>
 				</langSet>
 			</termEntry>
-			<termEntry id="c608">
-				<descrip type="context">Firefox prevented this page from loading in this way because the page has a content security policy that disallows it.</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>eavesdropping</term>
-							<termNote type="partOfSpeech">verb</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">Refuse to allow; to deny permission</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="pt-PT">
-					<ntig>
-						<termGrp>
-							<term>espiar</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
 			<termEntry id="c579">
 				<descrip type="context">You cannot enable this filter</descrip>
 				<langSet xml:lang="en-US">
@@ -1108,27 +730,6 @@
 					</ntig>
 				</langSet>
 			</termEntry>
-			<termEntry id="c571">
-				<descrip type="context">Executable files may contain viruses or other malicious code</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>executable file</term>
-							<termNote type="partOfSpeech">noun</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">A file in a format that enables it to be loaded into memory and executed by the operating system</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="pt-PT">
-					<ntig>
-						<termGrp>
-							<term>ficheiro executável</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
 			<termEntry id="c610">
 				<descrip type="context">This page is loaded from an extension</descrip>
 				<langSet xml:lang="en-US">
@@ -1146,69 +747,6 @@
 					<ntig>
 						<termGrp>
 							<term>extensão</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
-			<termEntry id="c570">
-				<descrip type="context">an external application must be launched to handle javascript</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>external</term>
-							<termNote type="partOfSpeech">adjective</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">Acting or coming from the outside</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="pt-PT">
-					<ntig>
-						<termGrp>
-							<term>externo</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
-			<termEntry id="c477">
-				<descrip type="context">Mozilla Fellows are working to stop the spread of misinformation, put individuals in control of their data, keep artificial intelligence accountable, and provide innovative solutions for internet connectivity in low penetration environments.</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>Fellow</term>
-							<termNote type="partOfSpeech">noun</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">Web activists, open-source researchers and scientists, engineers, and technology policy experts who receive a stipen from Mozilla to support their work on the front lines of the internet health movement.</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="pt-PT">
-					<ntig>
-						<termGrp>
-							<term>Colega</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
-			<termEntry id="c476">
-				<descrip type="context">Fake news and filter bubbles are making it harder for us to find our way.</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>filter bubble</term>
-							<termNote type="partOfSpeech">noun</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">A situation in which an Internet user encounters only information and opinions that conform to and reinforce their own beliefs, caused by algorithms that personalize an individual’s online experience.</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="pt-PT">
-					<ntig>
-						<termGrp>
-							<term>bolha de filtro</term>
 						</termGrp>
 					</ntig>
 				</langSet>
@@ -1255,27 +793,6 @@
 					</ntig>
 				</langSet>
 			</termEntry>
-			<termEntry id="c472">
-				<descrip type="context">Official Mozilla gear is here</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>gear</term>
-							<termNote type="partOfSpeech">noun</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">Items given to participants by Mozilla such as t-shirts and stickers</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="pt-PT">
-					<ntig>
-						<termGrp>
-							<term>equipamento</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
 			<termEntry id="c467">
 				<descrip type="context">Use market-leading research to deliver powerful grassroots-led campaigns.</descrip>
 				<langSet xml:lang="en-US">
@@ -1314,27 +831,6 @@
 					<ntig>
 						<termGrp>
 							<term>página inicial</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
-			<termEntry id="c566">
-				<descrip type="context">The worker was idle for a relatively long time</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>idle</term>
-							<termNote type="partOfSpeech">adjective</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">inactive; not in use</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="pt-PT">
-					<ntig>
-						<termGrp>
-							<term>inativo</term>
 						</termGrp>
 					</ntig>
 				</langSet>
@@ -1440,27 +936,6 @@
 					<ntig>
 						<termGrp>
 							<term>Emitido</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
-			<termEntry id="c520">
-				<descrip type="context"></descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>L10n</term>
-							<termNote type="partOfSpeech">noun</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">Localization is the translation of Mozilla products to various languages.</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="pt-PT">
-					<ntig>
-						<termGrp>
-							<term>Tradução</term>
 						</termGrp>
 					</ntig>
 				</langSet>
@@ -1587,48 +1062,6 @@
 					<ntig>
 						<termGrp>
 							<term>substituir</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
-			<termEntry id="c447">
-				<descrip type="context">Mozilla achieves success by helping more people make choices about what software they want to use what level of participation they would like to have online</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>participation</term>
-							<termNote type="partOfSpeech">noun</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">The Participation Team works to make people participate in Mozilla programs.</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="pt-PT">
-					<ntig>
-						<termGrp>
-							<term>participação</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
-			<termEntry id="c518">
-				<descrip type="context"></descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>Patch</term>
-							<termNote type="partOfSpeech">noun</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">A specific code contribution by programmers submitted as a text file.</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="pt-PT">
-					<ntig>
-						<termGrp>
-							<term>Correção</term>
 						</termGrp>
 					</ntig>
 				</langSet>
@@ -1844,7 +1277,7 @@
 				</langSet>
 			</termEntry>
 			<termEntry id="c546">
-				<descrip type="context">Sign in to sync your tabs, bookmarks, logins</descrip>
+				<descrip type="context">Unable to digitally sign data required to verify your certificate.</descrip>
 				<langSet xml:lang="en-US">
 					<ntig>
 						<termGrp>
@@ -1965,27 +1398,6 @@
 					<ntig>
 						<termGrp>
 							<term>conteúdo de monitorização</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
-			<termEntry id="c541">
-				<descrip type="context">Enable Turbo Mode for faster browsing.</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>Turbo Mode</term>
-							<termNote type="partOfSpeech">noun</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">A Firefox for Fire TV and Rocket term describing a mode that speeds up browsing by suppressing ad trackers. Functionally, this is similar to tracking protection, but the focus here is on increasing speed. "Turbo" implies a little boost in performance (think of this as a turbo on car engines)</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="pt-PT">
-					<ntig>
-						<termGrp>
-							<term>Modo turbo</term>
 						</termGrp>
 					</ntig>
 				</langSet>
