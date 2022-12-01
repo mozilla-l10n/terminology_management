@@ -1066,6 +1066,27 @@
 					</ntig>
 				</langSet>
 			</termEntry>
+			<termEntry id="c499">
+				<descrip type="context">Install Nightly and help us improve Firefox quality hunt crashes and regressions</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>crash</term>
+							<termNote type="partOfSpeech">noun</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">Occurs when software stops functioning properly and exits or closes unexpectedly.</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="de">
+					<ntig>
+						<termGrp>
+							<term>Absturz</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
 			<termEntry id="c610">
 				<descrip type="context">This page is loaded from an extension</descrip>
 				<langSet xml:lang="en-US">
@@ -1188,6 +1209,27 @@
 					<ntig>
 						<termGrp>
 							<term>abbrechen</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c542">
+				<descrip type="context">These cookies follow you from site to site to gather data about what you do online. They are set by third parties such as advertisers and analytics companies. Blocking cross-site tracking cookies reduces the number of ads that follow you around.</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>cross-site tracking cookie</term>
+							<termNote type="partOfSpeech">noun</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">Cookies are invisible pieces of data that a website can ask your browser to store on your device. Trackers use cross-site tracking cookies to collect information about the websites you visit and send them to other companies, often for advertising purposes. When you feel like an advertisement is following you around while you browse, this is a result of cross-site tracking. If the same tracker is present on multiple sites, it can build a more complete profile about you over time.</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="de">
+					<ntig>
+						<termGrp>
+							<term>Cookie zur seitenübergreifenden Aktivitätenverfolgung</term>
 						</termGrp>
 					</ntig>
 				</langSet>
@@ -1356,6 +1398,27 @@
 					<ntig>
 						<termGrp>
 							<term>Verbesserter Tracking-Schutz</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c464">
+				<descrip type="context">Choose the independent browser</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>independent browser</term>
+							<termNote type="partOfSpeech">noun</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">Firefox is the only major independent multi-platform browser not associated with a large tech company such as Google or Apple, or built on the same Chromium code base, such as Google Chrome, Microsoft Edge, or other browsers.</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="de">
+					<ntig>
+						<termGrp>
+							<term>Unabhängiger Browser</term>
 						</termGrp>
 					</ntig>
 				</langSet>
@@ -1608,6 +1671,69 @@
 					<ntig>
 						<termGrp>
 							<term>Inhalte zur Aktivitätenverfolgung</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c451">
+				<descrip type="context">A decentralized internet owned by all of us is where net neutrality interoperability competition and local contribution thrive</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>net neutrality</term>
+							<termNote type="partOfSpeech">noun</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">Principle that all communication over the Internet must be treated equally by Internet service providers, preventing the filtering of Internet content.</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="de">
+					<ntig>
+						<termGrp>
+							<term>Netzneutralität</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c450">
+				<descrip type="context">Mozilla is proudly nonprofit and answers to no one but you</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>nonprofit</term>
+							<termNote type="partOfSpeech">noun</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">Short for non-profit organization, a legal entity organized and operated for a collective, public or social benefit, in contrast with an entity that operates as a business aiming to generate a profit for its owners.</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="de">
+					<ntig>
+						<termGrp>
+							<term>gemeinnützig</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c605">
+				<descrip type="context">Download Mozilla Firefox, a free Web browser. Firefox is created by a global non-profit dedicated to putting individuals in control online.</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>non-profit</term>
+							<termNote type="partOfSpeech">noun</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">Short for non-profit organization, a legal entity organized and operated for a collective, public or social benefit, in contrast with an entity that operates as a business aiming to generate a profit for its owners.</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="de">
+					<ntig>
+						<termGrp>
+							<term>gemeinnützig</term>
 						</termGrp>
 					</ntig>
 				</langSet>
