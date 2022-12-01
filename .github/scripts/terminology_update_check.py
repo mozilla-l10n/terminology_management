@@ -73,10 +73,11 @@ def main():
         repo_terms = extract_terms(retrieve_repo_tbx(args.repo_path, locale), locale)
         remote_terms = extract_terms(retrieve_remote_tbx(locale), locale)
 
-        remote_updated_terms = list(remote_terms.difference(repo_terms))
+        remote_updated_terms = [f"+{term}" for term in list(remote_terms.difference(repo_terms))]
+        remote_removed_terms = [f"-{term}" for term in list(repo_terms.difference(remote_terms))]
+        remote_updated_terms.extend(remote_removed_terms)
 
         if remote_updated_terms:
-            remote_updated_terms.sort()
             updates[locale] = remote_updated_terms
     
     if updates:
@@ -92,7 +93,7 @@ def main():
             terms = updates[locale]
             terms.sort()
             total_terms = len(terms)
-            output.append(f"New terms: {total_terms}")
+            output.append(f"Changed terms: {total_terms}")
             for term in terms:
                 output.append(
                     f"{term}"
