@@ -1570,6 +1570,195 @@
 					</ntig>
 				</langSet>
 			</termEntry>
+			<termEntry id="c627">
+				<descrip type="context">Firefox automatically tries to reject cookie requests on cookie banners.</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>cookie banner</term>
+							<termNote type="partOfSpeech">noun</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">A cookie banner is a dialog, typically displayed as a notification bar or overlay dialog, that web sites use to inform users about cookies and, if necessary, obtain consent before storing cookies on their devices.</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="zh-CN">
+					<ntig>
+						<termGrp>
+							<term>Cookie 横幅</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c499">
+				<descrip type="context">Install Nightly and help us improve Firefox quality hunt crashes and regressions</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>crash</term>
+							<termNote type="partOfSpeech">noun</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">Occurs when software stops functioning properly and exits or closes unexpectedly.</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="zh-CN">
+					<ntig>
+						<termGrp>
+							<term>发生崩溃</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c542">
+				<descrip type="context">These cookies follow you from site to site to gather data about what you do online. They are set by third parties such as advertisers and analytics companies. Blocking cross-site tracking cookies reduces the number of ads that follow you around.</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>cross-site tracking cookie</term>
+							<termNote type="partOfSpeech">noun</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">Cookies are invisible pieces of data that a website can ask your browser to store on your device. Trackers use cross-site tracking cookies to collect information about the websites you visit and send them to other companies, often for advertising purposes. When you feel like an advertisement is following you around while you browse, this is a result of cross-site tracking. If the same tracker is present on multiple sites, it can build a more complete profile about you over time.</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="zh-CN">
+					<ntig>
+						<termGrp>
+							<term>跨站跟踪性 Cookie</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c464">
+				<descrip type="context">Choose the independent browser</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>independent browser</term>
+							<termNote type="partOfSpeech">noun</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">Firefox is the only major independent multi-platform browser not associated with a large tech company such as Google or Apple, or built on the same Chromium code base, such as Google Chrome, Microsoft Edge, or other browsers.</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="zh-CN">
+					<ntig>
+						<termGrp>
+							<term>独立浏览器</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c605">
+				<descrip type="context">Download Mozilla Firefox, a free Web browser. Firefox is created by a global non-profit dedicated to putting individuals in control online.</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>non-profit</term>
+							<termNote type="partOfSpeech">noun</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">Short for non-profit organization, a legal entity organized and operated for a collective, public or social benefit, in contrast with an entity that operates as a business aiming to generate a profit for its owners.</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="zh-CN">
+					<ntig>
+						<termGrp>
+							<term>非营利组织</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c628">
+				<descrip type="context">Sign in to sync tabs, bookmarks, passwords, and more.</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>sign in</term>
+							<termNote type="partOfSpeech">verb</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">To access an account or software through the usage of account information such as user id and password.</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="zh-CN">
+					<ntig>
+						<termGrp>
+							<term>登录</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c629">
+				<descrip type="context">With Firefox on all your devices, you can access bookmarks, tabs and passwords with one easy sign-in.</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>sign-in</term>
+							<termNote type="partOfSpeech">noun</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">The access of an account or software through the usage of account information such as user id and password.</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="zh-CN">
+					<ntig>
+						<termGrp>
+							<term>登录</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c450">
+				<descrip type="context">Mozilla is proudly nonprofit and answers to no one but you</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>nonprofit</term>
+							<termNote type="partOfSpeech">noun</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">Short for non-profit organization, a legal entity organized and operated for a collective, public or social benefit, in contrast with an entity that operates as a business aiming to generate a profit for its owners.</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="zh-CN">
+					<ntig>
+						<termGrp>
+							<term>非营利组织</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c451">
+				<descrip type="context">A decentralized internet owned by all of us is where net neutrality interoperability competition and local contribution thrive</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>net neutrality</term>
+							<termNote type="partOfSpeech">noun</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">Principle that all communication over the Internet must be treated equally by Internet service providers, preventing the filtering of Internet content.</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="zh-CN">
+					<ntig>
+						<termGrp>
+							<term>网络中立</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
 			<termEntry id="c624">
 				<descrip type="context"></descrip>
 				<langSet xml:lang="en-US">
