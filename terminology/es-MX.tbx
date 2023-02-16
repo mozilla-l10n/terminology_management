@@ -163,27 +163,6 @@
 					</ntig>
 				</langSet>
 			</termEntry>
-			<termEntry id="c542">
-				<descrip type="context">These cookies follow you from site to site to gather data about what you do online. They are set by third parties such as advertisers and analytics companies. Blocking cross-site tracking cookies reduces the number of ads that follow you around.</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>cross-site tracking cookie</term>
-							<termNote type="partOfSpeech">noun</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">Cookies are invisible pieces of data that a website can ask your browser to store on your device. Trackers use cross-site tracking cookies to collect information about the websites you visit and send them to other companies, often for advertising purposes. When you feel like an advertisement is following you around while you browse, this is a result of cross-site tracking. If the same tracker is present on multiple sites, it can build a more complete profile about you over time.</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="es-MX">
-					<ntig>
-						<termGrp>
-							<term>cookie de rastreo multisitio</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
 			<termEntry id="c582">
 				<descrip type="context">Turning this on will allow you to debug add-ons</descrip>
 				<langSet xml:lang="en-US">
@@ -1167,6 +1146,27 @@
 					<ntig>
 						<termGrp>
 							<term>versión</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c542">
+				<descrip type="context">These cookies follow you from site to site to gather data about what you do online. They are set by third parties such as advertisers and analytics companies. Blocking cross-site tracking cookies reduces the number of ads that follow you around.</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>cross-site tracking cookie</term>
+							<termNote type="partOfSpeech">noun</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">Cookies are invisible pieces of data that a website can ask your browser to store on your device. Trackers use cross-site tracking cookies to collect information about the websites you visit and send them to other companies, often for advertising purposes. When you feel like an advertisement is following you around while you browse, this is a result of cross-site tracking. If the same tracker is present on multiple sites, it can build a more complete profile about you over time.</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="es-MX">
+					<ntig>
+						<termGrp>
+							<term>cookie de rastreo entre sitios</term>
 						</termGrp>
 					</ntig>
 				</langSet>
