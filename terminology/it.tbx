@@ -1738,6 +1738,69 @@
 					</ntig>
 				</langSet>
 			</termEntry>
+			<termEntry id="c630">
+				<descrip type="context">In this Privacy Notice, we explain what data Firefox shares and point you to settings to share even less. We also adhere to the practices outlined in the Mozilla privacy policy for how we receive, handle and share information we collect from Firefox.</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>Privacy Notice</term>
+							<termNote type="partOfSpeech">noun</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">Notice that explains what data s Mozilla product collected, shared and why. It may also include additional information such as settings that can change how much is shared. One example is Firefox browser's privacy notice which can be found here: https://www.mozilla.org/en-US/privacy/firefox/</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="it">
+					<ntig>
+						<termGrp>
+							<term>Informativa sulla privacy</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c631">
+				<descrip type="context">We also adhere to the practices outlined in the Mozilla privacy policy for how we receive, handle and share information we collect from Firefox.</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>Privacy Policy</term>
+							<termNote type="partOfSpeech">noun</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">A statement that discloses the set of practices related to the handling of personal information by Mozilla or its products. For example, Mozilla's privacy policy can be found here: https://www.mozilla.org/en-US/privacy/</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="it">
+					<ntig>
+						<termGrp>
+							<term>Informativa sulla privacy</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c632">
+				<descrip type="context">By proceeding, you agree to the Terms of Service and Privacy Notice.</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>Terms of Service</term>
+							<termNote type="partOfSpeech">noun</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">Terms of service, also known as terms of use/ terms of conditions are agreements between a service provider and the person who wants to use the service, such as for Firefox cloud services. https://www.mozilla.org/en-US/about/legal/terms/services/</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="it">
+					<ntig>
+						<termGrp>
+							<term>Condizioni di utilizzo del servizio</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
 			<termEntry id="c623">
 				<descrip type="context">Use this colorway.</descrip>
 				<langSet xml:lang="en-US">
