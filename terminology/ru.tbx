@@ -1339,6 +1339,29 @@
 					</ntig>
 				</langSet>
 			</termEntry>
+			<termEntry id="c625">
+				<descrip type="context">Your account password was reset with an account recovery key</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>account recovery key</term>
+							<termNote type="partOfSpeech">noun</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">Account recovery key for Firefox Accounts. (Formerly called "recovery key".)
+
+A code used to recover a user's encrypted account information (such as bookmarks and passwords) when their Firefox Account password is reset.</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="ru">
+					<ntig>
+						<termGrp>
+							<term>ключ восстановления аккаунта</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
 			<termEntry id="c463">
 				<descrip type="context">Explore some of our latest innovations</descrip>
 				<langSet xml:lang="en-US">
@@ -1885,29 +1908,6 @@ See this page for more information: https://bit.ly/l10n-guidance-firefoxview</de
 					<ntig>
 						<termGrp>
 							<term>Firefox View</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
-			<termEntry id="c625">
-				<descrip type="context">Your account password was reset with an account recovery key</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>account recovery key</term>
-							<termNote type="partOfSpeech">noun</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">Account recovery key for Firefox Accounts. (Formerly called "recovery key".)
-
-A code used to recover a user's encrypted account information (such as bookmarks and passwords) when their Firefox Account password is reset.</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="ru">
-					<ntig>
-						<termGrp>
-							<term>ключ восстановления аккаунта</term>
 						</termGrp>
 					</ntig>
 				</langSet>
