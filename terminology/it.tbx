@@ -1318,6 +1318,27 @@
 					</ntig>
 				</langSet>
 			</termEntry>
+			<termEntry id="c665">
+				<descrip type="context">Extension Not Allowed on Restricted Sites</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>restricted site</term>
+							<termNote type="partOfSpeech">noun</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">A website, identified by Mozilla, where the execution of unverified add-ons is blocked by default for security reasons.</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="it">
+					<ntig>
+						<termGrp>
+							<term>sito con restrizioni</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
 			<termEntry id="c597">
 				<descrip type="context">You have blocked autoplay media with sound for this website.</descrip>
 				<langSet xml:lang="en-US">
