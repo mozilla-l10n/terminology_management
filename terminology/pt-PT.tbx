@@ -1549,6 +1549,27 @@
 					</ntig>
 				</langSet>
 			</termEntry>
+			<termEntry id="c665">
+				<descrip type="context">Extension Not Allowed on Restricted Sites</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>restricted site</term>
+							<termNote type="partOfSpeech">noun</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">A website, identified by Mozilla, where the execution of unverified add-ons is blocked by default for security reasons.</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="pt-PT">
+					<ntig>
+						<termGrp>
+							<term>site restrito</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
 			<termEntry id="c627">
 				<descrip type="context">Firefox automatically tries to reject cookie requests on cookie banners.</descrip>
 				<langSet xml:lang="en-US">
