@@ -263,7 +263,7 @@
 				<langSet xml:lang="de">
 					<ntig>
 						<termGrp>
-							<term>unterschreiben</term>
+							<term>signieren</term>
 						</termGrp>
 					</ntig>
 				</langSet>
@@ -1628,7 +1628,7 @@
 				<langSet xml:lang="de">
 					<ntig>
 						<termGrp>
-							<term>Verfolgen</term>
+							<term>verfolgen</term>
 						</termGrp>
 					</ntig>
 				</langSet>
@@ -1734,6 +1734,27 @@
 					<ntig>
 						<termGrp>
 							<term>gemeinnützig</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c665">
+				<descrip type="context">Extension Not Allowed on Restricted Sites</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>restricted site</term>
+							<termNote type="partOfSpeech">noun</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">A website, identified by Mozilla, where the execution of unverified add-ons is blocked by default for security reasons.</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="de">
+					<ntig>
+						<termGrp>
+							<term>eingeschränkte Website</term>
 						</termGrp>
 					</ntig>
 				</langSet>

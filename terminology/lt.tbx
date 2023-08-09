@@ -1,0 +1,588 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE martif SYSTEM "TBXcoreStructV02.dtd">
+<martif type="TBX" xml:lang="en-US">
+	<martifHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Mozilla Terms</title>
+			</titleStmt>
+			<sourceDesc>
+				<p>from a Mozilla termbase</p>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<p type="XCSURI">TBXXCSV02.xcs</p>
+		</encodingDesc>
+	</martifHeader>
+	<text>
+		<body>
+			<termEntry id="c621">
+				<descrip type="context">Your add-ons and customizations have been removed and your browser settings have been restored to their defaults.</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>add-on</term>
+							<termNote type="partOfSpeech">noun</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">A Firefox-specific umbrella term that describes tools (including extensions and themes) that users can install to modify, customize, and extend the functionality of Firefox. Avoid using "add-ons" and "extensions" interchangeably (see https://wiki.mozilla.org/Add-ons/Terminology#Usage_Guidelines).</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="lt">
+					<ntig>
+						<termGrp>
+							<term>priedas</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c528">
+				<descrip type="context">This option sends one invitation email per attendee</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>attendee</term>
+							<termNote type="partOfSpeech">noun</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">a person who is invited to attend an event, specifically via a calendar invitation</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="lt">
+					<ntig>
+						<termGrp>
+							<term>dalyvis</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c613">
+				<descrip type="context">The endpoint you are connecting to needs more information to authenticate this connection.</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>authenticate</term>
+							<termNote type="partOfSpeech">verb</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">To prove user identity, typically to gain access to a system or service</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="lt">
+					<ntig>
+						<termGrp>
+							<term>nustatyti tapatumą</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c598">
+				<descrip type="context">Warning: Contains unauthenticated content</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>authenticated</term>
+							<termNote type="partOfSpeech">adjective</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">User identity has been proven for access to a system or service</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="lt">
+					<ntig>
+						<termGrp>
+							<term>tapatumas nustatytas</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c611">
+				<descrip type="context">The cipher used for encryption is deprecated and insecure.</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>cipher</term>
+							<termNote type="partOfSpeech">noun</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">An algorithm that encrypts or decrypts information.</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="lt">
+					<ntig>
+						<termGrp>
+							<term>šifras</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c593">
+				<descrip type="context">Copy text to clipboard</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>clipboard</term>
+							<termNote type="partOfSpeech">noun</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">A special location in the computer's operating system that is accessible to all programs and temporarily stores data that the user has copied from somewhere else</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="lt">
+					<ntig>
+						<termGrp>
+							<term>iškarpinė</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c524">
+				<descrip type="context">A Geolocation request can only be fulfilled in a secure context.This scratchpad executes in the Browser context.</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>context</term>
+							<termNote type="partOfSpeech">noun</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">The setting or circumstance in which a thing occurs, often associated with the context menu. This term can assume specific connotations when referring to programming languages, for example in JavaScript a context is a reference to the object running the currently executing code.</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="lt">
+					<ntig>
+						<termGrp>
+							<term>kontekstas</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c584">
+				<descrip type="context">Cryptominers use your system’s computing power to mine digital money. Cryptomining scripts drain your battery, slow down your computer, and can increase your energy bill.</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>cryptominer</term>
+							<termNote type="partOfSpeech">noun</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">Scripts on websites that can use a computer’s resources to mine cryptocurrency without a user’s knowledge.</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="lt">
+					<ntig>
+						<termGrp>
+							<term>kriptovaliutų kasėjas</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c583">
+				<descrip type="context"></descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>cryptomining</term>
+							<termNote type="partOfSpeech">noun</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">A method of running scripts on websites that can use a computer’s resources to mine cryptocurrency without a user’s knowledge.</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="lt">
+					<ntig>
+						<termGrp>
+							<term>kriptovaliutų kasimas</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c581">
+				<descrip type="context">This web page has been reported as a deceptive site and has been blocked</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>deceptive site</term>
+							<termNote type="partOfSpeech">noun</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">A malicious website that impersonates a legitimate one in order to trick users into providing sensitive information such as passwords, account details, or credit card numbers</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="lt">
+					<ntig>
+						<termGrp>
+							<term>apgaulinga svetainė</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c576">
+				<descrip type="context">Media resource could not be decoded</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>decode</term>
+							<termNote type="partOfSpeech">verb</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">Translating date or information that has been encoded back into its original, comprehensible format.</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="lt">
+					<ntig>
+						<termGrp>
+							<term>iššifruoti</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c573">
+				<descrip type="context">Widevine Content Decryption Module provided by Google Inc.</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>decryption</term>
+							<termNote type="partOfSpeech">noun</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">The process of converting information or data back to its original form or text so that it can be read and understood; the process of reversing encryption</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="lt">
+					<ntig>
+						<termGrp>
+							<term>iššifravimas</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c484">
+				<descrip type="context">Political actors use disinformation campaigns that prey on our emotions and values to manipulate our behaviour.</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>disinformation</term>
+							<termNote type="partOfSpeech">noun</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">False, inaccurate, or misleading information designed, presented, and promoted to intentionally cause public harm or for profit. When it’s shared mistakenly by people, it becomes misinformation. See also the definition of misinformation.</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="lt">
+					<ntig>
+						<termGrp>
+							<term>dezinformacija</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c580">
+				<descrip type="context">If you delete or distrust a certificate authority (CA) certificate, this application will no longer trust any certificates issued by that CA</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>distrust</term>
+							<termNote type="partOfSpeech">verb</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">Regard something as untrustworthy or doubt its authenticity.</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="lt">
+					<ntig>
+						<termGrp>
+							<term>nepasitikėti</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c579">
+				<descrip type="context">You cannot enable this filter</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>enable</term>
+							<termNote type="partOfSpeech">verb</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">Activate a feature</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="lt">
+					<ntig>
+						<termGrp>
+							<term>įjungti</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c565">
+				<descrip type="context">Select which items to import</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>import</term>
+							<termNote type="partOfSpeech">verb</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">Copy or move data from one program to another, including importing data from an external source (for example, bookmarks)</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="lt">
+					<ntig>
+						<termGrp>
+							<term>importuoti</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c463">
+				<descrip type="context">Explore some of our latest innovations</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>innovations</term>
+							<termNote type="partOfSpeech">noun</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">Unique features developed for Firefox</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="lt">
+					<ntig>
+						<termGrp>
+							<term>inovacijos</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c564">
+				<descrip type="context">Firefox has detected an insecure site. Form Autofill is temporarily disabled.</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>insecure</term>
+							<termNote type="partOfSpeech">adjective</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">Potentially unsafe or not protected</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="lt">
+					<ntig>
+						<termGrp>
+							<term>nesaugus</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c453">
+				<descrip type="context">We're campaigning to get big tech platforms like Google, Facebook and Twitter to become more transparent about how political messages are spread so that we can detect and stop misinformation.</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>misinformation</term>
+							<termNote type="partOfSpeech">noun</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">False or misleading information (also known as disinformation) presented as truth that’s shared mistakenly by people who are unaware that it’s false.See also the definition of disinformation.</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="lt">
+					<ntig>
+						<termGrp>
+							<term>misinformacija</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c559">
+				<descrip type="context">These terms are not intended to limit any rights granted under open source licenses</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>open source</term>
+							<termNote type="partOfSpeech">adjective</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">Refers to any program whose source code is made available for use or modification.</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="lt">
+					<ntig>
+						<termGrp>
+							<term>atvirojo kodo</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c558">
+				<descrip type="context">Override the colors specified by the page with your selections</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>override</term>
+							<termNote type="partOfSpeech">verb</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">Replace or overrule</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="lt">
+					<ntig>
+						<termGrp>
+							<term>perrašyti</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c555">
+				<descrip type="context">Send a crash report for the tab you are viewing</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>report</term>
+							<termNote type="partOfSpeech">noun</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">A detailed record or account, most often in the case of a site crash or issue</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="lt">
+					<ntig>
+						<termGrp>
+							<term>ataskaita</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c554">
+				<descrip type="context">Report errors like this to help Mozilla identify and block malicious sites</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>report</term>
+							<termNote type="partOfSpeech">verb</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">Tell or alert, most often in the case of a site crash or issue</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="lt">
+					<ntig>
+						<termGrp>
+							<term>pranešti</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c546">
+				<descrip type="context">Unable to digitally sign data required to verify your certificate.</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>sign</term>
+							<termNote type="partOfSpeech">verb</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">To issue a digital certificate as verification of a website's identity; or, to enter user credentials to access a system.</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="lt">
+					<ntig>
+						<termGrp>
+							<term>pasirašyti</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c538">
+				<descrip type="context">Disabling the Safe Browsing feature is not recommended as it may result in you going to unsafe sites</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>unsafe</term>
+							<termNote type="partOfSpeech">adjective</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">Lacking in security or safety; potentially causing harm or damage</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="lt">
+					<ntig>
+						<termGrp>
+							<term>nesaugus</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c536">
+				<descrip type="context">Validate cache manifest</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>validate</term>
+							<termNote type="partOfSpeech">verb</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">To check or prove the validity or accuracy of (something).</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="lt">
+					<ntig>
+						<termGrp>
+							<term>patvirtinti</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c535">
+				<descrip type="context">This policy is only available on the Extended Support Release (ESR) version</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>version</term>
+							<termNote type="partOfSpeech">noun</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">Technically refers to the number of a particular Firefox release. Can also be used interchangeably with "release." "Release" does not have a good equivalent in languages other English and so "version" must be used in some cases. Use "version" (sentence case, not title case) as a generic, stand-alone term: "You are using the latest version of Firefox." Avoid referring to the numerical marker of that version ("Firefox Nightly 66.0a1") as this is too technical and unnecessarily detailed for users. Nghtly builds have the same version number for 6 weeks at a time so the version number itself is not specific.</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="lt">
+					<ntig>
+						<termGrp>
+							<term>versija</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+		</body>
+	</text>
+</martif>

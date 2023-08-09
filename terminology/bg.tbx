@@ -1,0 +1,800 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE martif SYSTEM "TBXcoreStructV02.dtd">
+<martif type="TBX" xml:lang="en-US">
+	<martifHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Mozilla Terms</title>
+			</titleStmt>
+			<sourceDesc>
+				<p>from a Mozilla termbase</p>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<p type="XCSURI">TBXXCSV02.xcs</p>
+		</encodingDesc>
+	</martifHeader>
+	<text>
+		<body>
+			<termEntry id="c574">
+				<descrip type="context">Your connection to this website uses weak encryption and is not private.</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>encryption</term>
+							<termNote type="partOfSpeech">noun</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">The process of encoding information or data so that only the sender and the intended recipient can read it.</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="bg">
+					<ntig>
+						<termGrp>
+							<term>шифроване</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c535">
+				<descrip type="context">This policy is only available on the Extended Support Release (ESR) version</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>version</term>
+							<termNote type="partOfSpeech">noun</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">Technically refers to the number of a particular Firefox release. Can also be used interchangeably with "release." "Release" does not have a good equivalent in languages other English and so "version" must be used in some cases. Use "version" (sentence case, not title case) as a generic, stand-alone term: "You are using the latest version of Firefox." Avoid referring to the numerical marker of that version ("Firefox Nightly 66.0a1") as this is too technical and unnecessarily detailed for users. Nghtly builds have the same version number for 6 weeks at a time so the version number itself is not specific.</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="bg">
+					<ntig>
+						<termGrp>
+							<term>издание</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c611">
+				<descrip type="context">The cipher used for encryption is deprecated and insecure.</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>cipher</term>
+							<termNote type="partOfSpeech">noun</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">An algorithm that encrypts or decrypts information.</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="bg">
+					<ntig>
+						<termGrp>
+							<term>шифър</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c579">
+				<descrip type="context">You cannot enable this filter</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>enable</term>
+							<termNote type="partOfSpeech">verb</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">Activate a feature</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="bg">
+					<ntig>
+						<termGrp>
+							<term>включвам</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c575">
+				<descrip type="context">Encrypt This Message</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>encrypt</term>
+							<termNote type="partOfSpeech">verb</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">Convert information or data into a code, especially to prevent unauthorized access. This is different from "encoding" in which the goal is to ensure that information can be properly consumed.</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="bg">
+					<ntig>
+						<termGrp>
+							<term>шифровам</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c572">
+				<descrip type="context">Request on the main thread is deprecated because of its detrimental effects to the end user</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>end user</term>
+							<termNote type="partOfSpeech">noun</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">The person who ultimately uses or is intended to use a product</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="bg">
+					<ntig>
+						<termGrp>
+							<term>краен потребител</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c621">
+				<descrip type="context">Your add-ons and customizations have been removed and your browser settings have been restored to their defaults.</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>add-on</term>
+							<termNote type="partOfSpeech">noun</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">A Firefox-specific umbrella term that describes tools (including extensions and themes) that users can install to modify, customize, and extend the functionality of Firefox. Avoid using "add-ons" and "extensions" interchangeably (see https://wiki.mozilla.org/Add-ons/Terminology#Usage_Guidelines).</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="bg">
+					<ntig>
+						<termGrp>
+							<term>добавка</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c620">
+				<descrip type="context">If the image is relevant to the content of the document, you must supply alternate text that will appear in text-only browsers</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>alternate text</term>
+							<termNote type="partOfSpeech">noun</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">Text added to an HTML element (typically an image) to describe that element when it cannot be rendered. Also used by accessibility tools, like screen readers, to make non-textual elements accessible.</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="bg">
+					<ntig>
+						<termGrp>
+							<term>алтернативен текст</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c599">
+				<descrip type="context">These pages try to install programs that steal private information, use your computer to attack others, or damage your system.</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>attack</term>
+							<termNote type="partOfSpeech">verb</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">To take malicious action against, specifically via hacking and malware.</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="bg">
+					<ntig>
+						<termGrp>
+							<term>атака</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c595">
+				<descrip type="context">Bookmark this page</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>bookmark</term>
+							<termNote type="partOfSpeech">verb</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">Create a shortcut that directs the browser to a specific webpage. Shortcuts may be added to the bookmark toolbar. Similar in functionality to "favorites" in Chrome and Internet Explorer, and "bookmarks" in Safari.</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="bg">
+					<ntig>
+						<termGrp>
+							<term>отметка</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c530">
+				<descrip type="context">Resumes the main thread and continues execution following a breakpoint until the next breakpoint or the termination of the script</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>breakpoint</term>
+							<termNote type="partOfSpeech">noun</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">Intentional stop point in the code of a computer program</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="bg">
+					<ntig>
+						<termGrp>
+							<term>точка на прекъсване</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c588">
+				<descrip type="context">This add-on could not be installed because it appears to be corrupt.</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>corrupt</term>
+							<termNote type="partOfSpeech">adjective</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">Containing errors or alterations from its original, correct form</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="bg">
+					<ntig>
+						<termGrp>
+							<term>повреден</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c587">
+				<descrip type="context">The response from the OCSP server was corrupted or improperly formed</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>corrupt</term>
+							<termNote type="partOfSpeech">verb</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">Change something from its original, correct form.</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="bg">
+					<ntig>
+						<termGrp>
+							<term>повреждам</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c586">
+				<descrip type="context">Invalid or corrupted PDF file</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>corrupted</term>
+							<termNote type="partOfSpeech">adjective</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">Changed from its original, correct form.</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="bg">
+					<ntig>
+						<termGrp>
+							<term>повреден</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c582">
+				<descrip type="context">Turning this on will allow you to debug add-ons</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>debug</term>
+							<termNote type="partOfSpeech">verb</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">Identify and remove errors from computer sofware</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="bg">
+					<ntig>
+						<termGrp>
+							<term>отстраняване на грешки</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c581">
+				<descrip type="context">This web page has been reported as a deceptive site and has been blocked</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>deceptive site</term>
+							<termNote type="partOfSpeech">noun</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">A malicious website that impersonates a legitimate one in order to trick users into providing sensitive information such as passwords, account details, or credit card numbers</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="bg">
+					<ntig>
+						<termGrp>
+							<term>измамен сайт</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c610">
+				<descrip type="context">This page is loaded from an extension</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>extension</term>
+							<termNote type="partOfSpeech">noun</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">Pieces of code that extend the capabilities of a browser. In Firefox, extensions are a type of add-on.</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="bg">
+					<ntig>
+						<termGrp>
+							<term>разширение</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c577">
+				<descrip type="context">Enhanced Tracking Protection is ON for this site</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>Enhanced Tracking Protection</term>
+							<termNote type="partOfSpeech">noun</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">Enhanced Tracking Protection is a collection of Firefox privacy and security settings. These settings block invisible or visible parts of webpages that can track users online. Enhanced Tracking Protection keeps an individual’s browsing history more private to reduce how much of their data is tracked, stored, and shared between websites and advertisers.</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="bg">
+					<ntig>
+						<termGrp>
+							<term>Подобрена защита от проследяване</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c617">
+				<descrip type="context">An attacker could easily reveal information which you thought to be safe</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>attacker</term>
+							<termNote type="partOfSpeech">noun</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">An individual or entity that seeks to gain unauthorized access to user data</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="bg">
+					<ntig>
+						<termGrp>
+							<term>хакер</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c600">
+				<descrip type="context">Reported Attack Site!</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>Attack Site</term>
+							<termNote type="partOfSpeech">noun</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">A site designed to attack a user's client browser using malware or hacking.</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="bg">
+					<ntig>
+						<termGrp>
+							<term>Атакуващ сайт</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c528">
+				<descrip type="context">This option sends one invitation email per attendee</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>attendee</term>
+							<termNote type="partOfSpeech">noun</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">a person who is invited to attend an event, specifically via a calendar invitation</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="bg">
+					<ntig>
+						<termGrp>
+							<term>участник</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c593">
+				<descrip type="context">Copy text to clipboard</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>clipboard</term>
+							<termNote type="partOfSpeech">noun</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">A special location in the computer's operating system that is accessible to all programs and temporarily stores data that the user has copied from somewhere else</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="bg">
+					<ntig>
+						<termGrp>
+							<term>клипборд</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c524">
+				<descrip type="context">A Geolocation request can only be fulfilled in a secure context.This scratchpad executes in the Browser context.</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>context</term>
+							<termNote type="partOfSpeech">noun</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">The setting or circumstance in which a thing occurs, often associated with the context menu. This term can assume specific connotations when referring to programming languages, for example in JavaScript a context is a reference to the object running the currently executing code.</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="bg">
+					<ntig>
+						<termGrp>
+							<term>контекст</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c567">
+				<descrip type="context">Do you want this document to be your new home page?</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>home page</term>
+							<termNote type="partOfSpeech">noun</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">The default page that loads when you visit a website. In Firefox, the "home page" is also the default page displayed when you open the browser or open a new tab.</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="bg">
+					<ntig>
+						<termGrp>
+							<term>начална страница</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c565">
+				<descrip type="context">Select which items to import</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>import</term>
+							<termNote type="partOfSpeech">verb</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">Copy or move data from one program to another, including importing data from an external source (for example, bookmarks)</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="bg">
+					<ntig>
+						<termGrp>
+							<term>внасяне</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c559">
+				<descrip type="context">These terms are not intended to limit any rights granted under open source licenses</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>open source</term>
+							<termNote type="partOfSpeech">adjective</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">Refers to any program whose source code is made available for use or modification.</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="bg">
+					<ntig>
+						<termGrp>
+							<term>отворен код</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c557">
+				<descrip type="context">You have blocked pop-ups for this website.</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>pop-up</term>
+							<termNote type="partOfSpeech">noun</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">An overlapping window used for dialog boxes, message boxes, and other temporary windows that appear outside of an application's primary window. Typically, users will think of a "pop-up" as a window that opens automatically and without being asked.</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="bg">
+					<ntig>
+						<termGrp>
+							<term>изскачащ прозорец</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c556">
+				<descrip type="context">The security certificate in use on this website will no longer be trusted in a future release</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>release</term>
+							<termNote type="partOfSpeech">noun</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">Made available for use or distribution; Also refers to the final, stable build of Firefox.</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="bg">
+					<ntig>
+						<termGrp>
+							<term>издание</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c555">
+				<descrip type="context">Send a crash report for the tab you are viewing</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>report</term>
+							<termNote type="partOfSpeech">noun</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">A detailed record or account, most often in the case of a site crash or issue</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="bg">
+					<ntig>
+						<termGrp>
+							<term>доклад</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c554">
+				<descrip type="context">Report errors like this to help Mozilla identify and block malicious sites</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>report</term>
+							<termNote type="partOfSpeech">verb</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">Tell or alert, most often in the case of a site crash or issue</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="bg">
+					<ntig>
+						<termGrp>
+							<term>доклад</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c553">
+				<descrip type="context">Revert Bookmarks; Do you want to revert the changes you made to this scratchpad?</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>revert</term>
+							<termNote type="partOfSpeech">verb</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">Return to previous stage</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="bg">
+					<ntig>
+						<termGrp>
+							<term>връщам</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c550">
+				<descrip type="context">As a security precaution, the browser does not automatically re-request sensitive documents</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>sensitive</term>
+							<termNote type="partOfSpeech">adjective</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">Requiring caution or additional care, especially referring to data that must be protected to safeguard the privacy or security of an individual or organization.</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="bg">
+					<ntig>
+						<termGrp>
+							<term>чувствителен</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c544">
+				<descrip type="context">Block third-party content that tracks you around the web. Control how much of your online activity gets stored and shared between websites.</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>track</term>
+							<termNote type="partOfSpeech">verb</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">To identify and collect information about website users. Can be conducted by websites themselves or third parties, such as advertisers. May also refer to the practice of tracking a user’s browsing behavior and gathering information about their devices to build a unique profile about that individual.</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="bg">
+					<ntig>
+						<termGrp>
+							<term>проследявам</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c538">
+				<descrip type="context">Disabling the Safe Browsing feature is not recommended as it may result in you going to unsafe sites</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>unsafe</term>
+							<termNote type="partOfSpeech">adjective</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">Lacking in security or safety; potentially causing harm or damage</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="bg">
+					<ntig>
+						<termGrp>
+							<term>небезопасен</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c537">
+				<descrip type="context">Query OCSP responder servers to confirm the current validity of certificates</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>validity</term>
+							<termNote type="partOfSpeech">noun</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">The state of being valid, authentic or genuine.</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="bg">
+					<ntig>
+						<termGrp>
+							<term>валидност</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c549">
+				<descrip type="context">We are running a series of studies in Nightly. All Nightly users will receive a notification about these studies.  When a study is active, Nightly Firefox will automatically use Cloudflare’s 1.1.1.1 secure DNS over HTTPS.  The first study will use the Cloudflare resolver in addition to the DNS selected by a user or their ISP to compare approaches.</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>studies</term>
+							<termNote type="partOfSpeech">noun</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">Internal mechanism for an add-on enabled study. Instead, localize the term “study” so folks understand their data is being studied (they don’t need to understand the mechanism behind it). Learn more: https://wiki.mozilla.org/Firefox/Shield/Shield_StudiesBlacklist “shield study” and instead suggest localizers use “study.” Avoid using shield externally. Don’t add “study” to the actual terms list. In English, use the word “studies” (see about:studies to see if enrolled in a study cohort. URL not translated. )</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="bg">
+					<ntig>
+						<termGrp>
+							<term>проучвания</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c623">
+				<descrip type="context">Use this colorway.</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>colorway</term>
+							<termNote type="partOfSpeech">noun</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">Colorways change the look of the browser interface. Colorways are different from traditional themes — they color different parts of the user interface (the main chrome, menus/search dropdown, homepage background, and sidebar).
+
+See this page for more information: https://bit.ly/l10n-guidance-colorways</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="bg">
+					<ntig>
+						<termGrp>
+							<term>цветова комбинация</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+		</body>
+	</text>
+</martif>
