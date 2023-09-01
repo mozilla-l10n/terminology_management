@@ -1908,29 +1908,6 @@ See this page for more information: https://bit.ly/l10n-guidance-firefoxview</de
 					</ntig>
 				</langSet>
 			</termEntry>
-			<termEntry id="c623">
-				<descrip type="context">Use this colorway.</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>colorway</term>
-							<termNote type="partOfSpeech">noun</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">Colorways change the look of the browser interface. Colorways are different from traditional themes — they color different parts of the user interface (the main chrome, menus/search dropdown, homepage background, and sidebar).
-
-See this page for more information: https://bit.ly/l10n-guidance-colorways</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="zh-CN">
-					<ntig>
-						<termGrp>
-							<term>配色</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
 			<termEntry id="c625">
 				<descrip type="context">Your account password was reset with an account recovery key</descrip>
 				<langSet xml:lang="en-US">
@@ -1971,6 +1948,29 @@ A code used to recover a user's encrypted account information (such as bookmarks
 					<ntig>
 						<termGrp>
 							<term>备用验证码</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c623">
+				<descrip type="context">Use this colorway.</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>colorway</term>
+							<termNote type="partOfSpeech">noun</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">Colorways change the look of the browser interface. Colorways are different from traditional themes — they color different parts of the user interface (the main chrome, menus/search dropdown, homepage background, and sidebar).
+
+See this page for more information: https://bit.ly/l10n-guidance-colorways</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="zh-CN">
+					<ntig>
+						<termGrp>
+							<term>配色</term>
 						</termGrp>
 					</ntig>
 				</langSet>
