@@ -1780,6 +1780,29 @@
 					</ntig>
 				</langSet>
 			</termEntry>
+			<termEntry id="c666">
+				<descrip type="context"></descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>review checker</term>
+							<termNote type="partOfSpeech">noun</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">Review checker is a built-in Firefox tool that allows users to check the quality of product reviews on shopping sites like Amazon or Best Buy. The tool itself is powered by Fakespot, a Mozilla company.
+
+Note that this is distinct from "review analyzer", which is the name of the tool analyzing reviews on Fakespot, and providing data to the review checker. Ideally, these tools should have different translations.</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="zh-CN">
+					<ntig>
+						<termGrp>
+							<term>核查评价</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
 			<termEntry id="c630">
 				<descrip type="context">In this Privacy Notice, we explain what data Firefox shares and point you to settings to share even less. We also adhere to the practices outlined in the Mozilla privacy policy for how we receive, handle and share information we collect from Firefox.</descrip>
 				<langSet xml:lang="en-US">
@@ -1908,29 +1931,6 @@ See this page for more information: https://bit.ly/l10n-guidance-firefoxview</de
 					</ntig>
 				</langSet>
 			</termEntry>
-			<termEntry id="c623">
-				<descrip type="context">Use this colorway.</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>colorway</term>
-							<termNote type="partOfSpeech">noun</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">Colorways change the look of the browser interface. Colorways are different from traditional themes — they color different parts of the user interface (the main chrome, menus/search dropdown, homepage background, and sidebar).
-
-See this page for more information: https://bit.ly/l10n-guidance-colorways</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="zh-CN">
-					<ntig>
-						<termGrp>
-							<term>配色</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
 			<termEntry id="c625">
 				<descrip type="context">Your account password was reset with an account recovery key</descrip>
 				<langSet xml:lang="en-US">
@@ -1971,6 +1971,29 @@ A code used to recover a user's encrypted account information (such as bookmarks
 					<ntig>
 						<termGrp>
 							<term>备用验证码</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c623">
+				<descrip type="context">Use this colorway.</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>colorway</term>
+							<termNote type="partOfSpeech">noun</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">Colorways change the look of the browser interface. Colorways are different from traditional themes — they color different parts of the user interface (the main chrome, menus/search dropdown, homepage background, and sidebar).
+
+See this page for more information: https://bit.ly/l10n-guidance-colorways</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="zh-CN">
+					<ntig>
+						<termGrp>
+							<term>配色</term>
 						</termGrp>
 					</ntig>
 				</langSet>
