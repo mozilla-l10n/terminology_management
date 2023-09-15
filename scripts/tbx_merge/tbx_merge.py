@@ -160,7 +160,7 @@ def convert_locale_codes(etree):
         "ro": ["ro-RO"],
         "ru": ["ru-RU"],
         "sk": ["sk-SK"],
-        "sl": ["sl-SL"],
+        "sl": ["sl-SI"],
         "tr": ["tr-TR"],
         "vi": ["vi-VN"],
     }
