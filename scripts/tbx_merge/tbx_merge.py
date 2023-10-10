@@ -162,6 +162,7 @@ def convert_locale_codes(etree):
         "sk": ["sk-SK"],
         "sl": ["sl-SI"],
         "tr": ["tr-TR"],
+        "uk": ["uk-UA"],
         "vi": ["vi-VN"],
     }
     root = etree.getroot()
