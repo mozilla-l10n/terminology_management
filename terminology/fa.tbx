@@ -436,27 +436,6 @@
 					</ntig>
 				</langSet>
 			</termEntry>
-			<termEntry id="c600">
-				<descrip type="context">Reported Attack Site!</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>Attack Site</term>
-							<termNote type="partOfSpeech">noun</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">A site designed to attack a user's client browser using malware or hacking.</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="fa">
-					<ntig>
-						<termGrp>
-							<term>پایگاه مهاجم</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
 			<termEntry id="c613">
 				<descrip type="context">The endpoint you are connecting to needs more information to authenticate this connection.</descrip>
 				<langSet xml:lang="en-US">
@@ -1628,7 +1607,7 @@
 				<langSet xml:lang="fa">
 					<ntig>
 						<termGrp>
-							<term>افزونه</term>
+							<term>برافزا</term>
 						</termGrp>
 					</ntig>
 				</langSet>
@@ -1910,6 +1889,27 @@ See this page for more information: https://bit.ly/l10n-guidance-firefoxview</de
 					</ntig>
 				</langSet>
 			</termEntry>
+			<termEntry id="c665">
+				<descrip type="context">Extension Not Allowed on Restricted Sites</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>restricted site</term>
+							<termNote type="partOfSpeech">noun</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">A website, identified by Mozilla, where the execution of unverified add-ons is blocked by default for security reasons.</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="fa">
+					<ntig>
+						<termGrp>
+							<term>پایگاه محدود شده</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
 			<termEntry id="c625">
 				<descrip type="context">Your account password was reset with an account recovery key</descrip>
 				<langSet xml:lang="en-US">
@@ -1929,6 +1929,27 @@ A code used to recover a user's encrypted account information (such as bookmarks
 					<ntig>
 						<termGrp>
 							<term>کلید بازیابی حساب</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c600">
+				<descrip type="context">Reported Attack Site!</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>Attack Site</term>
+							<termNote type="partOfSpeech">noun</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">A site designed to attack a user's client browser using malware or hacking.</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="fa">
+					<ntig>
+						<termGrp>
+							<term>پایگاه مهاجم</term>
 						</termGrp>
 					</ntig>
 				</langSet>
