@@ -795,6 +795,69 @@ See this page for more information: https://bit.ly/l10n-guidance-colorways</desc
 					</ntig>
 				</langSet>
 			</termEntry>
+			<termEntry id="c596">
+				<descrip type="context">Bookmarks you add will still be saved on your device.</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>bookmark</term>
+							<termNote type="partOfSpeech">noun</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">A shortcut created by the user to direct the browser to a specific webpage</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="bg">
+					<ntig>
+						<termGrp>
+							<term>отметка</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c521">
+				<descrip type="context"></descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>Bug report</term>
+							<termNote type="partOfSpeech">noun</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">The detailed description accompanying a bug or the act of reporting the bug itself. (Sometimes just called bug)</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="bg">
+					<ntig>
+						<termGrp>
+							<term>Доклад за грешка</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c546">
+				<descrip type="context">Unable to digitally sign data required to verify your certificate.</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>sign</term>
+							<termNote type="partOfSpeech">verb</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">To issue a digital certificate as verification of a website's identity; or, to enter user credentials to access a system.</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="bg">
+					<ntig>
+						<termGrp>
+							<term>подписвам</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
 		</body>
 	</text>
 </martif>
