@@ -1150,27 +1150,6 @@
 					</ntig>
 				</langSet>
 			</termEntry>
-			<termEntry id="c627">
-				<descrip type="context">Firefox automatically tries to reject cookie requests on cookie banners.</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>cookie banner</term>
-							<termNote type="partOfSpeech">noun</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">A cookie banner is a dialog, typically displayed as a notification bar or overlay dialog, that web sites use to inform users about cookies and, if necessary, obtain consent before storing cookies on their devices.</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="pl">
-					<ntig>
-						<termGrp>
-							<term>informacje o ciasteczkach</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
 			<termEntry id="c542">
 				<descrip type="context">These cookies follow you from site to site to gather data about what you do online. They are set by third parties such as advertisers and analytics companies. Blocking cross-site tracking cookies reduces the number of ads that follow you around.</descrip>
 				<langSet xml:lang="en-US">
@@ -1971,6 +1950,27 @@ A code used to recover a user's encrypted account information (such as bookmarks
 					<ntig>
 						<termGrp>
 							<term>zapasowy kod uwierzytelniania</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c627">
+				<descrip type="context">Firefox automatically tries to reject cookie requests on cookie banners.</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>cookie banner</term>
+							<termNote type="partOfSpeech">noun</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">A cookie banner is a dialog, typically displayed as a notification bar or overlay dialog, that web sites use to inform users about cookies and, if necessary, obtain consent before storing cookies on their devices.</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="pl">
+					<ntig>
+						<termGrp>
+							<term>prośba o akceptację ciasteczek</term>
 						</termGrp>
 					</ntig>
 				</langSet>
