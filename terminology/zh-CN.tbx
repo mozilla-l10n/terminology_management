@@ -1108,27 +1108,6 @@
 					</ntig>
 				</langSet>
 			</termEntry>
-			<termEntry id="c620">
-				<descrip type="context">If the image is relevant to the content of the document, you must supply alternate text that will appear in text-only browsers</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>alternate text</term>
-							<termNote type="partOfSpeech">noun</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">Text added to an HTML element (typically an image) to describe that element when it cannot be rendered. Also used by accessibility tools, like screen readers, to make non-textual elements accessible.</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="zh-CN">
-					<ntig>
-						<termGrp>
-							<term>备用文字</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
 			<termEntry id="c621">
 				<descrip type="context">Your add-ons and customizations have been removed and your browser settings have been restored to their defaults.</descrip>
 				<langSet xml:lang="en-US">
@@ -1994,6 +1973,69 @@ See this page for more information: https://bit.ly/l10n-guidance-colorways</desc
 					<ntig>
 						<termGrp>
 							<term>配色</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c667">
+				<descrip type="context">Protect your inbox with unlimited email masks, and get a unique Relay email domain to make creating masks on the go easy and secure.</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>email mask</term>
+							<termNote type="partOfSpeech">noun</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">Firefox Relay feature. Email masks are masked, or private, email addresses that forward messages to your true email address. These masks allow you to share an address with third parties which will mask your true email address and forward messages to it.</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="zh-CN">
+					<ntig>
+						<termGrp>
+							<term>马甲邮箱</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c668">
+				<descrip type="context">With phone number masking, you can now create a phone number mask that helps you get texts and calls without revealing your true number.</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>phone number mask</term>
+							<termNote type="partOfSpeech">noun</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">Feature of Relay Premium. Similar to an email mask, a phone number mask is a phone number that can forward texts and calls to your true phone number without revealing what your true number is to the person calling or texting you.</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="zh-CN">
+					<ntig>
+						<termGrp>
+							<term>虚拟手机号</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c620">
+				<descrip type="context">If the image is relevant to the content of the document, you must supply alternate text that will appear in text-only browsers</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>alternate text</term>
+							<termNote type="partOfSpeech">noun</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">Text added to an HTML element (typically an image) to describe that element when it cannot be rendered. Also used by accessibility tools, like screen readers, to make non-textual elements accessible.</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="zh-CN">
+					<ntig>
+						<termGrp>
+							<term>替换文字</term>
 						</termGrp>
 					</ntig>
 				</langSet>

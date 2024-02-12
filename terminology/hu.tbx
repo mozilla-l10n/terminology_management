@@ -1977,6 +1977,48 @@ A code used to recover a user's encrypted account information (such as bookmarks
 					</ntig>
 				</langSet>
 			</termEntry>
+			<termEntry id="c667">
+				<descrip type="context">Protect your inbox with unlimited email masks, and get a unique Relay email domain to make creating masks on the go easy and secure.</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>email mask</term>
+							<termNote type="partOfSpeech">noun</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">Firefox Relay feature. Email masks are masked, or private, email addresses that forward messages to your true email address. These masks allow you to share an address with third parties which will mask your true email address and forward messages to it.</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="hu">
+					<ntig>
+						<termGrp>
+							<term>e-mail-maszk</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c668">
+				<descrip type="context">With phone number masking, you can now create a phone number mask that helps you get texts and calls without revealing your true number.</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>phone number mask</term>
+							<termNote type="partOfSpeech">noun</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">Feature of Relay Premium. Similar to an email mask, a phone number mask is a phone number that can forward texts and calls to your true phone number without revealing what your true number is to the person calling or texting you.</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="hu">
+					<ntig>
+						<termGrp>
+							<term>telefonszámmaszk</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
 		</body>
 	</text>
 </martif>

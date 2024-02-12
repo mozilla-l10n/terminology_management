@@ -1954,6 +1954,69 @@ See this page for more information: https://bit.ly/l10n-guidance-firefoxview</de
 					</ntig>
 				</langSet>
 			</termEntry>
+			<termEntry id="c626">
+				<descrip type="context">Create new backup authentication codes to help you get back into your account if you’re locked out.</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>backup authentication code</term>
+							<termNote type="partOfSpeech">noun</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">Authentication codes generated as backup for when a user does not have access to their two factor authentication method, allowing them to use these codes instead. Typically these are generated when two factor authentication is first set up and saved somewhere apart from their mobile device.</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="cs">
+					<ntig>
+						<termGrp>
+							<term>záložní ověřovací kód</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c667">
+				<descrip type="context">Protect your inbox with unlimited email masks, and get a unique Relay email domain to make creating masks on the go easy and secure.</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>email mask</term>
+							<termNote type="partOfSpeech">noun</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">Firefox Relay feature. Email masks are masked, or private, email addresses that forward messages to your true email address. These masks allow you to share an address with third parties which will mask your true email address and forward messages to it.</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="cs">
+					<ntig>
+						<termGrp>
+							<term>e-mailová maska</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c668">
+				<descrip type="context">With phone number masking, you can now create a phone number mask that helps you get texts and calls without revealing your true number.</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>phone number mask</term>
+							<termNote type="partOfSpeech">noun</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">Feature of Relay Premium. Similar to an email mask, a phone number mask is a phone number that can forward texts and calls to your true phone number without revealing what your true number is to the person calling or texting you.</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="cs">
+					<ntig>
+						<termGrp>
+							<term>maska telefonního čísla</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
 			<termEntry id="c625">
 				<descrip type="context">Your account password was reset with an account recovery key</descrip>
 				<langSet xml:lang="en-US">
@@ -1972,28 +2035,7 @@ A code used to recover a user's encrypted account information (such as bookmarks
 				<langSet xml:lang="cs">
 					<ntig>
 						<termGrp>
-							<term>obnovovací klíč k účtu</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
-			<termEntry id="c626">
-				<descrip type="context">Create new backup authentication codes to help you get back into your account if you’re locked out.</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>backup authentication code</term>
-							<termNote type="partOfSpeech">noun</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">Authentication codes generated as backup for when a user does not have access to their two factor authentication method, allowing them to use these codes instead. Typically these are generated when two factor authentication is first set up and saved somewhere apart from their mobile device.</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="cs">
-					<ntig>
-						<termGrp>
-							<term>záložní ověřovací kód</term>
+							<term>obnovovací klíč (k účtu), klíč pro obnovení účtu</term>
 						</termGrp>
 					</ntig>
 				</langSet>
