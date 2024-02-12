@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE martif SYSTEM "TBXcoreStructV02.dtd">
+<martif type="TBX" xml:lang="en-US">
+	<martifHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Mozilla Terms</title>
+			</titleStmt>
+			<sourceDesc>
+				<p>from a Mozilla termbase</p>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<p type="XCSURI">TBXXCSV02.xcs</p>
+		</encodingDesc>
+	</martifHeader>
+	<text>
+		<body>
+		</body>
+	</text>
+</martif>
