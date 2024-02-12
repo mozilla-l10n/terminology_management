@@ -1,5 +1,6 @@
 ar
 bg
+bn
 cs
 da
 de
@@ -9,16 +10,20 @@ es-MX
 fa
 fi
 fr
+ga-IE
 hi-IN
 hr
 hu
 id
+is
 it
 ja
 ko
 lt
 ms
+nb-NO
 nl
+nn-NO
 pl
 pt-BR
 pt-PT

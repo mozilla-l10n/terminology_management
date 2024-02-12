@@ -7,9 +7,11 @@ nsmap = {"xml": "http://www.w3.org/XML/1998/namespace"}
 def extract_terms_smartling(file, locale):
     """Returns a set containing all terms extracted from the Smartling glossary export"""
     smartling_locale_map = {
+        "bn": "bn-BD",
         "de": "de-DE",
         "fr": "fr-CA",
         "id": "id-ID",
+        "is": "is-IS",
         "it": "it-IT",
         "ja": "ja-JP",
         "ko": "ko-KR",
