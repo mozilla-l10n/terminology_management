@@ -137,6 +137,7 @@ def export_tbx(locale_list):
 
 def convert_locale_codes(etree):
     smartling_locale_map = {
+        "bn": ["bn-BD"],
         "bg": ["bg-BG"],
         "cs": ["cs-CZ"],
         "da": ["da-DK"],
@@ -149,6 +150,7 @@ def convert_locale_codes(etree):
         "hr": ["hr-HR"],
         "hu": ["hu-HU"],
         "id": ["id-ID"],
+        "is": ["is-IS"],
         "it": ["it-IT"],
         "ja": ["ja-JP"],
         "ko": ["ko-KR"],
