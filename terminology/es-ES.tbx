@@ -55,7 +55,7 @@ Note that this is distinct from "review analyzer", which is the name of the tool
 				<langSet xml:lang="es-ES">
 					<ntig>
 						<termGrp>
-							<term>verificador de reseñas</term>
+							<term>Verificador de reseñas</term>
 						</termGrp>
 					</ntig>
 				</langSet>
