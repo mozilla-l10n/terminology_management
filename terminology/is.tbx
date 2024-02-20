@@ -223,7 +223,7 @@ Note that this is distinct from "review analyzer", which is the name of the tool
 				<langSet xml:lang="is">
 					<ntig>
 						<termGrp>
-							<term>umsagnaskoðun</term>
+							<term>Umsagnaskoðun</term>
 						</termGrp>
 					</ntig>
 				</langSet>
