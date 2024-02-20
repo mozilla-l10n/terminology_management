@@ -1738,29 +1738,6 @@
 					</ntig>
 				</langSet>
 			</termEntry>
-			<termEntry id="c666">
-				<descrip type="context"></descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>review checker</term>
-							<termNote type="partOfSpeech">noun</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">Review Checker is a built-in Firefox tool that allows users to check the quality of product reviews on shopping sites like Amazon or Best Buy. The tool itself is powered by Fakespot, a Mozilla company.
-
-Note that this is distinct from "review analyzer", which is the name of the tool analyzing reviews on Fakespot, and providing data to the Review Checker. Ideally, these tools should have different translations.</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="hu">
-					<ntig>
-						<termGrp>
-							<term>értékelés-ellenőrző</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
 			<termEntry id="c630">
 				<descrip type="context">In this Privacy Notice, we explain what data Firefox shares and point you to settings to share even less. We also adhere to the practices outlined in the Mozilla privacy policy for how we receive, handle and share information we collect from Firefox.</descrip>
 				<langSet xml:lang="en-US">
