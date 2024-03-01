@@ -1633,27 +1633,6 @@
 					</ntig>
 				</langSet>
 			</termEntry>
-			<termEntry id="c545">
-				<descrip type="context">Blocking trackers and cookies can cause some websites to break.</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>trackers</term>
-							<termNote type="partOfSpeech">noun</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">Trackers are cookies, widgets, or invisible snippets of code used to monitor someone’s browsing history. Websites use trackers to gather analytics and statistics. Third-party trackers collect and send data about visited websites to other companies, often for advertising purposes. Advertisers use third-party trackers to show users personalized content and targeted ads.</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="tr">
-					<ntig>
-						<termGrp>
-							<term>takipçiler</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
 			<termEntry id="c543">
 				<descrip type="context">Websites may load external ads, videos, and other content that contain tracking code. Blocking tracking content can help sites load faster, but some buttons, forms, and login fields might not work.</descrip>
 				<langSet xml:lang="en-US">
@@ -2036,6 +2015,27 @@ Note that this is distinct from "review analyzer", which is the name of the tool
 					<ntig>
 						<termGrp>
 							<term>Değerlendirme kontrolcüsü</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c545">
+				<descrip type="context">Blocking trackers and cookies can cause some websites to break.</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>trackers</term>
+							<termNote type="partOfSpeech">noun</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">Trackers are cookies, widgets, or invisible snippets of code used to monitor someone’s browsing history. Websites use trackers to gather analytics and statistics. Third-party trackers collect and send data about visited websites to other companies, often for advertising purposes. Advertisers use third-party trackers to show users personalized content and targeted ads.</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="tr">
+					<ntig>
+						<termGrp>
+							<term>takip kodları</term>
 						</termGrp>
 					</ntig>
 				</langSet>
