@@ -79,27 +79,6 @@
 					</ntig>
 				</langSet>
 			</termEntry>
-			<termEntry id="c530">
-				<descrip type="context">Resumes the main thread and continues execution following a breakpoint until the next breakpoint or the termination of the script</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>breakpoint</term>
-							<termNote type="partOfSpeech">noun</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">Intentional stop point in the code of a computer program</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="nl">
-					<ntig>
-						<termGrp>
-							<term>breakpoint</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
 			<termEntry id="c534">
 				<descrip type="context">Open Web Authentication panel</descrip>
 				<langSet xml:lang="en-US">
@@ -117,6 +96,27 @@
 					<ntig>
 						<termGrp>
 							<term>Webauthenticatie</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c530">
+				<descrip type="context">Resumes the main thread and continues execution following a breakpoint until the next breakpoint or the termination of the script</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>breakpoint</term>
+							<termNote type="partOfSpeech">noun</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">Intentional stop point in the code of a computer program</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="nl">
+					<ntig>
+						<termGrp>
+							<term>breakpoint</term>
 						</termGrp>
 					</ntig>
 				</langSet>
@@ -180,27 +180,6 @@
 					<ntig>
 						<termGrp>
 							<term>geldigheid</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
-			<termEntry id="c538">
-				<descrip type="context">Disabling the Safe Browsing feature is not recommended as it may result in you going to unsafe sites</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>unsafe</term>
-							<termNote type="partOfSpeech">adjective</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">Lacking in security or safety; potentially causing harm or damage</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="nl">
-					<ntig>
-						<termGrp>
-							<term>onveilige</term>
 						</termGrp>
 					</ntig>
 				</langSet>
@@ -310,6 +289,27 @@
 					</ntig>
 				</langSet>
 			</termEntry>
+			<termEntry id="c538">
+				<descrip type="context">Disabling the Safe Browsing feature is not recommended as it may result in you going to unsafe sites</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>unsafe</term>
+							<termNote type="partOfSpeech">adjective</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">Lacking in security or safety; potentially causing harm or damage</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="nl">
+					<ntig>
+						<termGrp>
+							<term>onveilige</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
 			<termEntry id="c629">
 				<descrip type="context">With Firefox on all your devices, you can access bookmarks, tabs and passwords with one easy sign-in.</descrip>
 				<langSet xml:lang="en-US">
@@ -327,27 +327,6 @@
 					<ntig>
 						<termGrp>
 							<term>aanmelding</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
-			<termEntry id="c550">
-				<descrip type="context">As a security precaution, the browser does not automatically re-request sensitive documents</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>sensitive</term>
-							<termNote type="partOfSpeech">adjective</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">Requiring caution or additional care, especially referring to data that must be protected to safeguard the privacy or security of an individual or organization.</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="nl">
-					<ntig>
-						<termGrp>
-							<term>gevoelig(e)</term>
 						</termGrp>
 					</ntig>
 				</langSet>
@@ -415,48 +394,6 @@
 					</ntig>
 				</langSet>
 			</termEntry>
-			<termEntry id="c554">
-				<descrip type="context">Report errors like this to help Mozilla identify and block malicious sites</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>report</term>
-							<termNote type="partOfSpeech">verb</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">Tell or alert, most often in the case of a site crash or issue</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="nl">
-					<ntig>
-						<termGrp>
-							<term>rapporteren; melden</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
-			<termEntry id="c555">
-				<descrip type="context">Send a crash report for the tab you are viewing</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>report</term>
-							<termNote type="partOfSpeech">noun</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">A detailed record or account, most often in the case of a site crash or issue</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="nl">
-					<ntig>
-						<termGrp>
-							<term>rapport; melding</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
 			<termEntry id="c556">
 				<descrip type="context">The security certificate in use on this website will no longer be trusted in a future release</descrip>
 				<langSet xml:lang="en-US">
@@ -516,6 +453,69 @@
 					<ntig>
 						<termGrp>
 							<term>overschrijven</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c550">
+				<descrip type="context">As a security precaution, the browser does not automatically re-request sensitive documents</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>sensitive</term>
+							<termNote type="partOfSpeech">adjective</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">Requiring caution or additional care, especially referring to data that must be protected to safeguard the privacy or security of an individual or organization.</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="nl">
+					<ntig>
+						<termGrp>
+							<term>gevoelig(e)</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c554">
+				<descrip type="context">Report errors like this to help Mozilla identify and block malicious sites</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>report</term>
+							<termNote type="partOfSpeech">verb</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">Tell or alert, most often in the case of a site crash or issue</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="nl">
+					<ntig>
+						<termGrp>
+							<term>rapporteren; melden</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c555">
+				<descrip type="context">Send a crash report for the tab you are viewing</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>report</term>
+							<termNote type="partOfSpeech">noun</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">A detailed record or account, most often in the case of a site crash or issue</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="nl">
+					<ntig>
+						<termGrp>
+							<term>rapport; melding</term>
 						</termGrp>
 					</ntig>
 				</langSet>
@@ -625,27 +625,6 @@
 					</ntig>
 				</langSet>
 			</termEntry>
-			<termEntry id="c573">
-				<descrip type="context">Widevine Content Decryption Module provided by Google Inc.</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>decryption</term>
-							<termNote type="partOfSpeech">noun</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">The process of converting information or data back to its original form or text so that it can be read and understood; the process of reversing encryption</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="nl">
-					<ntig>
-						<termGrp>
-							<term>ontsleuteling</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
 			<termEntry id="c574">
 				<descrip type="context">Your connection to this website uses weak encryption and is not private.</descrip>
 				<langSet xml:lang="en-US">
@@ -688,27 +667,6 @@
 					</ntig>
 				</langSet>
 			</termEntry>
-			<termEntry id="c576">
-				<descrip type="context">Media resource could not be decoded</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>decode</term>
-							<termNote type="partOfSpeech">verb</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">Translating date or information that has been encoded back into its original, comprehensible format.</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="nl">
-					<ntig>
-						<termGrp>
-							<term>decoderen</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
 			<termEntry id="c578">
 				<descrip type="context">Check that the file, including symbols and accented letters, is encoded using the UTF-8 character encoding.</descrip>
 				<langSet xml:lang="en-US">
@@ -726,48 +684,6 @@
 					<ntig>
 						<termGrp>
 							<term>coderen</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
-			<termEntry id="c579">
-				<descrip type="context">You cannot enable this filter</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>enable</term>
-							<termNote type="partOfSpeech">verb</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">Activate a feature</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="nl">
-					<ntig>
-						<termGrp>
-							<term>inschakelen</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
-			<termEntry id="c580">
-				<descrip type="context">If you delete or distrust a certificate authority (CA) certificate, this application will no longer trust any certificates issued by that CA</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>distrust</term>
-							<termNote type="partOfSpeech">verb</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">Regard something as untrustworthy or doubt its authenticity.</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="nl">
-					<ntig>
-						<termGrp>
-							<term>wantrouwen</term>
 						</termGrp>
 					</ntig>
 				</langSet>
@@ -810,6 +726,90 @@
 					<ntig>
 						<termGrp>
 							<term>debuggen</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c580">
+				<descrip type="context">If you delete or distrust a certificate authority (CA) certificate, this application will no longer trust any certificates issued by that CA</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>distrust</term>
+							<termNote type="partOfSpeech">verb</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">Regard something as untrustworthy or doubt its authenticity.</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="nl">
+					<ntig>
+						<termGrp>
+							<term>wantrouwen</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c576">
+				<descrip type="context">Media resource could not be decoded</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>decode</term>
+							<termNote type="partOfSpeech">verb</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">Translating date or information that has been encoded back into its original, comprehensible format.</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="nl">
+					<ntig>
+						<termGrp>
+							<term>decoderen</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c573">
+				<descrip type="context">Widevine Content Decryption Module provided by Google Inc.</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>decryption</term>
+							<termNote type="partOfSpeech">noun</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">The process of converting information or data back to its original form or text so that it can be read and understood; the process of reversing encryption</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="nl">
+					<ntig>
+						<termGrp>
+							<term>ontsleuteling</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c579">
+				<descrip type="context">You cannot enable this filter</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>enable</term>
+							<termNote type="partOfSpeech">verb</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">Activate a feature</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="nl">
+					<ntig>
+						<termGrp>
+							<term>inschakelen</term>
 						</termGrp>
 					</ntig>
 				</langSet>
@@ -940,48 +940,6 @@
 					</ntig>
 				</langSet>
 			</termEntry>
-			<termEntry id="c596">
-				<descrip type="context">Bookmarks you add will still be saved on your device.</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>bookmark</term>
-							<termNote type="partOfSpeech">noun</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">A shortcut created by the user to direct the browser to a specific webpage</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="nl">
-					<ntig>
-						<termGrp>
-							<term>bladwijzer</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
-			<termEntry id="c598">
-				<descrip type="context">Warning: Contains unauthenticated content</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>authenticated</term>
-							<termNote type="partOfSpeech">adjective</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">User identity has been proven for access to a system or service</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="nl">
-					<ntig>
-						<termGrp>
-							<term>geauthenticeerd</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
 			<termEntry id="c599">
 				<descrip type="context">These pages try to install programs that steal private information, use your computer to attack others, or damage your system.</descrip>
 				<langSet xml:lang="en-US">
@@ -1066,27 +1024,6 @@
 					</ntig>
 				</langSet>
 			</termEntry>
-			<termEntry id="c613">
-				<descrip type="context">The endpoint you are connecting to needs more information to authenticate this connection.</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>authenticate</term>
-							<termNote type="partOfSpeech">verb</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">To prove user identity, typically to gain access to a system or service</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="nl">
-					<ntig>
-						<termGrp>
-							<term>authenticeren</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
 			<termEntry id="c617">
 				<descrip type="context">An attacker could easily reveal information which you thought to be safe</descrip>
 				<langSet xml:lang="en-US">
@@ -1108,6 +1045,69 @@
 					</ntig>
 				</langSet>
 			</termEntry>
+			<termEntry id="c596">
+				<descrip type="context">Bookmarks you add will still be saved on your device.</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>bookmark</term>
+							<termNote type="partOfSpeech">noun</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">A shortcut created by the user to direct the browser to a specific webpage</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="nl">
+					<ntig>
+						<termGrp>
+							<term>bladwijzer</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c598">
+				<descrip type="context">Warning: Contains unauthenticated content</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>authenticated</term>
+							<termNote type="partOfSpeech">adjective</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">User identity has been proven for access to a system or service</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="nl">
+					<ntig>
+						<termGrp>
+							<term>geauthenticeerd</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c613">
+				<descrip type="context">The endpoint you are connecting to needs more information to authenticate this connection.</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>authenticate</term>
+							<termNote type="partOfSpeech">verb</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">To prove user identity, typically to gain access to a system or service</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="nl">
+					<ntig>
+						<termGrp>
+							<term>authenticeren</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
 			<termEntry id="c542">
 				<descrip type="context">These cookies follow you from site to site to gather data about what you do online. They are set by third parties such as advertisers and analytics companies. Blocking cross-site tracking cookies reduces the number of ads that follow you around.</descrip>
 				<langSet xml:lang="en-US">
@@ -1125,6 +1125,27 @@
 					<ntig>
 						<termGrp>
 							<term>cross-site-trackingcookie</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c622">
+				<descrip type="context">Do you want to abort this download</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>abort</term>
+							<termNote type="partOfSpeech">verb</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">Cancel a process</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="nl">
+					<ntig>
+						<termGrp>
+							<term>afbreken</term>
 						</termGrp>
 					</ntig>
 				</langSet>
@@ -1167,27 +1188,6 @@
 					<ntig>
 						<termGrp>
 							<term>add-on</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
-			<termEntry id="c622">
-				<descrip type="context">Do you want to abort this download</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>abort</term>
-							<termNote type="partOfSpeech">verb</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">Cancel a process</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="nl">
-					<ntig>
-						<termGrp>
-							<term>afbreken</term>
 						</termGrp>
 					</ntig>
 				</langSet>
@@ -1612,6 +1612,27 @@
 					</ntig>
 				</langSet>
 			</termEntry>
+			<termEntry id="c452">
+				<descrip type="context">They can’t access the device’s underlying capabilities the way that native apps can</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>native</term>
+							<termNote type="partOfSpeech">adjective</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">Local software and applications</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="nl">
+					<ntig>
+						<termGrp>
+							<term>ingebouwd(e)</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
 			<termEntry id="c467">
 				<descrip type="context">Use market-leading research to deliver powerful grassroots-led campaigns.</descrip>
 				<langSet xml:lang="en-US">
@@ -1692,27 +1713,6 @@
 					<ntig>
 						<termGrp>
 							<term>onveilige</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
-			<termEntry id="c452">
-				<descrip type="context">They can’t access the device’s underlying capabilities the way that native apps can</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>native</term>
-							<termNote type="partOfSpeech">adjective</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">Local software and applications</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="nl">
-					<ntig>
-						<termGrp>
-							<term>ingebouwd(e)</term>
 						</termGrp>
 					</ntig>
 				</langSet>

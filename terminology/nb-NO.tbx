@@ -291,23 +291,23 @@ Note that this is distinct from "review analyzer", which is the name of the tool
 					</ntig>
 				</langSet>
 			</termEntry>
-			<termEntry id="c521">
+			<termEntry id="c583">
 				<descrip type="context"></descrip>
 				<langSet xml:lang="en-US">
 					<ntig>
 						<termGrp>
-							<term>Bug report</term>
+							<term>cryptomining</term>
 							<termNote type="partOfSpeech">noun</termNote>
 						</termGrp>
 					</ntig>
 					<descripGrp>
-						<descrip type="definition">The detailed description accompanying a bug or the act of reporting the bug itself. (Sometimes just called bug)</descrip>
+						<descrip type="definition">A method of running scripts on websites that can use a computer’s resources to mine cryptocurrency without a user’s knowledge.</descrip>
 					</descripGrp>
 				</langSet>
 				<langSet xml:lang="nb-NO">
 					<ntig>
 						<termGrp>
-							<term>feilrapport</term>
+							<term>kryptoutvinning</term>
 						</termGrp>
 					</ntig>
 				</langSet>
@@ -428,27 +428,6 @@ Note that this is distinct from "review analyzer", which is the name of the tool
 					</ntig>
 					<descripGrp>
 						<descrip type="definition">Scripts on websites that can use a computer’s resources to mine cryptocurrency without a user’s knowledge.</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="nb-NO">
-					<ntig>
-						<termGrp>
-							<term>kryptoutvinning</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
-			<termEntry id="c583">
-				<descrip type="context"></descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>cryptomining</term>
-							<termNote type="partOfSpeech">noun</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">A method of running scripts on websites that can use a computer’s resources to mine cryptocurrency without a user’s knowledge.</descrip>
 					</descripGrp>
 				</langSet>
 				<langSet xml:lang="nb-NO">
@@ -648,27 +627,6 @@ Note that this is distinct from "review analyzer", which is the name of the tool
 					</ntig>
 				</langSet>
 			</termEntry>
-			<termEntry id="c577">
-				<descrip type="context">Enhanced Tracking Protection is ON for this site</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>Enhanced Tracking Protection</term>
-							<termNote type="partOfSpeech">noun</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">Enhanced Tracking Protection is a collection of Firefox privacy and security settings. These settings block invisible or visible parts of webpages that can track users online. Enhanced Tracking Protection keeps an individual’s browsing history more private to reduce how much of their data is tracked, stored, and shared between websites and advertisers.</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="nb-NO">
-					<ntig>
-						<termGrp>
-							<term>utvidet sporingsbeskyttelse</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
 			<termEntry id="c610">
 				<descrip type="context">This page is loaded from an extension</descrip>
 				<langSet xml:lang="en-US">
@@ -711,6 +669,48 @@ Note that this is distinct from "review analyzer", which is the name of the tool
 					</ntig>
 				</langSet>
 			</termEntry>
+			<termEntry id="c577">
+				<descrip type="context">Enhanced Tracking Protection is ON for this site</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>Enhanced Tracking Protection</term>
+							<termNote type="partOfSpeech">noun</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">Enhanced Tracking Protection is a collection of Firefox privacy and security settings. These settings block invisible or visible parts of webpages that can track users online. Enhanced Tracking Protection keeps an individual’s browsing history more private to reduce how much of their data is tracked, stored, and shared between websites and advertisers.</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="nb-NO">
+					<ntig>
+						<termGrp>
+							<term>utvidet sporingsbeskyttelse</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c521">
+				<descrip type="context"></descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>Bug report</term>
+							<termNote type="partOfSpeech">noun</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">The detailed description accompanying a bug or the act of reporting the bug itself. (Sometimes just called bug)</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="nb-NO">
+					<ntig>
+						<termGrp>
+							<term>feilrapport</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
 			<termEntry id="c565">
 				<descrip type="context">Select which items to import</descrip>
 				<langSet xml:lang="en-US">
@@ -728,27 +728,6 @@ Note that this is distinct from "review analyzer", which is the name of the tool
 					<ntig>
 						<termGrp>
 							<term>importere</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
-			<termEntry id="c564">
-				<descrip type="context">Firefox has detected an insecure site. Form Autofill is temporarily disabled.</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>insecure</term>
-							<termNote type="partOfSpeech">adjective</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">Potentially unsafe or not protected</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="nb-NO">
-					<ntig>
-						<termGrp>
-							<term>usikker, utrygg</term>
 						</termGrp>
 					</ntig>
 				</langSet>
@@ -854,6 +833,27 @@ Note that this is distinct from "review analyzer", which is the name of the tool
 					<ntig>
 						<termGrp>
 							<term>åpen kildekode</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c564">
+				<descrip type="context">Firefox has detected an insecure site. Form Autofill is temporarily disabled.</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>insecure</term>
+							<termNote type="partOfSpeech">adjective</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">Potentially unsafe or not protected</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="nb-NO">
+					<ntig>
+						<termGrp>
+							<term>usikker, utrygg</term>
 						</termGrp>
 					</ntig>
 				</langSet>
@@ -1404,6 +1404,27 @@ Note that this is distinct from "review analyzer", which is the name of the tool
 					</ntig>
 				</langSet>
 			</termEntry>
+			<termEntry id="c534">
+				<descrip type="context">Open Web Authentication panel</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>Web Authentication</term>
+							<termNote type="partOfSpeech">noun</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">A credential management tool that allows users to verify identity using an authenticator—such as a phone, hardware security keys, or TPM (Trusted Platform Model) devices—in place of traditional passwords. Web Authentication (or “WebAuthn”) is built directly into a web browser.</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="nb-NO">
+					<ntig>
+						<termGrp>
+							<term>nettgodkjenning</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
 			<termEntry id="c558">
 				<descrip type="context">Override the colors specified by the page with your selections</descrip>
 				<langSet xml:lang="en-US">
@@ -1425,44 +1446,23 @@ Note that this is distinct from "review analyzer", which is the name of the tool
 					</ntig>
 				</langSet>
 			</termEntry>
-			<termEntry id="c549">
-				<descrip type="context">We are running a series of studies in Nightly. All Nightly users will receive a notification about these studies.  When a study is active, Nightly Firefox will automatically use Cloudflare’s 1.1.1.1 secure DNS over HTTPS.  The first study will use the Cloudflare resolver in addition to the DNS selected by a user or their ISP to compare approaches.</descrip>
+			<termEntry id="c561">
+				<descrip type="context">The certificate used to sign the message was issued by a certificate authority whose own certificate has expired.</descrip>
 				<langSet xml:lang="en-US">
 					<ntig>
 						<termGrp>
-							<term>studies</term>
-							<termNote type="partOfSpeech">noun</termNote>
+							<term>Issue</term>
+							<termNote type="partOfSpeech">verb</termNote>
 						</termGrp>
 					</ntig>
 					<descripGrp>
-						<descrip type="definition">Internal mechanism for an add-on enabled study. Instead, localize the term “study” so folks understand their data is being studied (they don’t need to understand the mechanism behind it). Learn more: https://wiki.mozilla.org/Firefox/Shield/Shield_StudiesBlacklist “shield study” and instead suggest localizers use “study.” Avoid using shield externally. Don’t add “study” to the actual terms list. In English, use the word “studies” (see about:studies to see if enrolled in a study cohort. URL not translated. )</descrip>
+						<descrip type="definition">To put forth officially. The verb form of "issue" is most commonly used in reference to security certifcates. Use "issued," rather than alternate verbs like "created," when referring to security certificates.</descrip>
 					</descripGrp>
 				</langSet>
 				<langSet xml:lang="nb-NO">
 					<ntig>
 						<termGrp>
-							<term>undersøkelser</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
-			<termEntry id="c588">
-				<descrip type="context">This add-on could not be installed because it appears to be corrupt.</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>corrupt</term>
-							<termNote type="partOfSpeech">adjective</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">Containing errors or alterations from its original, correct form</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="nb-NO">
-					<ntig>
-						<termGrp>
-							<term>skadet, ødelagt</term>
+							<term>utstede</term>
 						</termGrp>
 					</ntig>
 				</langSet>
@@ -1505,27 +1505,6 @@ Note that this is distinct from "review analyzer", which is the name of the tool
 					<ntig>
 						<termGrp>
 							<term>grasrot, grasrotbevegelse</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
-			<termEntry id="c561">
-				<descrip type="context">The certificate used to sign the message was issued by a certificate authority whose own certificate has expired.</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>Issue</term>
-							<termNote type="partOfSpeech">verb</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">To put forth officially. The verb form of "issue" is most commonly used in reference to security certifcates. Use "issued," rather than alternate verbs like "created," when referring to security certificates.</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="nb-NO">
-					<ntig>
-						<termGrp>
-							<term>utstede</term>
 						</termGrp>
 					</ntig>
 				</langSet>
@@ -1614,23 +1593,44 @@ Note that this is distinct from "review analyzer", which is the name of the tool
 					</ntig>
 				</langSet>
 			</termEntry>
-			<termEntry id="c534">
-				<descrip type="context">Open Web Authentication panel</descrip>
+			<termEntry id="c549">
+				<descrip type="context">We are running a series of studies in Nightly. All Nightly users will receive a notification about these studies.  When a study is active, Nightly Firefox will automatically use Cloudflare’s 1.1.1.1 secure DNS over HTTPS.  The first study will use the Cloudflare resolver in addition to the DNS selected by a user or their ISP to compare approaches.</descrip>
 				<langSet xml:lang="en-US">
 					<ntig>
 						<termGrp>
-							<term>Web Authentication</term>
+							<term>studies</term>
 							<termNote type="partOfSpeech">noun</termNote>
 						</termGrp>
 					</ntig>
 					<descripGrp>
-						<descrip type="definition">A credential management tool that allows users to verify identity using an authenticator—such as a phone, hardware security keys, or TPM (Trusted Platform Model) devices—in place of traditional passwords. Web Authentication (or “WebAuthn”) is built directly into a web browser.</descrip>
+						<descrip type="definition">Internal mechanism for an add-on enabled study. Instead, localize the term “study” so folks understand their data is being studied (they don’t need to understand the mechanism behind it). Learn more: https://wiki.mozilla.org/Firefox/Shield/Shield_StudiesBlacklist “shield study” and instead suggest localizers use “study.” Avoid using shield externally. Don’t add “study” to the actual terms list. In English, use the word “studies” (see about:studies to see if enrolled in a study cohort. URL not translated. )</descrip>
 					</descripGrp>
 				</langSet>
 				<langSet xml:lang="nb-NO">
 					<ntig>
 						<termGrp>
-							<term>nettgodkjenning</term>
+							<term>undersøkelser</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c588">
+				<descrip type="context">This add-on could not be installed because it appears to be corrupt.</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>corrupt</term>
+							<termNote type="partOfSpeech">adjective</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">Containing errors or alterations from its original, correct form</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="nb-NO">
+					<ntig>
+						<termGrp>
+							<term>skadet, ødelagt</term>
 						</termGrp>
 					</ntig>
 				</langSet>
@@ -1677,27 +1677,6 @@ Note that this is distinct from "review analyzer", which is the name of the tool
 					</ntig>
 				</langSet>
 			</termEntry>
-			<termEntry id="c569">
-				<descrip type="context">Fingerprinters collect settings from your browser and computer to create a profile of you. Using this digital fingerprint, they can track you across different websites.</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>fingerprinter</term>
-							<termNote type="partOfSpeech">noun</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">A fingerprinter is an entity that gathers information about browser users from configuration and settings information that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="nb-NO">
-					<ntig>
-						<termGrp>
-							<term>nettleseravtrykk, fingeravtrykksporer, fingerprinter</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
 			<termEntry id="c568">
 				<descrip type="context"></descrip>
 				<langSet xml:lang="en-US">
@@ -1715,6 +1694,27 @@ Note that this is distinct from "review analyzer", which is the name of the tool
 					<ntig>
 						<termGrp>
 							<term>identifisering (fingerprinter)</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c569">
+				<descrip type="context">Fingerprinters collect settings from your browser and computer to create a profile of you. Using this digital fingerprint, they can track you across different websites.</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>fingerprinter</term>
+							<termNote type="partOfSpeech">noun</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">A fingerprinter is an entity that gathers information about browser users from configuration and settings information that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="nb-NO">
+					<ntig>
+						<termGrp>
+							<term>nettleseravtrykk, fingeravtrykksporer, fingerprinter</term>
 						</termGrp>
 					</ntig>
 				</langSet>
@@ -1914,27 +1914,6 @@ A code used to recover a user's encrypted account information (such as bookmarks
 					</ntig>
 				</langSet>
 			</termEntry>
-			<termEntry id="c665">
-				<descrip type="context">Extension Not Allowed on Restricted Sites</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>restricted site</term>
-							<termNote type="partOfSpeech">noun</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">A website, identified by Mozilla, where the execution of unverified add-ons is blocked by default for security reasons.</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="nb-NO">
-					<ntig>
-						<termGrp>
-							<term>begrenset nettsted</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
 			<termEntry id="c627">
 				<descrip type="context">Firefox automatically tries to reject cookie requests on cookie banners.</descrip>
 				<langSet xml:lang="en-US">
@@ -1952,6 +1931,27 @@ A code used to recover a user's encrypted account information (such as bookmarks
 					<ntig>
 						<termGrp>
 							<term>infokapselbanner</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c665">
+				<descrip type="context">Extension Not Allowed on Restricted Sites</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>restricted site</term>
+							<termNote type="partOfSpeech">noun</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">A website, identified by Mozilla, where the execution of unverified add-ons is blocked by default for security reasons.</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="nb-NO">
+					<ntig>
+						<termGrp>
+							<term>begrenset nettsted</term>
 						</termGrp>
 					</ntig>
 				</langSet>
