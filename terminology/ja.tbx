@@ -331,27 +331,6 @@
 					</ntig>
 				</langSet>
 			</termEntry>
-			<termEntry id="c551">
-				<descrip type="context">%S wants to register an account with one of your security keys. You can connect and authorize one now, or cancel.</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>security keys</term>
-							<termNote type="partOfSpeech">noun</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">In Firefox the term security key refers specifically to a physical device that allows a user to authenticate, like a Yubikey. This is a standard definition that our security engineering team has arrived at with teams from Chrome and Safari.</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="ja">
-					<ntig>
-						<termGrp>
-							<term>セキュリティキー</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
 			<termEntry id="c552">
 				<descrip type="context">Search suggestions will not be shown in location bar results</descrip>
 				<langSet xml:lang="en-US">
@@ -495,6 +474,27 @@
 					<ntig>
 						<termGrp>
 							<term>上書き</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c551">
+				<descrip type="context">%S wants to register an account with one of your security keys. You can connect and authorize one now, or cancel.</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>security keys</term>
+							<termNote type="partOfSpeech">noun</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">In Firefox the term security key refers specifically to a physical device that allows a user to authenticate, like a Yubikey. This is a standard definition that our security engineering team has arrived at with teams from Chrome and Safari.</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="ja">
+					<ntig>
+						<termGrp>
+							<term>セキュリティキー</term>
 						</termGrp>
 					</ntig>
 				</langSet>
@@ -856,48 +856,6 @@
 					</ntig>
 				</langSet>
 			</termEntry>
-			<termEntry id="c629">
-				<descrip type="context">With Firefox on all your devices, you can access bookmarks, tabs and passwords with one easy sign-in.</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>sign-in</term>
-							<termNote type="partOfSpeech">noun</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">The access of an account or software through the usage of account information such as user id and password.</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="ja">
-					<ntig>
-						<termGrp>
-							<term>ログイン</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
-			<termEntry id="c586">
-				<descrip type="context">Invalid or corrupted PDF file</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>corrupted</term>
-							<termNote type="partOfSpeech">adjective</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">Changed from its original, correct form.</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="ja">
-					<ntig>
-						<termGrp>
-							<term>破損した</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
 			<termEntry id="c587">
 				<descrip type="context">The response from the OCSP server was corrupted or improperly formed</descrip>
 				<langSet xml:lang="en-US">
@@ -936,6 +894,27 @@
 					<ntig>
 						<termGrp>
 							<term>壊れている</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c629">
+				<descrip type="context">With Firefox on all your devices, you can access bookmarks, tabs and passwords with one easy sign-in.</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>sign-in</term>
+							<termNote type="partOfSpeech">noun</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">The access of an account or software through the usage of account information such as user id and password.</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="ja">
+					<ntig>
+						<termGrp>
+							<term>ログイン</term>
 						</termGrp>
 					</ntig>
 				</langSet>
@@ -999,6 +978,27 @@
 					<ntig>
 						<termGrp>
 							<term>ブックマークを追加する</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c586">
+				<descrip type="context">Invalid or corrupted PDF file</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>corrupted</term>
+							<termNote type="partOfSpeech">adjective</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">Changed from its original, correct form.</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="ja">
+					<ntig>
+						<termGrp>
+							<term>破損した</term>
 						</termGrp>
 					</ntig>
 				</langSet>
@@ -1087,27 +1087,6 @@
 					</ntig>
 				</langSet>
 			</termEntry>
-			<termEntry id="c611">
-				<descrip type="context">The cipher used for encryption is deprecated and insecure.</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>cipher</term>
-							<termNote type="partOfSpeech">noun</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">An algorithm that encrypts or decrypts information.</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="ja">
-					<ntig>
-						<termGrp>
-							<term>暗号</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
 			<termEntry id="c613">
 				<descrip type="context">The endpoint you are connecting to needs more information to authenticate this connection.</descrip>
 				<langSet xml:lang="en-US">
@@ -1146,6 +1125,27 @@
 					<ntig>
 						<termGrp>
 							<term>攻撃者</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c611">
+				<descrip type="context">The cipher used for encryption is deprecated and insecure.</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>cipher</term>
+							<termNote type="partOfSpeech">noun</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">An algorithm that encrypts or decrypts information.</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="ja">
+					<ntig>
+						<termGrp>
+							<term>暗号</term>
 						</termGrp>
 					</ntig>
 				</langSet>
@@ -1276,27 +1276,6 @@
 					</ntig>
 				</langSet>
 			</termEntry>
-			<termEntry id="c584">
-				<descrip type="context">Cryptominers use your system’s computing power to mine digital money. Cryptomining scripts drain your battery, slow down your computer, and can increase your energy bill.</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>cryptominer</term>
-							<termNote type="partOfSpeech">noun</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">Scripts on websites that can use a computer’s resources to mine cryptocurrency without a user’s knowledge.</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="ja">
-					<ntig>
-						<termGrp>
-							<term>暗号通貨採掘</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
 			<termEntry id="c583">
 				<descrip type="context"></descrip>
 				<langSet xml:lang="en-US">
@@ -1314,6 +1293,27 @@
 					<ntig>
 						<termGrp>
 							<term>暗号通貨マイニング</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c584">
+				<descrip type="context">Cryptominers use your system’s computing power to mine digital money. Cryptomining scripts drain your battery, slow down your computer, and can increase your energy bill.</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>cryptominer</term>
+							<termNote type="partOfSpeech">noun</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">Scripts on websites that can use a computer’s resources to mine cryptocurrency without a user’s knowledge.</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="ja">
+					<ntig>
+						<termGrp>
+							<term>暗号通貨採掘</term>
 						</termGrp>
 					</ntig>
 				</langSet>
@@ -1377,27 +1377,6 @@
 					<ntig>
 						<termGrp>
 							<term>フィンガープリント採取</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
-			<termEntry id="c561">
-				<descrip type="context">The certificate used to sign the message was issued by a certificate authority whose own certificate has expired.</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>Issue</term>
-							<termNote type="partOfSpeech">verb</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">To put forth officially. The verb form of "issue" is most commonly used in reference to security certifcates. Use "issued," rather than alternate verbs like "created," when referring to security certificates.</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="ja">
-					<ntig>
-						<termGrp>
-							<term>発行</term>
 						</termGrp>
 					</ntig>
 				</langSet>
@@ -1503,6 +1482,27 @@
 					<ntig>
 						<termGrp>
 							<term>追跡</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c561">
+				<descrip type="context">The certificate used to sign the message was issued by a certificate authority whose own certificate has expired.</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>Issue</term>
+							<termNote type="partOfSpeech">verb</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">To put forth officially. The verb form of "issue" is most commonly used in reference to security certifcates. Use "issued," rather than alternate verbs like "created," when referring to security certificates.</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="ja">
+					<ntig>
+						<termGrp>
+							<term>発行</term>
 						</termGrp>
 					</ntig>
 				</langSet>

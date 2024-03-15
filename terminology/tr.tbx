@@ -37,27 +37,6 @@
 					</ntig>
 				</langSet>
 			</termEntry>
-			<termEntry id="c628">
-				<descrip type="context">Sign in to sync tabs, bookmarks, passwords, and more.</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>sign in</term>
-							<termNote type="partOfSpeech">verb</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">To access an account or software through the usage of account information such as user id and password.</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="tr">
-					<ntig>
-						<termGrp>
-							<term>giriş yap</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
 			<termEntry id="c528">
 				<descrip type="context">This option sends one invitation email per attendee</descrip>
 				<langSet xml:lang="en-US">
@@ -96,6 +75,27 @@
 					<ntig>
 						<termGrp>
 							<term>kesme noktası</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c628">
+				<descrip type="context">Sign in to sync tabs, bookmarks, passwords, and more.</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>sign in</term>
+							<termNote type="partOfSpeech">verb</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">To access an account or software through the usage of account information such as user id and password.</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="tr">
+					<ntig>
+						<termGrp>
+							<term>giriş yap</term>
 						</termGrp>
 					</ntig>
 				</langSet>
@@ -163,27 +163,6 @@
 					</ntig>
 				</langSet>
 			</termEntry>
-			<termEntry id="c540">
-				<descrip type="context">Your email and authentication are sent unencrypted so your password and your message could easily be read by other people</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>unencrypted</term>
-							<termNote type="partOfSpeech">adjective</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">Not encrypted, and thus more vulnerable to unauthorized access. Note that "encoded" and "encrypted" are not synonyms (see definition for "encoded").</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="tr">
-					<ntig>
-						<termGrp>
-							<term>şifrelenmemiş</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
 			<termEntry id="c547">
 				<descrip type="context">The signer's certificate could not be found</descrip>
 				<langSet xml:lang="en-US">
@@ -205,6 +184,27 @@
 					</ntig>
 				</langSet>
 			</termEntry>
+			<termEntry id="c540">
+				<descrip type="context">Your email and authentication are sent unencrypted so your password and your message could easily be read by other people</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>unencrypted</term>
+							<termNote type="partOfSpeech">adjective</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">Not encrypted, and thus more vulnerable to unauthorized access. Note that "encoded" and "encrypted" are not synonyms (see definition for "encoded").</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="tr">
+					<ntig>
+						<termGrp>
+							<term>şifrelenmemiş</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
 			<termEntry id="c548">
 				<descrip type="context">Load this bookmark in the sidebar</descrip>
 				<langSet xml:lang="en-US">
@@ -222,27 +222,6 @@
 					<ntig>
 						<termGrp>
 							<term>kenar çubuğu</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
-			<termEntry id="c549">
-				<descrip type="context">We are running a series of studies in Nightly. All Nightly users will receive a notification about these studies.  When a study is active, Nightly Firefox will automatically use Cloudflare’s 1.1.1.1 secure DNS over HTTPS.  The first study will use the Cloudflare resolver in addition to the DNS selected by a user or their ISP to compare approaches.</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>studies</term>
-							<termNote type="partOfSpeech">noun</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">Internal mechanism for an add-on enabled study. Instead, localize the term “study” so folks understand their data is being studied (they don’t need to understand the mechanism behind it). Learn more: https://wiki.mozilla.org/Firefox/Shield/Shield_StudiesBlacklist “shield study” and instead suggest localizers use “study.” Avoid using shield externally. Don’t add “study” to the actual terms list. In English, use the word “studies” (see about:studies to see if enrolled in a study cohort. URL not translated. )</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="tr">
-					<ntig>
-						<termGrp>
-							<term>araştırmalar</term>
 						</termGrp>
 					</ntig>
 				</langSet>
@@ -415,6 +394,27 @@
 					</ntig>
 				</langSet>
 			</termEntry>
+			<termEntry id="c549">
+				<descrip type="context">We are running a series of studies in Nightly. All Nightly users will receive a notification about these studies.  When a study is active, Nightly Firefox will automatically use Cloudflare’s 1.1.1.1 secure DNS over HTTPS.  The first study will use the Cloudflare resolver in addition to the DNS selected by a user or their ISP to compare approaches.</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>studies</term>
+							<termNote type="partOfSpeech">noun</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">Internal mechanism for an add-on enabled study. Instead, localize the term “study” so folks understand their data is being studied (they don’t need to understand the mechanism behind it). Learn more: https://wiki.mozilla.org/Firefox/Shield/Shield_StudiesBlacklist “shield study” and instead suggest localizers use “study.” Avoid using shield externally. Don’t add “study” to the actual terms list. In English, use the word “studies” (see about:studies to see if enrolled in a study cohort. URL not translated. )</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="tr">
+					<ntig>
+						<termGrp>
+							<term>araştırmalar</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
 			<termEntry id="c559">
 				<descrip type="context">These terms are not intended to limit any rights granted under open source licenses</descrip>
 				<langSet xml:lang="en-US">
@@ -432,27 +432,6 @@
 					<ntig>
 						<termGrp>
 							<term>açık kaynaklı</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
-			<termEntry id="c560">
-				<descrip type="context">This is a legacy extension, be aware that these are no longer fully supported.</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>Legacy extension</term>
-							<termNote type="partOfSpeech">noun</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">A Firefox extension built using legacy APIs or the Add-on SDK. These kinds of extensions were disabled as of Firefox 57.</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="tr">
-					<ntig>
-						<termGrp>
-							<term>Eski uzantı</term>
 						</termGrp>
 					</ntig>
 				</langSet>
@@ -558,6 +537,27 @@
 					<ntig>
 						<termGrp>
 							<term>giriş sayfası</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c560">
+				<descrip type="context">This is a legacy extension, be aware that these are no longer fully supported.</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>Legacy extension</term>
+							<termNote type="partOfSpeech">noun</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">A Firefox extension built using legacy APIs or the Add-on SDK. These kinds of extensions were disabled as of Firefox 57.</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="tr">
+					<ntig>
+						<termGrp>
+							<term>Eski uzantı</term>
 						</termGrp>
 					</ntig>
 				</langSet>
@@ -793,27 +793,6 @@
 					</ntig>
 				</langSet>
 			</termEntry>
-			<termEntry id="c587">
-				<descrip type="context">The response from the OCSP server was corrupted or improperly formed</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>corrupt</term>
-							<termNote type="partOfSpeech">verb</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">Change something from its original, correct form.</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="tr">
-					<ntig>
-						<termGrp>
-							<term>bozulmak</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
 			<termEntry id="c588">
 				<descrip type="context">This add-on could not be installed because it appears to be corrupt.</descrip>
 				<langSet xml:lang="en-US">
@@ -831,6 +810,27 @@
 					<ntig>
 						<termGrp>
 							<term>bozuk</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c587">
+				<descrip type="context">The response from the OCSP server was corrupted or improperly formed</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>corrupt</term>
+							<termNote type="partOfSpeech">verb</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">Change something from its original, correct form.</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="tr">
+					<ntig>
+						<termGrp>
+							<term>bozulmak</term>
 						</termGrp>
 					</ntig>
 				</langSet>
@@ -940,48 +940,6 @@
 					</ntig>
 				</langSet>
 			</termEntry>
-			<termEntry id="c599">
-				<descrip type="context">These pages try to install programs that steal private information, use your computer to attack others, or damage your system.</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>attack</term>
-							<termNote type="partOfSpeech">verb</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">To take malicious action against, specifically via hacking and malware.</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="tr">
-					<ntig>
-						<termGrp>
-							<term>saldırı</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
-			<termEntry id="c610">
-				<descrip type="context">This page is loaded from an extension</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>extension</term>
-							<termNote type="partOfSpeech">noun</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">Pieces of code that extend the capabilities of a browser. In Firefox, extensions are a type of add-on.</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="tr">
-					<ntig>
-						<termGrp>
-							<term>uzantı</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
 			<termEntry id="c611">
 				<descrip type="context">The cipher used for encryption is deprecated and insecure.</descrip>
 				<langSet xml:lang="en-US">
@@ -1024,6 +982,48 @@
 					</ntig>
 				</langSet>
 			</termEntry>
+			<termEntry id="c610">
+				<descrip type="context">This page is loaded from an extension</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>extension</term>
+							<termNote type="partOfSpeech">noun</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">Pieces of code that extend the capabilities of a browser. In Firefox, extensions are a type of add-on.</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="tr">
+					<ntig>
+						<termGrp>
+							<term>uzantı</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c599">
+				<descrip type="context">These pages try to install programs that steal private information, use your computer to attack others, or damage your system.</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>attack</term>
+							<termNote type="partOfSpeech">verb</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">To take malicious action against, specifically via hacking and malware.</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="tr">
+					<ntig>
+						<termGrp>
+							<term>saldırı</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
 			<termEntry id="c620">
 				<descrip type="context">If the image is relevant to the content of the document, you must supply alternate text that will appear in text-only browsers</descrip>
 				<langSet xml:lang="en-US">
@@ -1041,27 +1041,6 @@
 					<ntig>
 						<termGrp>
 							<term>alternatif metin</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
-			<termEntry id="c621">
-				<descrip type="context">Your add-ons and customizations have been removed and your browser settings have been restored to their defaults.</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>add-on</term>
-							<termNote type="partOfSpeech">noun</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">A Firefox-specific umbrella term that describes tools (including extensions and themes) that users can install to modify, customize, and extend the functionality of Firefox. Avoid using "add-ons" and "extensions" interchangeably (see https://wiki.mozilla.org/Add-ons/Terminology#Usage_Guidelines).</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="tr">
-					<ntig>
-						<termGrp>
-							<term>eklenti</term>
 						</termGrp>
 					</ntig>
 				</langSet>
@@ -1104,6 +1083,27 @@
 					<ntig>
 						<termGrp>
 							<term>bağımsız tarayıcı</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c621">
+				<descrip type="context">Your add-ons and customizations have been removed and your browser settings have been restored to their defaults.</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>add-on</term>
+							<termNote type="partOfSpeech">noun</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">A Firefox-specific umbrella term that describes tools (including extensions and themes) that users can install to modify, customize, and extend the functionality of Firefox. Avoid using "add-ons" and "extensions" interchangeably (see https://wiki.mozilla.org/Add-ons/Terminology#Usage_Guidelines).</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="tr">
+					<ntig>
+						<termGrp>
+							<term>eklenti</term>
 						</termGrp>
 					</ntig>
 				</langSet>
@@ -1360,48 +1360,6 @@
 					</ntig>
 				</langSet>
 			</termEntry>
-			<termEntry id="c558">
-				<descrip type="context">Override the colors specified by the page with your selections</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>override</term>
-							<termNote type="partOfSpeech">verb</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">Replace or overrule</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="tr">
-					<ntig>
-						<termGrp>
-							<term>üzerine yazma</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
-			<termEntry id="c539">
-				<descrip type="context">A script from the extension is running on this page, and making it unresponsive.</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>unresponsive</term>
-							<termNote type="partOfSpeech">adjective</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">Not reacting or responding</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="tr">
-					<ntig>
-						<termGrp>
-							<term>yanıt vermeme</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
 			<termEntry id="c617">
 				<descrip type="context">An attacker could easily reveal information which you thought to be safe</descrip>
 				<langSet xml:lang="en-US">
@@ -1444,6 +1402,27 @@
 					</ntig>
 				</langSet>
 			</termEntry>
+			<termEntry id="c558">
+				<descrip type="context">Override the colors specified by the page with your selections</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>override</term>
+							<termNote type="partOfSpeech">verb</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">Replace or overrule</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="tr">
+					<ntig>
+						<termGrp>
+							<term>üzerine yazma</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
 			<termEntry id="c544">
 				<descrip type="context">Block third-party content that tracks you around the web. Control how much of your online activity gets stored and shared between websites.</descrip>
 				<langSet xml:lang="en-US">
@@ -1461,6 +1440,27 @@
 					<ntig>
 						<termGrp>
 							<term>izleme</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c539">
+				<descrip type="context">A script from the extension is running on this page, and making it unresponsive.</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>unresponsive</term>
+							<termNote type="partOfSpeech">adjective</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">Not reacting or responding</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="tr">
+					<ntig>
+						<termGrp>
+							<term>yanıt vermeme</term>
 						</termGrp>
 					</ntig>
 				</langSet>
@@ -1633,23 +1633,23 @@
 					</ntig>
 				</langSet>
 			</termEntry>
-			<termEntry id="c545">
-				<descrip type="context">Blocking trackers and cookies can cause some websites to break.</descrip>
+			<termEntry id="c561">
+				<descrip type="context">The certificate used to sign the message was issued by a certificate authority whose own certificate has expired.</descrip>
 				<langSet xml:lang="en-US">
 					<ntig>
 						<termGrp>
-							<term>trackers</term>
-							<termNote type="partOfSpeech">noun</termNote>
+							<term>Issue</term>
+							<termNote type="partOfSpeech">verb</termNote>
 						</termGrp>
 					</ntig>
 					<descripGrp>
-						<descrip type="definition">Trackers are cookies, widgets, or invisible snippets of code used to monitor someone’s browsing history. Websites use trackers to gather analytics and statistics. Third-party trackers collect and send data about visited websites to other companies, often for advertising purposes. Advertisers use third-party trackers to show users personalized content and targeted ads.</descrip>
+						<descrip type="definition">To put forth officially. The verb form of "issue" is most commonly used in reference to security certifcates. Use "issued," rather than alternate verbs like "created," when referring to security certificates.</descrip>
 					</descripGrp>
 				</langSet>
 				<langSet xml:lang="tr">
 					<ntig>
 						<termGrp>
-							<term>takipçiler</term>
+							<term>düzenleme</term>
 						</termGrp>
 					</ntig>
 				</langSet>
@@ -1692,27 +1692,6 @@
 					<ntig>
 						<termGrp>
 							<term>topluluk etkinliği</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
-			<termEntry id="c561">
-				<descrip type="context">The certificate used to sign the message was issued by a certificate authority whose own certificate has expired.</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>Issue</term>
-							<termNote type="partOfSpeech">verb</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">To put forth officially. The verb form of "issue" is most commonly used in reference to security certifcates. Use "issued," rather than alternate verbs like "created," when referring to security certificates.</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="tr">
-					<ntig>
-						<termGrp>
-							<term>düzenleme</term>
 						</termGrp>
 					</ntig>
 				</langSet>
@@ -2036,6 +2015,27 @@ Note that this is distinct from "review analyzer", which is the name of the tool
 					<ntig>
 						<termGrp>
 							<term>Değerlendirme kontrolcüsü</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c545">
+				<descrip type="context">Blocking trackers and cookies can cause some websites to break.</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>trackers</term>
+							<termNote type="partOfSpeech">noun</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">Trackers are cookies, widgets, or invisible snippets of code used to monitor someone’s browsing history. Websites use trackers to gather analytics and statistics. Third-party trackers collect and send data about visited websites to other companies, often for advertising purposes. Advertisers use third-party trackers to show users personalized content and targeted ads.</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="tr">
+					<ntig>
+						<termGrp>
+							<term>takip kodları</term>
 						</termGrp>
 					</ntig>
 				</langSet>

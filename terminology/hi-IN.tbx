@@ -562,23 +562,23 @@
 					</ntig>
 				</langSet>
 			</termEntry>
-			<termEntry id="c599">
-				<descrip type="context">These pages try to install programs that steal private information, use your computer to attack others, or damage your system.</descrip>
+			<termEntry id="c597">
+				<descrip type="context">You have blocked autoplay media with sound for this website.</descrip>
 				<langSet xml:lang="en-US">
 					<ntig>
 						<termGrp>
-							<term>attack</term>
-							<termNote type="partOfSpeech">verb</termNote>
+							<term>autoplay</term>
+							<termNote type="partOfSpeech">noun</termNote>
 						</termGrp>
 					</ntig>
 					<descripGrp>
-						<descrip type="definition">To take malicious action against, specifically via hacking and malware.</descrip>
+						<descrip type="definition">A functionality that allows media, like video or audio, to play automatically with sound, without action from a user.</descrip>
 					</descripGrp>
 				</langSet>
 				<langSet xml:lang="hi-IN">
 					<ntig>
 						<termGrp>
-							<term>हमला</term>
+							<term>ऑटोप्‍ले</term>
 						</termGrp>
 					</ntig>
 				</langSet>
@@ -600,6 +600,27 @@
 					<ntig>
 						<termGrp>
 							<term>वैकल्पिक‌ टेक्स्ट</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c599">
+				<descrip type="context">These pages try to install programs that steal private information, use your computer to attack others, or damage your system.</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>attack</term>
+							<termNote type="partOfSpeech">verb</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">To take malicious action against, specifically via hacking and malware.</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="hi-IN">
+					<ntig>
+						<termGrp>
+							<term>हमला</term>
 						</termGrp>
 					</ntig>
 				</langSet>
@@ -642,27 +663,6 @@
 					<ntig>
 						<termGrp>
 							<term>हमला हेतु साइट</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
-			<termEntry id="c597">
-				<descrip type="context">You have blocked autoplay media with sound for this website.</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>autoplay</term>
-							<termNote type="partOfSpeech">noun</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">A functionality that allows media, like video or audio, to play automatically with sound, without action from a user.</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="hi-IN">
-					<ntig>
-						<termGrp>
-							<term>ऑटोप्‍ले</term>
 						</termGrp>
 					</ntig>
 				</langSet>
@@ -1213,27 +1213,6 @@
 					</ntig>
 				</langSet>
 			</termEntry>
-			<termEntry id="c558">
-				<descrip type="context">Override the colors specified by the page with your selections</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>override</term>
-							<termNote type="partOfSpeech">verb</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">Replace or overrule</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="hi-IN">
-					<ntig>
-						<termGrp>
-							<term>बदलें</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
 			<termEntry id="c557">
 				<descrip type="context">You have blocked pop-ups for this website.</descrip>
 				<langSet xml:lang="en-US">
@@ -1251,6 +1230,27 @@
 					<ntig>
 						<termGrp>
 							<term>पॉप-अप</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c558">
+				<descrip type="context">Override the colors specified by the page with your selections</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>override</term>
+							<termNote type="partOfSpeech">verb</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">Replace or overrule</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="hi-IN">
+					<ntig>
+						<termGrp>
+							<term>बदलें</term>
 						</termGrp>
 					</ntig>
 				</langSet>

@@ -1887,6 +1887,27 @@ See this page for more information: https://bit.ly/l10n-guidance-firefoxview</de
 					</ntig>
 				</langSet>
 			</termEntry>
+			<termEntry id="c626">
+				<descrip type="context">Create new backup authentication codes to help you get back into your account if you’re locked out.</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>backup authentication code</term>
+							<termNote type="partOfSpeech">noun</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">Authentication codes generated as backup for when a user does not have access to their two factor authentication method, allowing them to use these codes instead. Typically these are generated when two factor authentication is first set up and saved somewhere apart from their mobile device.</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="zh-CN">
+					<ntig>
+						<termGrp>
+							<term>备用验证码</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
 			<termEntry id="c625">
 				<descrip type="context">Your account password was reset with an account recovery key</descrip>
 				<langSet xml:lang="en-US">
@@ -1906,27 +1927,6 @@ A code used to recover a user's encrypted account information (such as bookmarks
 					<ntig>
 						<termGrp>
 							<term>账户恢复密钥</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
-			<termEntry id="c626">
-				<descrip type="context">Create new backup authentication codes to help you get back into your account if you’re locked out.</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>backup authentication code</term>
-							<termNote type="partOfSpeech">noun</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">Authentication codes generated as backup for when a user does not have access to their two factor authentication method, allowing them to use these codes instead. Typically these are generated when two factor authentication is first set up and saved somewhere apart from their mobile device.</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="zh-CN">
-					<ntig>
-						<termGrp>
-							<term>备用验证码</term>
 						</termGrp>
 					</ntig>
 				</langSet>
@@ -1996,6 +1996,27 @@ See this page for more information: https://bit.ly/l10n-guidance-colorways</desc
 					</ntig>
 				</langSet>
 			</termEntry>
+			<termEntry id="c620">
+				<descrip type="context">If the image is relevant to the content of the document, you must supply alternate text that will appear in text-only browsers</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>alternate text</term>
+							<termNote type="partOfSpeech">noun</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">Text added to an HTML element (typically an image) to describe that element when it cannot be rendered. Also used by accessibility tools, like screen readers, to make non-textual elements accessible.</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="zh-CN">
+					<ntig>
+						<termGrp>
+							<term>替换文字</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
 			<termEntry id="c666">
 				<descrip type="context"></descrip>
 				<langSet xml:lang="en-US">
@@ -2015,27 +2036,6 @@ Note that this is distinct from "review analyzer", which is the name of the tool
 					<ntig>
 						<termGrp>
 							<term>核查评价</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
-			<termEntry id="c620">
-				<descrip type="context">If the image is relevant to the content of the document, you must supply alternate text that will appear in text-only browsers</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>alternate text</term>
-							<termNote type="partOfSpeech">noun</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">Text added to an HTML element (typically an image) to describe that element when it cannot be rendered. Also used by accessibility tools, like screen readers, to make non-textual elements accessible.</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="zh-CN">
-					<ntig>
-						<termGrp>
-							<term>替换文字</term>
 						</termGrp>
 					</ntig>
 				</langSet>

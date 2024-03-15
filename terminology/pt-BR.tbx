@@ -184,27 +184,6 @@
 					</ntig>
 				</langSet>
 			</termEntry>
-			<termEntry id="c538">
-				<descrip type="context">Disabling the Safe Browsing feature is not recommended as it may result in you going to unsafe sites</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>unsafe</term>
-							<termNote type="partOfSpeech">adjective</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">Lacking in security or safety; potentially causing harm or damage</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="pt-BR">
-					<ntig>
-						<termGrp>
-							<term>não seguro</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
 			<termEntry id="c539">
 				<descrip type="context">A script from the extension is running on this page, and making it unresponsive.</descrip>
 				<langSet xml:lang="en-US">
@@ -327,6 +306,27 @@
 					<ntig>
 						<termGrp>
 							<term>barra lateral</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c538">
+				<descrip type="context">Disabling the Safe Browsing feature is not recommended as it may result in you going to unsafe sites</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>unsafe</term>
+							<termNote type="partOfSpeech">adjective</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">Lacking in security or safety; potentially causing harm or damage</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="pt-BR">
+					<ntig>
+						<termGrp>
+							<term>não seguro</term>
 						</termGrp>
 					</ntig>
 				</langSet>
@@ -604,27 +604,6 @@
 					</ntig>
 				</langSet>
 			</termEntry>
-			<termEntry id="c564">
-				<descrip type="context">Firefox has detected an insecure site. Form Autofill is temporarily disabled.</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>insecure</term>
-							<termNote type="partOfSpeech">adjective</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">Potentially unsafe or not protected</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="pt-BR">
-					<ntig>
-						<termGrp>
-							<term>não seguro</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
 			<termEntry id="c565">
 				<descrip type="context">Select which items to import</descrip>
 				<langSet xml:lang="en-US">
@@ -663,6 +642,27 @@
 					<ntig>
 						<termGrp>
 							<term>página inicial</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c564">
+				<descrip type="context">Firefox has detected an insecure site. Form Autofill is temporarily disabled.</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>insecure</term>
+							<termNote type="partOfSpeech">adjective</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">Potentially unsafe or not protected</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="pt-BR">
+					<ntig>
+						<termGrp>
+							<term>não seguro</term>
 						</termGrp>
 					</ntig>
 				</langSet>
@@ -1129,27 +1129,6 @@
 					</ntig>
 				</langSet>
 			</termEntry>
-			<termEntry id="c617">
-				<descrip type="context">An attacker could easily reveal information which you thought to be safe</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>attacker</term>
-							<termNote type="partOfSpeech">noun</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">An individual or entity that seeks to gain unauthorized access to user data</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="pt-BR">
-					<ntig>
-						<termGrp>
-							<term>invasor</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
 			<termEntry id="c450">
 				<descrip type="context">Mozilla is proudly nonprofit and answers to no one but you</descrip>
 				<langSet xml:lang="en-US">
@@ -1167,6 +1146,27 @@
 					<ntig>
 						<termGrp>
 							<term>sem fins lucrativos</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c617">
+				<descrip type="context">An attacker could easily reveal information which you thought to be safe</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>attacker</term>
+							<termNote type="partOfSpeech">noun</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">An individual or entity that seeks to gain unauthorized access to user data</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="pt-BR">
+					<ntig>
+						<termGrp>
+							<term>invasor</term>
 						</termGrp>
 					</ntig>
 				</langSet>

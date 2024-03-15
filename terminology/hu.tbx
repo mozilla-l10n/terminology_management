@@ -331,27 +331,6 @@
 					</ntig>
 				</langSet>
 			</termEntry>
-			<termEntry id="c611">
-				<descrip type="context">The cipher used for encryption is deprecated and insecure.</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>cipher</term>
-							<termNote type="partOfSpeech">noun</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">An algorithm that encrypts or decrypts information.</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="hu">
-					<ntig>
-						<termGrp>
-							<term>titkosítás</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
 			<termEntry id="c598">
 				<descrip type="context">Warning: Contains unauthenticated content</descrip>
 				<langSet xml:lang="en-US">
@@ -390,6 +369,27 @@
 					<ntig>
 						<termGrp>
 							<term>automatikus lejátszás</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c611">
+				<descrip type="context">The cipher used for encryption is deprecated and insecure.</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>cipher</term>
+							<termNote type="partOfSpeech">noun</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">An algorithm that encrypts or decrypts information.</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="hu">
+					<ntig>
+						<termGrp>
+							<term>titkosítás</term>
 						</termGrp>
 					</ntig>
 				</langSet>
@@ -499,27 +499,6 @@
 					</ntig>
 				</langSet>
 			</termEntry>
-			<termEntry id="c583">
-				<descrip type="context"></descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>cryptomining</term>
-							<termNote type="partOfSpeech">noun</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">A method of running scripts on websites that can use a computer’s resources to mine cryptocurrency without a user’s knowledge.</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="hu">
-					<ntig>
-						<termGrp>
-							<term>kriptobányászat</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
 			<termEntry id="c593">
 				<descrip type="context">Copy text to clipboard</descrip>
 				<langSet xml:lang="en-US">
@@ -558,6 +537,27 @@
 					<ntig>
 						<termGrp>
 							<term>környezet</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c575">
+				<descrip type="context">Encrypt This Message</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>encrypt</term>
+							<termNote type="partOfSpeech">verb</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">Convert information or data into a code, especially to prevent unauthorized access. This is different from "encoding" in which the goal is to ensure that information can be properly consumed.</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="hu">
+					<ntig>
+						<termGrp>
+							<term>titkosítás</term>
 						</termGrp>
 					</ntig>
 				</langSet>
@@ -642,6 +642,27 @@
 					<ntig>
 						<termGrp>
 							<term>kriptobányász</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c583">
+				<descrip type="context"></descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>cryptomining</term>
+							<termNote type="partOfSpeech">noun</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">A method of running scripts on websites that can use a computer’s resources to mine cryptocurrency without a user’s knowledge.</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="hu">
+					<ntig>
+						<termGrp>
+							<term>kriptobányászat</term>
 						</termGrp>
 					</ntig>
 				</langSet>
@@ -789,27 +810,6 @@
 					<ntig>
 						<termGrp>
 							<term>kódol</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
-			<termEntry id="c575">
-				<descrip type="context">Encrypt This Message</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>encrypt</term>
-							<termNote type="partOfSpeech">verb</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">Convert information or data into a code, especially to prevent unauthorized access. This is different from "encoding" in which the goal is to ensure that information can be properly consumed.</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="hu">
-					<ntig>
-						<termGrp>
-							<term>titkosítás</term>
 						</termGrp>
 					</ntig>
 				</langSet>

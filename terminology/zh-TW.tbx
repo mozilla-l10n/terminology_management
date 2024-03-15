@@ -667,27 +667,6 @@
 					</ntig>
 				</langSet>
 			</termEntry>
-			<termEntry id="c574">
-				<descrip type="context">Your connection to this website uses weak encryption and is not private.</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>encryption</term>
-							<termNote type="partOfSpeech">noun</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">The process of encoding information or data so that only the sender and the intended recipient can read it.</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="zh-TW">
-					<ntig>
-						<termGrp>
-							<term>加密; 加密方式</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
 			<termEntry id="c575">
 				<descrip type="context">Encrypt This Message</descrip>
 				<langSet xml:lang="en-US">
@@ -831,6 +810,27 @@
 					<ntig>
 						<termGrp>
 							<term>除錯</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c574">
+				<descrip type="context">Your connection to this website uses weak encryption and is not private.</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>encryption</term>
+							<termNote type="partOfSpeech">noun</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">The process of encoding information or data so that only the sender and the intended recipient can read it.</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="zh-TW">
+					<ntig>
+						<termGrp>
+							<term>加密; 加密方式</term>
 						</termGrp>
 					</ntig>
 				</langSet>
@@ -1003,48 +1003,6 @@
 					</ntig>
 				</langSet>
 			</termEntry>
-			<termEntry id="c599">
-				<descrip type="context">These pages try to install programs that steal private information, use your computer to attack others, or damage your system.</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>attack</term>
-							<termNote type="partOfSpeech">verb</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">To take malicious action against, specifically via hacking and malware.</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="zh-TW">
-					<ntig>
-						<termGrp>
-							<term>攻擊</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
-			<termEntry id="c600">
-				<descrip type="context">Reported Attack Site!</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>Attack Site</term>
-							<termNote type="partOfSpeech">noun</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">A site designed to attack a user's client browser using malware or hacking.</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="zh-TW">
-					<ntig>
-						<termGrp>
-							<term>有害網站</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
 			<termEntry id="c610">
 				<descrip type="context">This page is loaded from an extension</descrip>
 				<langSet xml:lang="en-US">
@@ -1087,6 +1045,27 @@
 					</ntig>
 				</langSet>
 			</termEntry>
+			<termEntry id="c617">
+				<descrip type="context">An attacker could easily reveal information which you thought to be safe</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>attacker</term>
+							<termNote type="partOfSpeech">noun</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">An individual or entity that seeks to gain unauthorized access to user data</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="zh-TW">
+					<ntig>
+						<termGrp>
+							<term>攻擊者</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
 			<termEntry id="c613">
 				<descrip type="context">The endpoint you are connecting to needs more information to authenticate this connection.</descrip>
 				<langSet xml:lang="en-US">
@@ -1108,23 +1087,65 @@
 					</ntig>
 				</langSet>
 			</termEntry>
-			<termEntry id="c617">
-				<descrip type="context">An attacker could easily reveal information which you thought to be safe</descrip>
+			<termEntry id="c600">
+				<descrip type="context">Reported Attack Site!</descrip>
 				<langSet xml:lang="en-US">
 					<ntig>
 						<termGrp>
-							<term>attacker</term>
+							<term>Attack Site</term>
 							<termNote type="partOfSpeech">noun</termNote>
 						</termGrp>
 					</ntig>
 					<descripGrp>
-						<descrip type="definition">An individual or entity that seeks to gain unauthorized access to user data</descrip>
+						<descrip type="definition">A site designed to attack a user's client browser using malware or hacking.</descrip>
 					</descripGrp>
 				</langSet>
 				<langSet xml:lang="zh-TW">
 					<ntig>
 						<termGrp>
-							<term>攻擊者</term>
+							<term>有害網站</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c599">
+				<descrip type="context">These pages try to install programs that steal private information, use your computer to attack others, or damage your system.</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>attack</term>
+							<termNote type="partOfSpeech">verb</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">To take malicious action against, specifically via hacking and malware.</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="zh-TW">
+					<ntig>
+						<termGrp>
+							<term>攻擊</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c622">
+				<descrip type="context">Do you want to abort this download</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>abort</term>
+							<termNote type="partOfSpeech">verb</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">Cancel a process</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="zh-TW">
+					<ntig>
+						<termGrp>
+							<term>中斷</term>
 						</termGrp>
 					</ntig>
 				</langSet>
@@ -1167,27 +1188,6 @@
 					<ntig>
 						<termGrp>
 							<term>附加元件</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
-			<termEntry id="c622">
-				<descrip type="context">Do you want to abort this download</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>abort</term>
-							<termNote type="partOfSpeech">verb</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">Cancel a process</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="zh-TW">
-					<ntig>
-						<termGrp>
-							<term>中斷</term>
 						</termGrp>
 					</ntig>
 				</langSet>
@@ -1381,6 +1381,27 @@
 					</ntig>
 				</langSet>
 			</termEntry>
+			<termEntry id="c484">
+				<descrip type="context">Political actors use disinformation campaigns that prey on our emotions and values to manipulate our behaviour.</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>disinformation</term>
+							<termNote type="partOfSpeech">noun</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">False, inaccurate, or misleading information designed, presented, and promoted to intentionally cause public harm or for profit. When it’s shared mistakenly by people, it becomes misinformation. See also the definition of misinformation.</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="zh-TW">
+					<ntig>
+						<termGrp>
+							<term>造假資訊；造謠</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
 			<termEntry id="c519">
 				<descrip type="context"></descrip>
 				<langSet xml:lang="en-US">
@@ -1545,27 +1566,6 @@
 					<ntig>
 						<termGrp>
 							<term>錯誤資訊</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
-			<termEntry id="c484">
-				<descrip type="context">Political actors use disinformation campaigns that prey on our emotions and values to manipulate our behaviour.</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>disinformation</term>
-							<termNote type="partOfSpeech">noun</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">False, inaccurate, or misleading information designed, presented, and promoted to intentionally cause public harm or for profit. When it’s shared mistakenly by people, it becomes misinformation. See also the definition of misinformation.</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="zh-TW">
-					<ntig>
-						<termGrp>
-							<term>造假資訊；造謠</term>
 						</termGrp>
 					</ntig>
 				</langSet>

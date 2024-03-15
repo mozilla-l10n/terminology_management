@@ -289,27 +289,6 @@
 					</ntig>
 				</langSet>
 			</termEntry>
-			<termEntry id="c550">
-				<descrip type="context">As a security precaution, the browser does not automatically re-request sensitive documents</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>sensitive</term>
-							<termNote type="partOfSpeech">adjective</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">Requiring caution or additional care, especially referring to data that must be protected to safeguard the privacy or security of an individual or organization.</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="pl">
-					<ntig>
-						<termGrp>
-							<term>poufny</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
 			<termEntry id="c551">
 				<descrip type="context">%S wants to register an account with one of your security keys. You can connect and authorize one now, or cancel.</descrip>
 				<langSet xml:lang="en-US">
@@ -394,27 +373,6 @@
 					</ntig>
 				</langSet>
 			</termEntry>
-			<termEntry id="c555">
-				<descrip type="context">Send a crash report for the tab you are viewing</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>report</term>
-							<termNote type="partOfSpeech">noun</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">A detailed record or account, most often in the case of a site crash or issue</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="pl">
-					<ntig>
-						<termGrp>
-							<term>zgłoszenie</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
 			<termEntry id="c556">
 				<descrip type="context">The security certificate in use on this website will no longer be trusted in a future release</descrip>
 				<langSet xml:lang="en-US">
@@ -478,6 +436,48 @@
 					</ntig>
 				</langSet>
 			</termEntry>
+			<termEntry id="c555">
+				<descrip type="context">Send a crash report for the tab you are viewing</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>report</term>
+							<termNote type="partOfSpeech">noun</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">A detailed record or account, most often in the case of a site crash or issue</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="pl">
+					<ntig>
+						<termGrp>
+							<term>zgłoszenie</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c550">
+				<descrip type="context">As a security precaution, the browser does not automatically re-request sensitive documents</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>sensitive</term>
+							<termNote type="partOfSpeech">adjective</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">Requiring caution or additional care, especially referring to data that must be protected to safeguard the privacy or security of an individual or organization.</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="pl">
+					<ntig>
+						<termGrp>
+							<term>poufny</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
 			<termEntry id="c559">
 				<descrip type="context">These terms are not intended to limit any rights granted under open source licenses</descrip>
 				<langSet xml:lang="en-US">
@@ -495,27 +495,6 @@
 					<ntig>
 						<termGrp>
 							<term>open source</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
-			<termEntry id="c560">
-				<descrip type="context">This is a legacy extension, be aware that these are no longer fully supported.</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>Legacy extension</term>
-							<termNote type="partOfSpeech">noun</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">A Firefox extension built using legacy APIs or the Add-on SDK. These kinds of extensions were disabled as of Firefox 57.</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="pl">
-					<ntig>
-						<termGrp>
-							<term>przestarzałe rozszerzenie</term>
 						</termGrp>
 					</ntig>
 				</langSet>
@@ -600,6 +579,27 @@
 					<ntig>
 						<termGrp>
 							<term>strona startowa</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c560">
+				<descrip type="context">This is a legacy extension, be aware that these are no longer fully supported.</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>Legacy extension</term>
+							<termNote type="partOfSpeech">noun</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">A Firefox extension built using legacy APIs or the Add-on SDK. These kinds of extensions were disabled as of Firefox 57.</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="pl">
+					<ntig>
+						<termGrp>
+							<term>przestarzałe rozszerzenie</term>
 						</termGrp>
 					</ntig>
 				</langSet>
@@ -751,27 +751,6 @@
 					</ntig>
 				</langSet>
 			</termEntry>
-			<termEntry id="c581">
-				<descrip type="context">This web page has been reported as a deceptive site and has been blocked</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>deceptive site</term>
-							<termNote type="partOfSpeech">noun</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">A malicious website that impersonates a legitimate one in order to trick users into providing sensitive information such as passwords, account details, or credit card numbers</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="pl">
-					<ntig>
-						<termGrp>
-							<term>podejrzenie oszustwa</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
 			<termEntry id="c582">
 				<descrip type="context">Turning this on will allow you to debug add-ons</descrip>
 				<langSet xml:lang="en-US">
@@ -789,6 +768,27 @@
 					<ntig>
 						<termGrp>
 							<term>debugować</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c581">
+				<descrip type="context">This web page has been reported as a deceptive site and has been blocked</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>deceptive site</term>
+							<termNote type="partOfSpeech">noun</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">A malicious website that impersonates a legitimate one in order to trick users into providing sensitive information such as passwords, account details, or credit card numbers</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="pl">
+					<ntig>
+						<termGrp>
+							<term>podejrzenie oszustwa</term>
 						</termGrp>
 					</ntig>
 				</langSet>

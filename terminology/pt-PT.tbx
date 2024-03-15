@@ -16,6 +16,48 @@
 	</martifHeader>
 	<text>
 		<body>
+			<termEntry id="c581">
+				<descrip type="context">This web page has been reported as a deceptive site and has been blocked</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>deceptive site</term>
+							<termNote type="partOfSpeech">noun</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">A malicious website that impersonates a legitimate one in order to trick users into providing sensitive information such as passwords, account details, or credit card numbers</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="pt-PT">
+					<ntig>
+						<termGrp>
+							<term>site decetivo</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c577">
+				<descrip type="context">Enhanced Tracking Protection is ON for this site</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>Enhanced Tracking Protection</term>
+							<termNote type="partOfSpeech">noun</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">Enhanced Tracking Protection is a collection of Firefox privacy and security settings. These settings block invisible or visible parts of webpages that can track users online. Enhanced Tracking Protection keeps an individual’s browsing history more private to reduce how much of their data is tracked, stored, and shared between websites and advertisers.</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="pt-PT">
+					<ntig>
+						<termGrp>
+							<term>Proteção melhorada contra a monitorização</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
 			<termEntry id="c621">
 				<descrip type="context">Your add-ons and customizations have been removed and your browser settings have been restored to their defaults.</descrip>
 				<langSet xml:lang="en-US">
@@ -457,23 +499,23 @@
 					</ntig>
 				</langSet>
 			</termEntry>
-			<termEntry id="c583">
-				<descrip type="context"></descrip>
+			<termEntry id="c467">
+				<descrip type="context">Use market-leading research to deliver powerful grassroots-led campaigns.</descrip>
 				<langSet xml:lang="en-US">
 					<ntig>
 						<termGrp>
-							<term>cryptomining</term>
-							<termNote type="partOfSpeech">noun</termNote>
+							<term>grassroots</term>
+							<termNote type="partOfSpeech">adjective</termNote>
 						</termGrp>
 					</ntig>
 					<descripGrp>
-						<descrip type="definition">A method of running scripts on websites that can use a computer’s resources to mine cryptocurrency without a user’s knowledge.</descrip>
+						<descrip type="definition">A campaign or movement that’s led directly by the people in a community</descrip>
 					</descripGrp>
 				</langSet>
 				<langSet xml:lang="pt-PT">
 					<ntig>
 						<termGrp>
-							<term>criptomineração</term>
+							<term>populares</term>
 						</termGrp>
 					</ntig>
 				</langSet>
@@ -495,27 +537,6 @@
 					<ntig>
 						<termGrp>
 							<term>depurar</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
-			<termEntry id="c581">
-				<descrip type="context">This web page has been reported as a deceptive site and has been blocked</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>deceptive site</term>
-							<termNote type="partOfSpeech">noun</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">A malicious website that impersonates a legitimate one in order to trick users into providing sensitive information such as passwords, account details, or credit card numbers</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="pt-PT">
-					<ntig>
-						<termGrp>
-							<term>site decetivo</term>
 						</termGrp>
 					</ntig>
 				</langSet>
@@ -709,23 +730,23 @@
 					</ntig>
 				</langSet>
 			</termEntry>
-			<termEntry id="c577">
-				<descrip type="context">Enhanced Tracking Protection is ON for this site</descrip>
+			<termEntry id="c583">
+				<descrip type="context"></descrip>
 				<langSet xml:lang="en-US">
 					<ntig>
 						<termGrp>
-							<term>Enhanced Tracking Protection</term>
+							<term>cryptomining</term>
 							<termNote type="partOfSpeech">noun</termNote>
 						</termGrp>
 					</ntig>
 					<descripGrp>
-						<descrip type="definition">Enhanced Tracking Protection is a collection of Firefox privacy and security settings. These settings block invisible or visible parts of webpages that can track users online. Enhanced Tracking Protection keeps an individual’s browsing history more private to reduce how much of their data is tracked, stored, and shared between websites and advertisers.</descrip>
+						<descrip type="definition">A method of running scripts on websites that can use a computer’s resources to mine cryptocurrency without a user’s knowledge.</descrip>
 					</descripGrp>
 				</langSet>
 				<langSet xml:lang="pt-PT">
 					<ntig>
 						<termGrp>
-							<term>Proteção melhorada contra a monitorização</term>
+							<term>criptomineração</term>
 						</termGrp>
 					</ntig>
 				</langSet>
@@ -789,27 +810,6 @@
 					<ntig>
 						<termGrp>
 							<term>identificação</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
-			<termEntry id="c467">
-				<descrip type="context">Use market-leading research to deliver powerful grassroots-led campaigns.</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>grassroots</term>
-							<termNote type="partOfSpeech">adjective</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">A campaign or movement that’s led directly by the people in a community</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="pt-PT">
-					<ntig>
-						<termGrp>
-							<term>populares</term>
 						</termGrp>
 					</ntig>
 				</langSet>
@@ -1062,27 +1062,6 @@
 					<ntig>
 						<termGrp>
 							<term>substituir</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
-			<termEntry id="c557">
-				<descrip type="context">You have blocked pop-ups for this website.</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>pop-up</term>
-							<termNote type="partOfSpeech">noun</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">An overlapping window used for dialog boxes, message boxes, and other temporary windows that appear outside of an application's primary window. Typically, users will think of a "pop-up" as a window that opens automatically and without being asked.</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="pt-PT">
-					<ntig>
-						<termGrp>
-							<term>janela flutuante</term>
 						</termGrp>
 					</ntig>
 				</langSet>
@@ -1402,23 +1381,23 @@
 					</ntig>
 				</langSet>
 			</termEntry>
-			<termEntry id="c540">
-				<descrip type="context">Your email and authentication are sent unencrypted so your password and your message could easily be read by other people</descrip>
+			<termEntry id="c557">
+				<descrip type="context">You have blocked pop-ups for this website.</descrip>
 				<langSet xml:lang="en-US">
 					<ntig>
 						<termGrp>
-							<term>unencrypted</term>
-							<termNote type="partOfSpeech">adjective</termNote>
+							<term>pop-up</term>
+							<termNote type="partOfSpeech">noun</termNote>
 						</termGrp>
 					</ntig>
 					<descripGrp>
-						<descrip type="definition">Not encrypted, and thus more vulnerable to unauthorized access. Note that "encoded" and "encrypted" are not synonyms (see definition for "encoded").</descrip>
+						<descrip type="definition">An overlapping window used for dialog boxes, message boxes, and other temporary windows that appear outside of an application's primary window. Typically, users will think of a "pop-up" as a window that opens automatically and without being asked.</descrip>
 					</descripGrp>
 				</langSet>
 				<langSet xml:lang="pt-PT">
 					<ntig>
 						<termGrp>
-							<term>desencriptado</term>
+							<term>janela flutuante</term>
 						</termGrp>
 					</ntig>
 				</langSet>
@@ -1545,6 +1524,27 @@
 					<ntig>
 						<termGrp>
 							<term>Autenticação Web</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c540">
+				<descrip type="context">Your email and authentication are sent unencrypted so your password and your message could easily be read by other people</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>unencrypted</term>
+							<termNote type="partOfSpeech">adjective</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">Not encrypted, and thus more vulnerable to unauthorized access. Note that "encoded" and "encrypted" are not synonyms (see definition for "encoded").</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="pt-PT">
+					<ntig>
+						<termGrp>
+							<term>desencriptado</term>
 						</termGrp>
 					</ntig>
 				</langSet>

@@ -37,6 +37,27 @@
 					</ntig>
 				</langSet>
 			</termEntry>
+			<termEntry id="c617">
+				<descrip type="context">An attacker could easily reveal information which you thought to be safe</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>attacker</term>
+							<termNote type="partOfSpeech">noun</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">An individual or entity that seeks to gain unauthorized access to user data</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="ar">
+					<ntig>
+						<termGrp>
+							<term>مهاجم</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
 			<termEntry id="c621">
 				<descrip type="context">Your add-ons and customizations have been removed and your browser settings have been restored to their defaults.</descrip>
 				<langSet xml:lang="en-US">
@@ -96,27 +117,6 @@
 					<ntig>
 						<termGrp>
 							<term>هجوم</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
-			<termEntry id="c617">
-				<descrip type="context">An attacker could easily reveal information which you thought to be safe</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>attacker</term>
-							<termNote type="partOfSpeech">noun</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">An individual or entity that seeks to gain unauthorized access to user data</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="ar">
-					<ntig>
-						<termGrp>
-							<term>مهاجم</term>
 						</termGrp>
 					</ntig>
 				</langSet>
@@ -247,48 +247,6 @@
 					</ntig>
 				</langSet>
 			</termEntry>
-			<termEntry id="c595">
-				<descrip type="context">Bookmark this page</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>bookmark</term>
-							<termNote type="partOfSpeech">verb</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">Create a shortcut that directs the browser to a specific webpage. Shortcuts may be added to the bookmark toolbar. Similar in functionality to "favorites" in Chrome and Internet Explorer, and "bookmarks" in Safari.</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="ar">
-					<ntig>
-						<termGrp>
-							<term>إضافة علامة</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
-			<termEntry id="c578">
-				<descrip type="context">Check that the file, including symbols and accented letters, is encoded using the UTF-8 character encoding.</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>encode</term>
-							<termNote type="partOfSpeech">verb</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">Transforming data using a standard format or particular code so that it can be properly (and safely) consumed by a different type of system. The goal with encoding is to ensure that information can be properly consumed—this is different from "encyption," for which the goal is to keep information secret and safe from unauthorized access.</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="ar">
-					<ntig>
-						<termGrp>
-							<term>ترميز</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
 			<termEntry id="c530">
 				<descrip type="context">Resumes the main thread and continues execution following a breakpoint until the next breakpoint or the termination of the script</descrip>
 				<langSet xml:lang="en-US">
@@ -390,6 +348,27 @@
 					<ntig>
 						<termGrp>
 							<term>سياق</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c578">
+				<descrip type="context">Check that the file, including symbols and accented letters, is encoded using the UTF-8 character encoding.</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>encode</term>
+							<termNote type="partOfSpeech">verb</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">Transforming data using a standard format or particular code so that it can be properly (and safely) consumed by a different type of system. The goal with encoding is to ensure that information can be properly consumed—this is different from "encyption," for which the goal is to keep information secret and safe from unauthorized access.</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="ar">
+					<ntig>
+						<termGrp>
+							<term>ترميز</term>
 						</termGrp>
 					</ntig>
 				</langSet>
@@ -537,6 +516,27 @@
 					<ntig>
 						<termGrp>
 							<term>تفعيل</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c595">
+				<descrip type="context">Bookmark this page</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>bookmark</term>
+							<termNote type="partOfSpeech">verb</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">Create a shortcut that directs the browser to a specific webpage. Shortcuts may be added to the bookmark toolbar. Similar in functionality to "favorites" in Chrome and Internet Explorer, and "bookmarks" in Safari.</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="ar">
+					<ntig>
+						<termGrp>
+							<term>إضافة علامة</term>
 						</termGrp>
 					</ntig>
 				</langSet>
@@ -940,27 +940,6 @@
 					</ntig>
 				</langSet>
 			</termEntry>
-			<termEntry id="c546">
-				<descrip type="context">Unable to digitally sign data required to verify your certificate.</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>sign</term>
-							<termNote type="partOfSpeech">verb</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">To issue a digital certificate as verification of a website's identity; or, to enter user credentials to access a system.</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="ar">
-					<ntig>
-						<termGrp>
-							<term>توقيع</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
 			<termEntry id="c547">
 				<descrip type="context">The signer's certificate could not be found</descrip>
 				<langSet xml:lang="en-US">
@@ -999,6 +978,27 @@
 					<ntig>
 						<termGrp>
 							<term>المحتوى الذي يتعقّبك</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c546">
+				<descrip type="context">Unable to digitally sign data required to verify your certificate.</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>sign</term>
+							<termNote type="partOfSpeech">verb</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">To issue a digital certificate as verification of a website's identity; or, to enter user credentials to access a system.</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="ar">
+					<ntig>
+						<termGrp>
+							<term>توقيع</term>
 						</termGrp>
 					</ntig>
 				</langSet>

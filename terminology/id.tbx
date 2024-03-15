@@ -394,27 +394,6 @@
 					</ntig>
 				</langSet>
 			</termEntry>
-			<termEntry id="c554">
-				<descrip type="context">Report errors like this to help Mozilla identify and block malicious sites</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>report</term>
-							<termNote type="partOfSpeech">verb</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">Tell or alert, most often in the case of a site crash or issue</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="id">
-					<ntig>
-						<termGrp>
-							<term>melaporkan</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
 			<termEntry id="c555">
 				<descrip type="context">Send a crash report for the tab you are viewing</descrip>
 				<langSet xml:lang="en-US">
@@ -432,69 +411,6 @@
 					<ntig>
 						<termGrp>
 							<term>laporan</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
-			<termEntry id="c556">
-				<descrip type="context">The security certificate in use on this website will no longer be trusted in a future release</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>release</term>
-							<termNote type="partOfSpeech">noun</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">Made available for use or distribution; Also refers to the final, stable build of Firefox.</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="id">
-					<ntig>
-						<termGrp>
-							<term>rilis</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
-			<termEntry id="c557">
-				<descrip type="context">You have blocked pop-ups for this website.</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>pop-up</term>
-							<termNote type="partOfSpeech">noun</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">An overlapping window used for dialog boxes, message boxes, and other temporary windows that appear outside of an application's primary window. Typically, users will think of a "pop-up" as a window that opens automatically and without being asked.</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="id">
-					<ntig>
-						<termGrp>
-							<term>sembulan</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
-			<termEntry id="c558">
-				<descrip type="context">Override the colors specified by the page with your selections</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>override</term>
-							<termNote type="partOfSpeech">verb</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">Replace or overrule</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="id">
-					<ntig>
-						<termGrp>
-							<term>menimpa</term>
 						</termGrp>
 					</ntig>
 				</langSet>
@@ -520,23 +436,86 @@
 					</ntig>
 				</langSet>
 			</termEntry>
-			<termEntry id="c560">
-				<descrip type="context">This is a legacy extension, be aware that these are no longer fully supported.</descrip>
+			<termEntry id="c558">
+				<descrip type="context">Override the colors specified by the page with your selections</descrip>
 				<langSet xml:lang="en-US">
 					<ntig>
 						<termGrp>
-							<term>Legacy extension</term>
-							<termNote type="partOfSpeech">noun</termNote>
+							<term>override</term>
+							<termNote type="partOfSpeech">verb</termNote>
 						</termGrp>
 					</ntig>
 					<descripGrp>
-						<descrip type="definition">A Firefox extension built using legacy APIs or the Add-on SDK. These kinds of extensions were disabled as of Firefox 57.</descrip>
+						<descrip type="definition">Replace or overrule</descrip>
 					</descripGrp>
 				</langSet>
 				<langSet xml:lang="id">
 					<ntig>
 						<termGrp>
-							<term>ekstensi lawas</term>
+							<term>menimpa</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c557">
+				<descrip type="context">You have blocked pop-ups for this website.</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>pop-up</term>
+							<termNote type="partOfSpeech">noun</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">An overlapping window used for dialog boxes, message boxes, and other temporary windows that appear outside of an application's primary window. Typically, users will think of a "pop-up" as a window that opens automatically and without being asked.</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="id">
+					<ntig>
+						<termGrp>
+							<term>sembulan</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c556">
+				<descrip type="context">The security certificate in use on this website will no longer be trusted in a future release</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>release</term>
+							<termNote type="partOfSpeech">noun</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">Made available for use or distribution; Also refers to the final, stable build of Firefox.</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="id">
+					<ntig>
+						<termGrp>
+							<term>rilis</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c554">
+				<descrip type="context">Report errors like this to help Mozilla identify and block malicious sites</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>report</term>
+							<termNote type="partOfSpeech">verb</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">Tell or alert, most often in the case of a site crash or issue</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="id">
+					<ntig>
+						<termGrp>
+							<term>melaporkan</term>
 						</termGrp>
 					</ntig>
 				</langSet>
@@ -646,6 +625,27 @@
 					</ntig>
 				</langSet>
 			</termEntry>
+			<termEntry id="c560">
+				<descrip type="context">This is a legacy extension, be aware that these are no longer fully supported.</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>Legacy extension</term>
+							<termNote type="partOfSpeech">noun</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">A Firefox extension built using legacy APIs or the Add-on SDK. These kinds of extensions were disabled as of Firefox 57.</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="id">
+					<ntig>
+						<termGrp>
+							<term>ekstensi lawas</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
 			<termEntry id="c573">
 				<descrip type="context">Widevine Content Decryption Module provided by Google Inc.</descrip>
 				<langSet xml:lang="en-US">
@@ -684,48 +684,6 @@
 					<ntig>
 						<termGrp>
 							<term>enkripsi</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
-			<termEntry id="c575">
-				<descrip type="context">Encrypt This Message</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>encrypt</term>
-							<termNote type="partOfSpeech">verb</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">Convert information or data into a code, especially to prevent unauthorized access. This is different from "encoding" in which the goal is to ensure that information can be properly consumed.</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="id">
-					<ntig>
-						<termGrp>
-							<term>mengenkripsikan</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
-			<termEntry id="c576">
-				<descrip type="context">Media resource could not be decoded</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>decode</term>
-							<termNote type="partOfSpeech">verb</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">Translating date or information that has been encoded back into its original, comprehensible format.</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="id">
-					<ntig>
-						<termGrp>
-							<term>mendekode</term>
 						</termGrp>
 					</ntig>
 				</langSet>
@@ -772,27 +730,6 @@
 					</ntig>
 				</langSet>
 			</termEntry>
-			<termEntry id="c580">
-				<descrip type="context">If you delete or distrust a certificate authority (CA) certificate, this application will no longer trust any certificates issued by that CA</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>distrust</term>
-							<termNote type="partOfSpeech">verb</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">Regard something as untrustworthy or doubt its authenticity.</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="id">
-					<ntig>
-						<termGrp>
-							<term>ketidakpercayaan</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
 			<termEntry id="c581">
 				<descrip type="context">This web page has been reported as a deceptive site and has been blocked</descrip>
 				<langSet xml:lang="en-US">
@@ -835,6 +772,69 @@
 					</ntig>
 				</langSet>
 			</termEntry>
+			<termEntry id="c576">
+				<descrip type="context">Media resource could not be decoded</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>decode</term>
+							<termNote type="partOfSpeech">verb</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">Translating date or information that has been encoded back into its original, comprehensible format.</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="id">
+					<ntig>
+						<termGrp>
+							<term>mendekode</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c580">
+				<descrip type="context">If you delete or distrust a certificate authority (CA) certificate, this application will no longer trust any certificates issued by that CA</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>distrust</term>
+							<termNote type="partOfSpeech">verb</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">Regard something as untrustworthy or doubt its authenticity.</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="id">
+					<ntig>
+						<termGrp>
+							<term>ketidakpercayaan</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c575">
+				<descrip type="context">Encrypt This Message</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>encrypt</term>
+							<termNote type="partOfSpeech">verb</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">Convert information or data into a code, especially to prevent unauthorized access. This is different from "encoding" in which the goal is to ensure that information can be properly consumed.</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="id">
+					<ntig>
+						<termGrp>
+							<term>mengenkripsikan</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
 			<termEntry id="c586">
 				<descrip type="context">Invalid or corrupted PDF file</descrip>
 				<langSet xml:lang="en-US">
@@ -852,27 +852,6 @@
 					<ntig>
 						<termGrp>
 							<term>rusak</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
-			<termEntry id="c587">
-				<descrip type="context">The response from the OCSP server was corrupted or improperly formed</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>corrupt</term>
-							<termNote type="partOfSpeech">verb</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">Change something from its original, correct form.</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="id">
-					<ntig>
-						<termGrp>
-							<term>merusak</term>
 						</termGrp>
 					</ntig>
 				</langSet>
@@ -957,6 +936,27 @@
 					<ntig>
 						<termGrp>
 							<term>markah</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c587">
+				<descrip type="context">The response from the OCSP server was corrupted or improperly formed</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>corrupt</term>
+							<termNote type="partOfSpeech">verb</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">Change something from its original, correct form.</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="id">
+					<ntig>
+						<termGrp>
+							<term>merusak</term>
 						</termGrp>
 					</ntig>
 				</langSet>
@@ -1171,27 +1171,6 @@
 					</ntig>
 				</langSet>
 			</termEntry>
-			<termEntry id="c521">
-				<descrip type="context"></descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>Bug report</term>
-							<termNote type="partOfSpeech">noun</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">The detailed description accompanying a bug or the act of reporting the bug itself. (Sometimes just called bug)</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="id">
-					<ntig>
-						<termGrp>
-							<term>Laporan bug</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
 			<termEntry id="c584">
 				<descrip type="context">Cryptominers use your system’s computing power to mine digital money. Cryptomining scripts drain your battery, slow down your computer, and can increase your energy bill.</descrip>
 				<langSet xml:lang="en-US">
@@ -1209,6 +1188,27 @@
 					<ntig>
 						<termGrp>
 							<term>penambang kripto</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c521">
+				<descrip type="context"></descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>Bug report</term>
+							<termNote type="partOfSpeech">noun</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">The detailed description accompanying a bug or the act of reporting the bug itself. (Sometimes just called bug)</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="id">
+					<ntig>
+						<termGrp>
+							<term>Laporan bug</term>
 						</termGrp>
 					</ntig>
 				</langSet>
@@ -1528,27 +1528,6 @@
 					</ntig>
 				</langSet>
 			</termEntry>
-			<termEntry id="c569">
-				<descrip type="context">Fingerprinters collect settings from your browser and computer to create a profile of you. Using this digital fingerprint, they can track you across different websites.</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>fingerprinter</term>
-							<termNote type="partOfSpeech">noun</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">A fingerprinter is an entity that gathers information about browser users from configuration and settings information that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="id">
-					<ntig>
-						<termGrp>
-							<term>pengumpul sidik jari</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
 			<termEntry id="c568">
 				<descrip type="context"></descrip>
 				<langSet xml:lang="en-US">
@@ -1566,6 +1545,27 @@
 					<ntig>
 						<termGrp>
 							<term>pengumpulan sidik jari</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c569">
+				<descrip type="context">Fingerprinters collect settings from your browser and computer to create a profile of you. Using this digital fingerprint, they can track you across different websites.</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>fingerprinter</term>
+							<termNote type="partOfSpeech">noun</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">A fingerprinter is an entity that gathers information about browser users from configuration and settings information that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="id">
+					<ntig>
+						<termGrp>
+							<term>pengumpul sidik jari</term>
 						</termGrp>
 					</ntig>
 				</langSet>

@@ -795,27 +795,6 @@ Note that this is distinct from "review analyzer", which is the name of the tool
 					</ntig>
 				</langSet>
 			</termEntry>
-			<termEntry id="c568">
-				<descrip type="context"></descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>fingerprinting</term>
-							<termNote type="partOfSpeech">noun</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">Fingerprinting is a method of tracking browser users by the configuration and settings information that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="is">
-					<ntig>
-						<termGrp>
-							<term>fingrafarasöfnun, fingrafaragerð</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
 			<termEntry id="c519">
 				<descrip type="context"></descrip>
 				<langSet xml:lang="en-US">
@@ -1152,6 +1131,48 @@ Note that this is distinct from "review analyzer", which is the name of the tool
 					</ntig>
 				</langSet>
 			</termEntry>
+			<termEntry id="c568">
+				<descrip type="context"></descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>fingerprinting</term>
+							<termNote type="partOfSpeech">noun</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">Fingerprinting is a method of tracking browser users by the configuration and settings information that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="is">
+					<ntig>
+						<termGrp>
+							<term>fingrafarasöfnun, fingrafaragerð</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c610">
+				<descrip type="context">This page is loaded from an extension</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>extension</term>
+							<termNote type="partOfSpeech">noun</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">Pieces of code that extend the capabilities of a browser. In Firefox, extensions are a type of add-on.</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="is">
+					<ntig>
+						<termGrp>
+							<term>forritsauki</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
 			<termEntry id="c620">
 				<descrip type="context">If the image is relevant to the content of the document, you must supply alternate text that will appear in text-only browsers</descrip>
 				<langSet xml:lang="en-US">
@@ -1442,27 +1463,6 @@ Note that this is distinct from "review analyzer", which is the name of the tool
 					<ntig>
 						<termGrp>
 							<term>Aukin rakningarvörn</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
-			<termEntry id="c610">
-				<descrip type="context">This page is loaded from an extension</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>extension</term>
-							<termNote type="partOfSpeech">noun</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">Pieces of code that extend the capabilities of a browser. In Firefox, extensions are a type of add-on.</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="is">
-					<ntig>
-						<termGrp>
-							<term>forritsauki</term>
 						</termGrp>
 					</ntig>
 				</langSet>

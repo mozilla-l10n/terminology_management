@@ -415,27 +415,6 @@
 					</ntig>
 				</langSet>
 			</termEntry>
-			<termEntry id="c555">
-				<descrip type="context">Send a crash report for the tab you are viewing</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>report</term>
-							<termNote type="partOfSpeech">noun</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">A detailed record or account, most often in the case of a site crash or issue</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="ru">
-					<ntig>
-						<termGrp>
-							<term>отчёт</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
 			<termEntry id="c556">
 				<descrip type="context">The security certificate in use on this website will no longer be trusted in a future release</descrip>
 				<langSet xml:lang="en-US">
@@ -495,6 +474,27 @@
 					<ntig>
 						<termGrp>
 							<term>переопределить</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c555">
+				<descrip type="context">Send a crash report for the tab you are viewing</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>report</term>
+							<termNote type="partOfSpeech">noun</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">A detailed record or account, most often in the case of a site crash or issue</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="ru">
+					<ntig>
+						<termGrp>
+							<term>отчёт</term>
 						</termGrp>
 					</ntig>
 				</langSet>
@@ -1045,27 +1045,6 @@
 					</ntig>
 				</langSet>
 			</termEntry>
-			<termEntry id="c611">
-				<descrip type="context">The cipher used for encryption is deprecated and insecure.</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>cipher</term>
-							<termNote type="partOfSpeech">noun</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">An algorithm that encrypts or decrypts information.</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="ru">
-					<ntig>
-						<termGrp>
-							<term>шифр</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
 			<termEntry id="c613">
 				<descrip type="context">The endpoint you are connecting to needs more information to authenticate this connection.</descrip>
 				<langSet xml:lang="en-US">
@@ -1104,6 +1083,27 @@
 					<ntig>
 						<termGrp>
 							<term>злоумышленник</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c611">
+				<descrip type="context">The cipher used for encryption is deprecated and insecure.</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>cipher</term>
+							<termNote type="partOfSpeech">noun</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">An algorithm that encrypts or decrypts information.</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="ru">
+					<ntig>
+						<termGrp>
+							<term>шифр</term>
 						</termGrp>
 					</ntig>
 				</langSet>
@@ -1383,23 +1383,23 @@ A code used to recover a user's encrypted account information (such as bookmarks
 					</ntig>
 				</langSet>
 			</termEntry>
-			<termEntry id="c463">
-				<descrip type="context">Explore some of our latest innovations</descrip>
+			<termEntry id="c467">
+				<descrip type="context">Use market-leading research to deliver powerful grassroots-led campaigns.</descrip>
 				<langSet xml:lang="en-US">
 					<ntig>
 						<termGrp>
-							<term>innovations</term>
-							<termNote type="partOfSpeech">noun</termNote>
+							<term>grassroots</term>
+							<termNote type="partOfSpeech">adjective</termNote>
 						</termGrp>
 					</ntig>
 					<descripGrp>
-						<descrip type="definition">Unique features developed for Firefox</descrip>
+						<descrip type="definition">A campaign or movement that’s led directly by the people in a community</descrip>
 					</descripGrp>
 				</langSet>
 				<langSet xml:lang="ru">
 					<ntig>
 						<termGrp>
-							<term>инновации</term>
+							<term>Инициатива снизу</term>
 						</termGrp>
 					</ntig>
 				</langSet>
@@ -1488,23 +1488,23 @@ A code used to recover a user's encrypted account information (such as bookmarks
 					</ntig>
 				</langSet>
 			</termEntry>
-			<termEntry id="c453">
-				<descrip type="context">We're campaigning to get big tech platforms like Google, Facebook and Twitter to become more transparent about how political messages are spread so that we can detect and stop misinformation.</descrip>
+			<termEntry id="c463">
+				<descrip type="context">Explore some of our latest innovations</descrip>
 				<langSet xml:lang="en-US">
 					<ntig>
 						<termGrp>
-							<term>misinformation</term>
+							<term>innovations</term>
 							<termNote type="partOfSpeech">noun</termNote>
 						</termGrp>
 					</ntig>
 					<descripGrp>
-						<descrip type="definition">False or misleading information (also known as disinformation) presented as truth that’s shared mistakenly by people who are unaware that it’s false.See also the definition of disinformation.</descrip>
+						<descrip type="definition">Unique features developed for Firefox</descrip>
 					</descripGrp>
 				</langSet>
 				<langSet xml:lang="ru">
 					<ntig>
 						<termGrp>
-							<term>ошибочная информация</term>
+							<term>инновации</term>
 						</termGrp>
 					</ntig>
 				</langSet>
@@ -1677,27 +1677,6 @@ A code used to recover a user's encrypted account information (such as bookmarks
 					</ntig>
 				</langSet>
 			</termEntry>
-			<termEntry id="c467">
-				<descrip type="context">Use market-leading research to deliver powerful grassroots-led campaigns.</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>grassroots</term>
-							<termNote type="partOfSpeech">adjective</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">A campaign or movement that’s led directly by the people in a community</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="ru">
-					<ntig>
-						<termGrp>
-							<term>Инициатива снизу</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
 			<termEntry id="c452">
 				<descrip type="context">They can’t access the device’s underlying capabilities the way that native apps can</descrip>
 				<langSet xml:lang="en-US">
@@ -1736,6 +1715,27 @@ A code used to recover a user's encrypted account information (such as bookmarks
 					<ntig>
 						<termGrp>
 							<term>настройка</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c453">
+				<descrip type="context">We're campaigning to get big tech platforms like Google, Facebook and Twitter to become more transparent about how political messages are spread so that we can detect and stop misinformation.</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>misinformation</term>
+							<termNote type="partOfSpeech">noun</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">False or misleading information (also known as disinformation) presented as truth that’s shared mistakenly by people who are unaware that it’s false.See also the definition of disinformation.</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="ru">
+					<ntig>
+						<termGrp>
+							<term>ошибочная информация</term>
 						</termGrp>
 					</ntig>
 				</langSet>

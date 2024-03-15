@@ -163,6 +163,27 @@
 					</ntig>
 				</langSet>
 			</termEntry>
+			<termEntry id="c587">
+				<descrip type="context">The response from the OCSP server was corrupted or improperly formed</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>corrupt</term>
+							<termNote type="partOfSpeech">verb</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">Change something from its original, correct form.</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="sv-SE">
+					<ntig>
+						<termGrp>
+							<term>skada</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
 			<termEntry id="c621">
 				<descrip type="context">Your add-ons and customizations have been removed and your browser settings have been restored to their defaults.</descrip>
 				<langSet xml:lang="en-US">
@@ -243,6 +264,27 @@
 					<ntig>
 						<termGrp>
 							<term>bokmärke</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c543">
+				<descrip type="context">Websites may load external ads, videos, and other content that contain tracking code. Blocking tracking content can help sites load faster, but some buttons, forms, and login fields might not work.</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>Tracking Content</term>
+							<termNote type="partOfSpeech">noun</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">Tracking code hidden in ads, videos, and other in-page content. Blocking them can cause some websites to break.</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="sv-SE">
+					<ntig>
+						<termGrp>
+							<term>Spårningsinnehåll</term>
 						</termGrp>
 					</ntig>
 				</langSet>
@@ -352,6 +394,27 @@
 					</ntig>
 				</langSet>
 			</termEntry>
+			<termEntry id="c565">
+				<descrip type="context">Select which items to import</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>import</term>
+							<termNote type="partOfSpeech">verb</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">Copy or move data from one program to another, including importing data from an external source (for example, bookmarks)</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="sv-SE">
+					<ntig>
+						<termGrp>
+							<term>importera</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
 			<termEntry id="c575">
 				<descrip type="context">Encrypt This Message</descrip>
 				<langSet xml:lang="en-US">
@@ -411,27 +474,6 @@
 					<ntig>
 						<termGrp>
 							<term>tillägg</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
-			<termEntry id="c565">
-				<descrip type="context">Select which items to import</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>import</term>
-							<termNote type="partOfSpeech">verb</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">Copy or move data from one program to another, including importing data from an external source (for example, bookmarks)</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="sv-SE">
-					<ntig>
-						<termGrp>
-							<term>importera</term>
 						</termGrp>
 					</ntig>
 				</langSet>
@@ -667,27 +709,6 @@
 					</ntig>
 				</langSet>
 			</termEntry>
-			<termEntry id="c540">
-				<descrip type="context">Your email and authentication are sent unencrypted so your password and your message could easily be read by other people</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>unencrypted</term>
-							<termNote type="partOfSpeech">adjective</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">Not encrypted, and thus more vulnerable to unauthorized access. Note that "encoded" and "encrypted" are not synonyms (see definition for "encoded").</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="sv-SE">
-					<ntig>
-						<termGrp>
-							<term>okrypterad</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
 			<termEntry id="c538">
 				<descrip type="context">Disabling the Safe Browsing feature is not recommended as it may result in you going to unsafe sites</descrip>
 				<langSet xml:lang="en-US">
@@ -751,23 +772,23 @@
 					</ntig>
 				</langSet>
 			</termEntry>
-			<termEntry id="c543">
-				<descrip type="context">Websites may load external ads, videos, and other content that contain tracking code. Blocking tracking content can help sites load faster, but some buttons, forms, and login fields might not work.</descrip>
+			<termEntry id="c540">
+				<descrip type="context">Your email and authentication are sent unencrypted so your password and your message could easily be read by other people</descrip>
 				<langSet xml:lang="en-US">
 					<ntig>
 						<termGrp>
-							<term>Tracking Content</term>
-							<termNote type="partOfSpeech">noun</termNote>
+							<term>unencrypted</term>
+							<termNote type="partOfSpeech">adjective</termNote>
 						</termGrp>
 					</ntig>
 					<descripGrp>
-						<descrip type="definition">Tracking code hidden in ads, videos, and other in-page content. Blocking them can cause some websites to break.</descrip>
+						<descrip type="definition">Not encrypted, and thus more vulnerable to unauthorized access. Note that "encoded" and "encrypted" are not synonyms (see definition for "encoded").</descrip>
 					</descripGrp>
 				</langSet>
 				<langSet xml:lang="sv-SE">
 					<ntig>
 						<termGrp>
-							<term>Spårningsinnehåll</term>
+							<term>okrypterad</term>
 						</termGrp>
 					</ntig>
 				</langSet>
@@ -831,27 +852,6 @@
 					<ntig>
 						<termGrp>
 							<term>korrupt</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
-			<termEntry id="c587">
-				<descrip type="context">The response from the OCSP server was corrupted or improperly formed</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>corrupt</term>
-							<termNote type="partOfSpeech">verb</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">Change something from its original, correct form.</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="sv-SE">
-					<ntig>
-						<termGrp>
-							<term>skada</term>
 						</termGrp>
 					</ntig>
 				</langSet>
@@ -1699,6 +1699,27 @@ angreppswebbplats</term>
 					</ntig>
 				</langSet>
 			</termEntry>
+			<termEntry id="c586">
+				<descrip type="context">Invalid or corrupted PDF file</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>corrupted</term>
+							<termNote type="partOfSpeech">adjective</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">Changed from its original, correct form.</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="sv-SE">
+					<ntig>
+						<termGrp>
+							<term>skadad</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
 			<termEntry id="c524">
 				<descrip type="context">A Geolocation request can only be fulfilled in a secure context.This scratchpad executes in the Browser context.</descrip>
 				<langSet xml:lang="en-US">
@@ -1717,27 +1738,6 @@ angreppswebbplats</term>
 						<termGrp>
 							<term>sammanhang
 kontext</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
-			<termEntry id="c586">
-				<descrip type="context">Invalid or corrupted PDF file</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>corrupted</term>
-							<termNote type="partOfSpeech">adjective</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">Changed from its original, correct form.</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="sv-SE">
-					<ntig>
-						<termGrp>
-							<term>skadad</term>
 						</termGrp>
 					</ntig>
 				</langSet>

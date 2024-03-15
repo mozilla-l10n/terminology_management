@@ -268,6 +268,27 @@
 					</ntig>
 				</langSet>
 			</termEntry>
+			<termEntry id="c597">
+				<descrip type="context">You have blocked autoplay media with sound for this website.</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>autoplay</term>
+							<termNote type="partOfSpeech">noun</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">A functionality that allows media, like video or audio, to play automatically with sound, without action from a user.</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="hr">
+					<ntig>
+						<termGrp>
+							<term>automatska reprodukcija</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
 			<termEntry id="c628">
 				<descrip type="context">Sign in to sync tabs, bookmarks, passwords, and more.</descrip>
 				<langSet xml:lang="en-US">
@@ -453,27 +474,6 @@
 					<ntig>
 						<termGrp>
 							<term>autentificirano</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
-			<termEntry id="c597">
-				<descrip type="context">You have blocked autoplay media with sound for this website.</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>autoplay</term>
-							<termNote type="partOfSpeech">noun</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">A functionality that allows media, like video or audio, to play automatically with sound, without action from a user.</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="hr">
-					<ntig>
-						<termGrp>
-							<term>automatska reprodukcija</term>
 						</termGrp>
 					</ntig>
 				</langSet>
@@ -688,48 +688,6 @@
 					</ntig>
 				</langSet>
 			</termEntry>
-			<termEntry id="c584">
-				<descrip type="context">Cryptominers use your system’s computing power to mine digital money. Cryptomining scripts drain your battery, slow down your computer, and can increase your energy bill.</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>cryptominer</term>
-							<termNote type="partOfSpeech">noun</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">Scripts on websites that can use a computer’s resources to mine cryptocurrency without a user’s knowledge.</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="hr">
-					<ntig>
-						<termGrp>
-							<term>kriptorudari</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
-			<termEntry id="c539">
-				<descrip type="context">A script from the extension is running on this page, and making it unresponsive.</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>unresponsive</term>
-							<termNote type="partOfSpeech">adjective</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">Not reacting or responding</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="hr">
-					<ntig>
-						<termGrp>
-							<term>ne reagira, ne odgovara</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
 			<termEntry id="c583">
 				<descrip type="context"></descrip>
 				<langSet xml:lang="en-US">
@@ -747,6 +705,27 @@
 					<ntig>
 						<termGrp>
 							<term>kriptorudarenje</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c584">
+				<descrip type="context">Cryptominers use your system’s computing power to mine digital money. Cryptomining scripts drain your battery, slow down your computer, and can increase your energy bill.</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>cryptominer</term>
+							<termNote type="partOfSpeech">noun</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">Scripts on websites that can use a computer’s resources to mine cryptocurrency without a user’s knowledge.</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="hr">
+					<ntig>
+						<termGrp>
+							<term>kriptorudari</term>
 						</termGrp>
 					</ntig>
 				</langSet>
@@ -1692,6 +1671,27 @@
 					<ntig>
 						<termGrp>
 							<term>nešifrirano</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c539">
+				<descrip type="context">A script from the extension is running on this page, and making it unresponsive.</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>unresponsive</term>
+							<termNote type="partOfSpeech">adjective</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">Not reacting or responding</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="hr">
+					<ntig>
+						<termGrp>
+							<term>ne reagira, ne odgovara</term>
 						</termGrp>
 					</ntig>
 				</langSet>

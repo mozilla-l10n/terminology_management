@@ -247,27 +247,6 @@
 					</ntig>
 				</langSet>
 			</termEntry>
-			<termEntry id="c628">
-				<descrip type="context">Sign in to sync tabs, bookmarks, passwords, and more.</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>sign in</term>
-							<termNote type="partOfSpeech">verb</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">To access an account or software through the usage of account information such as user id and password.</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="fr">
-					<ntig>
-						<termGrp>
-							<term>se connecter</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
 			<termEntry id="c546">
 				<descrip type="context">Unable to digitally sign data required to verify your certificate.</descrip>
 				<langSet xml:lang="en-US">
@@ -348,6 +327,27 @@
 					<ntig>
 						<termGrp>
 							<term>études</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c628">
+				<descrip type="context">Sign in to sync tabs, bookmarks, passwords, and more.</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>sign in</term>
+							<termNote type="partOfSpeech">verb</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">To access an account or software through the usage of account information such as user id and password.</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="fr">
+					<ntig>
+						<termGrp>
+							<term>se connecter</term>
 						</termGrp>
 					</ntig>
 				</langSet>

@@ -228,27 +228,6 @@ Note that this is distinct from "review analyzer", which is the name of the tool
 					</ntig>
 				</langSet>
 			</termEntry>
-			<termEntry id="c537">
-				<descrip type="context">Query OCSP responder servers to confirm the current validity of certificates</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>validity</term>
-							<termNote type="partOfSpeech">noun</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">The state of being valid, authentic or genuine.</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="es-ES">
-					<ntig>
-						<termGrp>
-							<term>validez</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
 			<termEntry id="c596">
 				<descrip type="context">Bookmarks you add will still be saved on your device.</descrip>
 				<langSet xml:lang="en-US">
@@ -308,6 +287,27 @@ Note that this is distinct from "review analyzer", which is the name of the tool
 					<ntig>
 						<termGrp>
 							<term>validar</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c537">
+				<descrip type="context">Query OCSP responder servers to confirm the current validity of certificates</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>validity</term>
+							<termNote type="partOfSpeech">noun</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">The state of being valid, authentic or genuine.</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="es-ES">
+					<ntig>
+						<termGrp>
+							<term>validez</term>
 						</termGrp>
 					</ntig>
 				</langSet>

@@ -436,23 +436,23 @@
 					</ntig>
 				</langSet>
 			</termEntry>
-			<termEntry id="c583">
-				<descrip type="context"></descrip>
+			<termEntry id="c595">
+				<descrip type="context">Bookmark this page</descrip>
 				<langSet xml:lang="en-US">
 					<ntig>
 						<termGrp>
-							<term>cryptomining</term>
-							<termNote type="partOfSpeech">noun</termNote>
+							<term>bookmark</term>
+							<termNote type="partOfSpeech">verb</termNote>
 						</termGrp>
 					</ntig>
 					<descripGrp>
-						<descrip type="definition">A method of running scripts on websites that can use a computer’s resources to mine cryptocurrency without a user’s knowledge.</descrip>
+						<descrip type="definition">Create a shortcut that directs the browser to a specific webpage. Shortcuts may be added to the bookmark toolbar. Similar in functionality to "favorites" in Chrome and Internet Explorer, and "bookmarks" in Safari.</descrip>
 					</descripGrp>
 				</langSet>
 				<langSet xml:lang="sl">
 					<ntig>
 						<termGrp>
-							<term>kriptorudarjenje</term>
+							<term>dodati med zaznamke</term>
 						</termGrp>
 					</ntig>
 				</langSet>
@@ -478,23 +478,23 @@
 					</ntig>
 				</langSet>
 			</termEntry>
-			<termEntry id="c595">
-				<descrip type="context">Bookmark this page</descrip>
+			<termEntry id="c583">
+				<descrip type="context"></descrip>
 				<langSet xml:lang="en-US">
 					<ntig>
 						<termGrp>
-							<term>bookmark</term>
-							<termNote type="partOfSpeech">verb</termNote>
+							<term>cryptomining</term>
+							<termNote type="partOfSpeech">noun</termNote>
 						</termGrp>
 					</ntig>
 					<descripGrp>
-						<descrip type="definition">Create a shortcut that directs the browser to a specific webpage. Shortcuts may be added to the bookmark toolbar. Similar in functionality to "favorites" in Chrome and Internet Explorer, and "bookmarks" in Safari.</descrip>
+						<descrip type="definition">A method of running scripts on websites that can use a computer’s resources to mine cryptocurrency without a user’s knowledge.</descrip>
 					</descripGrp>
 				</langSet>
 				<langSet xml:lang="sl">
 					<ntig>
 						<termGrp>
-							<term>dodati med zaznamke</term>
+							<term>kriptorudarjenje</term>
 						</termGrp>
 					</ntig>
 				</langSet>
@@ -982,27 +982,6 @@
 					</ntig>
 				</langSet>
 			</termEntry>
-			<termEntry id="c521">
-				<descrip type="context"></descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>Bug report</term>
-							<termNote type="partOfSpeech">noun</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">The detailed description accompanying a bug or the act of reporting the bug itself. (Sometimes just called bug)</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="sl">
-					<ntig>
-						<termGrp>
-							<term>poročilo o napaki</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
 			<termEntry id="c594">
 				<descrip type="context">The certificate used to sign the message was issued by an unknown certificate authority.</descrip>
 				<langSet xml:lang="en-US">
@@ -1381,6 +1360,27 @@
 					</ntig>
 				</langSet>
 			</termEntry>
+			<termEntry id="c521">
+				<descrip type="context"></descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>Bug report</term>
+							<termNote type="partOfSpeech">noun</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">The detailed description accompanying a bug or the act of reporting the bug itself. (Sometimes just called bug)</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="sl">
+					<ntig>
+						<termGrp>
+							<term>poročilo o napaki</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
 			<termEntry id="c547">
 				<descrip type="context">The signer's certificate could not be found</descrip>
 				<langSet xml:lang="en-US">
@@ -1488,27 +1488,6 @@ Note that this is distinct from "review analyzer", which is the name of the tool
 					</ntig>
 				</langSet>
 			</termEntry>
-			<termEntry id="c630">
-				<descrip type="context">In this Privacy Notice, we explain what data Firefox shares and point you to settings to share even less. We also adhere to the practices outlined in the Mozilla privacy policy for how we receive, handle and share information we collect from Firefox.</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>Privacy Notice</term>
-							<termNote type="partOfSpeech">noun</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">Notice that explains what data s Mozilla product collected, shared and why. It may also include additional information such as settings that can change how much is shared. One example is Firefox browser's privacy notice which can be found here: https://www.mozilla.org/en-US/privacy/firefox/</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="sl">
-					<ntig>
-						<termGrp>
-							<term>obvestilo o zasebnosti</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
 			<termEntry id="c564">
 				<descrip type="context">Firefox has detected an insecure site. Form Autofill is temporarily disabled.</descrip>
 				<langSet xml:lang="en-US">
@@ -1568,6 +1547,27 @@ Note that this is distinct from "review analyzer", which is the name of the tool
 					<ntig>
 						<termGrp>
 							<term>kontekst</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c630">
+				<descrip type="context">In this Privacy Notice, we explain what data Firefox shares and point you to settings to share even less. We also adhere to the practices outlined in the Mozilla privacy policy for how we receive, handle and share information we collect from Firefox.</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>Privacy Notice</term>
+							<termNote type="partOfSpeech">noun</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">Notice that explains what data s Mozilla product collected, shared and why. It may also include additional information such as settings that can change how much is shared. One example is Firefox browser's privacy notice which can be found here: https://www.mozilla.org/en-US/privacy/firefox/</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="sl">
+					<ntig>
+						<termGrp>
+							<term>obvestilo o zasebnosti</term>
 						</termGrp>
 					</ntig>
 				</langSet>
@@ -1824,27 +1824,6 @@ Note that this is distinct from "review analyzer", which is the name of the tool
 					</ntig>
 				</langSet>
 			</termEntry>
-			<termEntry id="c582">
-				<descrip type="context">Turning this on will allow you to debug add-ons</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>debug</term>
-							<termNote type="partOfSpeech">verb</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">Identify and remove errors from computer sofware</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="sl">
-					<ntig>
-						<termGrp>
-							<term>odpravljati napake</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
 			<termEntry id="c543">
 				<descrip type="context">Websites may load external ads, videos, and other content that contain tracking code. Blocking tracking content can help sites load faster, but some buttons, forms, and login fields might not work.</descrip>
 				<langSet xml:lang="en-US">
@@ -1862,6 +1841,27 @@ Note that this is distinct from "review analyzer", which is the name of the tool
 					<ntig>
 						<termGrp>
 							<term>sledilna vsebina</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c582">
+				<descrip type="context">Turning this on will allow you to debug add-ons</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>debug</term>
+							<termNote type="partOfSpeech">verb</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">Identify and remove errors from computer sofware</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="sl">
+					<ntig>
+						<termGrp>
+							<term>odpravljati napake</term>
 						</termGrp>
 					</ntig>
 				</langSet>
