@@ -247,6 +247,27 @@
 					</ntig>
 				</langSet>
 			</termEntry>
+			<termEntry id="c528">
+				<descrip type="context">This option sends one invitation email per attendee</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>attendee</term>
+							<termNote type="partOfSpeech">noun</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">a person who is invited to attend an event, specifically via a calendar invitation</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="es-MX">
+					<ntig>
+						<termGrp>
+							<term>asistente</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
 			<termEntry id="c621">
 				<descrip type="context">Your add-ons and customizations have been removed and your browser settings have been restored to their defaults.</descrip>
 				<langSet xml:lang="en-US">
@@ -348,27 +369,6 @@
 					<ntig>
 						<termGrp>
 							<term>Sitio de ataque</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
-			<termEntry id="c528">
-				<descrip type="context">This option sends one invitation email per attendee</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>attendee</term>
-							<termNote type="partOfSpeech">noun</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">a person who is invited to attend an event, specifically via a calendar invitation</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="es-MX">
-					<ntig>
-						<termGrp>
-							<term>asistente</term>
 						</termGrp>
 					</ntig>
 				</langSet>
@@ -541,23 +541,23 @@
 					</ntig>
 				</langSet>
 			</termEntry>
-			<termEntry id="c587">
-				<descrip type="context">The response from the OCSP server was corrupted or improperly formed</descrip>
+			<termEntry id="c576">
+				<descrip type="context">Media resource could not be decoded</descrip>
 				<langSet xml:lang="en-US">
 					<ntig>
 						<termGrp>
-							<term>corrupt</term>
+							<term>decode</term>
 							<termNote type="partOfSpeech">verb</termNote>
 						</termGrp>
 					</ntig>
 					<descripGrp>
-						<descrip type="definition">Change something from its original, correct form.</descrip>
+						<descrip type="definition">Translating date or information that has been encoded back into its original, comprehensible format.</descrip>
 					</descripGrp>
 				</langSet>
 				<langSet xml:lang="es-MX">
 					<ntig>
 						<termGrp>
-							<term>corromper</term>
+							<term>decodificar</term>
 						</termGrp>
 					</ntig>
 				</langSet>
@@ -583,23 +583,23 @@
 					</ntig>
 				</langSet>
 			</termEntry>
-			<termEntry id="c576">
-				<descrip type="context">Media resource could not be decoded</descrip>
+			<termEntry id="c587">
+				<descrip type="context">The response from the OCSP server was corrupted or improperly formed</descrip>
 				<langSet xml:lang="en-US">
 					<ntig>
 						<termGrp>
-							<term>decode</term>
+							<term>corrupt</term>
 							<termNote type="partOfSpeech">verb</termNote>
 						</termGrp>
 					</ntig>
 					<descripGrp>
-						<descrip type="definition">Translating date or information that has been encoded back into its original, comprehensible format.</descrip>
+						<descrip type="definition">Change something from its original, correct form.</descrip>
 					</descripGrp>
 				</langSet>
 				<langSet xml:lang="es-MX">
 					<ntig>
 						<termGrp>
-							<term>decodificar</term>
+							<term>corromper</term>
 						</termGrp>
 					</ntig>
 				</langSet>
@@ -1255,27 +1255,6 @@
 					</ntig>
 				</langSet>
 			</termEntry>
-			<termEntry id="c595">
-				<descrip type="context">Bookmark this page</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>bookmark</term>
-							<termNote type="partOfSpeech">verb</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">Create a shortcut that directs the browser to a specific webpage. Shortcuts may be added to the bookmark toolbar. Similar in functionality to "favorites" in Chrome and Internet Explorer, and "bookmarks" in Safari.</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="es-MX">
-					<ntig>
-						<termGrp>
-							<term>marcar</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
 			<termEntry id="c530">
 				<descrip type="context">Resumes the main thread and continues execution following a breakpoint until the next breakpoint or the termination of the script</descrip>
 				<langSet xml:lang="en-US">
@@ -1503,6 +1482,27 @@
 					<ntig>
 						<termGrp>
 							<term>creador de huellas digitales</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c595">
+				<descrip type="context">Bookmark this page</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>bookmark</term>
+							<termNote type="partOfSpeech">verb</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">Create a shortcut that directs the browser to a specific webpage. Shortcuts may be added to the bookmark toolbar. Similar in functionality to "favorites" in Chrome and Internet Explorer, and "bookmarks" in Safari.</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="es-MX">
+					<ntig>
+						<termGrp>
+							<term>marcar</term>
 						</termGrp>
 					</ntig>
 				</langSet>
