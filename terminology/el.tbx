@@ -709,6 +709,27 @@
 					</ntig>
 				</langSet>
 			</termEntry>
+			<termEntry id="c545">
+				<descrip type="context">Blocking trackers and cookies can cause some websites to break.</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>trackers</term>
+							<termNote type="partOfSpeech">noun</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">Trackers are cookies, widgets, or invisible snippets of code used to monitor someone’s browsing history. Websites use trackers to gather analytics and statistics. Third-party trackers collect and send data about visited websites to other companies, often for advertising purposes. Advertisers use third-party trackers to show users personalized content and targeted ads.</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="el">
+					<ntig>
+						<termGrp>
+							<term>ιχνηλάτες</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
 			<termEntry id="c610">
 				<descrip type="context">This page is loaded from an extension</descrip>
 				<langSet xml:lang="en-US">
@@ -1150,27 +1171,6 @@
 					</ntig>
 				</langSet>
 			</termEntry>
-			<termEntry id="c545">
-				<descrip type="context">Blocking trackers and cookies can cause some websites to break.</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>trackers</term>
-							<termNote type="partOfSpeech">noun</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">Trackers are cookies, widgets, or invisible snippets of code used to monitor someone’s browsing history. Websites use trackers to gather analytics and statistics. Third-party trackers collect and send data about visited websites to other companies, often for advertising purposes. Advertisers use third-party trackers to show users personalized content and targeted ads.</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="el">
-					<ntig>
-						<termGrp>
-							<term>ιχνηλάτες</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
 			<termEntry id="c538">
 				<descrip type="context">Disabling the Safe Browsing feature is not recommended as it may result in you going to unsafe sites</descrip>
 				<langSet xml:lang="en-US">
@@ -1255,6 +1255,27 @@
 					</ntig>
 				</langSet>
 			</termEntry>
+			<termEntry id="c613">
+				<descrip type="context">The endpoint you are connecting to needs more information to authenticate this connection.</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>authenticate</term>
+							<termNote type="partOfSpeech">verb</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">To prove user identity, typically to gain access to a system or service</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="el">
+					<ntig>
+						<termGrp>
+							<term>κάνω έλεγχο ταυτότητας</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
 			<termEntry id="c617">
 				<descrip type="context">An attacker could easily reveal information which you thought to be safe</descrip>
 				<langSet xml:lang="en-US">
@@ -1314,27 +1335,6 @@
 					<ntig>
 						<termGrp>
 							<term>συμμετέχων</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
-			<termEntry id="c613">
-				<descrip type="context">The endpoint you are connecting to needs more information to authenticate this connection.</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>authenticate</term>
-							<termNote type="partOfSpeech">verb</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">To prove user identity, typically to gain access to a system or service</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="el">
-					<ntig>
-						<termGrp>
-							<term>κάνω έλεγχο ταυτότητας</term>
 						</termGrp>
 					</ntig>
 				</langSet>

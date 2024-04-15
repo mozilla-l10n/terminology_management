@@ -81,27 +81,6 @@ Note that this is distinct from "review analyzer", which is the name of the tool
 					</ntig>
 				</langSet>
 			</termEntry>
-			<termEntry id="c599">
-				<descrip type="context">These pages try to install programs that steal private information, use your computer to attack others, or damage your system.</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>attack</term>
-							<termNote type="partOfSpeech">verb</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">To take malicious action against, specifically via hacking and malware.</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="ko">
-					<ntig>
-						<termGrp>
-							<term>공격</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
 			<termEntry id="c617">
 				<descrip type="context">An attacker could easily reveal information which you thought to be safe</descrip>
 				<langSet xml:lang="en-US">
@@ -329,6 +308,27 @@ Note that this is distinct from "review analyzer", which is the name of the tool
 					<ntig>
 						<termGrp>
 							<term>인증 기관</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c599">
+				<descrip type="context">These pages try to install programs that steal private information, use your computer to attack others, or damage your system.</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>attack</term>
+							<termNote type="partOfSpeech">verb</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">To take malicious action against, specifically via hacking and malware.</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="ko">
+					<ntig>
+						<termGrp>
+							<term>공격</term>
 						</termGrp>
 					</ntig>
 				</langSet>
@@ -627,6 +627,27 @@ Note that this is distinct from "review analyzer", which is the name of the tool
 					</ntig>
 				</langSet>
 			</termEntry>
+			<termEntry id="c551">
+				<descrip type="context">%S wants to register an account with one of your security keys. You can connect and authorize one now, or cancel.</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>security keys</term>
+							<termNote type="partOfSpeech">noun</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">In Firefox the term security key refers specifically to a physical device that allows a user to authenticate, like a Yubikey. This is a standard definition that our security engineering team has arrived at with teams from Chrome and Safari.</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="ko">
+					<ntig>
+						<termGrp>
+							<term>보안 키</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
 			<termEntry id="c620">
 				<descrip type="context">If the image is relevant to the content of the document, you must supply alternate text that will appear in text-only browsers</descrip>
 				<langSet xml:lang="en-US">
@@ -644,27 +665,6 @@ Note that this is distinct from "review analyzer", which is the name of the tool
 					<ntig>
 						<termGrp>
 							<term>대체 텍스트</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
-			<termEntry id="c550">
-				<descrip type="context">As a security precaution, the browser does not automatically re-request sensitive documents</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>sensitive</term>
-							<termNote type="partOfSpeech">adjective</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">Requiring caution or additional care, especially referring to data that must be protected to safeguard the privacy or security of an individual or organization.</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="ko">
-					<ntig>
-						<termGrp>
-							<term>주의가 필요한</term>
 						</termGrp>
 					</ntig>
 				</langSet>
@@ -1152,23 +1152,23 @@ Note that this is distinct from "review analyzer", which is the name of the tool
 					</ntig>
 				</langSet>
 			</termEntry>
-			<termEntry id="c551">
-				<descrip type="context">%S wants to register an account with one of your security keys. You can connect and authorize one now, or cancel.</descrip>
+			<termEntry id="c550">
+				<descrip type="context">As a security precaution, the browser does not automatically re-request sensitive documents</descrip>
 				<langSet xml:lang="en-US">
 					<ntig>
 						<termGrp>
-							<term>security keys</term>
-							<termNote type="partOfSpeech">noun</termNote>
+							<term>sensitive</term>
+							<termNote type="partOfSpeech">adjective</termNote>
 						</termGrp>
 					</ntig>
 					<descripGrp>
-						<descrip type="definition">In Firefox the term security key refers specifically to a physical device that allows a user to authenticate, like a Yubikey. This is a standard definition that our security engineering team has arrived at with teams from Chrome and Safari.</descrip>
+						<descrip type="definition">Requiring caution or additional care, especially referring to data that must be protected to safeguard the privacy or security of an individual or organization.</descrip>
 					</descripGrp>
 				</langSet>
 				<langSet xml:lang="ko">
 					<ntig>
 						<termGrp>
-							<term>보안 키</term>
+							<term>주의가 필요한</term>
 						</termGrp>
 					</ntig>
 				</langSet>
@@ -1551,27 +1551,6 @@ Note that this is distinct from "review analyzer", which is the name of the tool
 					</ntig>
 				</langSet>
 			</termEntry>
-			<termEntry id="c569">
-				<descrip type="context">Fingerprinters collect settings from your browser and computer to create a profile of you. Using this digital fingerprint, they can track you across different websites.</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>fingerprinter</term>
-							<termNote type="partOfSpeech">noun</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">A fingerprinter is an entity that gathers information about browser users from configuration and settings information that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="ko">
-					<ntig>
-						<termGrp>
-							<term>디지털 지문</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
 			<termEntry id="c568">
 				<descrip type="context"></descrip>
 				<langSet xml:lang="en-US">
@@ -1583,6 +1562,27 @@ Note that this is distinct from "review analyzer", which is the name of the tool
 					</ntig>
 					<descripGrp>
 						<descrip type="definition">Fingerprinting is a method of tracking browser users by the configuration and settings information that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="ko">
+					<ntig>
+						<termGrp>
+							<term>디지털 지문</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c569">
+				<descrip type="context">Fingerprinters collect settings from your browser and computer to create a profile of you. Using this digital fingerprint, they can track you across different websites.</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>fingerprinter</term>
+							<termNote type="partOfSpeech">noun</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">A fingerprinter is an entity that gathers information about browser users from configuration and settings information that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.</descrip>
 					</descripGrp>
 				</langSet>
 				<langSet xml:lang="ko">
