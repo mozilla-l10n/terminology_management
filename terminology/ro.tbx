@@ -37,6 +37,48 @@
 					</ntig>
 				</langSet>
 			</termEntry>
+			<termEntry id="c579">
+				<descrip type="context">You cannot enable this filter</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>enable</term>
+							<termNote type="partOfSpeech">verb</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">Activate a feature</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="ro">
+					<ntig>
+						<termGrp>
+							<term>activa</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c578">
+				<descrip type="context">Check that the file, including symbols and accented letters, is encoded using the UTF-8 character encoding.</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>encode</term>
+							<termNote type="partOfSpeech">verb</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">Transforming data using a standard format or particular code so that it can be properly (and safely) consumed by a different type of system. The goal with encoding is to ensure that information can be properly consumed—this is different from "encyption," for which the goal is to keep information secret and safe from unauthorized access.</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="ro">
+					<ntig>
+						<termGrp>
+							<term>codifica</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
 			<termEntry id="c620">
 				<descrip type="context">If the image is relevant to the content of the document, you must supply alternate text that will appear in text-only browsers</descrip>
 				<langSet xml:lang="en-US">
@@ -75,6 +117,27 @@
 					<ntig>
 						<termGrp>
 							<term>atac</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c575">
+				<descrip type="context">Encrypt This Message</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>encrypt</term>
+							<termNote type="partOfSpeech">verb</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">Convert information or data into a code, especially to prevent unauthorized access. This is different from "encoding" in which the goal is to ensure that information can be properly consumed.</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="ro">
+					<ntig>
+						<termGrp>
+							<term>cripta</term>
 						</termGrp>
 					</ntig>
 				</langSet>
@@ -348,69 +411,6 @@
 					<ntig>
 						<termGrp>
 							<term>dezinformare</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
-			<termEntry id="c579">
-				<descrip type="context">You cannot enable this filter</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>enable</term>
-							<termNote type="partOfSpeech">verb</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">Activate a feature</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="ro">
-					<ntig>
-						<termGrp>
-							<term>activa</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
-			<termEntry id="c578">
-				<descrip type="context">Check that the file, including symbols and accented letters, is encoded using the UTF-8 character encoding.</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>encode</term>
-							<termNote type="partOfSpeech">verb</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">Transforming data using a standard format or particular code so that it can be properly (and safely) consumed by a different type of system. The goal with encoding is to ensure that information can be properly consumed—this is different from "encyption," for which the goal is to keep information secret and safe from unauthorized access.</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="ro">
-					<ntig>
-						<termGrp>
-							<term>codifica</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
-			<termEntry id="c575">
-				<descrip type="context">Encrypt This Message</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>encrypt</term>
-							<termNote type="partOfSpeech">verb</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">Convert information or data into a code, especially to prevent unauthorized access. This is different from "encoding" in which the goal is to ensure that information can be properly consumed.</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="ro">
-					<ntig>
-						<termGrp>
-							<term>cripta</term>
 						</termGrp>
 					</ntig>
 				</langSet>

@@ -205,27 +205,6 @@
 					</ntig>
 				</langSet>
 			</termEntry>
-			<termEntry id="c620">
-				<descrip type="context">If the image is relevant to the content of the document, you must supply alternate text that will appear in text-only browsers</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>alternate text</term>
-							<termNote type="partOfSpeech">noun</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">Text added to an HTML element (typically an image) to describe that element when it cannot be rendered. Also used by accessibility tools, like screen readers, to make non-textual elements accessible.</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="vi">
-					<ntig>
-						<termGrp>
-							<term>văn bản thay thế</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
 			<termEntry id="c534">
 				<descrip type="context">Open Web Authentication panel</descrip>
 				<langSet xml:lang="en-US">
@@ -453,6 +432,27 @@
 					<ntig>
 						<termGrp>
 							<term>tiện ích</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c620">
+				<descrip type="context">If the image is relevant to the content of the document, you must supply alternate text that will appear in text-only browsers</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>alternate text</term>
+							<termNote type="partOfSpeech">noun</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">Text added to an HTML element (typically an image) to describe that element when it cannot be rendered. Also used by accessibility tools, like screen readers, to make non-textual elements accessible.</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="vi">
+					<ntig>
+						<termGrp>
+							<term>văn bản thay thế</term>
 						</termGrp>
 					</ntig>
 				</langSet>
@@ -1381,23 +1381,23 @@
 					</ntig>
 				</langSet>
 			</termEntry>
-			<termEntry id="c552">
-				<descrip type="context">Search suggestions will not be shown in location bar results</descrip>
+			<termEntry id="c548">
+				<descrip type="context">Load this bookmark in the sidebar</descrip>
 				<langSet xml:lang="en-US">
 					<ntig>
 						<termGrp>
-							<term>search suggestion</term>
+							<term>sidebar</term>
 							<termNote type="partOfSpeech">noun</termNote>
 						</termGrp>
 					</ntig>
 					<descripGrp>
-						<descrip type="definition">A related search term suggested by a search engine</descrip>
+						<descrip type="definition">A pane that is displayed on either side of the Firefox browser window, next to the web page. Includes the the user's bookmarks, history, and synced tabs.</descrip>
 					</descripGrp>
 				</langSet>
 				<langSet xml:lang="vi">
 					<ntig>
 						<termGrp>
-							<term>đề xuất tìm kiếm</term>
+							<term>thanh lề</term>
 						</termGrp>
 					</ntig>
 				</langSet>
@@ -1423,23 +1423,23 @@
 					</ntig>
 				</langSet>
 			</termEntry>
-			<termEntry id="c546">
-				<descrip type="context">Unable to digitally sign data required to verify your certificate.</descrip>
+			<termEntry id="c552">
+				<descrip type="context">Search suggestions will not be shown in location bar results</descrip>
 				<langSet xml:lang="en-US">
 					<ntig>
 						<termGrp>
-							<term>sign</term>
-							<termNote type="partOfSpeech">verb</termNote>
+							<term>search suggestion</term>
+							<termNote type="partOfSpeech">noun</termNote>
 						</termGrp>
 					</ntig>
 					<descripGrp>
-						<descrip type="definition">To issue a digital certificate as verification of a website's identity; or, to enter user credentials to access a system.</descrip>
+						<descrip type="definition">A related search term suggested by a search engine</descrip>
 					</descripGrp>
 				</langSet>
 				<langSet xml:lang="vi">
 					<ntig>
 						<termGrp>
-							<term>ký</term>
+							<term>đề xuất tìm kiếm</term>
 						</termGrp>
 					</ntig>
 				</langSet>
@@ -1465,23 +1465,23 @@
 					</ntig>
 				</langSet>
 			</termEntry>
-			<termEntry id="c548">
-				<descrip type="context">Load this bookmark in the sidebar</descrip>
+			<termEntry id="c546">
+				<descrip type="context">Unable to digitally sign data required to verify your certificate.</descrip>
 				<langSet xml:lang="en-US">
 					<ntig>
 						<termGrp>
-							<term>sidebar</term>
-							<termNote type="partOfSpeech">noun</termNote>
+							<term>sign</term>
+							<termNote type="partOfSpeech">verb</termNote>
 						</termGrp>
 					</ntig>
 					<descripGrp>
-						<descrip type="definition">A pane that is displayed on either side of the Firefox browser window, next to the web page. Includes the the user's bookmarks, history, and synced tabs.</descrip>
+						<descrip type="definition">To issue a digital certificate as verification of a website's identity; or, to enter user credentials to access a system.</descrip>
 					</descripGrp>
 				</langSet>
 				<langSet xml:lang="vi">
 					<ntig>
 						<termGrp>
-							<term>thanh lề</term>
+							<term>ký</term>
 						</termGrp>
 					</ntig>
 				</langSet>
@@ -1528,27 +1528,6 @@
 					</ntig>
 				</langSet>
 			</termEntry>
-			<termEntry id="c530">
-				<descrip type="context">Resumes the main thread and continues execution following a breakpoint until the next breakpoint or the termination of the script</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>breakpoint</term>
-							<termNote type="partOfSpeech">noun</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">Intentional stop point in the code of a computer program</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="vi">
-					<ntig>
-						<termGrp>
-							<term>điểm dừng</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
 			<termEntry id="c521">
 				<descrip type="context"></descrip>
 				<langSet xml:lang="en-US">
@@ -1566,6 +1545,27 @@
 					<ntig>
 						<termGrp>
 							<term>Báo cáo lỗi</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c530">
+				<descrip type="context">Resumes the main thread and continues execution following a breakpoint until the next breakpoint or the termination of the script</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>breakpoint</term>
+							<termNote type="partOfSpeech">noun</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">Intentional stop point in the code of a computer program</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="vi">
+					<ntig>
+						<termGrp>
+							<term>điểm dừng</term>
 						</termGrp>
 					</ntig>
 				</langSet>
