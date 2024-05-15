@@ -121,27 +121,6 @@
 					</ntig>
 				</langSet>
 			</termEntry>
-			<termEntry id="c537">
-				<descrip type="context">Query OCSP responder servers to confirm the current validity of certificates</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>validity</term>
-							<termNote type="partOfSpeech">noun</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">The state of being valid, authentic or genuine.</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="cs">
-					<ntig>
-						<termGrp>
-							<term>platnost, doba platnosti</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
 			<termEntry id="c538">
 				<descrip type="context">Disabling the Safe Browsing feature is not recommended as it may result in you going to unsafe sites</descrip>
 				<langSet xml:lang="en-US">
@@ -268,23 +247,23 @@
 					</ntig>
 				</langSet>
 			</termEntry>
-			<termEntry id="c550">
-				<descrip type="context">As a security precaution, the browser does not automatically re-request sensitive documents</descrip>
+			<termEntry id="c537">
+				<descrip type="context">Query OCSP responder servers to confirm the current validity of certificates</descrip>
 				<langSet xml:lang="en-US">
 					<ntig>
 						<termGrp>
-							<term>sensitive</term>
-							<termNote type="partOfSpeech">adjective</termNote>
+							<term>validity</term>
+							<termNote type="partOfSpeech">noun</termNote>
 						</termGrp>
 					</ntig>
 					<descripGrp>
-						<descrip type="definition">Requiring caution or additional care, especially referring to data that must be protected to safeguard the privacy or security of an individual or organization.</descrip>
+						<descrip type="definition">The state of being valid, authentic or genuine.</descrip>
 					</descripGrp>
 				</langSet>
 				<langSet xml:lang="cs">
 					<ntig>
 						<termGrp>
-							<term>důvěrný, citlivý</term>
+							<term>platnost, doba platnosti</term>
 						</termGrp>
 					</ntig>
 				</langSet>
@@ -306,27 +285,6 @@
 					<ntig>
 						<termGrp>
 							<term>bezpečnostní klíče</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
-			<termEntry id="c553">
-				<descrip type="context">Revert Bookmarks; Do you want to revert the changes you made to this scratchpad?</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>revert</term>
-							<termNote type="partOfSpeech">verb</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">Return to previous stage</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="cs">
-					<ntig>
-						<termGrp>
-							<term>obnovit, vrátit zpět, zrušit</term>
 						</termGrp>
 					</ntig>
 				</langSet>
@@ -432,6 +390,48 @@
 					<ntig>
 						<termGrp>
 							<term>přepsat</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c550">
+				<descrip type="context">As a security precaution, the browser does not automatically re-request sensitive documents</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>sensitive</term>
+							<termNote type="partOfSpeech">adjective</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">Requiring caution or additional care, especially referring to data that must be protected to safeguard the privacy or security of an individual or organization.</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="cs">
+					<ntig>
+						<termGrp>
+							<term>důvěrný, citlivý</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c553">
+				<descrip type="context">Revert Bookmarks; Do you want to revert the changes you made to this scratchpad?</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>revert</term>
+							<termNote type="partOfSpeech">verb</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">Return to previous stage</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="cs">
+					<ntig>
+						<termGrp>
+							<term>obnovit, vrátit zpět, zrušit</term>
 						</termGrp>
 					</ntig>
 				</langSet>
@@ -604,27 +604,6 @@
 					</ntig>
 				</langSet>
 			</termEntry>
-			<termEntry id="c575">
-				<descrip type="context">Encrypt This Message</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>encrypt</term>
-							<termNote type="partOfSpeech">verb</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">Convert information or data into a code, especially to prevent unauthorized access. This is different from "encoding" in which the goal is to ensure that information can be properly consumed.</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="cs">
-					<ntig>
-						<termGrp>
-							<term>šifrovat, zašifrovat</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
 			<termEntry id="c576">
 				<descrip type="context">Media resource could not be decoded</descrip>
 				<langSet xml:lang="en-US">
@@ -667,27 +646,6 @@
 					</ntig>
 				</langSet>
 			</termEntry>
-			<termEntry id="c581">
-				<descrip type="context">This web page has been reported as a deceptive site and has been blocked</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>deceptive site</term>
-							<termNote type="partOfSpeech">noun</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">A malicious website that impersonates a legitimate one in order to trick users into providing sensitive information such as passwords, account details, or credit card numbers</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="cs">
-					<ntig>
-						<termGrp>
-							<term>klamavá stránka</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
 			<termEntry id="c582">
 				<descrip type="context">Turning this on will allow you to debug add-ons</descrip>
 				<langSet xml:lang="en-US">
@@ -726,6 +684,48 @@
 					<ntig>
 						<termGrp>
 							<term>oznámení o používání cookies, cookie lišta</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c575">
+				<descrip type="context">Encrypt This Message</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>encrypt</term>
+							<termNote type="partOfSpeech">verb</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">Convert information or data into a code, especially to prevent unauthorized access. This is different from "encoding" in which the goal is to ensure that information can be properly consumed.</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="cs">
+					<ntig>
+						<termGrp>
+							<term>šifrovat, zašifrovat</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c581">
+				<descrip type="context">This web page has been reported as a deceptive site and has been blocked</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>deceptive site</term>
+							<termNote type="partOfSpeech">noun</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">A malicious website that impersonates a legitimate one in order to trick users into providing sensitive information such as passwords, account details, or credit card numbers</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="cs">
+					<ntig>
+						<termGrp>
+							<term>klamavá stránka</term>
 						</termGrp>
 					</ntig>
 				</langSet>
@@ -898,27 +898,6 @@
 					</ntig>
 				</langSet>
 			</termEntry>
-			<termEntry id="c599">
-				<descrip type="context">These pages try to install programs that steal private information, use your computer to attack others, or damage your system.</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>attack</term>
-							<termNote type="partOfSpeech">verb</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">To take malicious action against, specifically via hacking and malware.</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="cs">
-					<ntig>
-						<termGrp>
-							<term>(za)útočit</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
 			<termEntry id="c629">
 				<descrip type="context">With Firefox on all your devices, you can access bookmarks, tabs and passwords with one easy sign-in.</descrip>
 				<langSet xml:lang="en-US">
@@ -1003,6 +982,27 @@
 					</ntig>
 				</langSet>
 			</termEntry>
+			<termEntry id="c599">
+				<descrip type="context">These pages try to install programs that steal private information, use your computer to attack others, or damage your system.</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>attack</term>
+							<termNote type="partOfSpeech">verb</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">To take malicious action against, specifically via hacking and malware.</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="cs">
+					<ntig>
+						<termGrp>
+							<term>(za)útočit</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
 			<termEntry id="c620">
 				<descrip type="context">If the image is relevant to the content of the document, you must supply alternate text that will appear in text-only browsers</descrip>
 				<langSet xml:lang="en-US">
@@ -1020,27 +1020,6 @@
 					<ntig>
 						<termGrp>
 							<term>alternativní text</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
-			<termEntry id="c621">
-				<descrip type="context">Your add-ons and customizations have been removed and your browser settings have been restored to their defaults.</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>add-on</term>
-							<termNote type="partOfSpeech">noun</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">A Firefox-specific umbrella term that describes tools (including extensions and themes) that users can install to modify, customize, and extend the functionality of Firefox. Avoid using "add-ons" and "extensions" interchangeably (see https://wiki.mozilla.org/Add-ons/Terminology#Usage_Guidelines).</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="cs">
-					<ntig>
-						<termGrp>
-							<term>doplněk</term>
 						</termGrp>
 					</ntig>
 				</langSet>
@@ -1066,6 +1045,48 @@
 					</ntig>
 				</langSet>
 			</termEntry>
+			<termEntry id="c598">
+				<descrip type="context">Warning: Contains unauthenticated content</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>authenticated</term>
+							<termNote type="partOfSpeech">adjective</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">User identity has been proven for access to a system or service</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="cs">
+					<ntig>
+						<termGrp>
+							<term>autentizovaný, ověřený</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c621">
+				<descrip type="context">Your add-ons and customizations have been removed and your browser settings have been restored to their defaults.</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>add-on</term>
+							<termNote type="partOfSpeech">noun</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">A Firefox-specific umbrella term that describes tools (including extensions and themes) that users can install to modify, customize, and extend the functionality of Firefox. Avoid using "add-ons" and "extensions" interchangeably (see https://wiki.mozilla.org/Add-ons/Terminology#Usage_Guidelines).</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="cs">
+					<ntig>
+						<termGrp>
+							<term>doplněk</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
 			<termEntry id="c579">
 				<descrip type="context">You cannot enable this filter</descrip>
 				<langSet xml:lang="en-US">
@@ -1083,6 +1104,27 @@
 					<ntig>
 						<termGrp>
 							<term>povolit, zapnout</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c578">
+				<descrip type="context">Check that the file, including symbols and accented letters, is encoded using the UTF-8 character encoding.</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>encode</term>
+							<termNote type="partOfSpeech">verb</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">Transforming data using a standard format or particular code so that it can be properly (and safely) consumed by a different type of system. The goal with encoding is to ensure that information can be properly consumed—this is different from "encyption," for which the goal is to keep information secret and safe from unauthorized access.</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="cs">
+					<ntig>
+						<termGrp>
+							<term>kódovat, zakódovat</term>
 						</termGrp>
 					</ntig>
 				</langSet>
@@ -1125,48 +1167,6 @@
 					<ntig>
 						<termGrp>
 							<term>nereaguje, neodpovídá</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
-			<termEntry id="c598">
-				<descrip type="context">Warning: Contains unauthenticated content</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>authenticated</term>
-							<termNote type="partOfSpeech">adjective</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">User identity has been proven for access to a system or service</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="cs">
-					<ntig>
-						<termGrp>
-							<term>autentizovaný, ověřený</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
-			<termEntry id="c578">
-				<descrip type="context">Check that the file, including symbols and accented letters, is encoded using the UTF-8 character encoding.</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>encode</term>
-							<termNote type="partOfSpeech">verb</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">Transforming data using a standard format or particular code so that it can be properly (and safely) consumed by a different type of system. The goal with encoding is to ensure that information can be properly consumed—this is different from "encyption," for which the goal is to keep information secret and safe from unauthorized access.</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="cs">
-					<ntig>
-						<termGrp>
-							<term>kódovat, zakódovat</term>
 						</termGrp>
 					</ntig>
 				</langSet>

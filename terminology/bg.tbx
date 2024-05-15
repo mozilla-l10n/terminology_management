@@ -457,27 +457,6 @@
 					</ntig>
 				</langSet>
 			</termEntry>
-			<termEntry id="c593">
-				<descrip type="context">Copy text to clipboard</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>clipboard</term>
-							<termNote type="partOfSpeech">noun</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">A special location in the computer's operating system that is accessible to all programs and temporarily stores data that the user has copied from somewhere else</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="bg">
-					<ntig>
-						<termGrp>
-							<term>клипборд</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
 			<termEntry id="c524">
 				<descrip type="context">A Geolocation request can only be fulfilled in a secure context.This scratchpad executes in the Browser context.</descrip>
 				<langSet xml:lang="en-US">
@@ -1129,6 +1108,174 @@ A code used to recover a user's encrypted account information (such as bookmarks
 					<ntig>
 						<termGrp>
 							<term>вписване</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c631">
+				<descrip type="context">We also adhere to the practices outlined in the Mozilla privacy policy for how we receive, handle and share information we collect from Firefox.</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>Privacy Policy</term>
+							<termNote type="partOfSpeech">noun</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">A statement that discloses the set of practices related to the handling of personal information by Mozilla or its products. For example, Mozilla's privacy policy can be found here: https://www.mozilla.org/en-US/privacy/</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="bg">
+					<ntig>
+						<termGrp>
+							<term>Политика за личните данни</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c630">
+				<descrip type="context">In this Privacy Notice, we explain what data Firefox shares and point you to settings to share even less. We also adhere to the practices outlined in the Mozilla privacy policy for how we receive, handle and share information we collect from Firefox.</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>Privacy Notice</term>
+							<termNote type="partOfSpeech">noun</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">Notice that explains what data s Mozilla product collected, shared and why. It may also include additional information such as settings that can change how much is shared. One example is Firefox browser's privacy notice which can be found here: https://www.mozilla.org/en-US/privacy/firefox/</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="bg">
+					<ntig>
+						<termGrp>
+							<term>Политика за личните данни</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c594">
+				<descrip type="context">The certificate used to sign the message was issued by an unknown certificate authority.</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>certificate authority</term>
+							<termNote type="partOfSpeech">noun</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">A trusted organization that issues signed digital certificates that verify the identity and legitimacy of a company or individual.</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="bg">
+					<ntig>
+						<termGrp>
+							<term>удостоверител на сертификати</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c613">
+				<descrip type="context">The endpoint you are connecting to needs more information to authenticate this connection.</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>authenticate</term>
+							<termNote type="partOfSpeech">verb</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">To prove user identity, typically to gain access to a system or service</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="bg">
+					<ntig>
+						<termGrp>
+							<term>удостоверяване</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c598">
+				<descrip type="context">Warning: Contains unauthenticated content</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>authenticated</term>
+							<termNote type="partOfSpeech">adjective</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">User identity has been proven for access to a system or service</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="bg">
+					<ntig>
+						<termGrp>
+							<term>удостоверен</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c663">
+				<descrip type="context">Open your authentication app and enter the authentication code it provides.</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>authentication code</term>
+							<termNote type="partOfSpeech">noun</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">Authentication codes are codes generated during two-factor authentication (2FA). Typically, a user is asked to provide an authentication code after logging in with their username and password. These codes may take the form of a time-based one-time password, and could be generated by a two-factor authentication app or sent through methods such as SMS or email.</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="bg">
+					<ntig>
+						<termGrp>
+							<term>код за удостоверяване</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c597">
+				<descrip type="context">You have blocked autoplay media with sound for this website.</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>autoplay</term>
+							<termNote type="partOfSpeech">noun</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">A functionality that allows media, like video or audio, to play automatically with sound, without action from a user.</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="bg">
+					<ntig>
+						<termGrp>
+							<term>автоматично възпроизвеждане</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c626">
+				<descrip type="context">Create new backup authentication codes to help you get back into your account if you’re locked out.</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>backup authentication code</term>
+							<termNote type="partOfSpeech">noun</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">Authentication codes generated as backup for when a user does not have access to their two factor authentication method, allowing them to use these codes instead. Typically these are generated when two factor authentication is first set up and saved somewhere apart from their mobile device.</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="bg">
+					<ntig>
+						<termGrp>
+							<term>резервен код за удостоверяване</term>
 						</termGrp>
 					</ntig>
 				</langSet>
