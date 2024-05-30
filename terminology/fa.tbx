@@ -333,86 +333,44 @@ Note that this is distinct from "review analyzer", which is the name of the tool
 					</ntig>
 				</langSet>
 			</termEntry>
-			<termEntry id="c521">
-				<descrip type="context"></descrip>
+			<termEntry id="c577">
+				<descrip type="context">Enhanced Tracking Protection is ON for this site</descrip>
 				<langSet xml:lang="en-US">
 					<ntig>
 						<termGrp>
-							<term>Bug report</term>
+							<term>Enhanced Tracking Protection</term>
 							<termNote type="partOfSpeech">noun</termNote>
 						</termGrp>
 					</ntig>
 					<descripGrp>
-						<descrip type="definition">The detailed description accompanying a bug or the act of reporting the bug itself. (Sometimes just called bug)</descrip>
+						<descrip type="definition">Enhanced Tracking Protection is a collection of Firefox privacy and security settings. These settings block invisible or visible parts of webpages that can track users online. Enhanced Tracking Protection keeps an individual’s browsing history more private to reduce how much of their data is tracked, stored, and shared between websites and advertisers.</descrip>
 					</descripGrp>
 				</langSet>
 				<langSet xml:lang="fa">
 					<ntig>
 						<termGrp>
-							<term>گزارش اشکال</term>
+							<term>محافظت پیشرفته در برابر ردیابی</term>
 						</termGrp>
 					</ntig>
 				</langSet>
 			</termEntry>
-			<termEntry id="c534">
-				<descrip type="context">Open Web Authentication panel</descrip>
+			<termEntry id="c579">
+				<descrip type="context">You cannot enable this filter</descrip>
 				<langSet xml:lang="en-US">
 					<ntig>
 						<termGrp>
-							<term>Web Authentication</term>
-							<termNote type="partOfSpeech">noun</termNote>
+							<term>enable</term>
+							<termNote type="partOfSpeech">verb</termNote>
 						</termGrp>
 					</ntig>
 					<descripGrp>
-						<descrip type="definition">A credential management tool that allows users to verify identity using an authenticator—such as a phone, hardware security keys, or TPM (Trusted Platform Model) devices—in place of traditional passwords. Web Authentication (or “WebAuthn”) is built directly into a web browser.</descrip>
+						<descrip type="definition">Activate a feature</descrip>
 					</descripGrp>
 				</langSet>
 				<langSet xml:lang="fa">
 					<ntig>
 						<termGrp>
-							<term>احراز هویت وب</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
-			<termEntry id="c535">
-				<descrip type="context">This policy is only available on the Extended Support Release (ESR) version</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>version</term>
-							<termNote type="partOfSpeech">noun</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">Technically refers to the number of a particular Firefox release. Can also be used interchangeably with "release." "Release" does not have a good equivalent in languages other English and so "version" must be used in some cases. Use "version" (sentence case, not title case) as a generic, stand-alone term: "You are using the latest version of Firefox." Avoid referring to the numerical marker of that version ("Firefox Nightly 66.0a1") as this is too technical and unnecessarily detailed for users. Nghtly builds have the same version number for 6 weeks at a time so the version number itself is not specific.</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="fa">
-					<ntig>
-						<termGrp>
-							<term>نگارش</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
-			<termEntry id="c620">
-				<descrip type="context">If the image is relevant to the content of the document, you must supply alternate text that will appear in text-only browsers</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>alternate text</term>
-							<termNote type="partOfSpeech">noun</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">Text added to an HTML element (typically an image) to describe that element when it cannot be rendered. Also used by accessibility tools, like screen readers, to make non-textual elements accessible.</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="fa">
-					<ntig>
-						<termGrp>
-							<term>متن جایگزین</term>
+							<term>به کار انداختن</term>
 						</termGrp>
 					</ntig>
 				</langSet>
@@ -459,6 +417,69 @@ Note that this is distinct from "review analyzer", which is the name of the tool
 					</ntig>
 				</langSet>
 			</termEntry>
+			<termEntry id="c534">
+				<descrip type="context">Open Web Authentication panel</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>Web Authentication</term>
+							<termNote type="partOfSpeech">noun</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">A credential management tool that allows users to verify identity using an authenticator—such as a phone, hardware security keys, or TPM (Trusted Platform Model) devices—in place of traditional passwords. Web Authentication (or “WebAuthn”) is built directly into a web browser.</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="fa">
+					<ntig>
+						<termGrp>
+							<term>احراز هویت وب</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c620">
+				<descrip type="context">If the image is relevant to the content of the document, you must supply alternate text that will appear in text-only browsers</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>alternate text</term>
+							<termNote type="partOfSpeech">noun</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">Text added to an HTML element (typically an image) to describe that element when it cannot be rendered. Also used by accessibility tools, like screen readers, to make non-textual elements accessible.</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="fa">
+					<ntig>
+						<termGrp>
+							<term>متن جایگزین</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c552">
+				<descrip type="context">Search suggestions will not be shown in location bar results</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>search suggestion</term>
+							<termNote type="partOfSpeech">noun</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">A related search term suggested by a search engine</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="fa">
+					<ntig>
+						<termGrp>
+							<term>پیشنهادهای جست‌وجو</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
 			<termEntry id="c613">
 				<descrip type="context">The endpoint you are connecting to needs more information to authenticate this connection.</descrip>
 				<langSet xml:lang="en-US">
@@ -497,6 +518,27 @@ Note that this is distinct from "review analyzer", which is the name of the tool
 					<ntig>
 						<termGrp>
 							<term>پخش خودکار</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c521">
+				<descrip type="context"></descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>Bug report</term>
+							<termNote type="partOfSpeech">noun</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">The detailed description accompanying a bug or the act of reporting the bug itself. (Sometimes just called bug)</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="fa">
+					<ntig>
+						<termGrp>
+							<term>گزارش اشکال</term>
 						</termGrp>
 					</ntig>
 				</langSet>
@@ -543,6 +585,27 @@ Note that this is distinct from "review analyzer", which is the name of the tool
 					</ntig>
 				</langSet>
 			</termEntry>
+			<termEntry id="c535">
+				<descrip type="context">This policy is only available on the Extended Support Release (ESR) version</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>version</term>
+							<termNote type="partOfSpeech">noun</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">Technically refers to the number of a particular Firefox release. Can also be used interchangeably with "release." "Release" does not have a good equivalent in languages other English and so "version" must be used in some cases. Use "version" (sentence case, not title case) as a generic, stand-alone term: "You are using the latest version of Firefox." Avoid referring to the numerical marker of that version ("Firefox Nightly 66.0a1") as this is too technical and unnecessarily detailed for users. Nghtly builds have the same version number for 6 weeks at a time so the version number itself is not specific.</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="fa">
+					<ntig>
+						<termGrp>
+							<term>نگارش</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
 			<termEntry id="c530">
 				<descrip type="context">Resumes the main thread and continues execution following a breakpoint until the next breakpoint or the termination of the script</descrip>
 				<langSet xml:lang="en-US">
@@ -564,317 +627,44 @@ Note that this is distinct from "review analyzer", which is the name of the tool
 					</ntig>
 				</langSet>
 			</termEntry>
-			<termEntry id="c594">
-				<descrip type="context">The certificate used to sign the message was issued by an unknown certificate authority.</descrip>
+			<termEntry id="c559">
+				<descrip type="context">These terms are not intended to limit any rights granted under open source licenses</descrip>
 				<langSet xml:lang="en-US">
 					<ntig>
 						<termGrp>
-							<term>certificate authority</term>
-							<termNote type="partOfSpeech">noun</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">A trusted organization that issues signed digital certificates that verify the identity and legitimacy of a company or individual.</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="fa">
-					<ntig>
-						<termGrp>
-							<term>تأییدکنندهٔ گواهی</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
-			<termEntry id="c593">
-				<descrip type="context">Copy text to clipboard</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>clipboard</term>
-							<termNote type="partOfSpeech">noun</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">A special location in the computer's operating system that is accessible to all programs and temporarily stores data that the user has copied from somewhere else</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="fa">
-					<ntig>
-						<termGrp>
-							<term>تخته‌گیره</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
-			<termEntry id="c524">
-				<descrip type="context">A Geolocation request can only be fulfilled in a secure context.This scratchpad executes in the Browser context.</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>context</term>
-							<termNote type="partOfSpeech">noun</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">The setting or circumstance in which a thing occurs, often associated with the context menu. This term can assume specific connotations when referring to programming languages, for example in JavaScript a context is a reference to the object running the currently executing code.</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="fa">
-					<ntig>
-						<termGrp>
-							<term>محتوا</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
-			<termEntry id="c588">
-				<descrip type="context">This add-on could not be installed because it appears to be corrupt.</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>corrupt</term>
+							<term>open source</term>
 							<termNote type="partOfSpeech">adjective</termNote>
 						</termGrp>
 					</ntig>
 					<descripGrp>
-						<descrip type="definition">Containing errors or alterations from its original, correct form</descrip>
+						<descrip type="definition">Refers to any program whose source code is made available for use or modification.</descrip>
 					</descripGrp>
 				</langSet>
 				<langSet xml:lang="fa">
 					<ntig>
 						<termGrp>
-							<term>خراب</term>
+							<term>متن‌باز</term>
 						</termGrp>
 					</ntig>
 				</langSet>
 			</termEntry>
-			<termEntry id="c587">
-				<descrip type="context">The response from the OCSP server was corrupted or improperly formed</descrip>
+			<termEntry id="c560">
+				<descrip type="context">This is a legacy extension, be aware that these are no longer fully supported.</descrip>
 				<langSet xml:lang="en-US">
 					<ntig>
 						<termGrp>
-							<term>corrupt</term>
-							<termNote type="partOfSpeech">verb</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">Change something from its original, correct form.</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="fa">
-					<ntig>
-						<termGrp>
-							<term>خراب کردن</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
-			<termEntry id="c584">
-				<descrip type="context">Cryptominers use your system’s computing power to mine digital money. Cryptomining scripts drain your battery, slow down your computer, and can increase your energy bill.</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>cryptominer</term>
+							<term>Legacy extension</term>
 							<termNote type="partOfSpeech">noun</termNote>
 						</termGrp>
 					</ntig>
 					<descripGrp>
-						<descrip type="definition">Scripts on websites that can use a computer’s resources to mine cryptocurrency without a user’s knowledge.</descrip>
+						<descrip type="definition">A Firefox extension built using legacy APIs or the Add-on SDK. These kinds of extensions were disabled as of Firefox 57.</descrip>
 					</descripGrp>
 				</langSet>
 				<langSet xml:lang="fa">
 					<ntig>
 						<termGrp>
-							<term>استخراج‌کنندهٔ رمزارزها</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
-			<termEntry id="c582">
-				<descrip type="context">Turning this on will allow you to debug add-ons</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>debug</term>
-							<termNote type="partOfSpeech">verb</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">Identify and remove errors from computer sofware</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="fa">
-					<ntig>
-						<termGrp>
-							<term>اشکال‌زدایی</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
-			<termEntry id="c581">
-				<descrip type="context">This web page has been reported as a deceptive site and has been blocked</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>deceptive site</term>
-							<termNote type="partOfSpeech">noun</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">A malicious website that impersonates a legitimate one in order to trick users into providing sensitive information such as passwords, account details, or credit card numbers</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="fa">
-					<ntig>
-						<termGrp>
-							<term>پایگاه گمراه‌کننده</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
-			<termEntry id="c576">
-				<descrip type="context">Media resource could not be decoded</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>decode</term>
-							<termNote type="partOfSpeech">verb</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">Translating date or information that has been encoded back into its original, comprehensible format.</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="fa">
-					<ntig>
-						<termGrp>
-							<term>رمزگشایی کردن</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
-			<termEntry id="c573">
-				<descrip type="context">Widevine Content Decryption Module provided by Google Inc.</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>decryption</term>
-							<termNote type="partOfSpeech">noun</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">The process of converting information or data back to its original form or text so that it can be read and understood; the process of reversing encryption</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="fa">
-					<ntig>
-						<termGrp>
-							<term>رمزگشایی</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
-			<termEntry id="c484">
-				<descrip type="context">Political actors use disinformation campaigns that prey on our emotions and values to manipulate our behaviour.</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>disinformation</term>
-							<termNote type="partOfSpeech">noun</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">False, inaccurate, or misleading information designed, presented, and promoted to intentionally cause public harm or for profit. When it’s shared mistakenly by people, it becomes misinformation. See also the definition of misinformation.</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="fa">
-					<ntig>
-						<termGrp>
-							<term>اطلاعات نادرست</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
-			<termEntry id="c579">
-				<descrip type="context">You cannot enable this filter</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>enable</term>
-							<termNote type="partOfSpeech">verb</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">Activate a feature</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="fa">
-					<ntig>
-						<termGrp>
-							<term>به کار انداختن</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
-			<termEntry id="c574">
-				<descrip type="context">Your connection to this website uses weak encryption and is not private.</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>encryption</term>
-							<termNote type="partOfSpeech">noun</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">The process of encoding information or data so that only the sender and the intended recipient can read it.</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="fa">
-					<ntig>
-						<termGrp>
-							<term>رمزگذاری</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
-			<termEntry id="c572">
-				<descrip type="context">Request on the main thread is deprecated because of its detrimental effects to the end user</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>end user</term>
-							<termNote type="partOfSpeech">noun</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">The person who ultimately uses or is intended to use a product</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="fa">
-					<ntig>
-						<termGrp>
-							<term>کاربر نهایی</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
-			<termEntry id="c577">
-				<descrip type="context">Enhanced Tracking Protection is ON for this site</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>Enhanced Tracking Protection</term>
-							<termNote type="partOfSpeech">noun</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">Enhanced Tracking Protection is a collection of Firefox privacy and security settings. These settings block invisible or visible parts of webpages that can track users online. Enhanced Tracking Protection keeps an individual’s browsing history more private to reduce how much of their data is tracked, stored, and shared between websites and advertisers.</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="fa">
-					<ntig>
-						<termGrp>
-							<term>محافظت پیشرفته در برابر ردیابی</term>
+							<term>افزونهٔ قدیمی</term>
 						</termGrp>
 					</ntig>
 				</langSet>
@@ -921,23 +711,275 @@ Note that this is distinct from "review analyzer", which is the name of the tool
 					</ntig>
 				</langSet>
 			</termEntry>
-			<termEntry id="c565">
-				<descrip type="context">Select which items to import</descrip>
+			<termEntry id="c594">
+				<descrip type="context">The certificate used to sign the message was issued by an unknown certificate authority.</descrip>
 				<langSet xml:lang="en-US">
 					<ntig>
 						<termGrp>
-							<term>import</term>
-							<termNote type="partOfSpeech">verb</termNote>
+							<term>certificate authority</term>
+							<termNote type="partOfSpeech">noun</termNote>
 						</termGrp>
 					</ntig>
 					<descripGrp>
-						<descrip type="definition">Copy or move data from one program to another, including importing data from an external source (for example, bookmarks)</descrip>
+						<descrip type="definition">A trusted organization that issues signed digital certificates that verify the identity and legitimacy of a company or individual.</descrip>
 					</descripGrp>
 				</langSet>
 				<langSet xml:lang="fa">
 					<ntig>
 						<termGrp>
-							<term>درون‌ریزی</term>
+							<term>تأییدکنندهٔ گواهی</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c574">
+				<descrip type="context">Your connection to this website uses weak encryption and is not private.</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>encryption</term>
+							<termNote type="partOfSpeech">noun</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">The process of encoding information or data so that only the sender and the intended recipient can read it.</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="fa">
+					<ntig>
+						<termGrp>
+							<term>رمزگذاری</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c573">
+				<descrip type="context">Widevine Content Decryption Module provided by Google Inc.</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>decryption</term>
+							<termNote type="partOfSpeech">noun</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">The process of converting information or data back to its original form or text so that it can be read and understood; the process of reversing encryption</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="fa">
+					<ntig>
+						<termGrp>
+							<term>رمزگشایی</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c581">
+				<descrip type="context">This web page has been reported as a deceptive site and has been blocked</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>deceptive site</term>
+							<termNote type="partOfSpeech">noun</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">A malicious website that impersonates a legitimate one in order to trick users into providing sensitive information such as passwords, account details, or credit card numbers</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="fa">
+					<ntig>
+						<termGrp>
+							<term>پایگاه گمراه‌کننده</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c524">
+				<descrip type="context">A Geolocation request can only be fulfilled in a secure context.This scratchpad executes in the Browser context.</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>context</term>
+							<termNote type="partOfSpeech">noun</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">The setting or circumstance in which a thing occurs, often associated with the context menu. This term can assume specific connotations when referring to programming languages, for example in JavaScript a context is a reference to the object running the currently executing code.</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="fa">
+					<ntig>
+						<termGrp>
+							<term>محتوا</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c584">
+				<descrip type="context">Cryptominers use your system’s computing power to mine digital money. Cryptomining scripts drain your battery, slow down your computer, and can increase your energy bill.</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>cryptominer</term>
+							<termNote type="partOfSpeech">noun</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">Scripts on websites that can use a computer’s resources to mine cryptocurrency without a user’s knowledge.</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="fa">
+					<ntig>
+						<termGrp>
+							<term>استخراج‌کنندهٔ رمزارزها</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c593">
+				<descrip type="context">Copy text to clipboard</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>clipboard</term>
+							<termNote type="partOfSpeech">noun</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">A special location in the computer's operating system that is accessible to all programs and temporarily stores data that the user has copied from somewhere else</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="fa">
+					<ntig>
+						<termGrp>
+							<term>تخته‌گیره</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c588">
+				<descrip type="context">This add-on could not be installed because it appears to be corrupt.</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>corrupt</term>
+							<termNote type="partOfSpeech">adjective</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">Containing errors or alterations from its original, correct form</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="fa">
+					<ntig>
+						<termGrp>
+							<term>خراب</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c587">
+				<descrip type="context">The response from the OCSP server was corrupted or improperly formed</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>corrupt</term>
+							<termNote type="partOfSpeech">verb</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">Change something from its original, correct form.</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="fa">
+					<ntig>
+						<termGrp>
+							<term>خراب کردن</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c582">
+				<descrip type="context">Turning this on will allow you to debug add-ons</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>debug</term>
+							<termNote type="partOfSpeech">verb</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">Identify and remove errors from computer sofware</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="fa">
+					<ntig>
+						<termGrp>
+							<term>اشکال‌زدایی</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c576">
+				<descrip type="context">Media resource could not be decoded</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>decode</term>
+							<termNote type="partOfSpeech">verb</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">Translating date or information that has been encoded back into its original, comprehensible format.</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="fa">
+					<ntig>
+						<termGrp>
+							<term>رمزگشایی کردن</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c484">
+				<descrip type="context">Political actors use disinformation campaigns that prey on our emotions and values to manipulate our behaviour.</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>disinformation</term>
+							<termNote type="partOfSpeech">noun</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">False, inaccurate, or misleading information designed, presented, and promoted to intentionally cause public harm or for profit. When it’s shared mistakenly by people, it becomes misinformation. See also the definition of misinformation.</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="fa">
+					<ntig>
+						<termGrp>
+							<term>اطلاعات نادرست</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c572">
+				<descrip type="context">Request on the main thread is deprecated because of its detrimental effects to the end user</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>end user</term>
+							<termNote type="partOfSpeech">noun</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">The person who ultimately uses or is intended to use a product</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="fa">
+					<ntig>
+						<termGrp>
+							<term>کاربر نهایی</term>
 						</termGrp>
 					</ntig>
 				</langSet>
@@ -1005,27 +1047,6 @@ Note that this is distinct from "review analyzer", which is the name of the tool
 					</ntig>
 				</langSet>
 			</termEntry>
-			<termEntry id="c560">
-				<descrip type="context">This is a legacy extension, be aware that these are no longer fully supported.</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>Legacy extension</term>
-							<termNote type="partOfSpeech">noun</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">A Firefox extension built using legacy APIs or the Add-on SDK. These kinds of extensions were disabled as of Firefox 57.</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="fa">
-					<ntig>
-						<termGrp>
-							<term>افزونهٔ قدیمی</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
 			<termEntry id="c519">
 				<descrip type="context"></descrip>
 				<langSet xml:lang="en-US">
@@ -1064,27 +1085,6 @@ Note that this is distinct from "review analyzer", which is the name of the tool
 					<ntig>
 						<termGrp>
 							<term>اطلاعات نادرست</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
-			<termEntry id="c559">
-				<descrip type="context">These terms are not intended to limit any rights granted under open source licenses</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>open source</term>
-							<termNote type="partOfSpeech">adjective</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">Refers to any program whose source code is made available for use or modification.</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="fa">
-					<ntig>
-						<termGrp>
-							<term>متن‌باز</term>
 						</termGrp>
 					</ntig>
 				</langSet>
@@ -1194,27 +1194,6 @@ Note that this is distinct from "review analyzer", which is the name of the tool
 					</ntig>
 				</langSet>
 			</termEntry>
-			<termEntry id="c552">
-				<descrip type="context">Search suggestions will not be shown in location bar results</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>search suggestion</term>
-							<termNote type="partOfSpeech">noun</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">A related search term suggested by a search engine</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="fa">
-					<ntig>
-						<termGrp>
-							<term>پیشنهادهای جست‌وجو</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
 			<termEntry id="c550">
 				<descrip type="context">As a security precaution, the browser does not automatically re-request sensitive documents</descrip>
 				<langSet xml:lang="en-US">
@@ -1257,6 +1236,27 @@ Note that this is distinct from "review analyzer", which is the name of the tool
 					</ntig>
 				</langSet>
 			</termEntry>
+			<termEntry id="c547">
+				<descrip type="context">The signer's certificate could not be found</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>signer</term>
+							<termNote type="partOfSpeech">noun</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">The entity that signs a digital certificate verifying the identity of a website, organization, or individual.</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="fa">
+					<ntig>
+						<termGrp>
+							<term>امضاء کننده</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
 			<termEntry id="c546">
 				<descrip type="context">Unable to digitally sign data required to verify your certificate.</descrip>
 				<langSet xml:lang="en-US">
@@ -1295,27 +1295,6 @@ Note that this is distinct from "review analyzer", which is the name of the tool
 					<ntig>
 						<termGrp>
 							<term>ردیابی</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
-			<termEntry id="c547">
-				<descrip type="context">The signer's certificate could not be found</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>signer</term>
-							<termNote type="partOfSpeech">noun</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">The entity that signs a digital certificate verifying the identity of a website, organization, or individual.</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="fa">
-					<ntig>
-						<termGrp>
-							<term>امضاء کننده</term>
 						</termGrp>
 					</ntig>
 				</langSet>
@@ -1404,23 +1383,23 @@ Note that this is distinct from "review analyzer", which is the name of the tool
 					</ntig>
 				</langSet>
 			</termEntry>
-			<termEntry id="c536">
-				<descrip type="context">Validate cache manifest</descrip>
+			<termEntry id="c565">
+				<descrip type="context">Select which items to import</descrip>
 				<langSet xml:lang="en-US">
 					<ntig>
 						<termGrp>
-							<term>validate</term>
+							<term>import</term>
 							<termNote type="partOfSpeech">verb</termNote>
 						</termGrp>
 					</ntig>
 					<descripGrp>
-						<descrip type="definition">To check or prove the validity or accuracy of (something).</descrip>
+						<descrip type="definition">Copy or move data from one program to another, including importing data from an external source (for example, bookmarks)</descrip>
 					</descripGrp>
 				</langSet>
 				<langSet xml:lang="fa">
 					<ntig>
 						<termGrp>
-							<term>اعتبارسنجی</term>
+							<term>درون‌ریزی</term>
 						</termGrp>
 					</ntig>
 				</langSet>
@@ -1484,27 +1463,6 @@ Note that this is distinct from "review analyzer", which is the name of the tool
 					<ntig>
 						<termGrp>
 							<term>بازنویسی</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
-			<termEntry id="c528">
-				<descrip type="context">This option sends one invitation email per attendee</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>attendee</term>
-							<termNote type="partOfSpeech">noun</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">a person who is invited to attend an event, specifically via a calendar invitation</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="fa">
-					<ntig>
-						<termGrp>
-							<term>شرکت‌کننده</term>
 						</termGrp>
 					</ntig>
 				</langSet>
@@ -1593,6 +1551,90 @@ Note that this is distinct from "review analyzer", which is the name of the tool
 					</ntig>
 				</langSet>
 			</termEntry>
+			<termEntry id="c536">
+				<descrip type="context">Validate cache manifest</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>validate</term>
+							<termNote type="partOfSpeech">verb</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">To check or prove the validity or accuracy of (something).</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="fa">
+					<ntig>
+						<termGrp>
+							<term>اعتبارسنجی</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c528">
+				<descrip type="context">This option sends one invitation email per attendee</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>attendee</term>
+							<termNote type="partOfSpeech">noun</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">a person who is invited to attend an event, specifically via a calendar invitation</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="fa">
+					<ntig>
+						<termGrp>
+							<term>شرکت‌کننده</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c568">
+				<descrip type="context"></descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>fingerprinting</term>
+							<termNote type="partOfSpeech">noun</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">Fingerprinting is a method of tracking browser users by the configuration and settings information that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="fa">
+					<ntig>
+						<termGrp>
+							<term>انگشت‌نگاری</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c569">
+				<descrip type="context">Fingerprinters collect settings from your browser and computer to create a profile of you. Using this digital fingerprint, they can track you across different websites.</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>fingerprinter</term>
+							<termNote type="partOfSpeech">noun</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">A fingerprinter is an entity that gathers information about browser users from configuration and settings information that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="fa">
+					<ntig>
+						<termGrp>
+							<term>انگشت‌نگار</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
 			<termEntry id="c499">
 				<descrip type="context">Install Nightly and help us improve Firefox quality hunt crashes and regressions</descrip>
 				<langSet xml:lang="en-US">
@@ -1635,65 +1677,23 @@ Note that this is distinct from "review analyzer", which is the name of the tool
 					</ntig>
 				</langSet>
 			</termEntry>
-			<termEntry id="c569">
-				<descrip type="context">Fingerprinters collect settings from your browser and computer to create a profile of you. Using this digital fingerprint, they can track you across different websites.</descrip>
+			<termEntry id="c557">
+				<descrip type="context">You have blocked pop-ups for this website.</descrip>
 				<langSet xml:lang="en-US">
 					<ntig>
 						<termGrp>
-							<term>fingerprinter</term>
+							<term>pop-up</term>
 							<termNote type="partOfSpeech">noun</termNote>
 						</termGrp>
 					</ntig>
 					<descripGrp>
-						<descrip type="definition">A fingerprinter is an entity that gathers information about browser users from configuration and settings information that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.</descrip>
+						<descrip type="definition">An overlapping window used for dialog boxes, message boxes, and other temporary windows that appear outside of an application's primary window. Typically, users will think of a "pop-up" as a window that opens automatically and without being asked.</descrip>
 					</descripGrp>
 				</langSet>
 				<langSet xml:lang="fa">
 					<ntig>
 						<termGrp>
-							<term>انگشت‌نگار</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
-			<termEntry id="c568">
-				<descrip type="context"></descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>fingerprinting</term>
-							<termNote type="partOfSpeech">noun</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">Fingerprinting is a method of tracking browser users by the configuration and settings information that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="fa">
-					<ntig>
-						<termGrp>
-							<term>انگشت‌نگاری</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
-			<termEntry id="c611">
-				<descrip type="context">The cipher used for encryption is deprecated and insecure.</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>cipher</term>
-							<termNote type="partOfSpeech">noun</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">An algorithm that encrypts or decrypts information.</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="fa">
-					<ntig>
-						<termGrp>
-							<term>رمزنگاری</term>
+							<term>پنجرهٔ واشو</term>
 						</termGrp>
 					</ntig>
 				</langSet>
@@ -1719,6 +1719,27 @@ Note that this is distinct from "review analyzer", which is the name of the tool
 					</ntig>
 				</langSet>
 			</termEntry>
+			<termEntry id="c611">
+				<descrip type="context">The cipher used for encryption is deprecated and insecure.</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>cipher</term>
+							<termNote type="partOfSpeech">noun</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">An algorithm that encrypts or decrypts information.</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="fa">
+					<ntig>
+						<termGrp>
+							<term>رمزنگاری</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
 			<termEntry id="c561">
 				<descrip type="context">The certificate used to sign the message was issued by a certificate authority whose own certificate has expired.</descrip>
 				<langSet xml:lang="en-US">
@@ -1736,27 +1757,6 @@ Note that this is distinct from "review analyzer", which is the name of the tool
 					<ntig>
 						<termGrp>
 							<term>صادر شده</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
-			<termEntry id="c557">
-				<descrip type="context">You have blocked pop-ups for this website.</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>pop-up</term>
-							<termNote type="partOfSpeech">noun</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">An overlapping window used for dialog boxes, message boxes, and other temporary windows that appear outside of an application's primary window. Typically, users will think of a "pop-up" as a window that opens automatically and without being asked.</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="fa">
-					<ntig>
-						<termGrp>
-							<term>پنجرهٔ واشو</term>
 						</termGrp>
 					</ntig>
 				</langSet>
