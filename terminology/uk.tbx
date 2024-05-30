@@ -100,27 +100,6 @@
 					</ntig>
 				</langSet>
 			</termEntry>
-			<termEntry id="c464">
-				<descrip type="context">Choose the independent browser</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>independent browser</term>
-							<termNote type="partOfSpeech">noun</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">Firefox is the only major independent multi-platform browser not associated with a large tech company such as Google or Apple, or built on the same Chromium code base, such as Google Chrome, Microsoft Edge, or other browsers.</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="uk">
-					<ntig>
-						<termGrp>
-							<term>незалежні голоси</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
 			<termEntry id="c499">
 				<descrip type="context">Install Nightly and help us improve Firefox quality hunt crashes and regressions</descrip>
 				<langSet xml:lang="en-US">
@@ -163,23 +142,44 @@
 					</ntig>
 				</langSet>
 			</termEntry>
-			<termEntry id="c544">
-				<descrip type="context">Block third-party content that tracks you around the web. Control how much of your online activity gets stored and shared between websites.</descrip>
+			<termEntry id="c549">
+				<descrip type="context">We are running a series of studies in Nightly. All Nightly users will receive a notification about these studies.  When a study is active, Nightly Firefox will automatically use Cloudflare’s 1.1.1.1 secure DNS over HTTPS.  The first study will use the Cloudflare resolver in addition to the DNS selected by a user or their ISP to compare approaches.</descrip>
 				<langSet xml:lang="en-US">
 					<ntig>
 						<termGrp>
-							<term>track</term>
-							<termNote type="partOfSpeech">verb</termNote>
+							<term>studies</term>
+							<termNote type="partOfSpeech">noun</termNote>
 						</termGrp>
 					</ntig>
 					<descripGrp>
-						<descrip type="definition">To identify and collect information about website users. Can be conducted by websites themselves or third parties, such as advertisers. May also refer to the practice of tracking a user’s browsing behavior and gathering information about their devices to build a unique profile about that individual.</descrip>
+						<descrip type="definition">Internal mechanism for an add-on enabled study. Instead, localize the term “study” so folks understand their data is being studied (they don’t need to understand the mechanism behind it). Learn more: https://wiki.mozilla.org/Firefox/Shield/Shield_StudiesBlacklist “shield study” and instead suggest localizers use “study.” Avoid using shield externally. Don’t add “study” to the actual terms list. In English, use the word “studies” (see about:studies to see if enrolled in a study cohort. URL not translated. )</descrip>
 					</descripGrp>
 				</langSet>
 				<langSet xml:lang="uk">
 					<ntig>
 						<termGrp>
-							<term>стежити</term>
+							<term>дослідження</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c582">
+				<descrip type="context">Turning this on will allow you to debug add-ons</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>debug</term>
+							<termNote type="partOfSpeech">verb</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">Identify and remove errors from computer sofware</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="uk">
+					<ntig>
+						<termGrp>
+							<term>налагодження</term>
 						</termGrp>
 					</ntig>
 				</langSet>
@@ -264,27 +264,6 @@
 					<ntig>
 						<termGrp>
 							<term>буфер обміну</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
-			<termEntry id="c582">
-				<descrip type="context">Turning this on will allow you to debug add-ons</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>debug</term>
-							<termNote type="partOfSpeech">verb</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">Identify and remove errors from computer sofware</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="uk">
-					<ntig>
-						<termGrp>
-							<term>налагодження</term>
 						</termGrp>
 					</ntig>
 				</langSet>
@@ -499,23 +478,23 @@
 					</ntig>
 				</langSet>
 			</termEntry>
-			<termEntry id="c549">
-				<descrip type="context">We are running a series of studies in Nightly. All Nightly users will receive a notification about these studies.  When a study is active, Nightly Firefox will automatically use Cloudflare’s 1.1.1.1 secure DNS over HTTPS.  The first study will use the Cloudflare resolver in addition to the DNS selected by a user or their ISP to compare approaches.</descrip>
+			<termEntry id="c544">
+				<descrip type="context">Block third-party content that tracks you around the web. Control how much of your online activity gets stored and shared between websites.</descrip>
 				<langSet xml:lang="en-US">
 					<ntig>
 						<termGrp>
-							<term>studies</term>
-							<termNote type="partOfSpeech">noun</termNote>
+							<term>track</term>
+							<termNote type="partOfSpeech">verb</termNote>
 						</termGrp>
 					</ntig>
 					<descripGrp>
-						<descrip type="definition">Internal mechanism for an add-on enabled study. Instead, localize the term “study” so folks understand their data is being studied (they don’t need to understand the mechanism behind it). Learn more: https://wiki.mozilla.org/Firefox/Shield/Shield_StudiesBlacklist “shield study” and instead suggest localizers use “study.” Avoid using shield externally. Don’t add “study” to the actual terms list. In English, use the word “studies” (see about:studies to see if enrolled in a study cohort. URL not translated. )</descrip>
+						<descrip type="definition">To identify and collect information about website users. Can be conducted by websites themselves or third parties, such as advertisers. May also refer to the practice of tracking a user’s browsing behavior and gathering information about their devices to build a unique profile about that individual.</descrip>
 					</descripGrp>
 				</langSet>
 				<langSet xml:lang="uk">
 					<ntig>
 						<termGrp>
-							<term>дослідження</term>
+							<term>стежити</term>
 						</termGrp>
 					</ntig>
 				</langSet>
@@ -579,27 +558,6 @@
 					<ntig>
 						<termGrp>
 							<term>незахищене</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
-			<termEntry id="c599">
-				<descrip type="context">These pages try to install programs that steal private information, use your computer to attack others, or damage your system.</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>attack</term>
-							<termNote type="partOfSpeech">verb</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">To take malicious action against, specifically via hacking and malware.</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="uk">
-					<ntig>
-						<termGrp>
-							<term>шкодити</term>
 						</termGrp>
 					</ntig>
 				</langSet>
@@ -1360,27 +1318,6 @@
 					</ntig>
 				</langSet>
 			</termEntry>
-			<termEntry id="c575">
-				<descrip type="context">Encrypt This Message</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>encrypt</term>
-							<termNote type="partOfSpeech">verb</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">Convert information or data into a code, especially to prevent unauthorized access. This is different from "encoding" in which the goal is to ensure that information can be properly consumed.</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="uk">
-					<ntig>
-						<termGrp>
-							<term>захищати</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
 			<termEntry id="c521">
 				<descrip type="context"></descrip>
 				<langSet xml:lang="en-US">
@@ -1570,6 +1507,27 @@
 					</ntig>
 				</langSet>
 			</termEntry>
+			<termEntry id="c630">
+				<descrip type="context">In this Privacy Notice, we explain what data Firefox shares and point you to settings to share even less. We also adhere to the practices outlined in the Mozilla privacy policy for how we receive, handle and share information we collect from Firefox.</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>Privacy Notice</term>
+							<termNote type="partOfSpeech">noun</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">Notice that explains what data s Mozilla product collected, shared and why. It may also include additional information such as settings that can change how much is shared. One example is Firefox browser's privacy notice which can be found here: https://www.mozilla.org/en-US/privacy/firefox/</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="uk">
+					<ntig>
+						<termGrp>
+							<term>Положення про приватність</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
 			<termEntry id="c620">
 				<descrip type="context">If the image is relevant to the content of the document, you must supply alternate text that will appear in text-only browsers</descrip>
 				<langSet xml:lang="en-US">
@@ -1713,27 +1671,6 @@
 					<ntig>
 						<termGrp>
 							<term>Умови надання послуг</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
-			<termEntry id="c630">
-				<descrip type="context">In this Privacy Notice, we explain what data Firefox shares and point you to settings to share even less. We also adhere to the practices outlined in the Mozilla privacy policy for how we receive, handle and share information we collect from Firefox.</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>Privacy Notice</term>
-							<termNote type="partOfSpeech">noun</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">Notice that explains what data s Mozilla product collected, shared and why. It may also include additional information such as settings that can change how much is shared. One example is Firefox browser's privacy notice which can be found here: https://www.mozilla.org/en-US/privacy/firefox/</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="uk">
-					<ntig>
-						<termGrp>
-							<term>Положення про приватність</term>
 						</termGrp>
 					</ntig>
 				</langSet>
@@ -1992,6 +1929,92 @@ A code used to recover a user's encrypted account information (such as bookmarks
 					<ntig>
 						<termGrp>
 							<term>файли cookie для стеження між сайтами</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c666">
+				<descrip type="context"></descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>Review checker</term>
+							<termNote type="partOfSpeech">noun</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">Review checker is a built-in Firefox tool that allows users to check the quality of product reviews on shopping sites like Amazon, Walmart, and Best Buy. The tool itself is powered by Fakespot, a Mozilla company.
+
+Note that this is distinct from "review analyzer", which is the name of the tool analyzing reviews on Fakespot, and providing data to the Review checker. Ideally, these tools should have different translations.</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="uk">
+					<ntig>
+						<termGrp>
+							<term>Засіб перевірки відгуків</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c464">
+				<descrip type="context">Choose the independent browser</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>independent browser</term>
+							<termNote type="partOfSpeech">noun</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">Firefox is the only major independent multi-platform browser not associated with a large tech company such as Google or Apple, or built on the same Chromium code base, such as Google Chrome, Microsoft Edge, or other browsers.</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="uk">
+					<ntig>
+						<termGrp>
+							<term>незалежний браузер</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c575">
+				<descrip type="context">Encrypt This Message</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>encrypt</term>
+							<termNote type="partOfSpeech">verb</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">Convert information or data into a code, especially to prevent unauthorized access. This is different from "encoding" in which the goal is to ensure that information can be properly consumed.</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="uk">
+					<ntig>
+						<termGrp>
+							<term>шифрувати</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c599">
+				<descrip type="context">These pages try to install programs that steal private information, use your computer to attack others, or damage your system.</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>attack</term>
+							<termNote type="partOfSpeech">verb</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">To take malicious action against, specifically via hacking and malware.</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="uk">
+					<ntig>
+						<termGrp>
+							<term>атакувати</term>
 						</termGrp>
 					</ntig>
 				</langSet>

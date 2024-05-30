@@ -228,6 +228,27 @@ Note that this is distinct from "review analyzer", which is the name of the tool
 					</ntig>
 				</langSet>
 			</termEntry>
+			<termEntry id="c544">
+				<descrip type="context">Block third-party content that tracks you around the web. Control how much of your online activity gets stored and shared between websites.</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>track</term>
+							<termNote type="partOfSpeech">verb</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">To identify and collect information about website users. Can be conducted by websites themselves or third parties, such as advertisers. May also refer to the practice of tracking a user’s browsing behavior and gathering information about their devices to build a unique profile about that individual.</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="sk">
+					<ntig>
+						<termGrp>
+							<term>sledovať</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
 			<termEntry id="c534">
 				<descrip type="context">Open Web Authentication panel</descrip>
 				<langSet xml:lang="en-US">
@@ -413,27 +434,6 @@ Note that this is distinct from "review analyzer", which is the name of the tool
 					<ntig>
 						<termGrp>
 							<term>sledovacie prvky</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
-			<termEntry id="c544">
-				<descrip type="context">Block third-party content that tracks you around the web. Control how much of your online activity gets stored and shared between websites.</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>track</term>
-							<termNote type="partOfSpeech">verb</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">To identify and collect information about website users. Can be conducted by websites themselves or third parties, such as advertisers. May also refer to the practice of tracking a user’s browsing behavior and gathering information about their devices to build a unique profile about that individual.</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="sk">
-					<ntig>
-						<termGrp>
-							<term>sledovať</term>
 						</termGrp>
 					</ntig>
 				</langSet>
