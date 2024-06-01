@@ -1507,29 +1507,6 @@
 					</ntig>
 				</langSet>
 			</termEntry>
-			<termEntry id="c666">
-				<descrip type="context"></descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>Review checker</term>
-							<termNote type="partOfSpeech">noun</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">Review checker is a built-in Firefox tool that allows users to check the quality of product reviews on shopping sites like Amazon, Walmart, and Best Buy. The tool itself is powered by Fakespot, a Mozilla company.
-
-Note that this is distinct from "review analyzer", which is the name of the tool analyzing reviews on Fakespot, and providing data to the Review checker. Ideally, these tools should have different translations.</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="ja">
-					<ntig>
-						<termGrp>
-							<term>レビューチェッカー</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
 			<termEntry id="c499">
 				<descrip type="context">Install Nightly and help us improve Firefox quality hunt crashes and regressions</descrip>
 				<langSet xml:lang="en-US">
