@@ -1910,29 +1910,6 @@ See this page for more information: https://bit.ly/l10n-guidance-firefoxview</de
 					</ntig>
 				</langSet>
 			</termEntry>
-			<termEntry id="c625">
-				<descrip type="context">Your account password was reset with an account recovery key</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>account recovery key</term>
-							<termNote type="partOfSpeech">noun</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">Account recovery key for Firefox Accounts. (Formerly called "recovery key".)
-
-A code used to recover a user's encrypted account information (such as bookmarks and passwords) when their Firefox Account password is reset.</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="pl">
-					<ntig>
-						<termGrp>
-							<term>klucz odzyskiwania konta</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
 			<termEntry id="c626">
 				<descrip type="context">Create new backup authentication codes to help you get back into your account if you’re locked out.</descrip>
 				<langSet xml:lang="en-US">
@@ -2013,6 +1990,29 @@ A code used to recover a user's encrypted account information (such as bookmarks
 					<ntig>
 						<termGrp>
 							<term>maska dla numeru telefonu</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c625">
+				<descrip type="context">Your account password was reset with an account recovery key</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>account recovery key</term>
+							<termNote type="partOfSpeech">noun</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">Account recovery key for Firefox Accounts. (Formerly called "recovery key".)
+
+A code used to recover a user's encrypted account information (such as bookmarks and passwords) when their Firefox Account password is reset.</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="pl">
+					<ntig>
+						<termGrp>
+							<term>klucz odzyskiwania konta</term>
 						</termGrp>
 					</ntig>
 				</langSet>
