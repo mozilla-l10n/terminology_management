@@ -286,7 +286,7 @@ Note that this is distinct from "review analyzer", which is the name of the tool
 				<langSet xml:lang="is">
 					<ntig>
 						<termGrp>
-							<term>Stefna um meðferð persónuupplýsinga</term>
+							<term>Meðferð persónuupplýsinga</term>
 						</termGrp>
 					</ntig>
 				</langSet>
