@@ -1798,7 +1798,7 @@ Note that this is distinct from "review analyzer", which is the name of the tool
 				<langSet xml:lang="ko">
 					<ntig>
 						<termGrp>
-							<term>개인 정보 보호 고지</term>
+							<term>개인정보 보호정책</term>
 						</termGrp>
 					</ntig>
 				</langSet>
