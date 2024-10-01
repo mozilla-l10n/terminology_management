@@ -1213,27 +1213,6 @@
 					</ntig>
 				</langSet>
 			</termEntry>
-			<termEntry id="c621">
-				<descrip type="context">Your add-ons and customizations have been removed and your browser settings have been restored to their defaults.</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>add-on</term>
-							<termNote type="partOfSpeech">noun</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">A Firefox-specific umbrella term that describes tools (including extensions and themes) that users can install to modify, customize, and extend the functionality of Firefox. Avoid using "add-ons" and "extensions" interchangeably (see https://wiki.mozilla.org/Add-ons/Terminology#Usage_Guidelines).</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="fr">
-					<ntig>
-						<termGrp>
-							<term>modules complémentaires</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
 			<termEntry id="c622">
 				<descrip type="context">Do you want to abort this download</descrip>
 				<langSet xml:lang="en-US">
@@ -1335,27 +1314,6 @@
 					<ntig>
 						<termGrp>
 							<term>à but non lucratif</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
-			<termEntry id="c600">
-				<descrip type="context">Reported Attack Site!</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>Attack Site</term>
-							<termNote type="partOfSpeech">noun</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">A site designed to attack a user's client browser using malware or hacking.</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="fr">
-					<ntig>
-						<termGrp>
-							<term>Site d’attaque</term>
 						</termGrp>
 					</ntig>
 				</langSet>
@@ -2036,6 +1994,48 @@ Note that this is distinct from "review analyzer", which is the name of the tool
 					<ntig>
 						<termGrp>
 							<term>Vérificateur d’avis</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c600">
+				<descrip type="context">Reported Attack Site!</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>Attack Site</term>
+							<termNote type="partOfSpeech">noun</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">A site designed to attack a user's client browser using malware or hacking.</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="fr">
+					<ntig>
+						<termGrp>
+							<term>Site d’attaque</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c621">
+				<descrip type="context">Your add-ons and customizations have been removed and your browser settings have been restored to their defaults.</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>add-on</term>
+							<termNote type="partOfSpeech">noun</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">A Firefox-specific umbrella term that describes tools (including extensions and themes) that users can install to modify, customize, and extend the functionality of Firefox. Avoid using "add-ons" and "extensions" interchangeably (see https://wiki.mozilla.org/Add-ons/Terminology#Usage_Guidelines).</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="fr">
+					<ntig>
+						<termGrp>
+							<term>modules complémentaires</term>
 						</termGrp>
 					</ntig>
 				</langSet>
