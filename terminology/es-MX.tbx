@@ -1933,6 +1933,48 @@ A code used to recover a user's encrypted account information (such as bookmarks
 					</ntig>
 				</langSet>
 			</termEntry>
+			<termEntry id="c667">
+				<descrip type="context">Protect your inbox with unlimited email masks, and get a unique Relay email domain to make creating masks on the go easy and secure.</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>email mask</term>
+							<termNote type="partOfSpeech">noun</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">Firefox Relay feature. Email masks are masked, or private, email addresses that forward messages to your true email address. These masks allow you to share an address with third parties which will mask your true email address and forward messages to it.</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="es-MX">
+					<ntig>
+						<termGrp>
+							<term>máscara de correo electrónico</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c665">
+				<descrip type="context">Extension Not Allowed on Restricted Sites</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>restricted site</term>
+							<termNote type="partOfSpeech">noun</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">A website, identified by Mozilla, where the execution of unverified add-ons is blocked by default for security reasons.</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="es-MX">
+					<ntig>
+						<termGrp>
+							<term>sitio restringido</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
 		</body>
 	</text>
 </martif>
