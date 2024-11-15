@@ -1280,6 +1280,48 @@ A code used to recover a user's encrypted account information (such as bookmarks
 					</ntig>
 				</langSet>
 			</termEntry>
+			<termEntry id="c545">
+				<descrip type="context">Blocking trackers and cookies can cause some websites to break.</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>trackers</term>
+							<termNote type="partOfSpeech">noun</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">Trackers are cookies, widgets, or invisible snippets of code used to monitor someone’s browsing history. Websites use trackers to gather analytics and statistics. Third-party trackers collect and send data about visited websites to other companies, often for advertising purposes. Advertisers use third-party trackers to show users personalized content and targeted ads.</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="bg">
+					<ntig>
+						<termGrp>
+							<term>проследяващи скриптове</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
+			<termEntry id="c534">
+				<descrip type="context">Open Web Authentication panel</descrip>
+				<langSet xml:lang="en-US">
+					<ntig>
+						<termGrp>
+							<term>Web Authentication</term>
+							<termNote type="partOfSpeech">noun</termNote>
+						</termGrp>
+					</ntig>
+					<descripGrp>
+						<descrip type="definition">A credential management tool that allows users to verify identity using an authenticator—such as a phone, hardware security keys, or TPM (Trusted Platform Model) devices—in place of traditional passwords. Web Authentication (or “WebAuthn”) is built directly into a web browser.</descrip>
+					</descripGrp>
+				</langSet>
+				<langSet xml:lang="bg">
+					<ntig>
+						<termGrp>
+							<term>Удостоверяване по интернет</term>
+						</termGrp>
+					</ntig>
+				</langSet>
+			</termEntry>
 		</body>
 	</text>
 </martif>
