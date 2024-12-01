@@ -1,1008 +1,1008 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE martif SYSTEM "TBXcoreStructV02.dtd">
 <martif type="TBX" xml:lang="en-US">
-	<martifHeader>
-		<fileDesc>
-			<titleStmt>
-				<title>Mozilla Terms</title>
-			</titleStmt>
-			<sourceDesc>
-				<p>from a Mozilla termbase</p>
-			</sourceDesc>
-		</fileDesc>
-		<encodingDesc>
-			<p type="XCSURI">TBXXCSV02.xcs</p>
-		</encodingDesc>
-	</martifHeader>
-	<text>
-		<body>
-			<termEntry id="c577">
-				<descrip type="context">Enhanced Tracking Protection is ON for this site</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>Enhanced Tracking Protection</term>
-							<termNote type="partOfSpeech">noun</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">Enhanced Tracking Protection is a collection of Firefox privacy and security settings. These settings block invisible or visible parts of webpages that can track users online. Enhanced Tracking Protection keeps an individual’s browsing history more private to reduce how much of their data is tracked, stored, and shared between websites and advertisers.</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="ro">
-					<ntig>
-						<termGrp>
-							<term>Protecție îmbunătățită împotriva urmăririi</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
-			<termEntry id="c579">
-				<descrip type="context">You cannot enable this filter</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>enable</term>
-							<termNote type="partOfSpeech">verb</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">Activate a feature</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="ro">
-					<ntig>
-						<termGrp>
-							<term>activa</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
-			<termEntry id="c578">
-				<descrip type="context">Check that the file, including symbols and accented letters, is encoded using the UTF-8 character encoding.</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>encode</term>
-							<termNote type="partOfSpeech">verb</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">Transforming data using a standard format or particular code so that it can be properly (and safely) consumed by a different type of system. The goal with encoding is to ensure that information can be properly consumed—this is different from "encyption," for which the goal is to keep information secret and safe from unauthorized access.</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="ro">
-					<ntig>
-						<termGrp>
-							<term>codifica</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
-			<termEntry id="c620">
-				<descrip type="context">If the image is relevant to the content of the document, you must supply alternate text that will appear in text-only browsers</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>alternate text</term>
-							<termNote type="partOfSpeech">noun</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">Text added to an HTML element (typically an image) to describe that element when it cannot be rendered. Also used by accessibility tools, like screen readers, to make non-textual elements accessible.</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="ro">
-					<ntig>
-						<termGrp>
-							<term>text alternativ</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
-			<termEntry id="c599">
-				<descrip type="context">These pages try to install programs that steal private information, use your computer to attack others, or damage your system.</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>attack</term>
-							<termNote type="partOfSpeech">verb</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">To take malicious action against, specifically via hacking and malware.</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="ro">
-					<ntig>
-						<termGrp>
-							<term>atac</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
-			<termEntry id="c575">
-				<descrip type="context">Encrypt This Message</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>encrypt</term>
-							<termNote type="partOfSpeech">verb</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">Convert information or data into a code, especially to prevent unauthorized access. This is different from "encoding" in which the goal is to ensure that information can be properly consumed.</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="ro">
-					<ntig>
-						<termGrp>
-							<term>cripta</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
-			<termEntry id="c528">
-				<descrip type="context">This option sends one invitation email per attendee</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>attendee</term>
-							<termNote type="partOfSpeech">noun</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">a person who is invited to attend an event, specifically via a calendar invitation</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="ro">
-					<ntig>
-						<termGrp>
-							<term>participant</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
-			<termEntry id="c613">
-				<descrip type="context">The endpoint you are connecting to needs more information to authenticate this connection.</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>authenticate</term>
-							<termNote type="partOfSpeech">verb</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">To prove user identity, typically to gain access to a system or service</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="ro">
-					<ntig>
-						<termGrp>
-							<term>autentifica</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
-			<termEntry id="c598">
-				<descrip type="context">Warning: Contains unauthenticated content</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>authenticated</term>
-							<termNote type="partOfSpeech">adjective</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">User identity has been proven for access to a system or service</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="ro">
-					<ntig>
-						<termGrp>
-							<term>autentificat</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
-			<termEntry id="c521">
-				<descrip type="context"></descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>Bug report</term>
-							<termNote type="partOfSpeech">noun</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">The detailed description accompanying a bug or the act of reporting the bug itself. (Sometimes just called bug)</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="ro">
-					<ntig>
-						<termGrp>
-							<term>Raport de erori</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
-			<termEntry id="c594">
-				<descrip type="context">The certificate used to sign the message was issued by an unknown certificate authority.</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>certificate authority</term>
-							<termNote type="partOfSpeech">noun</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">A trusted organization that issues signed digital certificates that verify the identity and legitimacy of a company or individual.</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="ro">
-					<ntig>
-						<termGrp>
-							<term>autoritate de certificare</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
-			<termEntry id="c611">
-				<descrip type="context">The cipher used for encryption is deprecated and insecure.</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>cipher</term>
-							<termNote type="partOfSpeech">noun</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">An algorithm that encrypts or decrypts information.</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="ro">
-					<ntig>
-						<termGrp>
-							<term>cifru</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
-			<termEntry id="c524">
-				<descrip type="context">A Geolocation request can only be fulfilled in a secure context.This scratchpad executes in the Browser context.</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>context</term>
-							<termNote type="partOfSpeech">noun</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">The setting or circumstance in which a thing occurs, often associated with the context menu. This term can assume specific connotations when referring to programming languages, for example in JavaScript a context is a reference to the object running the currently executing code.</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="ro">
-					<ntig>
-						<termGrp>
-							<term>context</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
-			<termEntry id="c588">
-				<descrip type="context">This add-on could not be installed because it appears to be corrupt.</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>corrupt</term>
-							<termNote type="partOfSpeech">adjective</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">Containing errors or alterations from its original, correct form</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="ro">
-					<ntig>
-						<termGrp>
-							<term>corupt</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
-			<termEntry id="c582">
-				<descrip type="context">Turning this on will allow you to debug add-ons</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>debug</term>
-							<termNote type="partOfSpeech">verb</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">Identify and remove errors from computer sofware</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="ro">
-					<ntig>
-						<termGrp>
-							<term>depana</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
-			<termEntry id="c581">
-				<descrip type="context">This web page has been reported as a deceptive site and has been blocked</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>deceptive site</term>
-							<termNote type="partOfSpeech">noun</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">A malicious website that impersonates a legitimate one in order to trick users into providing sensitive information such as passwords, account details, or credit card numbers</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="ro">
-					<ntig>
-						<termGrp>
-							<term>site înșelător</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
-			<termEntry id="c576">
-				<descrip type="context">Media resource could not be decoded</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>decode</term>
-							<termNote type="partOfSpeech">verb</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">Translating date or information that has been encoded back into its original, comprehensible format.</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="ro">
-					<ntig>
-						<termGrp>
-							<term>decodifica</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
-			<termEntry id="c573">
-				<descrip type="context">Widevine Content Decryption Module provided by Google Inc.</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>decryption</term>
-							<termNote type="partOfSpeech">noun</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">The process of converting information or data back to its original form or text so that it can be read and understood; the process of reversing encryption</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="ro">
-					<ntig>
-						<termGrp>
-							<term>decriptare</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
-			<termEntry id="c484">
-				<descrip type="context">Political actors use disinformation campaigns that prey on our emotions and values to manipulate our behaviour.</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>disinformation</term>
-							<termNote type="partOfSpeech">noun</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">False, inaccurate, or misleading information designed, presented, and promoted to intentionally cause public harm or for profit. When it’s shared mistakenly by people, it becomes misinformation. See also the definition of misinformation.</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="ro">
-					<ntig>
-						<termGrp>
-							<term>dezinformare</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
-			<termEntry id="c574">
-				<descrip type="context">Your connection to this website uses weak encryption and is not private.</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>encryption</term>
-							<termNote type="partOfSpeech">noun</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">The process of encoding information or data so that only the sender and the intended recipient can read it.</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="ro">
-					<ntig>
-						<termGrp>
-							<term>criptare</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
-			<termEntry id="c572">
-				<descrip type="context">Request on the main thread is deprecated because of its detrimental effects to the end user</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>end user</term>
-							<termNote type="partOfSpeech">noun</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">The person who ultimately uses or is intended to use a product</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="ro">
-					<ntig>
-						<termGrp>
-							<term>utilizator final</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
-			<termEntry id="c610">
-				<descrip type="context">This page is loaded from an extension</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>extension</term>
-							<termNote type="partOfSpeech">noun</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">Pieces of code that extend the capabilities of a browser. In Firefox, extensions are a type of add-on.</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="ro">
-					<ntig>
-						<termGrp>
-							<term>extensie</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
-			<termEntry id="c567">
-				<descrip type="context">Do you want this document to be your new home page?</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>home page</term>
-							<termNote type="partOfSpeech">noun</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">The default page that loads when you visit a website. In Firefox, the "home page" is also the default page displayed when you open the browser or open a new tab.</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="ro">
-					<ntig>
-						<termGrp>
-							<term>pagină de start</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
-			<termEntry id="c565">
-				<descrip type="context">Select which items to import</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>import</term>
-							<termNote type="partOfSpeech">verb</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">Copy or move data from one program to another, including importing data from an external source (for example, bookmarks)</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="ro">
-					<ntig>
-						<termGrp>
-							<term>importa</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
-			<termEntry id="c463">
-				<descrip type="context">Explore some of our latest innovations</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>innovations</term>
-							<termNote type="partOfSpeech">noun</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">Unique features developed for Firefox</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="ro">
-					<ntig>
-						<termGrp>
-							<term>inovații</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
-			<termEntry id="c563">
-				<descrip type="context">A restart of your computer may be required to complete the installation. -or- This setting will apply to all Windows accounts and Firefox profiles using this installation of Firefox.</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>installation</term>
-							<termNote type="partOfSpeech">noun</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">To set something up for use (most often referring to software installation). When talking about an installation of Firefox, we refer to where software is installed on a device, regardless of what version of software is installed. The software’s location in the file system defines that installation. A user may have multiple installations of Firefox—each a different version of Firefox— or even multiple installations that are all the same version of Firefox.</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="ro">
-					<ntig>
-						<termGrp>
-							<term>instalare</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
-			<termEntry id="c453">
-				<descrip type="context">We're campaigning to get big tech platforms like Google, Facebook and Twitter to become more transparent about how political messages are spread so that we can detect and stop misinformation.</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>misinformation</term>
-							<termNote type="partOfSpeech">noun</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">False or misleading information (also known as disinformation) presented as truth that’s shared mistakenly by people who are unaware that it’s false.See also the definition of disinformation.</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="ro">
-					<ntig>
-						<termGrp>
-							<term>dezinformare</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
-			<termEntry id="c452">
-				<descrip type="context">They can’t access the device’s underlying capabilities the way that native apps can</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>native</term>
-							<termNote type="partOfSpeech">adjective</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">Local software and applications</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="ro">
-					<ntig>
-						<termGrp>
-							<term>nativ</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
-			<termEntry id="c441">
-				<descrip type="context">You can manage your profile and preferences</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>preference</term>
-							<termNote type="partOfSpeech">noun</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">Custom settings within a software application</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="ro">
-					<ntig>
-						<termGrp>
-							<term>preferință</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
-			<termEntry id="c555">
-				<descrip type="context">Send a crash report for the tab you are viewing</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>report</term>
-							<termNote type="partOfSpeech">noun</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">A detailed record or account, most often in the case of a site crash or issue</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="ro">
-					<ntig>
-						<termGrp>
-							<term>raport</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
-			<termEntry id="c552">
-				<descrip type="context">Search suggestions will not be shown in location bar results</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>search suggestion</term>
-							<termNote type="partOfSpeech">noun</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">A related search term suggested by a search engine</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="ro">
-					<ntig>
-						<termGrp>
-							<term>sugestie de căutare</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
-			<termEntry id="c551">
-				<descrip type="context">%S wants to register an account with one of your security keys. You can connect and authorize one now, or cancel.</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>security keys</term>
-							<termNote type="partOfSpeech">noun</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">In Firefox the term security key refers specifically to a physical device that allows a user to authenticate, like a Yubikey. This is a standard definition that our security engineering team has arrived at with teams from Chrome and Safari.</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="ro">
-					<ntig>
-						<termGrp>
-							<term>chei de securitate</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
-			<termEntry id="c550">
-				<descrip type="context">As a security precaution, the browser does not automatically re-request sensitive documents</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>sensitive</term>
-							<termNote type="partOfSpeech">adjective</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">Requiring caution or additional care, especially referring to data that must be protected to safeguard the privacy or security of an individual or organization.</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="ro">
-					<ntig>
-						<termGrp>
-							<term>sensibil</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
-			<termEntry id="c548">
-				<descrip type="context">Load this bookmark in the sidebar</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>sidebar</term>
-							<termNote type="partOfSpeech">noun</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">A pane that is displayed on either side of the Firefox browser window, next to the web page. Includes the the user's bookmarks, history, and synced tabs.</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="ro">
-					<ntig>
-						<termGrp>
-							<term>bară laterală</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
-			<termEntry id="c547">
-				<descrip type="context">The signer's certificate could not be found</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>signer</term>
-							<termNote type="partOfSpeech">noun</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">The entity that signs a digital certificate verifying the identity of a website, organization, or individual.</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="ro">
-					<ntig>
-						<termGrp>
-							<term>semnatar</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
-			<termEntry id="c544">
-				<descrip type="context">Block third-party content that tracks you around the web. Control how much of your online activity gets stored and shared between websites.</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>track</term>
-							<termNote type="partOfSpeech">verb</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">To identify and collect information about website users. Can be conducted by websites themselves or third parties, such as advertisers. May also refer to the practice of tracking a user’s browsing behavior and gathering information about their devices to build a unique profile about that individual.</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="ro">
-					<ntig>
-						<termGrp>
-							<term>urmări</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
-			<termEntry id="c540">
-				<descrip type="context">Your email and authentication are sent unencrypted so your password and your message could easily be read by other people</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>unencrypted</term>
-							<termNote type="partOfSpeech">adjective</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">Not encrypted, and thus more vulnerable to unauthorized access. Note that "encoded" and "encrypted" are not synonyms (see definition for "encoded").</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="ro">
-					<ntig>
-						<termGrp>
-							<term>necriptat</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
-			<termEntry id="c538">
-				<descrip type="context">Disabling the Safe Browsing feature is not recommended as it may result in you going to unsafe sites</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>unsafe</term>
-							<termNote type="partOfSpeech">adjective</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">Lacking in security or safety; potentially causing harm or damage</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="ro">
-					<ntig>
-						<termGrp>
-							<term>nesigur</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
-			<termEntry id="c536">
-				<descrip type="context">Validate cache manifest</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>validate</term>
-							<termNote type="partOfSpeech">verb</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">To check or prove the validity or accuracy of (something).</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="ro">
-					<ntig>
-						<termGrp>
-							<term>valida</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
-			<termEntry id="c537">
-				<descrip type="context">Query OCSP responder servers to confirm the current validity of certificates</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>validity</term>
-							<termNote type="partOfSpeech">noun</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">The state of being valid, authentic or genuine.</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="ro">
-					<ntig>
-						<termGrp>
-							<term>validitate</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
-			<termEntry id="c535">
-				<descrip type="context">This policy is only available on the Extended Support Release (ESR) version</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>version</term>
-							<termNote type="partOfSpeech">noun</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">Technically refers to the number of a particular Firefox release. Can also be used interchangeably with "release." "Release" does not have a good equivalent in languages other English and so "version" must be used in some cases. Use "version" (sentence case, not title case) as a generic, stand-alone term: "You are using the latest version of Firefox." Avoid referring to the numerical marker of that version ("Firefox Nightly 66.0a1") as this is too technical and unnecessarily detailed for users. Nghtly builds have the same version number for 6 weeks at a time so the version number itself is not specific.</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="ro">
-					<ntig>
-						<termGrp>
-							<term>versiune</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
-			<termEntry id="c534">
-				<descrip type="context">Open Web Authentication panel</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>Web Authentication</term>
-							<termNote type="partOfSpeech">noun</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">A credential management tool that allows users to verify identity using an authenticator—such as a phone, hardware security keys, or TPM (Trusted Platform Model) devices—in place of traditional passwords. Web Authentication (or “WebAuthn”) is built directly into a web browser.</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="ro">
-					<ntig>
-						<termGrp>
-							<term>autentificare web</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
-			<termEntry id="c586">
-				<descrip type="context">Invalid or corrupted PDF file</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>corrupted</term>
-							<termNote type="partOfSpeech">adjective</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">Changed from its original, correct form.</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="ro">
-					<ntig>
-						<termGrp>
-							<term>corupt</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
-			<termEntry id="c554">
-				<descrip type="context">Report errors like this to help Mozilla identify and block malicious sites</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>report</term>
-							<termNote type="partOfSpeech">verb</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">Tell or alert, most often in the case of a site crash or issue</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="ro">
-					<ntig>
-						<termGrp>
-							<term>raporta</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
-			<termEntry id="c564">
-				<descrip type="context">Firefox has detected an insecure site. Form Autofill is temporarily disabled.</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>insecure</term>
-							<termNote type="partOfSpeech">adjective</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">Potentially unsafe or not protected</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="ro">
-					<ntig>
-						<termGrp>
-							<term>nesigur</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
-			<termEntry id="c519">
-				<descrip type="context"></descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>MDN</term>
-							<termNote type="partOfSpeech">noun</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">Mozilla Developer Network - online resource for Web developers; lives at. developer.mozilla.org</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="ro">
-					<ntig>
-						<termGrp>
-							<term>MDN</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
-			<termEntry id="c546">
-				<descrip type="context">Unable to digitally sign data required to verify your certificate.</descrip>
-				<langSet xml:lang="en-US">
-					<ntig>
-						<termGrp>
-							<term>sign</term>
-							<termNote type="partOfSpeech">verb</termNote>
-						</termGrp>
-					</ntig>
-					<descripGrp>
-						<descrip type="definition">To issue a digital certificate as verification of a website's identity; or, to enter user credentials to access a system.</descrip>
-					</descripGrp>
-				</langSet>
-				<langSet xml:lang="ro">
-					<ntig>
-						<termGrp>
-							<term>a semna</term>
-						</termGrp>
-					</ntig>
-				</langSet>
-			</termEntry>
-		</body>
-	</text>
+    <martifHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Mozilla Terminology</title>
+            </titleStmt>
+            <sourceDesc>
+                <p>Terms used for Mozilla localization</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p type="XCSURI">TBXXCSV02.xcs</p>
+        </encodingDesc>
+    </martifHeader>
+    <text>
+        <body>
+            <termEntry id="c577">
+                <descrip type="context">Enhanced Tracking Protection is ON for this site</descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>Enhanced Tracking Protection</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">Enhanced Tracking Protection is a collection of Firefox privacy and security settings. These settings block invisible or visible parts of webpages that can track users online. Enhanced Tracking Protection keeps an individual’s browsing history more private to reduce how much of their data is tracked, stored, and shared between websites and advertisers.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="ro">
+                    <ntig>
+                        <termGrp>
+                            <term>Protecție îmbunătățită împotriva urmăririi</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c579">
+                <descrip type="context">You cannot enable this filter</descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>enable</term>
+                            <termNote type="partOfSpeech">verb</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">Activate a feature</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="ro">
+                    <ntig>
+                        <termGrp>
+                            <term>activa</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c578">
+                <descrip type="context">Check that the file, including symbols and accented letters, is encoded using the UTF-8 character encoding.</descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>encode</term>
+                            <termNote type="partOfSpeech">verb</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">Transforming data using a standard format or particular code so that it can be properly (and safely) consumed by a different type of system. The goal with encoding is to ensure that information can be properly consumed—this is different from "encyption," for which the goal is to keep information secret and safe from unauthorized access.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="ro">
+                    <ntig>
+                        <termGrp>
+                            <term>codifica</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c620">
+                <descrip type="context">If the image is relevant to the content of the document, you must supply alternate text that will appear in text-only browsers</descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>alternate text</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">Text added to an HTML element (typically an image) to describe that element when it cannot be rendered. Also used by accessibility tools, like screen readers, to make non-textual elements accessible.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="ro">
+                    <ntig>
+                        <termGrp>
+                            <term>text alternativ</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c599">
+                <descrip type="context">These pages try to install programs that steal private information, use your computer to attack others, or damage your system.</descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>attack</term>
+                            <termNote type="partOfSpeech">verb</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">To take malicious action against, specifically via hacking and malware.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="ro">
+                    <ntig>
+                        <termGrp>
+                            <term>atac</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c575">
+                <descrip type="context">Encrypt This Message</descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>encrypt</term>
+                            <termNote type="partOfSpeech">verb</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">Convert information or data into a code, especially to prevent unauthorized access. This is different from "encoding" in which the goal is to ensure that information can be properly consumed.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="ro">
+                    <ntig>
+                        <termGrp>
+                            <term>cripta</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c528">
+                <descrip type="context">This option sends one invitation email per attendee</descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>attendee</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">a person who is invited to attend an event, specifically via a calendar invitation</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="ro">
+                    <ntig>
+                        <termGrp>
+                            <term>participant</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c613">
+                <descrip type="context">The endpoint you are connecting to needs more information to authenticate this connection.</descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>authenticate</term>
+                            <termNote type="partOfSpeech">verb</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">To prove user identity, typically to gain access to a system or service</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="ro">
+                    <ntig>
+                        <termGrp>
+                            <term>autentifica</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c598">
+                <descrip type="context">Warning: Contains unauthenticated content</descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>authenticated</term>
+                            <termNote type="partOfSpeech">adjective</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">User identity has been proven for access to a system or service</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="ro">
+                    <ntig>
+                        <termGrp>
+                            <term>autentificat</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c521">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>Bug report</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">The detailed description accompanying a bug or the act of reporting the bug itself. (Sometimes just called bug)</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="ro">
+                    <ntig>
+                        <termGrp>
+                            <term>Raport de erori</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c594">
+                <descrip type="context">The certificate used to sign the message was issued by an unknown certificate authority.</descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>certificate authority</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">A trusted organization that issues signed digital certificates that verify the identity and legitimacy of a company or individual.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="ro">
+                    <ntig>
+                        <termGrp>
+                            <term>autoritate de certificare</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c611">
+                <descrip type="context">The cipher used for encryption is deprecated and insecure.</descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>cipher</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">An algorithm that encrypts or decrypts information.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="ro">
+                    <ntig>
+                        <termGrp>
+                            <term>cifru</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c524">
+                <descrip type="context">A Geolocation request can only be fulfilled in a secure context.This scratchpad executes in the Browser context.</descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>context</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">The setting or circumstance in which a thing occurs, often associated with the context menu. This term can assume specific connotations when referring to programming languages, for example in JavaScript a context is a reference to the object running the currently executing code.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="ro">
+                    <ntig>
+                        <termGrp>
+                            <term>context</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c588">
+                <descrip type="context">This add-on could not be installed because it appears to be corrupt.</descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>corrupt</term>
+                            <termNote type="partOfSpeech">adjective</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">Containing errors or alterations from its original, correct form</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="ro">
+                    <ntig>
+                        <termGrp>
+                            <term>corupt</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c582">
+                <descrip type="context">Turning this on will allow you to debug add-ons</descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>debug</term>
+                            <termNote type="partOfSpeech">verb</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">Identify and remove errors from computer sofware</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="ro">
+                    <ntig>
+                        <termGrp>
+                            <term>depana</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c581">
+                <descrip type="context">This web page has been reported as a deceptive site and has been blocked</descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>deceptive site</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">A malicious website that impersonates a legitimate one in order to trick users into providing sensitive information such as passwords, account details, or credit card numbers</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="ro">
+                    <ntig>
+                        <termGrp>
+                            <term>site înșelător</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c576">
+                <descrip type="context">Media resource could not be decoded</descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>decode</term>
+                            <termNote type="partOfSpeech">verb</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">Translating date or information that has been encoded back into its original, comprehensible format.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="ro">
+                    <ntig>
+                        <termGrp>
+                            <term>decodifica</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c573">
+                <descrip type="context">Widevine Content Decryption Module provided by Google Inc.</descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>decryption</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">The process of converting information or data back to its original form or text so that it can be read and understood; the process of reversing encryption</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="ro">
+                    <ntig>
+                        <termGrp>
+                            <term>decriptare</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c484">
+                <descrip type="context">Political actors use disinformation campaigns that prey on our emotions and values to manipulate our behaviour.</descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>disinformation</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">False, inaccurate, or misleading information designed, presented, and promoted to intentionally cause public harm or for profit. When it’s shared mistakenly by people, it becomes misinformation. See also the definition of misinformation.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="ro">
+                    <ntig>
+                        <termGrp>
+                            <term>dezinformare</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c574">
+                <descrip type="context">Your connection to this website uses weak encryption and is not private.</descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>encryption</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">The process of encoding information or data so that only the sender and the intended recipient can read it.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="ro">
+                    <ntig>
+                        <termGrp>
+                            <term>criptare</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c572">
+                <descrip type="context">Request on the main thread is deprecated because of its detrimental effects to the end user</descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>end user</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">The person who ultimately uses or is intended to use a product</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="ro">
+                    <ntig>
+                        <termGrp>
+                            <term>utilizator final</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c610">
+                <descrip type="context">This page is loaded from an extension</descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>extension</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">Pieces of code that extend the capabilities of a browser. In Firefox, extensions are a type of add-on.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="ro">
+                    <ntig>
+                        <termGrp>
+                            <term>extensie</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c567">
+                <descrip type="context">Do you want this document to be your new home page?</descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>home page</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">The default page that loads when you visit a website. In Firefox, the "home page" is also the default page displayed when you open the browser or open a new tab.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="ro">
+                    <ntig>
+                        <termGrp>
+                            <term>pagină de start</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c565">
+                <descrip type="context">Select which items to import</descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>import</term>
+                            <termNote type="partOfSpeech">verb</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">Copy or move data from one program to another, including importing data from an external source (for example, bookmarks)</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="ro">
+                    <ntig>
+                        <termGrp>
+                            <term>importa</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c463">
+                <descrip type="context">Explore some of our latest innovations</descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>innovations</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">Unique features developed for Firefox</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="ro">
+                    <ntig>
+                        <termGrp>
+                            <term>inovații</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c563">
+                <descrip type="context">A restart of your computer may be required to complete the installation. -or- This setting will apply to all Windows accounts and Firefox profiles using this installation of Firefox.</descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>installation</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">To set something up for use (most often referring to software installation). When talking about an installation of Firefox, we refer to where software is installed on a device, regardless of what version of software is installed. The software’s location in the file system defines that installation. A user may have multiple installations of Firefox—each a different version of Firefox— or even multiple installations that are all the same version of Firefox.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="ro">
+                    <ntig>
+                        <termGrp>
+                            <term>instalare</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c453">
+                <descrip type="context">We're campaigning to get big tech platforms like Google, Facebook and Twitter to become more transparent about how political messages are spread so that we can detect and stop misinformation.</descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>misinformation</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">False or misleading information (also known as disinformation) presented as truth that’s shared mistakenly by people who are unaware that it’s false.See also the definition of disinformation.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="ro">
+                    <ntig>
+                        <termGrp>
+                            <term>dezinformare</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c452">
+                <descrip type="context">They can’t access the device’s underlying capabilities the way that native apps can</descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>native</term>
+                            <termNote type="partOfSpeech">adjective</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">Local software and applications</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="ro">
+                    <ntig>
+                        <termGrp>
+                            <term>nativ</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c441">
+                <descrip type="context">You can manage your profile and preferences</descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>preference</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">Custom settings within a software application</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="ro">
+                    <ntig>
+                        <termGrp>
+                            <term>preferință</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c555">
+                <descrip type="context">Send a crash report for the tab you are viewing</descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>report</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">A detailed record or account, most often in the case of a site crash or issue</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="ro">
+                    <ntig>
+                        <termGrp>
+                            <term>raport</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c552">
+                <descrip type="context">Search suggestions will not be shown in location bar results</descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>search suggestion</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">A related search term suggested by a search engine</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="ro">
+                    <ntig>
+                        <termGrp>
+                            <term>sugestie de căutare</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c551">
+                <descrip type="context">%S wants to register an account with one of your security keys. You can connect and authorize one now, or cancel.</descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>security keys</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">In Firefox the term security key refers specifically to a physical device that allows a user to authenticate, like a Yubikey. This is a standard definition that our security engineering team has arrived at with teams from Chrome and Safari.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="ro">
+                    <ntig>
+                        <termGrp>
+                            <term>chei de securitate</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c550">
+                <descrip type="context">As a security precaution, the browser does not automatically re-request sensitive documents</descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>sensitive</term>
+                            <termNote type="partOfSpeech">adjective</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">Requiring caution or additional care, especially referring to data that must be protected to safeguard the privacy or security of an individual or organization.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="ro">
+                    <ntig>
+                        <termGrp>
+                            <term>sensibil</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c548">
+                <descrip type="context">Load this bookmark in the sidebar</descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>sidebar</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">A pane that is displayed on either side of the Firefox browser window, next to the web page. Includes the the user's bookmarks, history, and synced tabs.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="ro">
+                    <ntig>
+                        <termGrp>
+                            <term>bară laterală</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c547">
+                <descrip type="context">The signer's certificate could not be found</descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>signer</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">The entity that signs a digital certificate verifying the identity of a website, organization, or individual.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="ro">
+                    <ntig>
+                        <termGrp>
+                            <term>semnatar</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c544">
+                <descrip type="context">Block third-party content that tracks you around the web. Control how much of your online activity gets stored and shared between websites.</descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>track</term>
+                            <termNote type="partOfSpeech">verb</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">To identify and collect information about website users. Can be conducted by websites themselves or third parties, such as advertisers. May also refer to the practice of tracking a user’s browsing behavior and gathering information about their devices to build a unique profile about that individual.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="ro">
+                    <ntig>
+                        <termGrp>
+                            <term>urmări</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c540">
+                <descrip type="context">Your email and authentication are sent unencrypted so your password and your message could easily be read by other people</descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>unencrypted</term>
+                            <termNote type="partOfSpeech">adjective</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">Not encrypted, and thus more vulnerable to unauthorized access. Note that "encoded" and "encrypted" are not synonyms (see definition for "encoded").</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="ro">
+                    <ntig>
+                        <termGrp>
+                            <term>necriptat</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c538">
+                <descrip type="context">Disabling the Safe Browsing feature is not recommended as it may result in you going to unsafe sites</descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>unsafe</term>
+                            <termNote type="partOfSpeech">adjective</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">Lacking in security or safety; potentially causing harm or damage</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="ro">
+                    <ntig>
+                        <termGrp>
+                            <term>nesigur</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c536">
+                <descrip type="context">Validate cache manifest</descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>validate</term>
+                            <termNote type="partOfSpeech">verb</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">To check or prove the validity or accuracy of (something).</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="ro">
+                    <ntig>
+                        <termGrp>
+                            <term>valida</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c537">
+                <descrip type="context">Query OCSP responder servers to confirm the current validity of certificates</descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>validity</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">The state of being valid, authentic or genuine.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="ro">
+                    <ntig>
+                        <termGrp>
+                            <term>validitate</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c535">
+                <descrip type="context">This policy is only available on the Extended Support Release (ESR) version</descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>version</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">Technically refers to the number of a particular Firefox release. Can also be used interchangeably with "release." "Release" does not have a good equivalent in languages other English and so "version" must be used in some cases. Use "version" (sentence case, not title case) as a generic, stand-alone term: "You are using the latest version of Firefox." Avoid referring to the numerical marker of that version ("Firefox Nightly 66.0a1") as this is too technical and unnecessarily detailed for users. Nghtly builds have the same version number for 6 weeks at a time so the version number itself is not specific.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="ro">
+                    <ntig>
+                        <termGrp>
+                            <term>versiune</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c534">
+                <descrip type="context">Open Web Authentication panel</descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>Web Authentication</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">A credential management tool that allows users to verify identity using an authenticator—such as a phone, hardware security keys, or TPM (Trusted Platform Model) devices—in place of traditional passwords. Web Authentication (or “WebAuthn”) is built directly into a web browser.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="ro">
+                    <ntig>
+                        <termGrp>
+                            <term>autentificare web</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c586">
+                <descrip type="context">Invalid or corrupted PDF file</descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>corrupted</term>
+                            <termNote type="partOfSpeech">adjective</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">Changed from its original, correct form.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="ro">
+                    <ntig>
+                        <termGrp>
+                            <term>corupt</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c554">
+                <descrip type="context">Report errors like this to help Mozilla identify and block malicious sites</descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>report</term>
+                            <termNote type="partOfSpeech">verb</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">Tell or alert, most often in the case of a site crash or issue</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="ro">
+                    <ntig>
+                        <termGrp>
+                            <term>raporta</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c564">
+                <descrip type="context">Firefox has detected an insecure site. Form Autofill is temporarily disabled.</descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>insecure</term>
+                            <termNote type="partOfSpeech">adjective</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">Potentially unsafe or not protected</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="ro">
+                    <ntig>
+                        <termGrp>
+                            <term>nesigur</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c519">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>MDN</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">Mozilla Developer Network - online resource for Web developers; lives at. developer.mozilla.org</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="ro">
+                    <ntig>
+                        <termGrp>
+                            <term>MDN</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c546">
+                <descrip type="context">Unable to digitally sign data required to verify your certificate.</descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>sign</term>
+                            <termNote type="partOfSpeech">verb</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">To issue a digital certificate as verification of a website's identity; or, to enter user credentials to access a system.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="ro">
+                    <ntig>
+                        <termGrp>
+                            <term>a semna</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+        </body>
+    </text>
 </martif>
