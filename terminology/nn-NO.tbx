@@ -1972,7 +1972,7 @@ Note that this is distinct from "review analyzer", which is the name of the tool
                 <langSet xml:lang="nn-NO">
                     <ntig>
                         <termGrp>
-                            <term>e-postmaske</term>
+                            <term>e-postalias</term>
                         </termGrp>
                     </ntig>
                 </langSet>
