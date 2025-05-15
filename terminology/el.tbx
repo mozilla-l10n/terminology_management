@@ -1360,27 +1360,6 @@
                     </ntig>
                 </langSet>
             </termEntry>
-            <termEntry id="c594">
-                <descrip type="context">The certificate used to sign the message was issued by an unknown certificate authority.</descrip>
-                <langSet xml:lang="en-US">
-                    <ntig>
-                        <termGrp>
-                            <term>certificate authority</term>
-                            <termNote type="partOfSpeech">noun</termNote>
-                        </termGrp>
-                    </ntig>
-                    <descripGrp>
-                        <descrip type="definition">A trusted organization that issues signed digital certificates that verify the identity and legitimacy of a company or individual.</descrip>
-                    </descripGrp>
-                </langSet>
-                <langSet xml:lang="el">
-                    <ntig>
-                        <termGrp>
-                            <term>αρχή πιστοποιητικού</term>
-                        </termGrp>
-                    </ntig>
-                </langSet>
-            </termEntry>
             <termEntry id="c611">
                 <descrip type="context">The cipher used for encryption is deprecated and insecure.</descrip>
                 <langSet xml:lang="en-US">
@@ -1972,7 +1951,7 @@ A code used to recover a user's encrypted account information (such as bookmarks
                 <langSet xml:lang="el">
                     <ntig>
                         <termGrp>
-                            <term>μήνυμα για cookies</term>
+                            <term>μήνυμα για cookie</term>
                         </termGrp>
                     </ntig>
                 </langSet>
@@ -2015,6 +1994,27 @@ A code used to recover a user's encrypted account information (such as bookmarks
                     <ntig>
                         <termGrp>
                             <term>μάσκα αριθμού τηλεφώνου</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c594">
+                <descrip type="context">The certificate used to sign the message was issued by an unknown certificate authority.</descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>certificate authority</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">A trusted organization that issues signed digital certificates that verify the identity and legitimacy of a company or individual.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="el">
+                    <ntig>
+                        <termGrp>
+                            <term>αρχή πιστοποίησης</term>
                         </termGrp>
                     </ntig>
                 </langSet>
