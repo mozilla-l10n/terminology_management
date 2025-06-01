@@ -1998,6 +1998,27 @@ See this page for more information: https://bit.ly/l10n-guidance-colorways</desc
                     </ntig>
                 </langSet>
             </termEntry>
+            <termEntry id="c467">
+                <descrip type="context">Use market-leading research to deliver powerful grassroots-led campaigns.</descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>grassroots</term>
+                            <termNote type="partOfSpeech">adjective</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">A campaign or movement that’s led directly by the people in a community</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="ar">
+                    <ntig>
+                        <termGrp>
+                            <term>مباشرة من الناس و المجتمع</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
         </body>
     </text>
 </martif>

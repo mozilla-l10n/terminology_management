@@ -32,28 +32,7 @@
                 <langSet xml:lang="nn-NO">
                     <ntig>
                         <termGrp>
-                            <term>eit tillegg - fleire tillegg</term>
-                        </termGrp>
-                    </ntig>
-                </langSet>
-            </termEntry>
-            <termEntry id="c595">
-                <descrip type="context">Bookmark this page</descrip>
-                <langSet xml:lang="en-US">
-                    <ntig>
-                        <termGrp>
-                            <term>bookmark</term>
-                            <termNote type="partOfSpeech">verb</termNote>
-                        </termGrp>
-                    </ntig>
-                    <descripGrp>
-                        <descrip type="definition">Create a shortcut that directs the browser to a specific webpage. Shortcuts may be added to the bookmark toolbar. Similar in functionality to "favorites" in Chrome and Internet Explorer, and "bookmarks" in Safari.</descrip>
-                    </descripGrp>
-                </langSet>
-                <langSet xml:lang="nn-NO">
-                    <ntig>
-                        <termGrp>
-                            <term>Å bokmerke</term>
+                            <term>tillegg</term>
                         </termGrp>
                     </ntig>
                 </langSet>
@@ -1019,7 +998,7 @@
                 <langSet xml:lang="nn-NO">
                     <ntig>
                         <termGrp>
-                            <term>ein sidestolpe - fleire sidestolpar</term>
+                            <term>sidestolpe</term>
                         </termGrp>
                     </ntig>
                 </langSet>
@@ -1040,7 +1019,7 @@
                 <langSet xml:lang="nn-NO">
                     <ntig>
                         <termGrp>
-                            <term>ei gyldigheit, ein validitet</term>
+                            <term>gyldigheit</term>
                         </termGrp>
                     </ntig>
                 </langSet>
@@ -1061,7 +1040,7 @@
                 <langSet xml:lang="nn-NO">
                     <ntig>
                         <termGrp>
-                            <term>Å angripe</term>
+                            <term>angripe</term>
                         </termGrp>
                     </ntig>
                 </langSet>
@@ -1103,7 +1082,7 @@
                 <langSet xml:lang="nn-NO">
                     <ntig>
                         <termGrp>
-                            <term>ein angripar</term>
+                            <term>angripar</term>
                         </termGrp>
                     </ntig>
                 </langSet>
@@ -1145,7 +1124,7 @@
                 <langSet xml:lang="nn-NO">
                     <ntig>
                         <termGrp>
-                            <term>Angrepsnettstad, åtaksnettstad</term>
+                            <term>Angrepsnettstad</term>
                         </termGrp>
                     </ntig>
                 </langSet>
@@ -1208,7 +1187,7 @@
                 <langSet xml:lang="nn-NO">
                     <ntig>
                         <termGrp>
-                            <term>sertifikatutskrivar, sertifikatutferdar</term>
+                            <term>sertifikatutskrivar</term>
                         </termGrp>
                     </ntig>
                 </langSet>
@@ -1507,27 +1486,6 @@
                     </ntig>
                 </langSet>
             </termEntry>
-            <termEntry id="c628">
-                <descrip type="context">Sign in to sync tabs, bookmarks, passwords, and more.</descrip>
-                <langSet xml:lang="en-US">
-                    <ntig>
-                        <termGrp>
-                            <term>sign in</term>
-                            <termNote type="partOfSpeech">verb</termNote>
-                        </termGrp>
-                    </ntig>
-                    <descripGrp>
-                        <descrip type="definition">To access an account or software through the usage of account information such as user id and password.</descrip>
-                    </descripGrp>
-                </langSet>
-                <langSet xml:lang="nn-NO">
-                    <ntig>
-                        <termGrp>
-                            <term>logg inn</term>
-                        </termGrp>
-                    </ntig>
-                </langSet>
-            </termEntry>
             <termEntry id="c629">
                 <descrip type="context">With Firefox on all your devices, you can access bookmarks, tabs and passwords with one easy sign-in.</descrip>
                 <langSet xml:lang="en-US">
@@ -1649,7 +1607,7 @@
                 <langSet xml:lang="nn-NO">
                     <ntig>
                         <termGrp>
-                            <term>eit krasj - fleire krasj</term>
+                            <term>krasj</term>
                         </termGrp>
                     </ntig>
                 </langSet>
@@ -1712,28 +1670,7 @@
                 <langSet xml:lang="nn-NO">
                     <ntig>
                         <termGrp>
-                            <term>Personvernerklæring</term>
-                        </termGrp>
-                    </ntig>
-                </langSet>
-            </termEntry>
-            <termEntry id="c631">
-                <descrip type="context">We also adhere to the practices outlined in the Mozilla privacy policy for how we receive, handle and share information we collect from Firefox.</descrip>
-                <langSet xml:lang="en-US">
-                    <ntig>
-                        <termGrp>
-                            <term>Privacy Policy</term>
-                            <termNote type="partOfSpeech">noun</termNote>
-                        </termGrp>
-                    </ntig>
-                    <descripGrp>
-                        <descrip type="definition">A statement that discloses the set of practices related to the handling of personal information by Mozilla or its products. For example, Mozilla's privacy policy can be found here: https://www.mozilla.org/en-US/privacy/</descrip>
-                    </descripGrp>
-                </langSet>
-                <langSet xml:lang="nn-NO">
-                    <ntig>
-                        <termGrp>
-                            <term>Personvernerklæring</term>
+                            <term>Personvernfråsegn</term>
                         </termGrp>
                     </ntig>
                 </langSet>
@@ -1817,7 +1754,7 @@
                 <langSet xml:lang="nn-NO">
                     <ntig>
                         <termGrp>
-                            <term>eit bokmerke - fleire bokmerke</term>
+                            <term>bokmerke</term>
                         </termGrp>
                     </ntig>
                 </langSet>
@@ -1972,7 +1909,7 @@ Note that this is distinct from "review analyzer", which is the name of the tool
                 <langSet xml:lang="nn-NO">
                     <ntig>
                         <termGrp>
-                            <term>e-postmaske</term>
+                            <term>e-postalias</term>
                         </termGrp>
                     </ntig>
                 </langSet>
@@ -2015,6 +1952,69 @@ Note that this is distinct from "review analyzer", which is the name of the tool
                     <ntig>
                         <termGrp>
                             <term>identifisering (fingeravtrykk)</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c595">
+                <descrip type="context">Bookmark this page</descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>bookmark</term>
+                            <termNote type="partOfSpeech">verb</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">Create a shortcut that directs the browser to a specific webpage. Shortcuts may be added to the bookmark toolbar. Similar in functionality to "favorites" in Chrome and Internet Explorer, and "bookmarks" in Safari.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="nn-NO">
+                    <ntig>
+                        <termGrp>
+                            <term>bokmerke</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c628">
+                <descrip type="context">Sign in to sync tabs, bookmarks, passwords, and more.</descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>sign in</term>
+                            <termNote type="partOfSpeech">verb</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">To access an account or software through the usage of account information such as user id and password.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="nn-NO">
+                    <ntig>
+                        <termGrp>
+                            <term>logge inn</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c631">
+                <descrip type="context">We also adhere to the practices outlined in the Mozilla privacy policy for how we receive, handle and share information we collect from Firefox.</descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>Privacy Policy</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">A statement that discloses the set of practices related to the handling of personal information by Mozilla or its products. For example, Mozilla's privacy policy can be found here: https://www.mozilla.org/en-US/privacy/</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="nn-NO">
+                    <ntig>
+                        <termGrp>
+                            <term>Personvernpolicy</term>
                         </termGrp>
                     </ntig>
                 </langSet>
