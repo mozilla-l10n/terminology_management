@@ -32,7 +32,7 @@
                 <langSet xml:lang="hr">
                     <ntig>
                         <termGrp>
-                            <term>Uvjeti usluge</term>
+                            <term>uvjeti usluge</term>
                         </termGrp>
                     </ntig>
                 </langSet>
@@ -184,27 +184,6 @@
                     </ntig>
                 </langSet>
             </termEntry>
-            <termEntry id="c630">
-                <descrip type="context">In this Privacy Notice, we explain what data Firefox shares and point you to settings to share even less. We also adhere to the practices outlined in the Mozilla privacy policy for how we receive, handle and share information we collect from Firefox.</descrip>
-                <langSet xml:lang="en-US">
-                    <ntig>
-                        <termGrp>
-                            <term>Privacy Notice</term>
-                            <termNote type="partOfSpeech">noun</termNote>
-                        </termGrp>
-                    </ntig>
-                    <descripGrp>
-                        <descrip type="definition">Notice that explains what data s Mozilla product collected, shared and why. It may also include additional information such as settings that can change how much is shared. One example is Firefox browser's privacy notice which can be found here: https://www.mozilla.org/en-US/privacy/firefox/</descrip>
-                    </descripGrp>
-                </langSet>
-                <langSet xml:lang="hr">
-                    <ntig>
-                        <termGrp>
-                            <term>Napomena o privatnosti</term>
-                        </termGrp>
-                    </ntig>
-                </langSet>
-            </termEntry>
             <termEntry id="c631">
                 <descrip type="context">We also adhere to the practices outlined in the Mozilla privacy policy for how we receive, handle and share information we collect from Firefox.</descrip>
                 <langSet xml:lang="en-US">
@@ -221,7 +200,7 @@
                 <langSet xml:lang="hr">
                     <ntig>
                         <termGrp>
-                            <term>Politika privatnosti</term>
+                            <term>politika privatnosti</term>
                         </termGrp>
                     </ntig>
                 </langSet>
@@ -1019,7 +998,7 @@
                 <langSet xml:lang="hr">
                     <ntig>
                         <termGrp>
-                            <term>web-stranica</term>
+                            <term>početna stranica</term>
                         </termGrp>
                     </ntig>
                 </langSet>
@@ -1145,7 +1124,7 @@
                 <langSet xml:lang="hr">
                     <ntig>
                         <termGrp>
-                            <term>Zastarjeli dodaci</term>
+                            <term>zastarjela proširenja</term>
                         </termGrp>
                     </ntig>
                 </langSet>
@@ -1586,7 +1565,7 @@
                 <langSet xml:lang="hr">
                     <ntig>
                         <termGrp>
-                            <term>Sadržaj praćenja</term>
+                            <term>sadržaj za praćenje</term>
                         </termGrp>
                     </ntig>
                 </langSet>
@@ -1733,7 +1712,7 @@
                 <langSet xml:lang="hr">
                     <ntig>
                         <termGrp>
-                            <term>Web-autentikacija</term>
+                            <term>web autentikacija</term>
                         </termGrp>
                     </ntig>
                 </langSet>
@@ -1930,7 +1909,7 @@ Note that this is distinct from "review analyzer", which is the name of the tool
                 <langSet xml:lang="hr">
                     <ntig>
                         <termGrp>
-                            <term>Provjera recenzija</term>
+                            <term>provjera recenzija</term>
                         </termGrp>
                     </ntig>
                 </langSet>
@@ -1993,7 +1972,7 @@ Note that this is distinct from "review analyzer", which is the name of the tool
                 <langSet xml:lang="hr">
                     <ntig>
                         <termGrp>
-                            <term>kolačić za praćenje na različitim web stranicama</term>
+                            <term>međustranični kolačići za praćenje</term>
                         </termGrp>
                     </ntig>
                 </langSet>
@@ -2015,6 +1994,27 @@ Note that this is distinct from "review analyzer", which is the name of the tool
                     <ntig>
                         <termGrp>
                             <term>potvrdni kod</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c630">
+                <descrip type="context">In this Privacy Notice, we explain what data Firefox shares and point you to settings to share even less. We also adhere to the practices outlined in the Mozilla privacy policy for how we receive, handle and share information we collect from Firefox.</descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>Privacy Notice</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">Notice that explains what data s Mozilla product collected, shared and why. It may also include additional information such as settings that can change how much is shared. One example is Firefox browser's privacy notice which can be found here: https://www.mozilla.org/en-US/privacy/firefox/</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="hr">
+                    <ntig>
+                        <termGrp>
+                            <term>napomena o privatnosti</term>
                         </termGrp>
                     </ntig>
                 </langSet>
