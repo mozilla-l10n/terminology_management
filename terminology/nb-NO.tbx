@@ -1756,7 +1756,7 @@ Note that this is distinct from "review analyzer", which is the name of the tool
                 <langSet xml:lang="nb-NO">
                     <ntig>
                         <termGrp>
-                            <term>verifiseringskode</term>
+                            <term>autentiseringskode</term>
                         </termGrp>
                     </ntig>
                 </langSet>
@@ -1819,7 +1819,7 @@ Note that this is distinct from "review analyzer", which is the name of the tool
                 <langSet xml:lang="nb-NO">
                     <ntig>
                         <termGrp>
-                            <term>Personvernbestemmelser</term>
+                            <term>Personvernpraksis</term>
                         </termGrp>
                     </ntig>
                 </langSet>
@@ -1840,7 +1840,7 @@ Note that this is distinct from "review analyzer", which is the name of the tool
                 <langSet xml:lang="nb-NO">
                     <ntig>
                         <termGrp>
-                            <term>Tjenestevilkår</term>
+                            <term>Bruksvilkår</term>
                         </termGrp>
                     </ntig>
                 </langSet>
@@ -1972,7 +1972,7 @@ A code used to recover a user's encrypted account information (such as bookmarks
                 <langSet xml:lang="nb-NO">
                     <ntig>
                         <termGrp>
-                            <term>reserve-verifiseringskode</term>
+                            <term>reserve-autentiseringskode</term>
                         </termGrp>
                     </ntig>
                 </langSet>
@@ -1993,7 +1993,7 @@ A code used to recover a user's encrypted account information (such as bookmarks
                 <langSet xml:lang="nb-NO">
                     <ntig>
                         <termGrp>
-                            <term>e-postmaske</term>
+                            <term>e-postalias</term>
                         </termGrp>
                     </ntig>
                 </langSet>

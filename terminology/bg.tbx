@@ -1345,6 +1345,69 @@ Note that this is distinct from "review analyzer", which is the name of the tool
                     </ntig>
                 </langSet>
             </termEntry>
+            <termEntry id="c593">
+                <descrip type="context">Copy text to clipboard</descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>clipboard</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">A special location in the computer's operating system that is accessible to all programs and temporarily stores data that the user has copied from somewhere else</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="bg">
+                    <ntig>
+                        <termGrp>
+                            <term>Системен буфер</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c664">
+                <descrip type="context">Enter confirmation code for your Firefox account</descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>confirmation code</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">Confirmation codes are codes sent to a user's email address to confirm their email address. This takes the form of a 6 digit code sent by email. This confirmation code may be sent when registering a new account, registering a new email to an existing account, or part of the sign-in process.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="bg">
+                    <ntig>
+                        <termGrp>
+                            <term>код за потвърждение</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c584">
+                <descrip type="context">Cryptominers use your system’s computing power to mine digital money. Cryptomining scripts drain your battery, slow down your computer, and can increase your energy bill.</descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>cryptominer</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">Scripts on websites that can use a computer’s resources to mine cryptocurrency without a user’s knowledge.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="bg">
+                    <ntig>
+                        <termGrp>
+                            <term>криптоминьор</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
         </body>
     </text>
 </martif>

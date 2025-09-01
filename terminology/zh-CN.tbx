@@ -95,7 +95,7 @@
                 <langSet xml:lang="zh-CN">
                     <ntig>
                         <termGrp>
-                            <term>网络身份验证</term>
+                            <term>Web 身份验证</term>
                         </termGrp>
                     </ntig>
                 </langSet>
