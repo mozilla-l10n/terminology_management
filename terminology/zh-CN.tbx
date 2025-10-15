@@ -95,7 +95,7 @@
                 <langSet xml:lang="zh-CN">
                     <ntig>
                         <termGrp>
-                            <term>网络身份验证</term>
+                            <term>Web 身份验证</term>
                         </termGrp>
                     </ntig>
                 </langSet>
@@ -473,7 +473,7 @@
                 <langSet xml:lang="zh-CN">
                     <ntig>
                         <termGrp>
-                            <term>弹出式</term>
+                            <term>弹出式窗口</term>
                         </termGrp>
                     </ntig>
                 </langSet>
@@ -1460,7 +1460,7 @@
                 <langSet xml:lang="zh-CN">
                     <ntig>
                         <termGrp>
-                            <term>数字指纹跟踪程序</term>
+                            <term>数字指纹跟踪</term>
                         </termGrp>
                     </ntig>
                 </langSet>
