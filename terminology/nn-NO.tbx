@@ -32,28 +32,7 @@
                 <langSet xml:lang="nn-NO">
                     <ntig>
                         <termGrp>
-                            <term>eit tillegg - fleire tillegg</term>
-                        </termGrp>
-                    </ntig>
-                </langSet>
-            </termEntry>
-            <termEntry id="c595">
-                <descrip type="context">Bookmark this page</descrip>
-                <langSet xml:lang="en-US">
-                    <ntig>
-                        <termGrp>
-                            <term>bookmark</term>
-                            <termNote type="partOfSpeech">verb</termNote>
-                        </termGrp>
-                    </ntig>
-                    <descripGrp>
-                        <descrip type="definition">Create a shortcut that directs the browser to a specific webpage. Shortcuts may be added to the bookmark toolbar. Similar in functionality to "favorites" in Chrome and Internet Explorer, and "bookmarks" in Safari.</descrip>
-                    </descripGrp>
-                </langSet>
-                <langSet xml:lang="nn-NO">
-                    <ntig>
-                        <termGrp>
-                            <term>Å bokmerke</term>
+                            <term>tillegg</term>
                         </termGrp>
                     </ntig>
                 </langSet>
@@ -1019,49 +998,7 @@
                 <langSet xml:lang="nn-NO">
                     <ntig>
                         <termGrp>
-                            <term>ein sidestolpe - fleire sidestolpar</term>
-                        </termGrp>
-                    </ntig>
-                </langSet>
-            </termEntry>
-            <termEntry id="c537">
-                <descrip type="context">Query OCSP responder servers to confirm the current validity of certificates</descrip>
-                <langSet xml:lang="en-US">
-                    <ntig>
-                        <termGrp>
-                            <term>validity</term>
-                            <termNote type="partOfSpeech">noun</termNote>
-                        </termGrp>
-                    </ntig>
-                    <descripGrp>
-                        <descrip type="definition">The state of being valid, authentic or genuine.</descrip>
-                    </descripGrp>
-                </langSet>
-                <langSet xml:lang="nn-NO">
-                    <ntig>
-                        <termGrp>
-                            <term>ei gyldigheit, ein validitet</term>
-                        </termGrp>
-                    </ntig>
-                </langSet>
-            </termEntry>
-            <termEntry id="c599">
-                <descrip type="context">These pages try to install programs that steal private information, use your computer to attack others, or damage your system.</descrip>
-                <langSet xml:lang="en-US">
-                    <ntig>
-                        <termGrp>
-                            <term>attack</term>
-                            <termNote type="partOfSpeech">verb</termNote>
-                        </termGrp>
-                    </ntig>
-                    <descripGrp>
-                        <descrip type="definition">To take malicious action against, specifically via hacking and malware.</descrip>
-                    </descripGrp>
-                </langSet>
-                <langSet xml:lang="nn-NO">
-                    <ntig>
-                        <termGrp>
-                            <term>Å angripe</term>
+                            <term>sidestolpe</term>
                         </termGrp>
                     </ntig>
                 </langSet>
@@ -1087,90 +1024,6 @@
                     </ntig>
                 </langSet>
             </termEntry>
-            <termEntry id="c617">
-                <descrip type="context">An attacker could easily reveal information which you thought to be safe</descrip>
-                <langSet xml:lang="en-US">
-                    <ntig>
-                        <termGrp>
-                            <term>attacker</term>
-                            <termNote type="partOfSpeech">noun</termNote>
-                        </termGrp>
-                    </ntig>
-                    <descripGrp>
-                        <descrip type="definition">An individual or entity that seeks to gain unauthorized access to user data</descrip>
-                    </descripGrp>
-                </langSet>
-                <langSet xml:lang="nn-NO">
-                    <ntig>
-                        <termGrp>
-                            <term>ein angripar</term>
-                        </termGrp>
-                    </ntig>
-                </langSet>
-            </termEntry>
-            <termEntry id="c613">
-                <descrip type="context">The endpoint you are connecting to needs more information to authenticate this connection.</descrip>
-                <langSet xml:lang="en-US">
-                    <ntig>
-                        <termGrp>
-                            <term>authenticate</term>
-                            <termNote type="partOfSpeech">verb</termNote>
-                        </termGrp>
-                    </ntig>
-                    <descripGrp>
-                        <descrip type="definition">To prove user identity, typically to gain access to a system or service</descrip>
-                    </descripGrp>
-                </langSet>
-                <langSet xml:lang="nn-NO">
-                    <ntig>
-                        <termGrp>
-                            <term>godkjenne</term>
-                        </termGrp>
-                    </ntig>
-                </langSet>
-            </termEntry>
-            <termEntry id="c600">
-                <descrip type="context">Reported Attack Site!</descrip>
-                <langSet xml:lang="en-US">
-                    <ntig>
-                        <termGrp>
-                            <term>Attack Site</term>
-                            <termNote type="partOfSpeech">noun</termNote>
-                        </termGrp>
-                    </ntig>
-                    <descripGrp>
-                        <descrip type="definition">A site designed to attack a user's client browser using malware or hacking.</descrip>
-                    </descripGrp>
-                </langSet>
-                <langSet xml:lang="nn-NO">
-                    <ntig>
-                        <termGrp>
-                            <term>Angrepsnettstad, åtaksnettstad</term>
-                        </termGrp>
-                    </ntig>
-                </langSet>
-            </termEntry>
-            <termEntry id="c598">
-                <descrip type="context">Warning: Contains unauthenticated content</descrip>
-                <langSet xml:lang="en-US">
-                    <ntig>
-                        <termGrp>
-                            <term>authenticated</term>
-                            <termNote type="partOfSpeech">adjective</termNote>
-                        </termGrp>
-                    </ntig>
-                    <descripGrp>
-                        <descrip type="definition">User identity has been proven for access to a system or service</descrip>
-                    </descripGrp>
-                </langSet>
-                <langSet xml:lang="nn-NO">
-                    <ntig>
-                        <termGrp>
-                            <term>godkjent</term>
-                        </termGrp>
-                    </ntig>
-                </langSet>
-            </termEntry>
             <termEntry id="c545">
                 <descrip type="context">Blocking trackers and cookies can cause some websites to break.</descrip>
                 <langSet xml:lang="en-US">
@@ -1188,27 +1041,6 @@
                     <ntig>
                         <termGrp>
                             <term>sporarar</term>
-                        </termGrp>
-                    </ntig>
-                </langSet>
-            </termEntry>
-            <termEntry id="c594">
-                <descrip type="context">The certificate used to sign the message was issued by an unknown certificate authority.</descrip>
-                <langSet xml:lang="en-US">
-                    <ntig>
-                        <termGrp>
-                            <term>certificate authority</term>
-                            <termNote type="partOfSpeech">noun</termNote>
-                        </termGrp>
-                    </ntig>
-                    <descripGrp>
-                        <descrip type="definition">A trusted organization that issues signed digital certificates that verify the identity and legitimacy of a company or individual.</descrip>
-                    </descripGrp>
-                </langSet>
-                <langSet xml:lang="nn-NO">
-                    <ntig>
-                        <termGrp>
-                            <term>sertifikatutskrivar, sertifikatutferdar</term>
                         </termGrp>
                     </ntig>
                 </langSet>
@@ -1444,27 +1276,6 @@
                     </ntig>
                 </langSet>
             </termEntry>
-            <termEntry id="c534">
-                <descrip type="context">Open Web Authentication panel</descrip>
-                <langSet xml:lang="en-US">
-                    <ntig>
-                        <termGrp>
-                            <term>Web Authentication</term>
-                            <termNote type="partOfSpeech">noun</termNote>
-                        </termGrp>
-                    </ntig>
-                    <descripGrp>
-                        <descrip type="definition">A credential management tool that allows users to verify identity using an authenticator—such as a phone, hardware security keys, or TPM (Trusted Platform Model) devices—in place of traditional passwords. Web Authentication (or “WebAuthn”) is built directly into a web browser.</descrip>
-                    </descripGrp>
-                </langSet>
-                <langSet xml:lang="nn-NO">
-                    <ntig>
-                        <termGrp>
-                            <term>nettgodkjenning</term>
-                        </termGrp>
-                    </ntig>
-                </langSet>
-            </termEntry>
             <termEntry id="c539">
                 <descrip type="context">A script from the extension is running on this page, and making it unresponsive.</descrip>
                 <langSet xml:lang="en-US">
@@ -1507,23 +1318,170 @@
                     </ntig>
                 </langSet>
             </termEntry>
-            <termEntry id="c628">
-                <descrip type="context">Sign in to sync tabs, bookmarks, passwords, and more.</descrip>
+            <termEntry id="c599">
+                <descrip type="context">These pages try to install programs that steal private information, use your computer to attack others, or damage your system.</descrip>
                 <langSet xml:lang="en-US">
                     <ntig>
                         <termGrp>
-                            <term>sign in</term>
+                            <term>attack</term>
                             <termNote type="partOfSpeech">verb</termNote>
                         </termGrp>
                     </ntig>
                     <descripGrp>
-                        <descrip type="definition">To access an account or software through the usage of account information such as user id and password.</descrip>
+                        <descrip type="definition">To take malicious action against, specifically via hacking and malware.</descrip>
                     </descripGrp>
                 </langSet>
                 <langSet xml:lang="nn-NO">
                     <ntig>
                         <termGrp>
-                            <term>logg inn</term>
+                            <term>angripe</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c617">
+                <descrip type="context">An attacker could easily reveal information which you thought to be safe</descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>attacker</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">An individual or entity that seeks to gain unauthorized access to user data</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="nn-NO">
+                    <ntig>
+                        <termGrp>
+                            <term>angripar</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c600">
+                <descrip type="context">Reported Attack Site!</descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>Attack Site</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">A site designed to attack a user's client browser using malware or hacking.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="nn-NO">
+                    <ntig>
+                        <termGrp>
+                            <term>Angrepsnettstad</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c594">
+                <descrip type="context">The certificate used to sign the message was issued by an unknown certificate authority.</descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>certificate authority</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">A trusted organization that issues signed digital certificates that verify the identity and legitimacy of a company or individual.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="nn-NO">
+                    <ntig>
+                        <termGrp>
+                            <term>sertifikatutskrivar</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c537">
+                <descrip type="context">Query OCSP responder servers to confirm the current validity of certificates</descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>validity</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">The state of being valid, authentic or genuine.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="nn-NO">
+                    <ntig>
+                        <termGrp>
+                            <term>gyldigheit</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c613">
+                <descrip type="context">The endpoint you are connecting to needs more information to authenticate this connection.</descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>authenticate</term>
+                            <termNote type="partOfSpeech">verb</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">To prove user identity, typically to gain access to a system or service</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="nn-NO">
+                    <ntig>
+                        <termGrp>
+                            <term>autentisere</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c598">
+                <descrip type="context">Warning: Contains unauthenticated content</descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>authenticated</term>
+                            <termNote type="partOfSpeech">adjective</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">User identity has been proven for access to a system or service</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="nn-NO">
+                    <ntig>
+                        <termGrp>
+                            <term>autentisert</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c534">
+                <descrip type="context">Open Web Authentication panel</descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>Web Authentication</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">A credential management tool that allows users to verify identity using an authenticator—such as a phone, hardware security keys, or TPM (Trusted Platform Model) devices—in place of traditional passwords. Web Authentication (or “WebAuthn”) is built directly into a web browser.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="nn-NO">
+                    <ntig>
+                        <termGrp>
+                            <term>Nett-autentisering</term>
                         </termGrp>
                     </ntig>
                 </langSet>
@@ -1633,27 +1591,6 @@
                     </ntig>
                 </langSet>
             </termEntry>
-            <termEntry id="c499">
-                <descrip type="context">Install Nightly and help us improve Firefox quality hunt crashes and regressions</descrip>
-                <langSet xml:lang="en-US">
-                    <ntig>
-                        <termGrp>
-                            <term>crash</term>
-                            <termNote type="partOfSpeech">noun</termNote>
-                        </termGrp>
-                    </ntig>
-                    <descripGrp>
-                        <descrip type="definition">Occurs when software stops functioning properly and exits or closes unexpectedly.</descrip>
-                    </descripGrp>
-                </langSet>
-                <langSet xml:lang="nn-NO">
-                    <ntig>
-                        <termGrp>
-                            <term>eit krasj - fleire krasj</term>
-                        </termGrp>
-                    </ntig>
-                </langSet>
-            </termEntry>
             <termEntry id="c542">
                 <descrip type="context">These cookies follow you from site to site to gather data about what you do online. They are set by third parties such as advertisers and analytics companies. Blocking cross-site tracking cookies reduces the number of ads that follow you around.</descrip>
                 <langSet xml:lang="en-US">
@@ -1671,6 +1608,27 @@
                     <ntig>
                         <termGrp>
                             <term>sporingsinfokapslar på tvers av nettstadar</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c499">
+                <descrip type="context">Install Nightly and help us improve Firefox quality hunt crashes and regressions</descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>crash</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">Occurs when software stops functioning properly and exits or closes unexpectedly.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="nn-NO">
+                    <ntig>
+                        <termGrp>
+                            <term>krasj</term>
                         </termGrp>
                     </ntig>
                 </langSet>
@@ -1712,28 +1670,7 @@
                 <langSet xml:lang="nn-NO">
                     <ntig>
                         <termGrp>
-                            <term>Personvernerklæring</term>
-                        </termGrp>
-                    </ntig>
-                </langSet>
-            </termEntry>
-            <termEntry id="c631">
-                <descrip type="context">We also adhere to the practices outlined in the Mozilla privacy policy for how we receive, handle and share information we collect from Firefox.</descrip>
-                <langSet xml:lang="en-US">
-                    <ntig>
-                        <termGrp>
-                            <term>Privacy Policy</term>
-                            <termNote type="partOfSpeech">noun</termNote>
-                        </termGrp>
-                    </ntig>
-                    <descripGrp>
-                        <descrip type="definition">A statement that discloses the set of practices related to the handling of personal information by Mozilla or its products. For example, Mozilla's privacy policy can be found here: https://www.mozilla.org/en-US/privacy/</descrip>
-                    </descripGrp>
-                </langSet>
-                <langSet xml:lang="nn-NO">
-                    <ntig>
-                        <termGrp>
-                            <term>Personvernerklæring</term>
+                            <term>Personvernfråsegn</term>
                         </termGrp>
                     </ntig>
                 </langSet>
@@ -1775,7 +1712,7 @@
                 <langSet xml:lang="nn-NO">
                     <ntig>
                         <termGrp>
-                            <term>godkjenningskode</term>
+                            <term>autentiseringskode</term>
                         </termGrp>
                     </ntig>
                 </langSet>
@@ -1817,7 +1754,7 @@
                 <langSet xml:lang="nn-NO">
                     <ntig>
                         <termGrp>
-                            <term>eit bokmerke - fleire bokmerke</term>
+                            <term>bokmerke</term>
                         </termGrp>
                     </ntig>
                 </langSet>
@@ -1884,7 +1821,7 @@ See this page for more information: https://bit.ly/l10n-guidance-firefoxview</de
                 <langSet xml:lang="nn-NO">
                     <ntig>
                         <termGrp>
-                            <term>reserve-godkjenningskode</term>
+                            <term>reserve-autentiseringskode</term>
                         </termGrp>
                     </ntig>
                 </langSet>
@@ -1972,7 +1909,7 @@ Note that this is distinct from "review analyzer", which is the name of the tool
                 <langSet xml:lang="nn-NO">
                     <ntig>
                         <termGrp>
-                            <term>e-postmaske</term>
+                            <term>e-postalias</term>
                         </termGrp>
                     </ntig>
                 </langSet>
@@ -2015,6 +1952,69 @@ Note that this is distinct from "review analyzer", which is the name of the tool
                     <ntig>
                         <termGrp>
                             <term>identifisering (fingeravtrykk)</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c595">
+                <descrip type="context">Bookmark this page</descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>bookmark</term>
+                            <termNote type="partOfSpeech">verb</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">Create a shortcut that directs the browser to a specific webpage. Shortcuts may be added to the bookmark toolbar. Similar in functionality to "favorites" in Chrome and Internet Explorer, and "bookmarks" in Safari.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="nn-NO">
+                    <ntig>
+                        <termGrp>
+                            <term>bokmerke</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c628">
+                <descrip type="context">Sign in to sync tabs, bookmarks, passwords, and more.</descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>sign in</term>
+                            <termNote type="partOfSpeech">verb</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">To access an account or software through the usage of account information such as user id and password.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="nn-NO">
+                    <ntig>
+                        <termGrp>
+                            <term>logge inn</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c631">
+                <descrip type="context">We also adhere to the practices outlined in the Mozilla privacy policy for how we receive, handle and share information we collect from Firefox.</descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>Privacy Policy</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">A statement that discloses the set of practices related to the handling of personal information by Mozilla or its products. For example, Mozilla's privacy policy can be found here: https://www.mozilla.org/en-US/privacy/</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="nn-NO">
+                    <ntig>
+                        <termGrp>
+                            <term>Personvernpraksis</term>
                         </termGrp>
                     </ntig>
                 </langSet>
