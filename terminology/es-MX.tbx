@@ -268,27 +268,6 @@
                     </ntig>
                 </langSet>
             </termEntry>
-            <termEntry id="c621">
-                <descrip type="context">Your add-ons and customizations have been removed and your browser settings have been restored to their defaults.</descrip>
-                <langSet xml:lang="en-US">
-                    <ntig>
-                        <termGrp>
-                            <term>add-on</term>
-                            <termNote type="partOfSpeech">noun</termNote>
-                        </termGrp>
-                    </ntig>
-                    <descripGrp>
-                        <descrip type="definition">A Firefox-specific umbrella term that describes tools (including extensions and themes) that users can install to modify, customize, and extend the functionality of Firefox. Avoid using "add-ons" and "extensions" interchangeably (see https://wiki.mozilla.org/Add-ons/Terminology#Usage_Guidelines).</descrip>
-                    </descripGrp>
-                </langSet>
-                <langSet xml:lang="es-MX">
-                    <ntig>
-                        <termGrp>
-                            <term>complemento</term>
-                        </termGrp>
-                    </ntig>
-                </langSet>
-            </termEntry>
             <termEntry id="c620">
                 <descrip type="context">If the image is relevant to the content of the document, you must supply alternate text that will appear in text-only browsers</descrip>
                 <langSet xml:lang="en-US">
@@ -327,48 +306,6 @@
                     <ntig>
                         <termGrp>
                             <term>ataque</term>
-                        </termGrp>
-                    </ntig>
-                </langSet>
-            </termEntry>
-            <termEntry id="c617">
-                <descrip type="context">An attacker could easily reveal information which you thought to be safe</descrip>
-                <langSet xml:lang="en-US">
-                    <ntig>
-                        <termGrp>
-                            <term>attacker</term>
-                            <termNote type="partOfSpeech">noun</termNote>
-                        </termGrp>
-                    </ntig>
-                    <descripGrp>
-                        <descrip type="definition">An individual or entity that seeks to gain unauthorized access to user data</descrip>
-                    </descripGrp>
-                </langSet>
-                <langSet xml:lang="es-MX">
-                    <ntig>
-                        <termGrp>
-                            <term>atacante</term>
-                        </termGrp>
-                    </ntig>
-                </langSet>
-            </termEntry>
-            <termEntry id="c600">
-                <descrip type="context">Reported Attack Site!</descrip>
-                <langSet xml:lang="en-US">
-                    <ntig>
-                        <termGrp>
-                            <term>Attack Site</term>
-                            <termNote type="partOfSpeech">noun</termNote>
-                        </termGrp>
-                    </ntig>
-                    <descripGrp>
-                        <descrip type="definition">A site designed to attack a user's client browser using malware or hacking.</descrip>
-                    </descripGrp>
-                </langSet>
-                <langSet xml:lang="es-MX">
-                    <ntig>
-                        <termGrp>
-                            <term>Sitio de ataque</term>
                         </termGrp>
                     </ntig>
                 </langSet>
@@ -432,6 +369,48 @@
                     <ntig>
                         <termGrp>
                             <term>reproducción automática</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c621">
+                <descrip type="context">Your add-ons and customizations have been removed and your browser settings have been restored to their defaults.</descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>add-on</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">A Firefox-specific umbrella term that describes tools (including extensions and themes) that users can install to modify, customize, and extend the functionality of Firefox. Avoid using "add-ons" and "extensions" interchangeably (see https://wiki.mozilla.org/Add-ons/Terminology#Usage_Guidelines).</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="es-MX">
+                    <ntig>
+                        <termGrp>
+                            <term>complemento</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c617">
+                <descrip type="context">An attacker could easily reveal information which you thought to be safe</descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>attacker</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">An individual or entity that seeks to gain unauthorized access to user data</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="es-MX">
+                    <ntig>
+                        <termGrp>
+                            <term>atacante</term>
                         </termGrp>
                     </ntig>
                 </langSet>
@@ -1971,6 +1950,71 @@ A code used to recover a user's encrypted account information (such as bookmarks
                     <ntig>
                         <termGrp>
                             <term>sitio restringido</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c668">
+                <descrip type="context">With phone number masking, you can now create a phone number mask that helps you get texts and calls without revealing your true number.</descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>phone number mask</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">Feature of Relay Premium. Similar to an email mask, a phone number mask is a phone number that can forward texts and calls to your true phone number without revealing what your true number is to the person calling or texting you.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="es-MX">
+                    <ntig>
+                        <termGrp>
+                            <term>máscara de número de teléfono</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c666">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>Review checker</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">Review checker is a built-in Firefox tool that allows users to check the quality of product reviews on shopping sites like Amazon, Walmart, and Best Buy. The tool itself is powered by Fakespot, a Mozilla company.
+
+Note that this is distinct from "review analyzer", which is the name of the tool analyzing reviews on Fakespot, and providing data to the Review checker. Ideally, these tools should have different translations.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="es-MX">
+                    <ntig>
+                        <termGrp>
+                            <term>Verificador de reseñas</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c600">
+                <descrip type="context">Reported Attack Site!</descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>Attack Site</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">A site designed to attack a user's client browser using malware or hacking.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="es-MX">
+                    <ntig>
+                        <termGrp>
+                            <term>Sitio de ataque</term>
                         </termGrp>
                     </ntig>
                 </langSet>
