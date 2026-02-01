@@ -1129,27 +1129,6 @@
                     </ntig>
                 </langSet>
             </termEntry>
-            <termEntry id="c584">
-                <descrip type="context">Cryptominers use your system’s computing power to mine digital money. Cryptomining scripts drain your battery, slow down your computer, and can increase your energy bill.</descrip>
-                <langSet xml:lang="en-US">
-                    <ntig>
-                        <termGrp>
-                            <term>cryptominer</term>
-                            <termNote type="partOfSpeech">noun</termNote>
-                        </termGrp>
-                    </ntig>
-                    <descripGrp>
-                        <descrip type="definition">Scripts on websites that can use a computer’s resources to mine cryptocurrency without a user’s knowledge.</descrip>
-                    </descripGrp>
-                </langSet>
-                <langSet xml:lang="vi">
-                    <ntig>
-                        <termGrp>
-                            <term>tiền điện tử</term>
-                        </termGrp>
-                    </ntig>
-                </langSet>
-            </termEntry>
             <termEntry id="c583">
                 <descrip type="context"></descrip>
                 <langSet xml:lang="en-US">
@@ -1524,6 +1503,27 @@
                     <ntig>
                         <termGrp>
                             <term>nghiên cứu</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c584">
+                <descrip type="context">Cryptominers use your system’s computing power to mine digital money. Cryptomining scripts drain your battery, slow down your computer, and can increase your energy bill.</descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>cryptominer</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">Scripts on websites that can use a computer’s resources to mine cryptocurrency without a user’s knowledge.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="vi">
+                    <ntig>
+                        <termGrp>
+                            <term>trình đào tiền điện tử</term>
                         </termGrp>
                     </ntig>
                 </langSet>

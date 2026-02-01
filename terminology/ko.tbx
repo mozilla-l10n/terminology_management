@@ -1362,27 +1362,6 @@ Note that this is distinct from "review analyzer", which is the name of the tool
                     </ntig>
                 </langSet>
             </termEntry>
-            <termEntry id="c538">
-                <descrip type="context">Disabling the Safe Browsing feature is not recommended as it may result in you going to unsafe sites</descrip>
-                <langSet xml:lang="en-US">
-                    <ntig>
-                        <termGrp>
-                            <term>unsafe</term>
-                            <termNote type="partOfSpeech">adjective</termNote>
-                        </termGrp>
-                    </ntig>
-                    <descripGrp>
-                        <descrip type="definition">Lacking in security or safety; potentially causing harm or damage</descrip>
-                    </descripGrp>
-                </langSet>
-                <langSet xml:lang="ko">
-                    <ntig>
-                        <termGrp>
-                            <term>안전하지 않은</term>
-                        </termGrp>
-                    </ntig>
-                </langSet>
-            </termEntry>
             <termEntry id="c536">
                 <descrip type="context">Validate cache manifest</descrip>
                 <langSet xml:lang="en-US">
@@ -1526,6 +1505,27 @@ Note that this is distinct from "review analyzer", which is the name of the tool
                     <ntig>
                         <termGrp>
                             <term>네이티브</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c538">
+                <descrip type="context">Disabling the Safe Browsing feature is not recommended as it may result in you going to unsafe sites</descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>unsafe</term>
+                            <termNote type="partOfSpeech">adjective</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">Lacking in security or safety; potentially causing harm or damage</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="ko">
+                    <ntig>
+                        <termGrp>
+                            <term>안전하지 않은</term>
                         </termGrp>
                     </ntig>
                 </langSet>
