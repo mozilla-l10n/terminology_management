@@ -79,27 +79,6 @@
                     </ntig>
                 </langSet>
             </termEntry>
-            <termEntry id="c534">
-                <descrip type="context">Open Web Authentication panel</descrip>
-                <langSet xml:lang="en-US">
-                    <ntig>
-                        <termGrp>
-                            <term>Web Authentication</term>
-                            <termNote type="partOfSpeech">noun</termNote>
-                        </termGrp>
-                    </ntig>
-                    <descripGrp>
-                        <descrip type="definition">A credential management tool that allows users to verify identity using an authenticator—such as a phone, hardware security keys, or TPM (Trusted Platform Model) devices—in place of traditional passwords. Web Authentication (or “WebAuthn”) is built directly into a web browser.</descrip>
-                    </descripGrp>
-                </langSet>
-                <langSet xml:lang="zh-CN">
-                    <ntig>
-                        <termGrp>
-                            <term>网络身份验证</term>
-                        </termGrp>
-                    </ntig>
-                </langSet>
-            </termEntry>
             <termEntry id="c535">
                 <descrip type="context">This policy is only available on the Extended Support Release (ESR) version</descrip>
                 <langSet xml:lang="en-US">
@@ -117,6 +96,27 @@
                     <ntig>
                         <termGrp>
                             <term>版本</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c534">
+                <descrip type="context">Open Web Authentication panel</descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>Web Authentication</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">A credential management tool that allows users to verify identity using an authenticator—such as a phone, hardware security keys, or TPM (Trusted Platform Model) devices—in place of traditional passwords. Web Authentication (or “WebAuthn”) is built directly into a web browser.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="zh-CN">
+                    <ntig>
+                        <termGrp>
+                            <term>Web 身份验证</term>
                         </termGrp>
                     </ntig>
                 </langSet>
@@ -457,27 +457,6 @@
                     </ntig>
                 </langSet>
             </termEntry>
-            <termEntry id="c557">
-                <descrip type="context">You have blocked pop-ups for this website.</descrip>
-                <langSet xml:lang="en-US">
-                    <ntig>
-                        <termGrp>
-                            <term>pop-up</term>
-                            <termNote type="partOfSpeech">noun</termNote>
-                        </termGrp>
-                    </ntig>
-                    <descripGrp>
-                        <descrip type="definition">An overlapping window used for dialog boxes, message boxes, and other temporary windows that appear outside of an application's primary window. Typically, users will think of a "pop-up" as a window that opens automatically and without being asked.</descrip>
-                    </descripGrp>
-                </langSet>
-                <langSet xml:lang="zh-CN">
-                    <ntig>
-                        <termGrp>
-                            <term>弹出式</term>
-                        </termGrp>
-                    </ntig>
-                </langSet>
-            </termEntry>
             <termEntry id="c558">
                 <descrip type="context">Override the colors specified by the page with your selections</descrip>
                 <langSet xml:lang="en-US">
@@ -537,6 +516,27 @@
                     <ntig>
                         <termGrp>
                             <term>旧式扩展</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c557">
+                <descrip type="context">You have blocked pop-ups for this website.</descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>pop-up</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">An overlapping window used for dialog boxes, message boxes, and other temporary windows that appear outside of an application's primary window. Typically, users will think of a "pop-up" as a window that opens automatically and without being asked.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="zh-CN">
+                    <ntig>
+                        <termGrp>
+                            <term>弹出式窗口</term>
                         </termGrp>
                     </ntig>
                 </langSet>
@@ -982,48 +982,6 @@
                     </ntig>
                 </langSet>
             </termEntry>
-            <termEntry id="c598">
-                <descrip type="context">Warning: Contains unauthenticated content</descrip>
-                <langSet xml:lang="en-US">
-                    <ntig>
-                        <termGrp>
-                            <term>authenticated</term>
-                            <termNote type="partOfSpeech">adjective</termNote>
-                        </termGrp>
-                    </ntig>
-                    <descripGrp>
-                        <descrip type="definition">User identity has been proven for access to a system or service</descrip>
-                    </descripGrp>
-                </langSet>
-                <langSet xml:lang="zh-CN">
-                    <ntig>
-                        <termGrp>
-                            <term>已通过验证</term>
-                        </termGrp>
-                    </ntig>
-                </langSet>
-            </termEntry>
-            <termEntry id="c599">
-                <descrip type="context">These pages try to install programs that steal private information, use your computer to attack others, or damage your system.</descrip>
-                <langSet xml:lang="en-US">
-                    <ntig>
-                        <termGrp>
-                            <term>attack</term>
-                            <termNote type="partOfSpeech">verb</termNote>
-                        </termGrp>
-                    </ntig>
-                    <descripGrp>
-                        <descrip type="definition">To take malicious action against, specifically via hacking and malware.</descrip>
-                    </descripGrp>
-                </langSet>
-                <langSet xml:lang="zh-CN">
-                    <ntig>
-                        <termGrp>
-                            <term>攻击</term>
-                        </termGrp>
-                    </ntig>
-                </langSet>
-            </termEntry>
             <termEntry id="c610">
                 <descrip type="context">This page is loaded from an extension</descrip>
                 <langSet xml:lang="en-US">
@@ -1066,23 +1024,23 @@
                     </ntig>
                 </langSet>
             </termEntry>
-            <termEntry id="c613">
-                <descrip type="context">The endpoint you are connecting to needs more information to authenticate this connection.</descrip>
+            <termEntry id="c599">
+                <descrip type="context">These pages try to install programs that steal private information, use your computer to attack others, or damage your system.</descrip>
                 <langSet xml:lang="en-US">
                     <ntig>
                         <termGrp>
-                            <term>authenticate</term>
+                            <term>attack</term>
                             <termNote type="partOfSpeech">verb</termNote>
                         </termGrp>
                     </ntig>
                     <descripGrp>
-                        <descrip type="definition">To prove user identity, typically to gain access to a system or service</descrip>
+                        <descrip type="definition">To take malicious action against, specifically via hacking and malware.</descrip>
                     </descripGrp>
                 </langSet>
                 <langSet xml:lang="zh-CN">
                     <ntig>
                         <termGrp>
-                            <term>验证身份</term>
+                            <term>攻击</term>
                         </termGrp>
                     </ntig>
                 </langSet>
@@ -1444,27 +1402,6 @@
                     </ntig>
                 </langSet>
             </termEntry>
-            <termEntry id="c568">
-                <descrip type="context"></descrip>
-                <langSet xml:lang="en-US">
-                    <ntig>
-                        <termGrp>
-                            <term>fingerprinting</term>
-                            <termNote type="partOfSpeech">noun</termNote>
-                        </termGrp>
-                    </ntig>
-                    <descripGrp>
-                        <descrip type="definition">Fingerprinting is a method of tracking browser users by the configuration and settings information that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.</descrip>
-                    </descripGrp>
-                </langSet>
-                <langSet xml:lang="zh-CN">
-                    <ntig>
-                        <termGrp>
-                            <term>数字指纹跟踪程序</term>
-                        </termGrp>
-                    </ntig>
-                </langSet>
-            </termEntry>
             <termEntry id="c467">
                 <descrip type="context">Use market-leading research to deliver powerful grassroots-led campaigns.</descrip>
                 <langSet xml:lang="en-US">
@@ -1545,6 +1482,27 @@
                     <ntig>
                         <termGrp>
                             <term>颁发</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c568">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>fingerprinting</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">Fingerprinting is a method of tracking browser users by the configuration and settings information that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="zh-CN">
+                    <ntig>
+                        <termGrp>
+                            <term>数字指纹跟踪</term>
                         </termGrp>
                     </ntig>
                 </langSet>
@@ -1996,6 +1954,29 @@ See this page for more information: https://bit.ly/l10n-guidance-colorways</desc
                     </ntig>
                 </langSet>
             </termEntry>
+            <termEntry id="c666">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>Review checker</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">Review checker is a built-in Firefox tool that allows users to check the quality of product reviews on shopping sites like Amazon, Walmart, and Best Buy. The tool itself is powered by Fakespot, a Mozilla company.
+
+Note that this is distinct from "review analyzer", which is the name of the tool analyzing reviews on Fakespot, and providing data to the Review checker. Ideally, these tools should have different translations.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="zh-CN">
+                    <ntig>
+                        <termGrp>
+                            <term>核查评价</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
             <termEntry id="c620">
                 <descrip type="context">If the image is relevant to the content of the document, you must supply alternate text that will appear in text-only browsers</descrip>
                 <langSet xml:lang="en-US">
@@ -2017,25 +1998,44 @@ See this page for more information: https://bit.ly/l10n-guidance-colorways</desc
                     </ntig>
                 </langSet>
             </termEntry>
-            <termEntry id="c666">
-                <descrip type="context"></descrip>
+            <termEntry id="c598">
+                <descrip type="context">Warning: Contains unauthenticated content</descrip>
                 <langSet xml:lang="en-US">
                     <ntig>
                         <termGrp>
-                            <term>Review checker</term>
-                            <termNote type="partOfSpeech">noun</termNote>
+                            <term>authenticated</term>
+                            <termNote type="partOfSpeech">adjective</termNote>
                         </termGrp>
                     </ntig>
                     <descripGrp>
-                        <descrip type="definition">Review checker is a built-in Firefox tool that allows users to check the quality of product reviews on shopping sites like Amazon, Walmart, and Best Buy. The tool itself is powered by Fakespot, a Mozilla company.
-
-Note that this is distinct from "review analyzer", which is the name of the tool analyzing reviews on Fakespot, and providing data to the Review checker. Ideally, these tools should have different translations.</descrip>
+                        <descrip type="definition">User identity has been proven for access to a system or service</descrip>
                     </descripGrp>
                 </langSet>
                 <langSet xml:lang="zh-CN">
                     <ntig>
                         <termGrp>
-                            <term>核查评价</term>
+                            <term>已通过身份验证</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c613">
+                <descrip type="context">The endpoint you are connecting to needs more information to authenticate this connection.</descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>authenticate</term>
+                            <termNote type="partOfSpeech">verb</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">To prove user identity, typically to gain access to a system or service</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="zh-CN">
+                    <ntig>
+                        <termGrp>
+                            <term>进行身份验证</term>
                         </termGrp>
                     </ntig>
                 </langSet>

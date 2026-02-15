@@ -541,48 +541,6 @@
                     </ntig>
                 </langSet>
             </termEntry>
-            <termEntry id="c575">
-                <descrip type="context">Encrypt This Message</descrip>
-                <langSet xml:lang="en-US">
-                    <ntig>
-                        <termGrp>
-                            <term>encrypt</term>
-                            <termNote type="partOfSpeech">verb</termNote>
-                        </termGrp>
-                    </ntig>
-                    <descripGrp>
-                        <descrip type="definition">Convert information or data into a code, especially to prevent unauthorized access. This is different from "encoding" in which the goal is to ensure that information can be properly consumed.</descrip>
-                    </descripGrp>
-                </langSet>
-                <langSet xml:lang="ar">
-                    <ntig>
-                        <termGrp>
-                            <term>تشفير</term>
-                        </termGrp>
-                    </ntig>
-                </langSet>
-            </termEntry>
-            <termEntry id="c574">
-                <descrip type="context">Your connection to this website uses weak encryption and is not private.</descrip>
-                <langSet xml:lang="en-US">
-                    <ntig>
-                        <termGrp>
-                            <term>encryption</term>
-                            <termNote type="partOfSpeech">noun</termNote>
-                        </termGrp>
-                    </ntig>
-                    <descripGrp>
-                        <descrip type="definition">The process of encoding information or data so that only the sender and the intended recipient can read it.</descrip>
-                    </descripGrp>
-                </langSet>
-                <langSet xml:lang="ar">
-                    <ntig>
-                        <termGrp>
-                            <term>التشفير</term>
-                        </termGrp>
-                    </ntig>
-                </langSet>
-            </termEntry>
             <termEntry id="c577">
                 <descrip type="context">Enhanced Tracking Protection is ON for this site</descrip>
                 <langSet xml:lang="en-US">
@@ -982,23 +940,44 @@
                     </ntig>
                 </langSet>
             </termEntry>
-            <termEntry id="c546">
-                <descrip type="context">Unable to digitally sign data required to verify your certificate.</descrip>
+            <termEntry id="c575">
+                <descrip type="context">Encrypt This Message</descrip>
                 <langSet xml:lang="en-US">
                     <ntig>
                         <termGrp>
-                            <term>sign</term>
+                            <term>encrypt</term>
                             <termNote type="partOfSpeech">verb</termNote>
                         </termGrp>
                     </ntig>
                     <descripGrp>
-                        <descrip type="definition">To issue a digital certificate as verification of a website's identity; or, to enter user credentials to access a system.</descrip>
+                        <descrip type="definition">Convert information or data into a code, especially to prevent unauthorized access. This is different from "encoding" in which the goal is to ensure that information can be properly consumed.</descrip>
                     </descripGrp>
                 </langSet>
                 <langSet xml:lang="ar">
                     <ntig>
                         <termGrp>
-                            <term>توقيع</term>
+                            <term>تشفير</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c574">
+                <descrip type="context">Your connection to this website uses weak encryption and is not private.</descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>encryption</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">The process of encoding information or data so that only the sender and the intended recipient can read it.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="ar">
+                    <ntig>
+                        <termGrp>
+                            <term>التشفير</term>
                         </termGrp>
                     </ntig>
                 </langSet>
@@ -1274,27 +1253,6 @@ A code used to recover a user's encrypted account information (such as bookmarks
                     <ntig>
                         <termGrp>
                             <term>المستخدم النهائي</term>
-                        </termGrp>
-                    </ntig>
-                </langSet>
-            </termEntry>
-            <termEntry id="c464">
-                <descrip type="context">Choose the independent browser</descrip>
-                <langSet xml:lang="en-US">
-                    <ntig>
-                        <termGrp>
-                            <term>independent browser</term>
-                            <termNote type="partOfSpeech">noun</termNote>
-                        </termGrp>
-                    </ntig>
-                    <descripGrp>
-                        <descrip type="definition">Firefox is the only major independent multi-platform browser not associated with a large tech company such as Google or Apple, or built on the same Chromium code base, such as Google Chrome, Microsoft Edge, or other browsers.</descrip>
-                    </descripGrp>
-                </langSet>
-                <langSet xml:lang="ar">
-                    <ntig>
-                        <termGrp>
-                            <term>متصفح مستقل</term>
                         </termGrp>
                     </ntig>
                 </langSet>
@@ -1631,27 +1589,6 @@ A code used to recover a user's encrypted account information (such as bookmarks
                     <ntig>
                         <termGrp>
                             <term>المتعقّبات</term>
-                        </termGrp>
-                    </ntig>
-                </langSet>
-            </termEntry>
-            <termEntry id="c540">
-                <descrip type="context">Your email and authentication are sent unencrypted so your password and your message could easily be read by other people</descrip>
-                <langSet xml:lang="en-US">
-                    <ntig>
-                        <termGrp>
-                            <term>unencrypted</term>
-                            <termNote type="partOfSpeech">adjective</termNote>
-                        </termGrp>
-                    </ntig>
-                    <descripGrp>
-                        <descrip type="definition">Not encrypted, and thus more vulnerable to unauthorized access. Note that "encoded" and "encrypted" are not synonyms (see definition for "encoded").</descrip>
-                    </descripGrp>
-                </langSet>
-                <langSet xml:lang="ar">
-                    <ntig>
-                        <termGrp>
-                            <term>غير مشفّر</term>
                         </termGrp>
                     </ntig>
                 </langSet>
@@ -1994,6 +1931,90 @@ See this page for more information: https://bit.ly/l10n-guidance-colorways</desc
                     <ntig>
                         <termGrp>
                             <term>حيادية الإنترنت</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c540">
+                <descrip type="context">Your email and authentication are sent unencrypted so your password and your message could easily be read by other people</descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>unencrypted</term>
+                            <termNote type="partOfSpeech">adjective</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">Not encrypted, and thus more vulnerable to unauthorized access. Note that "encoded" and "encrypted" are not synonyms (see definition for "encoded").</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="ar">
+                    <ntig>
+                        <termGrp>
+                            <term>غير مشفّر</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c467">
+                <descrip type="context">Use market-leading research to deliver powerful grassroots-led campaigns.</descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>grassroots</term>
+                            <termNote type="partOfSpeech">adjective</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">A campaign or movement that’s led directly by the people in a community</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="ar">
+                    <ntig>
+                        <termGrp>
+                            <term>مباشرة من الناس و المجتمع</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c546">
+                <descrip type="context">Unable to digitally sign data required to verify your certificate.</descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>sign</term>
+                            <termNote type="partOfSpeech">verb</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">To issue a digital certificate as verification of a website's identity; or, to enter user credentials to access a system.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="ar">
+                    <ntig>
+                        <termGrp>
+                            <term>توقيع</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c464">
+                <descrip type="context">Choose the independent browser</descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>independent browser</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">Firefox is the only major independent multi-platform browser not associated with a large tech company such as Google or Apple, or built on the same Chromium code base, such as Google Chrome, Microsoft Edge, or other browsers.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="ar">
+                    <ntig>
+                        <termGrp>
+                            <term>متصفح مستقل</term>
                         </termGrp>
                     </ntig>
                 </langSet>
