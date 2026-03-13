@@ -394,27 +394,6 @@
                     </ntig>
                 </langSet>
             </termEntry>
-            <termEntry id="c554">
-                <descrip type="context">Report errors like this to help Mozilla identify and block malicious sites</descrip>
-                <langSet xml:lang="en-US">
-                    <ntig>
-                        <termGrp>
-                            <term>report</term>
-                            <termNote type="partOfSpeech">verb</termNote>
-                        </termGrp>
-                    </ntig>
-                    <descripGrp>
-                        <descrip type="definition">Tell or alert, most often in the case of a site crash or issue</descrip>
-                    </descripGrp>
-                </langSet>
-                <langSet xml:lang="zh-TW">
-                    <ntig>
-                        <termGrp>
-                            <term>回報</term>
-                        </termGrp>
-                    </ntig>
-                </langSet>
-            </termEntry>
             <termEntry id="c555">
                 <descrip type="context">Send a crash report for the tab you are viewing</descrip>
                 <langSet xml:lang="en-US">
@@ -2036,6 +2015,27 @@ A code used to recover a user's encrypted account information (such as bookmarks
                     <ntig>
                         <termGrp>
                             <term>手機轉接號碼</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c554">
+                <descrip type="context">Report errors like this to help Mozilla identify and block malicious sites</descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>report</term>
+                            <termNote type="partOfSpeech">verb</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">Tell or alert, most often in the case of a site crash or issue</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="zh-TW">
+                    <ntig>
+                        <termGrp>
+                            <term>回報; 檢舉</term>
                         </termGrp>
                     </ntig>
                 </langSet>
