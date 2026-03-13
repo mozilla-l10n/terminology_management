@@ -16,27 +16,6 @@
     </martifHeader>
     <text>
         <body>
-            <termEntry id="c632">
-                <descrip type="context">By proceeding, you agree to the Terms of Service and Privacy Notice.</descrip>
-                <langSet xml:lang="en-US">
-                    <ntig>
-                        <termGrp>
-                            <term>Terms of Service</term>
-                            <termNote type="partOfSpeech">noun</termNote>
-                        </termGrp>
-                    </ntig>
-                    <descripGrp>
-                        <descrip type="definition">Terms of service, also known as terms of use/ terms of conditions are agreements between a service provider and the person who wants to use the service, such as for Firefox cloud services. https://www.mozilla.org/en-US/about/legal/terms/services/</descrip>
-                    </descripGrp>
-                </langSet>
-                <langSet xml:lang="hr">
-                    <ntig>
-                        <termGrp>
-                            <term>Uvjeti usluge</term>
-                        </termGrp>
-                    </ntig>
-                </langSet>
-            </termEntry>
             <termEntry id="c663">
                 <descrip type="context">Open your authentication app and enter the authentication code it provides.</descrip>
                 <langSet xml:lang="en-US">
@@ -96,6 +75,27 @@
                     <ntig>
                         <termGrp>
                             <term>internetska neutralnost</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c632">
+                <descrip type="context">By proceeding, you agree to the Terms of Service and Privacy Notice.</descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>Terms of Service</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">Terms of service, also known as terms of use/ terms of conditions are agreements between a service provider and the person who wants to use the service, such as for Firefox cloud services. https://www.mozilla.org/en-US/about/legal/terms/services/</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="hr">
+                    <ntig>
+                        <termGrp>
+                            <term>uvjeti usluge</term>
                         </termGrp>
                     </ntig>
                 </langSet>
@@ -184,48 +184,6 @@
                     </ntig>
                 </langSet>
             </termEntry>
-            <termEntry id="c630">
-                <descrip type="context">In this Privacy Notice, we explain what data Firefox shares and point you to settings to share even less. We also adhere to the practices outlined in the Mozilla privacy policy for how we receive, handle and share information we collect from Firefox.</descrip>
-                <langSet xml:lang="en-US">
-                    <ntig>
-                        <termGrp>
-                            <term>Privacy Notice</term>
-                            <termNote type="partOfSpeech">noun</termNote>
-                        </termGrp>
-                    </ntig>
-                    <descripGrp>
-                        <descrip type="definition">Notice that explains what data s Mozilla product collected, shared and why. It may also include additional information such as settings that can change how much is shared. One example is Firefox browser's privacy notice which can be found here: https://www.mozilla.org/en-US/privacy/firefox/</descrip>
-                    </descripGrp>
-                </langSet>
-                <langSet xml:lang="hr">
-                    <ntig>
-                        <termGrp>
-                            <term>Napomena o privatnosti</term>
-                        </termGrp>
-                    </ntig>
-                </langSet>
-            </termEntry>
-            <termEntry id="c631">
-                <descrip type="context">We also adhere to the practices outlined in the Mozilla privacy policy for how we receive, handle and share information we collect from Firefox.</descrip>
-                <langSet xml:lang="en-US">
-                    <ntig>
-                        <termGrp>
-                            <term>Privacy Policy</term>
-                            <termNote type="partOfSpeech">noun</termNote>
-                        </termGrp>
-                    </ntig>
-                    <descripGrp>
-                        <descrip type="definition">A statement that discloses the set of practices related to the handling of personal information by Mozilla or its products. For example, Mozilla's privacy policy can be found here: https://www.mozilla.org/en-US/privacy/</descrip>
-                    </descripGrp>
-                </langSet>
-                <langSet xml:lang="hr">
-                    <ntig>
-                        <termGrp>
-                            <term>Politika privatnosti</term>
-                        </termGrp>
-                    </ntig>
-                </langSet>
-            </termEntry>
             <termEntry id="c597">
                 <descrip type="context">You have blocked autoplay media with sound for this website.</descrip>
                 <langSet xml:lang="en-US">
@@ -264,6 +222,27 @@
                     <ntig>
                         <termGrp>
                             <term>prijavi se</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c631">
+                <descrip type="context">We also adhere to the practices outlined in the Mozilla privacy policy for how we receive, handle and share information we collect from Firefox.</descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>Privacy Policy</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">A statement that discloses the set of practices related to the handling of personal information by Mozilla or its products. For example, Mozilla's privacy policy can be found here: https://www.mozilla.org/en-US/privacy/</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="hr">
+                    <ntig>
+                        <termGrp>
+                            <term>politika privatnosti</term>
                         </termGrp>
                     </ntig>
                 </langSet>
@@ -579,48 +558,6 @@
                     <ntig>
                         <termGrp>
                             <term>kontekst</term>
-                        </termGrp>
-                    </ntig>
-                </langSet>
-            </termEntry>
-            <termEntry id="c588">
-                <descrip type="context">This add-on could not be installed because it appears to be corrupt.</descrip>
-                <langSet xml:lang="en-US">
-                    <ntig>
-                        <termGrp>
-                            <term>corrupt</term>
-                            <termNote type="partOfSpeech">adjective</termNote>
-                        </termGrp>
-                    </ntig>
-                    <descripGrp>
-                        <descrip type="definition">Containing errors or alterations from its original, correct form</descrip>
-                    </descripGrp>
-                </langSet>
-                <langSet xml:lang="hr">
-                    <ntig>
-                        <termGrp>
-                            <term>pokvareno</term>
-                        </termGrp>
-                    </ntig>
-                </langSet>
-            </termEntry>
-            <termEntry id="c587">
-                <descrip type="context">The response from the OCSP server was corrupted or improperly formed</descrip>
-                <langSet xml:lang="en-US">
-                    <ntig>
-                        <termGrp>
-                            <term>corrupt</term>
-                            <termNote type="partOfSpeech">verb</termNote>
-                        </termGrp>
-                    </ntig>
-                    <descripGrp>
-                        <descrip type="definition">Change something from its original, correct form.</descrip>
-                    </descripGrp>
-                </langSet>
-                <langSet xml:lang="hr">
-                    <ntig>
-                        <termGrp>
-                            <term>pokvariti</term>
                         </termGrp>
                     </ntig>
                 </langSet>
@@ -982,48 +919,6 @@
                     </ntig>
                 </langSet>
             </termEntry>
-            <termEntry id="c568">
-                <descrip type="context"></descrip>
-                <langSet xml:lang="en-US">
-                    <ntig>
-                        <termGrp>
-                            <term>fingerprinting</term>
-                            <termNote type="partOfSpeech">noun</termNote>
-                        </termGrp>
-                    </ntig>
-                    <descripGrp>
-                        <descrip type="definition">Fingerprinting is a method of tracking browser users by the configuration and settings information that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.</descrip>
-                    </descripGrp>
-                </langSet>
-                <langSet xml:lang="hr">
-                    <ntig>
-                        <termGrp>
-                            <term>prikupljanje digitalnih otisaka</term>
-                        </termGrp>
-                    </ntig>
-                </langSet>
-            </termEntry>
-            <termEntry id="c567">
-                <descrip type="context">Do you want this document to be your new home page?</descrip>
-                <langSet xml:lang="en-US">
-                    <ntig>
-                        <termGrp>
-                            <term>home page</term>
-                            <termNote type="partOfSpeech">noun</termNote>
-                        </termGrp>
-                    </ntig>
-                    <descripGrp>
-                        <descrip type="definition">The default page that loads when you visit a website. In Firefox, the "home page" is also the default page displayed when you open the browser or open a new tab.</descrip>
-                    </descripGrp>
-                </langSet>
-                <langSet xml:lang="hr">
-                    <ntig>
-                        <termGrp>
-                            <term>web-stranica</term>
-                        </termGrp>
-                    </ntig>
-                </langSet>
-            </termEntry>
             <termEntry id="c565">
                 <descrip type="context">Select which items to import</descrip>
                 <langSet xml:lang="en-US">
@@ -1125,27 +1020,6 @@
                     <ntig>
                         <termGrp>
                             <term>problem</term>
-                        </termGrp>
-                    </ntig>
-                </langSet>
-            </termEntry>
-            <termEntry id="c560">
-                <descrip type="context">This is a legacy extension, be aware that these are no longer fully supported.</descrip>
-                <langSet xml:lang="en-US">
-                    <ntig>
-                        <termGrp>
-                            <term>Legacy extension</term>
-                            <termNote type="partOfSpeech">noun</termNote>
-                        </termGrp>
-                    </ntig>
-                    <descripGrp>
-                        <descrip type="definition">A Firefox extension built using legacy APIs or the Add-on SDK. These kinds of extensions were disabled as of Firefox 57.</descrip>
-                    </descripGrp>
-                </langSet>
-                <langSet xml:lang="hr">
-                    <ntig>
-                        <termGrp>
-                            <term>Zastarjeli dodaci</term>
                         </termGrp>
                     </ntig>
                 </langSet>
@@ -1444,27 +1318,6 @@
                     </ntig>
                 </langSet>
             </termEntry>
-            <termEntry id="c548">
-                <descrip type="context">Load this bookmark in the sidebar</descrip>
-                <langSet xml:lang="en-US">
-                    <ntig>
-                        <termGrp>
-                            <term>sidebar</term>
-                            <termNote type="partOfSpeech">noun</termNote>
-                        </termGrp>
-                    </ntig>
-                    <descripGrp>
-                        <descrip type="definition">A pane that is displayed on either side of the Firefox browser window, next to the web page. Includes the the user's bookmarks, history, and synced tabs.</descrip>
-                    </descripGrp>
-                </langSet>
-                <langSet xml:lang="hr">
-                    <ntig>
-                        <termGrp>
-                            <term>bočna traka</term>
-                        </termGrp>
-                    </ntig>
-                </langSet>
-            </termEntry>
             <termEntry id="c546">
                 <descrip type="context">Unable to digitally sign data required to verify your certificate.</descrip>
                 <langSet xml:lang="en-US">
@@ -1566,27 +1419,6 @@
                     <ntig>
                         <termGrp>
                             <term>programi za praćenje</term>
-                        </termGrp>
-                    </ntig>
-                </langSet>
-            </termEntry>
-            <termEntry id="c543">
-                <descrip type="context">Websites may load external ads, videos, and other content that contain tracking code. Blocking tracking content can help sites load faster, but some buttons, forms, and login fields might not work.</descrip>
-                <langSet xml:lang="en-US">
-                    <ntig>
-                        <termGrp>
-                            <term>Tracking Content</term>
-                            <termNote type="partOfSpeech">noun</termNote>
-                        </termGrp>
-                    </ntig>
-                    <descripGrp>
-                        <descrip type="definition">Tracking code hidden in ads, videos, and other in-page content. Blocking them can cause some websites to break.</descrip>
-                    </descripGrp>
-                </langSet>
-                <langSet xml:lang="hr">
-                    <ntig>
-                        <termGrp>
-                            <term>Sadržaj praćenja</term>
                         </termGrp>
                     </ntig>
                 </langSet>
@@ -1717,27 +1549,6 @@
                     </ntig>
                 </langSet>
             </termEntry>
-            <termEntry id="c534">
-                <descrip type="context">Open Web Authentication panel</descrip>
-                <langSet xml:lang="en-US">
-                    <ntig>
-                        <termGrp>
-                            <term>Web Authentication</term>
-                            <termNote type="partOfSpeech">noun</termNote>
-                        </termGrp>
-                    </ntig>
-                    <descripGrp>
-                        <descrip type="definition">A credential management tool that allows users to verify identity using an authenticator—such as a phone, hardware security keys, or TPM (Trusted Platform Model) devices—in place of traditional passwords. Web Authentication (or “WebAuthn”) is built directly into a web browser.</descrip>
-                    </descripGrp>
-                </langSet>
-                <langSet xml:lang="hr">
-                    <ntig>
-                        <termGrp>
-                            <term>Web-autentikacija</term>
-                        </termGrp>
-                    </ntig>
-                </langSet>
-            </termEntry>
             <termEntry id="c594">
                 <descrip type="context">The certificate used to sign the message was issued by an unknown certificate authority.</descrip>
                 <langSet xml:lang="en-US">
@@ -1759,25 +1570,128 @@
                     </ntig>
                 </langSet>
             </termEntry>
-            <termEntry id="c625">
-                <descrip type="context">Your account password was reset with an account recovery key</descrip>
+            <termEntry id="c568">
+                <descrip type="context"></descrip>
                 <langSet xml:lang="en-US">
                     <ntig>
                         <termGrp>
-                            <term>account recovery key</term>
+                            <term>fingerprinting</term>
                             <termNote type="partOfSpeech">noun</termNote>
                         </termGrp>
                     </ntig>
                     <descripGrp>
-                        <descrip type="definition">Account recovery key for Firefox Accounts. (Formerly called "recovery key".)
-
-A code used to recover a user's encrypted account information (such as bookmarks and passwords) when their Firefox Account password is reset.</descrip>
+                        <descrip type="definition">Fingerprinting is a method of tracking browser users by the configuration and settings information that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.</descrip>
                     </descripGrp>
                 </langSet>
                 <langSet xml:lang="hr">
                     <ntig>
                         <termGrp>
-                            <term>ključ za obnavljanje računa</term>
+                            <term>prikupljanje digitalnih otisaka</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c548">
+                <descrip type="context">Load this bookmark in the sidebar</descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>sidebar</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">A pane that is displayed on either side of the Firefox browser window, next to the web page. Includes the the user's bookmarks, history, and synced tabs.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="hr">
+                    <ntig>
+                        <termGrp>
+                            <term>bočna traka</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c567">
+                <descrip type="context">Do you want this document to be your new home page?</descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>home page</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">The default page that loads when you visit a website. In Firefox, the "home page" is also the default page displayed when you open the browser or open a new tab.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="hr">
+                    <ntig>
+                        <termGrp>
+                            <term>početna stranica</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c534">
+                <descrip type="context">Open Web Authentication panel</descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>Web Authentication</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">A credential management tool that allows users to verify identity using an authenticator—such as a phone, hardware security keys, or TPM (Trusted Platform Model) devices—in place of traditional passwords. Web Authentication (or “WebAuthn”) is built directly into a web browser.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="hr">
+                    <ntig>
+                        <termGrp>
+                            <term>web autentikacija</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c543">
+                <descrip type="context">Websites may load external ads, videos, and other content that contain tracking code. Blocking tracking content can help sites load faster, but some buttons, forms, and login fields might not work.</descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>Tracking Content</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">Tracking code hidden in ads, videos, and other in-page content. Blocking them can cause some websites to break.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="hr">
+                    <ntig>
+                        <termGrp>
+                            <term>sadržaj za praćenje</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c560">
+                <descrip type="context">This is a legacy extension, be aware that these are no longer fully supported.</descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>Legacy extension</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">A Firefox extension built using legacy APIs or the Add-on SDK. These kinds of extensions were disabled as of Firefox 57.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="hr">
+                    <ntig>
+                        <termGrp>
+                            <term>zastarjela proširenja</term>
                         </termGrp>
                     </ntig>
                 </langSet>
@@ -1870,6 +1784,29 @@ See this page for more information: https://bit.ly/l10n-guidance-firefoxview</de
                     </ntig>
                 </langSet>
             </termEntry>
+            <termEntry id="c666">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>Review checker</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">Review checker is a built-in Firefox tool that allows users to check the quality of product reviews on shopping sites like Amazon, Walmart, and Best Buy. The tool itself is powered by Fakespot, a Mozilla company.
+
+Note that this is distinct from "review analyzer", which is the name of the tool analyzing reviews on Fakespot, and providing data to the Review checker. Ideally, these tools should have different translations.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="hr">
+                    <ntig>
+                        <termGrp>
+                            <term>provjera recenzija</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
             <termEntry id="c569">
                 <descrip type="context">Fingerprinters collect settings from your browser and computer to create a profile of you. Using this digital fingerprint, they can track you across different websites.</descrip>
                 <langSet xml:lang="en-US">
@@ -1908,29 +1845,6 @@ See this page for more information: https://bit.ly/l10n-guidance-firefoxview</de
                     <ntig>
                         <termGrp>
                             <term>maska telefonskog broja</term>
-                        </termGrp>
-                    </ntig>
-                </langSet>
-            </termEntry>
-            <termEntry id="c666">
-                <descrip type="context"></descrip>
-                <langSet xml:lang="en-US">
-                    <ntig>
-                        <termGrp>
-                            <term>Review checker</term>
-                            <termNote type="partOfSpeech">noun</termNote>
-                        </termGrp>
-                    </ntig>
-                    <descripGrp>
-                        <descrip type="definition">Review checker is a built-in Firefox tool that allows users to check the quality of product reviews on shopping sites like Amazon, Walmart, and Best Buy. The tool itself is powered by Fakespot, a Mozilla company.
-
-Note that this is distinct from "review analyzer", which is the name of the tool analyzing reviews on Fakespot, and providing data to the Review checker. Ideally, these tools should have different translations.</descrip>
-                    </descripGrp>
-                </langSet>
-                <langSet xml:lang="hr">
-                    <ntig>
-                        <termGrp>
-                            <term>Provjera recenzija</term>
                         </termGrp>
                     </ntig>
                 </langSet>
@@ -1993,7 +1907,7 @@ Note that this is distinct from "review analyzer", which is the name of the tool
                 <langSet xml:lang="hr">
                     <ntig>
                         <termGrp>
-                            <term>kolačić za praćenje na različitim web stranicama</term>
+                            <term>međustranični kolačići za praćenje</term>
                         </termGrp>
                     </ntig>
                 </langSet>
@@ -2015,6 +1929,92 @@ Note that this is distinct from "review analyzer", which is the name of the tool
                     <ntig>
                         <termGrp>
                             <term>potvrdni kod</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c630">
+                <descrip type="context">In this Privacy Notice, we explain what data Firefox shares and point you to settings to share even less. We also adhere to the practices outlined in the Mozilla privacy policy for how we receive, handle and share information we collect from Firefox.</descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>Privacy Notice</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">Notice that explains what data s Mozilla product collected, shared and why. It may also include additional information such as settings that can change how much is shared. One example is Firefox browser's privacy notice which can be found here: https://www.mozilla.org/en-US/privacy/firefox/</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="hr">
+                    <ntig>
+                        <termGrp>
+                            <term>napomena o privatnosti</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c588">
+                <descrip type="context">This add-on could not be installed because it appears to be corrupt.</descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>corrupt</term>
+                            <termNote type="partOfSpeech">adjective</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">Containing errors or alterations from its original, correct form</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="hr">
+                    <ntig>
+                        <termGrp>
+                            <term>pokvareno</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c587">
+                <descrip type="context">The response from the OCSP server was corrupted or improperly formed</descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>corrupt</term>
+                            <termNote type="partOfSpeech">verb</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">Change something from its original, correct form.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="hr">
+                    <ntig>
+                        <termGrp>
+                            <term>pokvareno</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c625">
+                <descrip type="context">Your account password was reset with an account recovery key</descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>account recovery key</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">Account recovery key for Firefox Accounts. (Formerly called "recovery key".)
+
+A code used to recover a user's encrypted account information (such as bookmarks and passwords) when their Firefox Account password is reset.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="hr">
+                    <ntig>
+                        <termGrp>
+                            <term>ključ za obnavljanje računa</term>
                         </termGrp>
                     </ntig>
                 </langSet>
