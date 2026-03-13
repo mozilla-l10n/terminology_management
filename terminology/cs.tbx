@@ -1698,27 +1698,6 @@ Note that this is distinct from "review analyzer", which is the name of the tool
                     </ntig>
                 </langSet>
             </termEntry>
-            <termEntry id="c552">
-                <descrip type="context">Search suggestions will not be shown in location bar results</descrip>
-                <langSet xml:lang="en-US">
-                    <ntig>
-                        <termGrp>
-                            <term>search suggestion</term>
-                            <termNote type="partOfSpeech">noun</termNote>
-                        </termGrp>
-                    </ntig>
-                    <descripGrp>
-                        <descrip type="definition">A related search term suggested by a search engine</descrip>
-                    </descripGrp>
-                </langSet>
-                <langSet xml:lang="cs">
-                    <ntig>
-                        <termGrp>
-                            <term>našeptávání, návrhy našeptávače, našeptávání dotazů pro vyhledávač</term>
-                        </termGrp>
-                    </ntig>
-                </langSet>
-            </termEntry>
             <termEntry id="c611">
                 <descrip type="context">The cipher used for encryption is deprecated and insecure.</descrip>
                 <langSet xml:lang="en-US">
@@ -2036,6 +2015,27 @@ A code used to recover a user's encrypted account information (such as bookmarks
                     <ntig>
                         <termGrp>
                             <term>podvodná stránka</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c552">
+                <descrip type="context">Search suggestions will not be shown in location bar results</descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>search suggestion</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">A related search term suggested by a search engine</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="cs">
+                    <ntig>
+                        <termGrp>
+                            <term>návrhy vyhledávání, našeptávání vyhledávání</term>
                         </termGrp>
                     </ntig>
                 </langSet>
