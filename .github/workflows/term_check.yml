@@ -33,8 +33,8 @@ jobs:
           then
             UPDATE=$(date +'%Y-%m-%d')
 
-            git config --global user.email "38174554+bcolsson@users.noreply.github.com"
-            git config --global user.name "bcolsson"
+            git config --global user.name "github-actions[bot]"
+            git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
             git checkout -B "merge-terminology-$UPDATE"
             git add .
