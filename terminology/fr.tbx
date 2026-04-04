@@ -205,27 +205,6 @@
                     </ntig>
                 </langSet>
             </termEntry>
-            <termEntry id="c539">
-                <descrip type="context">A script from the extension is running on this page, and making it unresponsive.</descrip>
-                <langSet xml:lang="en-US">
-                    <ntig>
-                        <termGrp>
-                            <term>unresponsive</term>
-                            <termNote type="partOfSpeech">adjective</termNote>
-                        </termGrp>
-                    </ntig>
-                    <descripGrp>
-                        <descrip type="definition">Not reacting or responding</descrip>
-                    </descripGrp>
-                </langSet>
-                <langSet xml:lang="fr">
-                    <ntig>
-                        <termGrp>
-                            <term>ne pas répondre</term>
-                        </termGrp>
-                    </ntig>
-                </langSet>
-            </termEntry>
             <termEntry id="c540">
                 <descrip type="context">Your email and authentication are sent unencrypted so your password and your message could easily be read by other people</descrip>
                 <langSet xml:lang="en-US">
@@ -2036,6 +2015,27 @@ Note that this is distinct from "review analyzer", which is the name of the tool
                     <ntig>
                         <termGrp>
                             <term>Site d’attaque</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c539">
+                <descrip type="context">A script from the extension is running on this page, and making it unresponsive.</descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>unresponsive</term>
+                            <termNote type="partOfSpeech">adjective</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">Not reacting or responding</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="fr">
+                    <ntig>
+                        <termGrp>
+                            <term>ne répond pas</term>
                         </termGrp>
                     </ntig>
                 </langSet>
