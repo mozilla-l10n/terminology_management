@@ -2019,6 +2019,27 @@ Note that this is distinct from "review analyzer", which is the name of the tool
                     </ntig>
                 </langSet>
             </termEntry>
+            <termEntry id="c669">
+                <descrip type="context">Use a passkey</descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>passkey</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">A authentication credential stored on the user's device or a hardware authenticator, allowing authentication to a website without a password</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="es-MX">
+                    <ntig>
+                        <termGrp>
+                            <term>llave de acceso</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
