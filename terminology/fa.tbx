@@ -2019,6 +2019,69 @@ Note that this is distinct from "review analyzer", which is the name of the tool
                     </ntig>
                 </langSet>
             </termEntry>
+            <termEntry id="c672">
+                <descrip type="context">Ask questions, compare pages, and get personalized suggestions with a built-in assistant.</descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>assistant</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">The assistant is the Smart Window’s built-in, conversational UI. When users “ask” a question in Smart Window, either from the New Tab or in the sidebar when viewing a page, that’s the assistant experience. The assistant is intentionally not personified, nor separately named.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="fa">
+                    <ntig>
+                        <termGrp>
+                            <term>دستیار</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c671">
+                <descrip type="context">New Classic Window</descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>Classic Window</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">Classic refers to the current regular Firefox window. Classic Window is used sparingly, only when multiple window types are mentioned in a shared space.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="fa">
+                    <ntig>
+                        <termGrp>
+                            <term>پنجره کلاسیک</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c670">
+                <descrip type="context">Open Smart Window when Firefox starts, restarts, or opens links from other apps.</descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>Smart Window</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">Smart Window is a distinct window type in Firefox. Smart Window works like a regular Firefox window, but includes a built-in AI assistant that a user can ask questions, compare pages, and get personalized suggestions from.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="fa">
+                    <ntig>
+                        <termGrp>
+                            <term>پنجره هوشمند</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
