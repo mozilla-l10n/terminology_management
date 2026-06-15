@@ -2040,6 +2040,90 @@ A code used to recover a user's encrypted account information (such as bookmarks
                     </ntig>
                 </langSet>
             </termEntry>
+            <termEntry id="c672">
+                <descrip type="context">Ask questions, compare pages, and get personalized suggestions with a built-in assistant.</descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>assistant</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">The assistant is the Smart Window’s built-in, conversational UI. When users “ask” a question in Smart Window, either from the New Tab or in the sidebar when viewing a page, that’s the assistant experience. The assistant is intentionally not personified, nor separately named.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="ko">
+                    <ntig>
+                        <termGrp>
+                            <term>어시스턴트</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c671">
+                <descrip type="context">New Classic Window</descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>Classic Window</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">Classic refers to the current regular Firefox window. Classic Window is used sparingly, only when multiple window types are mentioned in a shared space.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="ko">
+                    <ntig>
+                        <termGrp>
+                            <term>기본 창</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c673">
+                <descrip type="context">Firefox can learn from your activity to create memories. They’re used to help personalize responses and are stored locally on this device.</descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>memories</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">Memories are short summaries of what Firefox learns from a user’s activity. Memories help to personalize a user’s experience in Smart Window and make assistant responses more helpful over time. For example, if a user spends time viewing vegan recipes and vegan restaurants, Firefox might create a memory like “Prefers vegan recipes and cuisine”. Memories will always be personal to a user and are best thought of as a type of personalization feature.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="ko">
+                    <ntig>
+                        <termGrp>
+                            <term>추억</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c670">
+                <descrip type="context">Open Smart Window when Firefox starts, restarts, or opens links from other apps.</descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>Smart Window</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">Smart Window is a distinct window type in Firefox. Smart Window works like a regular Firefox window, but includes a built-in AI assistant that a user can ask questions, compare pages, and get personalized suggestions from.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="ko">
+                    <ntig>
+                        <termGrp>
+                            <term>스마트 창</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
