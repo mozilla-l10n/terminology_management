@@ -1555,6 +1555,69 @@ See this page for more information: https://bit.ly/l10n-guidance-firefoxview</de
                     </ntig>
                 </langSet>
             </termEntry>
+            <termEntry id="c555">
+                <descrip type="context">Send a crash report for the tab you are viewing</descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>report</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">A detailed record or account, most often in the case of a site crash or issue</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="fi">
+                    <ntig>
+                        <termGrp>
+                            <term>ilmoitus</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c554">
+                <descrip type="context">Report errors like this to help Mozilla identify and block malicious sites</descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>report</term>
+                            <termNote type="partOfSpeech">verb</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">Tell or alert, most often in the case of a site crash or issue</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="fi">
+                    <ntig>
+                        <termGrp>
+                            <term>ilmoita</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c451">
+                <descrip type="context">A decentralized internet owned by all of us is where net neutrality interoperability competition and local contribution thrive</descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>net neutrality</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">Principle that all communication over the Internet must be treated equally by Internet service providers, preventing the filtering of Internet content.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="fi">
+                    <ntig>
+                        <termGrp>
+                            <term>netin puolueettomuus</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
