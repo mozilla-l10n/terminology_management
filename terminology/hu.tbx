@@ -2056,7 +2056,7 @@ Note that this is distinct from "review analyzer", which is the name of the tool
                 <langSet xml:lang="hu">
                     <ntig>
                         <termGrp>
-                            <term>emlékek</term>
+                            <term>memóriák</term>
                         </termGrp>
                     </ntig>
                 </langSet>

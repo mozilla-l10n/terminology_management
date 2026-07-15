@@ -1555,6 +1555,216 @@ See this page for more information: https://bit.ly/l10n-guidance-firefoxview</de
                     </ntig>
                 </langSet>
             </termEntry>
+            <termEntry id="c555">
+                <descrip type="context">Send a crash report for the tab you are viewing</descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>report</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">A detailed record or account, most often in the case of a site crash or issue</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="fi">
+                    <ntig>
+                        <termGrp>
+                            <term>ilmoitus</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c554">
+                <descrip type="context">Report errors like this to help Mozilla identify and block malicious sites</descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>report</term>
+                            <termNote type="partOfSpeech">verb</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">Tell or alert, most often in the case of a site crash or issue</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="fi">
+                    <ntig>
+                        <termGrp>
+                            <term>ilmoita</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c451">
+                <descrip type="context">A decentralized internet owned by all of us is where net neutrality interoperability competition and local contribution thrive</descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>net neutrality</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">Principle that all communication over the Internet must be treated equally by Internet service providers, preventing the filtering of Internet content.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="fi">
+                    <ntig>
+                        <termGrp>
+                            <term>netin puolueettomuus</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c671">
+                <descrip type="context">New Classic Window</descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>Classic Window</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">Classic refers to the current regular Firefox window. Classic Window is used sparingly, only when multiple window types are mentioned in a shared space.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="fi">
+                    <ntig>
+                        <termGrp>
+                            <term>Perinteinen ikkuna</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c670">
+                <descrip type="context">Open Smart Window when Firefox starts, restarts, or opens links from other apps.</descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>Smart Window</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">Smart Window is a distinct window type in Firefox. Smart Window works like a regular Firefox window, but includes a built-in AI assistant that a user can ask questions, compare pages, and get personalized suggestions from.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="fi">
+                    <ntig>
+                        <termGrp>
+                            <term>Älykäs ikkuna</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c673">
+                <descrip type="context">Firefox can learn from your activity to create memories. They’re used to help personalize responses and are stored locally on this device.</descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>memories</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">Memories are short summaries of what Firefox learns from a user’s activity. Memories help to personalize a user’s experience in Smart Window and make assistant responses more helpful over time. For example, if a user spends time viewing vegan recipes and vegan restaurants, Firefox might create a memory like “Prefers vegan recipes and cuisine”. Memories will always be personal to a user and are best thought of as a type of personalization feature.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="fi">
+                    <ntig>
+                        <termGrp>
+                            <term>muistot</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c667">
+                <descrip type="context">Protect your inbox with unlimited email masks, and get a unique Relay email domain to make creating masks on the go easy and secure.</descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>email mask</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">Firefox Relay feature. Email masks are masked, or private, email addresses that forward messages to your true email address. These masks allow you to share an address with third parties which will mask your true email address and forward messages to it.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="fi">
+                    <ntig>
+                        <termGrp>
+                            <term>sähköpostimaski</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c669">
+                <descrip type="context">Use a passkey</descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>passkey</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">A authentication credential stored on the user's device or a hardware authenticator, allowing authentication to a website without a password</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="fi">
+                    <ntig>
+                        <termGrp>
+                            <term>todentamisavain</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c672">
+                <descrip type="context">Ask questions, compare pages, and get personalized suggestions with a built-in assistant.</descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>assistant</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">The assistant is the Smart Window’s built-in, conversational UI. When users “ask” a question in Smart Window, either from the New Tab or in the sidebar when viewing a page, that’s the assistant experience. The assistant is intentionally not personified, nor separately named.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="fi">
+                    <ntig>
+                        <termGrp>
+                            <term>avustaja</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c668">
+                <descrip type="context">With phone number masking, you can now create a phone number mask that helps you get texts and calls without revealing your true number.</descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>phone number mask</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">Feature of Relay Premium. Similar to an email mask, a phone number mask is a phone number that can forward texts and calls to your true phone number without revealing what your true number is to the person calling or texting you.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="fi">
+                    <ntig>
+                        <termGrp>
+                            <term>puhelinnumeron maski</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
         </body>
     </text>
 </martif>

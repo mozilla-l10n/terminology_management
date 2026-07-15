@@ -16,6 +16,195 @@
     </martifHeader>
     <text>
         <body>
+            <termEntry id="c610">
+                <descrip type="context">This page is loaded from an extension</descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>extension</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">Pieces of code that extend the capabilities of a browser. In Firefox, extensions are a type of add-on.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="ga-IE">
+                    <ntig>
+                        <termGrp>
+                            <term>eisínteacht</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c630">
+                <descrip type="context">In this Privacy Notice, we explain what data Firefox shares and point you to settings to share even less. We also adhere to the practices outlined in the Mozilla privacy policy for how we receive, handle and share information we collect from Firefox.</descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>Privacy Notice</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">Notice that explains what data s Mozilla product collected, shared and why. It may also include additional information such as settings that can change how much is shared. One example is Firefox browser's privacy notice which can be found here: https://www.mozilla.org/en-US/privacy/firefox/</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="ga-IE">
+                    <ntig>
+                        <termGrp>
+                            <term>Fógra Príobháideachta</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c629">
+                <descrip type="context">With Firefox on all your devices, you can access bookmarks, tabs and passwords with one easy sign-in.</descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>sign-in</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">The access of an account or software through the usage of account information such as user id and password.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="ga-IE">
+                    <ntig>
+                        <termGrp>
+                            <term>síniú isteach</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c628">
+                <descrip type="context">Sign in to sync tabs, bookmarks, passwords, and more.</descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>sign in</term>
+                            <termNote type="partOfSpeech">verb</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">To access an account or software through the usage of account information such as user id and password.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="ga-IE">
+                    <ntig>
+                        <termGrp>
+                            <term>sínigh isteach</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c548">
+                <descrip type="context">Load this bookmark in the sidebar</descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>sidebar</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">A pane that is displayed on either side of the Firefox browser window, next to the web page. Includes the the user's bookmarks, history, and synced tabs.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="ga-IE">
+                    <ntig>
+                        <termGrp>
+                            <term>barra taobh</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c672">
+                <descrip type="context">Ask questions, compare pages, and get personalized suggestions with a built-in assistant.</descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>assistant</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">The assistant is the Smart Window’s built-in, conversational UI. When users “ask” a question in Smart Window, either from the New Tab or in the sidebar when viewing a page, that’s the assistant experience. The assistant is intentionally not personified, nor separately named.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="ga-IE">
+                    <ntig>
+                        <termGrp>
+                            <term>cúntóir</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c597">
+                <descrip type="context">You have blocked autoplay media with sound for this website.</descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>autoplay</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">A functionality that allows media, like video or audio, to play automatically with sound, without action from a user.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="ga-IE">
+                    <ntig>
+                        <termGrp>
+                            <term>uath-sheinm</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c671">
+                <descrip type="context">New Classic Window</descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>Classic Window</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">Classic refers to the current regular Firefox window. Classic Window is used sparingly, only when multiple window types are mentioned in a shared space.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="ga-IE">
+                    <ntig>
+                        <termGrp>
+                            <term>Fuinneog Chlasaiceach</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c593">
+                <descrip type="context">Copy text to clipboard</descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>clipboard</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">A special location in the computer's operating system that is accessible to all programs and temporarily stores data that the user has copied from somewhere else</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="ga-IE">
+                    <ntig>
+                        <termGrp>
+                            <term>gearrthaisce</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
