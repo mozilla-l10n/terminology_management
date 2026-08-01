@@ -919,27 +919,6 @@
                     </ntig>
                 </langSet>
             </termEntry>
-            <termEntry id="c594">
-                <descrip type="context">The certificate used to sign the message was issued by an unknown certificate authority.</descrip>
-                <langSet xml:lang="en-US">
-                    <ntig>
-                        <termGrp>
-                            <term>certificate authority</term>
-                            <termNote type="partOfSpeech">noun</termNote>
-                        </termGrp>
-                    </ntig>
-                    <descripGrp>
-                        <descrip type="definition">A trusted organization that issues signed digital certificates that verify the identity and legitimacy of a company or individual.</descrip>
-                    </descripGrp>
-                </langSet>
-                <langSet xml:lang="zh-CN">
-                    <ntig>
-                        <termGrp>
-                            <term>证书授权机构</term>
-                        </termGrp>
-                    </ntig>
-                </langSet>
-            </termEntry>
             <termEntry id="c595">
                 <descrip type="context">Bookmark this page</descrip>
                 <langSet xml:lang="en-US">
@@ -2099,6 +2078,111 @@ Note that this is distinct from "review analyzer", which is the name of the tool
                     <ntig>
                         <termGrp>
                             <term>记忆</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c671">
+                <descrip type="context">New Classic Window</descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>Classic Window</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">Classic refers to the current regular Firefox window. Classic Window is used sparingly, only when multiple window types are mentioned in a shared space.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="zh-CN">
+                    <ntig>
+                        <termGrp>
+                            <term>经典窗口</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c670">
+                <descrip type="context">Open Smart Window when Firefox starts, restarts, or opens links from other apps.</descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>Smart Window</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">Smart Window is a distinct window type in Firefox. Smart Window works like a regular Firefox window, but includes a built-in AI assistant that a user can ask questions, compare pages, and get personalized suggestions from.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="zh-CN">
+                    <ntig>
+                        <termGrp>
+                            <term>智能窗口</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c675">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>tag</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">The reference to a context mention (such as a website or Firefox tab) within a Smart Window, created as a result of tagging using @ mention. This is represented within the UI visually as a chip.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="zh-CN">
+                    <ntig>
+                        <termGrp>
+                            <term>标签</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c674">
+                <descrip type="context">Tag a tab or site</descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>tag</term>
+                            <termNote type="partOfSpeech">verb</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">The action in Smart Window for inserting a context mention (such as a website or Firefox tab) into a prompt via an @ mention.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="zh-CN">
+                    <ntig>
+                        <termGrp>
+                            <term>添加标签</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c594">
+                <descrip type="context">The certificate used to sign the message was issued by an unknown certificate authority.</descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>certificate authority</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">A trusted organization that issues signed digital certificates that verify the identity and legitimacy of a company or individual.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="zh-CN">
+                    <ntig>
+                        <termGrp>
+                            <term>证书颁发机构</term>
                         </termGrp>
                     </ntig>
                 </langSet>
