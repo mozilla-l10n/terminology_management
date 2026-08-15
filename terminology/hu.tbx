@@ -2124,6 +2124,27 @@ Note that this is distinct from "review analyzer", which is the name of the tool
                     </ntig>
                 </langSet>
             </termEntry>
+            <termEntry id="c675">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>tag</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">The reference to a context mention (such as a website or Firefox tab) within a Smart Window, created as a result of tagging using @ mention. This is represented within the UI visually as a chip.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="hu">
+                    <ntig>
+                        <termGrp>
+                            <term>címke</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
