@@ -1756,7 +1756,7 @@ Note that this is distinct from "review analyzer", which is the name of the tool
                 <langSet xml:lang="el">
                     <ntig>
                         <termGrp>
-                            <term>Σημείωση απορρήτου</term>
+                            <term>Δήλωση απορρήτου</term>
                         </termGrp>
                     </ntig>
                 </langSet>
