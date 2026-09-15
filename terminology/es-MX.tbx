@@ -1423,27 +1423,6 @@
                     </ntig>
                 </langSet>
             </termEntry>
-            <termEntry id="c577">
-                <descrip type="context">Enhanced Tracking Protection is ON for this site</descrip>
-                <langSet xml:lang="en-US">
-                    <ntig>
-                        <termGrp>
-                            <term>Enhanced Tracking Protection</term>
-                            <termNote type="partOfSpeech">noun</termNote>
-                        </termGrp>
-                    </ntig>
-                    <descripGrp>
-                        <descrip type="definition">Enhanced Tracking Protection is a collection of Firefox privacy and security settings. These settings block invisible or visible parts of webpages that can track users online. Enhanced Tracking Protection keeps an individual’s browsing history more private to reduce how much of their data is tracked, stored, and shared between websites and advertisers.</descrip>
-                    </descripGrp>
-                </langSet>
-                <langSet xml:lang="es-MX">
-                    <ntig>
-                        <termGrp>
-                            <term>Protección de rastreo mejorada</term>
-                        </termGrp>
-                    </ntig>
-                </langSet>
-            </termEntry>
             <termEntry id="c569">
                 <descrip type="context">Fingerprinters collect settings from your browser and computer to create a profile of you. Using this digital fingerprint, they can track you across different websites.</descrip>
                 <langSet xml:lang="en-US">
@@ -2162,6 +2141,27 @@ Note that this is distinct from "review analyzer", which is the name of the tool
                     <ntig>
                         <termGrp>
                             <term>mencionar</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c577">
+                <descrip type="context">Enhanced Tracking Protection is ON for this site</descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>Enhanced Tracking Protection</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">Enhanced Tracking Protection is a collection of Firefox privacy and security settings. These settings block invisible or visible parts of webpages that can track users online. Enhanced Tracking Protection keeps an individual’s browsing history more private to reduce how much of their data is tracked, stored, and shared between websites and advertisers.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="es-MX">
+                    <ntig>
+                        <termGrp>
+                            <term>Protección de rastreo mejorada</term>
                         </termGrp>
                     </ntig>
                 </langSet>
