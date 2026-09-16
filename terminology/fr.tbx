@@ -2187,6 +2187,27 @@ Note that this is distinct from "review analyzer", which is the name of the tool
                     </ntig>
                 </langSet>
             </termEntry>
+            <termEntry id="c677">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>resource monitor</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">Resource Monitor is a Firefox sidebar panel that shows per-tab memory and CPU usage for all open tabs in the current window, with tab suspend and close actions. It is positioned as a user-facing counterpart to about:processes, using the same underlying data source.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="fr">
+                    <ntig>
+                        <termGrp>
+                            <term>moniteur de ressources</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
         </body>
     </text>
 </martif>

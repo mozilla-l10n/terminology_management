@@ -478,27 +478,6 @@
                     </ntig>
                 </langSet>
             </termEntry>
-            <termEntry id="c595">
-                <descrip type="context">Bookmark this page</descrip>
-                <langSet xml:lang="en-US">
-                    <ntig>
-                        <termGrp>
-                            <term>bookmark</term>
-                            <termNote type="partOfSpeech">verb</termNote>
-                        </termGrp>
-                    </ntig>
-                    <descripGrp>
-                        <descrip type="definition">Create a shortcut that directs the browser to a specific webpage. Shortcuts may be added to the bookmark toolbar. Similar in functionality to "favorites" in Chrome and Internet Explorer, and "bookmarks" in Safari.</descrip>
-                    </descripGrp>
-                </langSet>
-                <langSet xml:lang="ar">
-                    <ntig>
-                        <termGrp>
-                            <term>إضافة علامة</term>
-                        </termGrp>
-                    </ntig>
-                </langSet>
-            </termEntry>
             <termEntry id="c577">
                 <descrip type="context">Enhanced Tracking Protection is ON for this site</descrip>
                 <langSet xml:lang="en-US">
@@ -1933,29 +1912,6 @@ See this page for more information: https://bit.ly/l10n-guidance-colorways</desc
                     </ntig>
                 </langSet>
             </termEntry>
-            <termEntry id="c625">
-                <descrip type="context">Your account password was reset with an account recovery key</descrip>
-                <langSet xml:lang="en-US">
-                    <ntig>
-                        <termGrp>
-                            <term>account recovery key</term>
-                            <termNote type="partOfSpeech">noun</termNote>
-                        </termGrp>
-                    </ntig>
-                    <descripGrp>
-                        <descrip type="definition">Account recovery key for Firefox Accounts. (Formerly called "recovery key".)
-
-A code used to recover a user's encrypted account information (such as bookmarks and passwords) when their Firefox Account password is reset.</descrip>
-                    </descripGrp>
-                </langSet>
-                <langSet xml:lang="ar">
-                    <ntig>
-                        <termGrp>
-                            <term>مفتاح إستعادة الحساب</term>
-                        </termGrp>
-                    </ntig>
-                </langSet>
-            </termEntry>
             <termEntry id="c617">
                 <descrip type="context">An attacker could easily reveal information which you thought to be safe</descrip>
                 <langSet xml:lang="en-US">
@@ -2036,6 +1992,50 @@ A code used to recover a user's encrypted account information (such as bookmarks
                     <ntig>
                         <termGrp>
                             <term>مفتاح المرور</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c625">
+                <descrip type="context">Your account password was reset with an account recovery key</descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>account recovery key</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">Account recovery key for Firefox Accounts. (Formerly called "recovery key".)
+
+A code used to recover a user's encrypted account information (such as bookmarks and passwords) when their Firefox Account password is reset.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="ar">
+                    <ntig>
+                        <termGrp>
+                            <term>مفتاح إستعادة الحساب</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c595">
+                <descrip type="context">Bookmark this page</descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>bookmark</term>
+                            <termNote type="partOfSpeech">verb</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">Create a shortcut that directs the browser to a specific webpage. Shortcuts may be added to the bookmark toolbar. Similar in functionality to "favorites" in Chrome and Internet Explorer, and "bookmarks" in Safari.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="ar">
+                    <ntig>
+                        <termGrp>
+                            <term>إضافة علامة</term>
                         </termGrp>
                     </ntig>
                 </langSet>
