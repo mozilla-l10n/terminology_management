@@ -2208,6 +2208,258 @@ Note that this is distinct from "review analyzer", which is the name of the tool
                     </ntig>
                 </langSet>
             </termEntry>
+            <termEntry id="c789">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>account</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">A user's identity and associated data or services.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="vi">
+                    <ntig>
+                        <termGrp>
+                            <term>tài khoản</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c804">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>autofill</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">Automatic completion of form fields using saved information.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="vi">
+                    <ntig>
+                        <termGrp>
+                            <term>tự động điền</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c815">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>address bar</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">The browser field used for URLs, searches, and navigation.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="vi">
+                    <ntig>
+                        <termGrp>
+                            <term>thanh địa chỉ</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c831">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>AI chatbot</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">A conversational assistant powered by artificial intelligence.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="vi">
+                    <ntig>
+                        <termGrp>
+                            <term>chatbot AI</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c832">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>authenticator app</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">An app that generates time-based authentication codes.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="vi">
+                    <ntig>
+                        <termGrp>
+                            <term>ứng dụng xác thực</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c844">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>account settings</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">Configurable options for a user's account.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="vi">
+                    <ntig>
+                        <termGrp>
+                            <term>cài đặt tài khoản</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c853">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>app icon</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">The icon representing an application.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="vi">
+                    <ntig>
+                        <termGrp>
+                            <term>biểu tượng ứng dụng</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c856">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>AI enhancement</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">An optional product capability powered or enhanced by AI.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="vi">
+                    <ntig>
+                        <termGrp>
+                            <term>cải tiến AI</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c857">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>AI model</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">A machine-learning model used to provide an AI feature.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="vi">
+                    <ntig>
+                        <termGrp>
+                            <term>mô hình AI</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c860">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>authorization code</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">A temporary code used to authorize an operation or exchange.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="vi">
+                    <ntig>
+                        <termGrp>
+                            <term>mã xác minh</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c866">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>account activity</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">Recorded events or actions associated with an account.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="vi">
+                    <ntig>
+                        <termGrp>
+                            <term>hoạt động tài khoản</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c882">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>autofill</term>
+                            <termNote type="partOfSpeech">verb</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">To fill a form or form field automatically using saved information.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="vi">
+                    <ntig>
+                        <termGrp>
+                            <term>tự động điền</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
         </body>
     </text>
 </martif>

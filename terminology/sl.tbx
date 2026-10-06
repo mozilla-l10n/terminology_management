@@ -1530,27 +1530,6 @@ Note that this is distinct from "review analyzer", which is the name of the tool
                     </ntig>
                 </langSet>
             </termEntry>
-            <termEntry id="c524">
-                <descrip type="context">A Geolocation request can only be fulfilled in a secure context.This scratchpad executes in the Browser context.</descrip>
-                <langSet xml:lang="en-US">
-                    <ntig>
-                        <termGrp>
-                            <term>context</term>
-                            <termNote type="partOfSpeech">noun</termNote>
-                        </termGrp>
-                    </ntig>
-                    <descripGrp>
-                        <descrip type="definition">The setting or circumstance in which a thing occurs, often associated with the context menu. This term can assume specific connotations when referring to programming languages, for example in JavaScript a context is a reference to the object running the currently executing code.</descrip>
-                    </descripGrp>
-                </langSet>
-                <langSet xml:lang="sl">
-                    <ntig>
-                        <termGrp>
-                            <term>kontekst</term>
-                        </termGrp>
-                    </ntig>
-                </langSet>
-            </termEntry>
             <termEntry id="c630">
                 <descrip type="context">In this Privacy Notice, we explain what data Firefox shares and point you to settings to share even less. We also adhere to the practices outlined in the Mozilla privacy policy for how we receive, handle and share information we collect from Firefox.</descrip>
                 <langSet xml:lang="en-US">
@@ -2855,6 +2834,69 @@ See this page for more information: https://bit.ly/l10n-guidance-firefoxview</de
                     <ntig>
                         <termGrp>
                             <term>Wi-Fi</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c866">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>account activity</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">Recorded events or actions associated with an account.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="sl">
+                    <ntig>
+                        <termGrp>
+                            <term>dejavnost računa</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c831">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>AI chatbot</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">A conversational assistant powered by artificial intelligence.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="sl">
+                    <ntig>
+                        <termGrp>
+                            <term>UI-klepetalnik</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c524">
+                <descrip type="context">A Geolocation request can only be fulfilled in a secure context.This scratchpad executes in the Browser context.</descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>context</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">The setting or circumstance in which a thing occurs, often associated with the context menu. This term can assume specific connotations when referring to programming languages, for example in JavaScript a context is a reference to the object running the currently executing code.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="sl">
+                    <ntig>
+                        <termGrp>
+                            <term>kontekst</term>
                         </termGrp>
                     </ntig>
                 </langSet>
