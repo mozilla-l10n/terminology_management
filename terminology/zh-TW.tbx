@@ -2229,6 +2229,2253 @@ A code used to recover a user's encrypted account information (such as bookmarks
                     </ntig>
                 </langSet>
             </termEntry>
+            <termEntry id="c789">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>account</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">A user's identity and associated data or services.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="zh-TW">
+                    <ntig>
+                        <termGrp>
+                            <term>帳號</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c866">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>account activity</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">Recorded events or actions associated with an account.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="zh-TW">
+                    <ntig>
+                        <termGrp>
+                            <term>帳號活動</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c844">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>account settings</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">Configurable options for a user's account.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="zh-TW">
+                    <ntig>
+                        <termGrp>
+                            <term>帳號設定</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c815">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>address bar</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">The browser field used for URLs, searches, and navigation.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="zh-TW">
+                    <ntig>
+                        <termGrp>
+                            <term>網址列</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c831">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>AI chatbot</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">A conversational assistant powered by artificial intelligence.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="zh-TW">
+                    <ntig>
+                        <termGrp>
+                            <term>AI 聊天機器人</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c853">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>app icon</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">The icon representing an application.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="zh-TW">
+                    <ntig>
+                        <termGrp>
+                            <term>應用程式圖示</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c832">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>authenticator app</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">An app that generates time-based authentication codes.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="zh-TW">
+                    <ntig>
+                        <termGrp>
+                            <term>驗證器應用程式</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c882">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>autofill</term>
+                            <termNote type="partOfSpeech">verb</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">To fill a form or form field automatically using saved information.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="zh-TW">
+                    <ntig>
+                        <termGrp>
+                            <term>自動填寫</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c804">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>autofill</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">Automatic completion of form fields using saved information.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="zh-TW">
+                    <ntig>
+                        <termGrp>
+                            <term>自動填寫</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c793">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>cookie</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">A small piece of data stored by a website in the browser.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="zh-TW">
+                    <ntig>
+                        <termGrp>
+                            <term>Cookie</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c883">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>crash</term>
+                            <termNote type="partOfSpeech">verb</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">To stop functioning unexpectedly because of a software error.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="zh-TW">
+                    <ntig>
+                        <termGrp>
+                            <term>發生錯誤</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c816">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>credit card</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">A payment card used for purchases or subscriptions.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="zh-TW">
+                    <ntig>
+                        <termGrp>
+                            <term>信用卡</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c891">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>dark</term>
+                            <termNote type="partOfSpeech">adjective</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">Theme or display mode that uses light text and icons set against a dark colored background.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="zh-TW">
+                    <ntig>
+                        <termGrp>
+                            <term>暗色</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c872">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>dark mode</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">Display mode that uses light text and icons set against a dark colored background.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="zh-TW">
+                    <ntig>
+                        <termGrp>
+                            <term>暗色模式</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c820">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>data collection</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">The collection of product, usage, technical, or personal data.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="zh-TW">
+                    <ntig>
+                        <termGrp>
+                            <term>資料收集</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c807">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>default browser</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">The browser the operating system opens by default.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="zh-TW">
+                    <ntig>
+                        <termGrp>
+                            <term>預設瀏覽器</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c823">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>default search engine</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">The search engine used when no other engine is selected.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="zh-TW">
+                    <ntig>
+                        <termGrp>
+                            <term>預設搜尋引擎</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c858">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>desktop site</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">The desktop-oriented version of a website requested on a mobile device.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="zh-TW">
+                    <ntig>
+                        <termGrp>
+                            <term>桌面版網站</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c833">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>developer tools</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">Browser tools for inspecting, debugging, and developing web content.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="zh-TW">
+                    <ntig>
+                        <termGrp>
+                            <term>開發者工具</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c788">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>device</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">A computer, phone, tablet, or other endpoint associated with the user.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="zh-TW">
+                    <ntig>
+                        <termGrp>
+                            <term>裝置</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c867">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>display name</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">The name shown to other users or in product UI.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="zh-TW">
+                    <ntig>
+                        <termGrp>
+                            <term>顯示名稱</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c818">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>email address</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">An address used to send and receive email.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="zh-TW">
+                    <ntig>
+                        <termGrp>
+                            <term>電子郵件地址</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c876">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>Face ID</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">Apple's facial authentication feature.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="zh-TW">
+                    <ntig>
+                        <termGrp>
+                            <term>Face ID</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c881">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>form autofill</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">A browser feature that automatically fills form fields such as address or payment information with saved information.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="zh-TW">
+                    <ntig>
+                        <termGrp>
+                            <term>自動填寫表單</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c841">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>full screen</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">A display mode in which content fills the screen.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="zh-TW">
+                    <ntig>
+                        <termGrp>
+                            <term>全螢幕</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c885">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>history</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">The browser record of pages visited and related browsing activity.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="zh-TW">
+                    <ntig>
+                        <termGrp>
+                            <term>瀏覽紀錄</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c888">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>Home</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">The button or navigation item that directs to a user's homepage - the primary or starting destination in a browser or application.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="zh-TW">
+                    <ntig>
+                        <termGrp>
+                            <term>首頁</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c889">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>homepage</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">The page displayed at browser startup or when the user selects the Home button. In some browsers that can be set to Firefox Home, a blank page, or a custom URL.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="zh-TW">
+                    <ntig>
+                        <termGrp>
+                            <term>首頁</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c847">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>home screen</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">The primary screen of a mobile operating system or app.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="zh-TW">
+                    <ntig>
+                        <termGrp>
+                            <term>主畫面</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c849">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>inactive tab</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">A tab not used for a defined period or not currently active.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="zh-TW">
+                    <ntig>
+                        <termGrp>
+                            <term>閒置分頁</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c822">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>interaction data</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">Data describing how a user interacts with a product or feature.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="zh-TW">
+                    <ntig>
+                        <termGrp>
+                            <term>互動資料</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c828">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>internet connection</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">A device's connection to the internet.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="zh-TW">
+                    <ntig>
+                        <termGrp>
+                            <term>網際網路連線</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c890">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>light</term>
+                            <termNote type="partOfSpeech">adjective</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">Theme or display mode that uses dark text and icons set against a light colored background.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="zh-TW">
+                    <ntig>
+                        <termGrp>
+                            <term>亮色</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c873">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>light mode</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">Display mode that uses dark text and icons set against a light colored background.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="zh-TW">
+                    <ntig>
+                        <termGrp>
+                            <term>亮色模式</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c859">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>root certificate</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">A trusted certificate at the root of a certificate chain.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="zh-TW">
+                    <ntig>
+                        <termGrp>
+                            <term>根憑證</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c799">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>search engine</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">A service used by the browser to search the web.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="zh-TW">
+                    <ntig>
+                        <termGrp>
+                            <term>搜尋引擎</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c848">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>search history</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">A record of searches previously performed by the user.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="zh-TW">
+                    <ntig>
+                        <termGrp>
+                            <term>搜尋紀錄</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c814">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>service worker</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">A web worker that can intercept requests and support offline or background behavior.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="zh-TW">
+                    <ntig>
+                        <termGrp>
+                            <term>service worker</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c790">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>settings</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">User-configurable product options.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="zh-TW">
+                    <ntig>
+                        <termGrp>
+                            <term>設定</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c886">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>summary</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">Summary of a webpage's key takeaways generated by Firefox's Shake to Summarize feature.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="zh-TW">
+                    <ntig>
+                        <termGrp>
+                            <term>摘要</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c810">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>site data</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">Plural (when referring to multiple websites). Information that websites store in Firefox locally to remember your preferences such as cookies and local storage.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="zh-TW">
+                    <ntig>
+                        <termGrp>
+                            <term>網站資料</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c884">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>site data</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">Singular (when referring to one website). Information that a website stores in Firefox locally to remember your preferences such as cookies and local storage.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="zh-TW">
+                    <ntig>
+                        <termGrp>
+                            <term>網站資料</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c846">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>storage</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">The capacity or system used to save and retain data in a browser, on a device, or in the cloud.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="zh-TW">
+                    <ntig>
+                        <termGrp>
+                            <term>儲存空間</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c887">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>summaries</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">Plural. Generated summaries of webpage content created by Firefox's Shake to Summarize feature.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="zh-TW">
+                    <ntig>
+                        <termGrp>
+                            <term>摘要</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c827">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>summarize</term>
+                            <termNote type="partOfSpeech">verb</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">To generate a concise summary of the current web page or tabs with AI.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="zh-TW">
+                    <ntig>
+                        <termGrp>
+                            <term>摘要</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c791">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>sync</term>
+                            <termNote type="partOfSpeech">verb</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">To keep browser data consistent across devices.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="zh-TW">
+                    <ntig>
+                        <termGrp>
+                            <term>同步</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c792">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>sync</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">Feature that keeps browser data consistent across devices.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="zh-TW">
+                    <ntig>
+                        <termGrp>
+                            <term>Sync</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c786">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>tab</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">A browser tab containing a web page or browser surface.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="zh-TW">
+                    <ntig>
+                        <termGrp>
+                            <term>分頁</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c808">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>tab group</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">A named or visual collection of browser tabs.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="zh-TW">
+                    <ntig>
+                        <termGrp>
+                            <term>分頁群組</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c863">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>text message</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">A message sent to a telephone number using a mobile messaging service.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="zh-TW">
+                    <ntig>
+                        <termGrp>
+                            <term>簡訊</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c877">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>Touch ID</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">Apple's fingerprint authentication feature.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="zh-TW">
+                    <ntig>
+                        <termGrp>
+                            <term>Touch ID</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c800">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>tracking protection</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">Browser protection that blocks or restricts online tracking technologies.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="zh-TW">
+                    <ntig>
+                        <termGrp>
+                            <term>追蹤保護</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c802">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>two-step authentication</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">Account authentication that requires a second verification step.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="zh-TW">
+                    <ntig>
+                        <termGrp>
+                            <term>兩階段驗證</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c795">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>URL</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">The address of a resource on the web.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="zh-TW">
+                    <ntig>
+                        <termGrp>
+                            <term>網址</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c871">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>voice search</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">A search initiated using spoken input.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="zh-TW">
+                    <ntig>
+                        <termGrp>
+                            <term>語音搜尋</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c880">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>widget</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">A small user-interface component that displays in the New Tab page that provides a certain useful functionality for the user such as a timer, checklist, clock with timezones, etc.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="zh-TW">
+                    <ntig>
+                        <termGrp>
+                            <term>小工具</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c825">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>Wi-Fi</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">A wireless local network or connection to one.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="zh-TW">
+                    <ntig>
+                        <termGrp>
+                            <term>Wi-Fi</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c857">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>AI model</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">A machine-learning model used to provide an AI feature.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="zh-TW">
+                    <ntig>
+                        <termGrp>
+                            <term>AI 模型</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c860">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>authorization code</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">A temporary code used to authorize an operation or exchange.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="zh-TW">
+                    <ntig>
+                        <termGrp>
+                            <term>授權碼</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c892">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>darkest</term>
+                            <termNote type="partOfSpeech">adjective</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">Theme or display mode that uses light text and icons set against a very dark colored background typically designed for OLED screens.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="zh-TW">
+                    <ntig>
+                        <termGrp>
+                            <term>最暗</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c874">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>data saving mode</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">A mode designed to reduce network data usage.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="zh-TW">
+                    <ntig>
+                        <termGrp>
+                            <term>流量節省模式</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c875">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>device passcode</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">A numeric or alphanumeric code used to unlock a device.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="zh-TW">
+                    <ntig>
+                        <termGrp>
+                            <term>裝置解鎖碼</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c837">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>split view</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">A layout showing two pieces of content side by side.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="zh-TW">
+                    <ntig>
+                        <termGrp>
+                            <term>分割畫面</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c794">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>subscription</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">An arrangement providing ongoing access to a service, usually for recurring payment.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="zh-TW">
+                    <ntig>
+                        <termGrp>
+                            <term>訂閱</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c856">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>AI enhancement</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">An optional product capability powered or enhanced by AI.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="zh-TW">
+                    <ntig>
+                        <termGrp>
+                            <term>AI 強化功能</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c864">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>billing cycle</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">The recurring period between subscription charges.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="zh-TW">
+                    <ntig>
+                        <termGrp>
+                            <term>帳務週期</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c821">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>browsing data</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">Stored browser information such as history, cookies, cache, and site data.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="zh-TW">
+                    <ntig>
+                        <termGrp>
+                            <term>瀏覽資料</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c811">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>browsing history</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">The record of pages a user has visited in the browser.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="zh-TW">
+                    <ntig>
+                        <termGrp>
+                            <term>瀏覽紀錄</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c835">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>character encoding</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">A mapping used to represent text characters as bytes.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="zh-TW">
+                    <ntig>
+                        <termGrp>
+                            <term>字元編碼</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c865">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>connected service</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">An external or Mozilla service linked to an account.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="zh-TW">
+                    <ntig>
+                        <termGrp>
+                            <term>連結的服務</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c803">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>crash report</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">Diagnostic information submitted after a product crash.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="zh-TW">
+                    <ntig>
+                        <termGrp>
+                            <term>錯誤資訊報表</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c840">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>cross-origin request</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">A web request whose target has a different origin from the initiating document.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="zh-TW">
+                    <ntig>
+                        <termGrp>
+                            <term>跨來源請求</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c854">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>download history</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">A record of files previously downloaded by the browser.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="zh-TW">
+                    <ntig>
+                        <termGrp>
+                            <term>下載紀錄</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c813">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>free trial</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">A limited period during which a paid service can be used without charge.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="zh-TW">
+                    <ntig>
+                        <termGrp>
+                            <term>免費試用</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c842">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>invoice</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">A document showing charges for a product or service.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="zh-TW">
+                    <ntig>
+                        <termGrp>
+                            <term>請款單</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c817">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>saved password</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">A password stored by the browser or account service.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="zh-TW">
+                    <ntig>
+                        <termGrp>
+                            <term>已儲存的密碼</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c870">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>screen lock</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">An operating-system mechanism that locks access to the screen or device.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="zh-TW">
+                    <ntig>
+                        <termGrp>
+                            <term>畫面鎖定</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c836">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>secondary email</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">An additional email address associated with an account.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="zh-TW">
+                    <ntig>
+                        <termGrp>
+                            <term>次要電子郵件地址</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c826">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>secure connection</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">A network connection protected against interception or tampering.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="zh-TW">
+                    <ntig>
+                        <termGrp>
+                            <term>安全連線</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c855">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>secure DNS</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">DNS resolution protected with encryption, such as DNS over HTTPS.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="zh-TW">
+                    <ntig>
+                        <termGrp>
+                            <term>安全 DNS</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c830">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>synced device</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">A device connected through browser synchronization.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="zh-TW">
+                    <ntig>
+                        <termGrp>
+                            <term>已同步的裝置</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c829">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>synced tab</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">A tab made available from another synchronized device.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="zh-TW">
+                    <ntig>
+                        <termGrp>
+                            <term>已同步的分頁</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c812">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>wallpaper</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">A decorative background image used in the browser interface.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="zh-TW">
+                    <ntig>
+                        <termGrp>
+                            <term>背景圖</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c797">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>new tab</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">A newly opened browser tab or the surface shown in it.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="zh-TW">
+                    <ntig>
+                        <termGrp>
+                            <term>新分頁</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c861">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>night mode</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">A reading or display mode intended for low-light conditions.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="zh-TW">
+                    <ntig>
+                        <termGrp>
+                            <term>夜間模式</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c787">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>password</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">A secret string used to authenticate a user.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="zh-TW">
+                    <ntig>
+                        <termGrp>
+                            <term>密碼</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c850">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>password reset</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">The process of replacing a forgotten or compromised password.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="zh-TW">
+                    <ntig>
+                        <termGrp>
+                            <term>密碼重設</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c796">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>payment method</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">A means of paying for a product or subscription.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="zh-TW">
+                    <ntig>
+                        <termGrp>
+                            <term>付款方式</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c839">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>phone number</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">A telephone number associated with a user or account.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="zh-TW">
+                    <ntig>
+                        <termGrp>
+                            <term>電話號碼</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c868">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>postal code</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">A code identifying a postal delivery area.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="zh-TW">
+                    <ntig>
+                        <termGrp>
+                            <term>郵遞區號</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c851">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>primary email</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">The main email address associated with an account.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="zh-TW">
+                    <ntig>
+                        <termGrp>
+                            <term>主要電子郵件地址</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c819">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>primary password</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">The Firefox password that protects locally stored logins.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="zh-TW">
+                    <ntig>
+                        <termGrp>
+                            <term>主控密碼</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c798">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>private browsing</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">A browsing mode that limits local retention of browsing information.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="zh-TW">
+                    <ntig>
+                        <termGrp>
+                            <term>隱私瀏覽模式</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c845">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>private key</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">The secret key in an asymmetric cryptographic key pair.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="zh-TW">
+                    <ntig>
+                        <termGrp>
+                            <term>私鑰</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c805">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>private tab</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">A tab opened in private browsing mode.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="zh-TW">
+                    <ntig>
+                        <termGrp>
+                            <term>隱私分頁</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c809">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>private window</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">A browser window opened in private browsing mode.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="zh-TW">
+                    <ntig>
+                        <termGrp>
+                            <term>隱私視窗</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c869">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>profile picture</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">An image representing a user profile.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="zh-TW">
+                    <ntig>
+                        <termGrp>
+                            <term>個人資料大頭照</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c852">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>proxy server</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">An intermediary server through which network requests are routed.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="zh-TW">
+                    <ntig>
+                        <termGrp>
+                            <term>代理伺服器</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c843">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>public key</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">The non-secret key in an asymmetric cryptographic key pair.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="zh-TW">
+                    <ntig>
+                        <termGrp>
+                            <term>公鑰</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c806">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>QR code</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">A two-dimensional code scanned by a camera.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="zh-TW">
+                    <ntig>
+                        <termGrp>
+                            <term>QR Code</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c824">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>reader view</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">A simplified page view optimized for reading.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="zh-TW">
+                    <ntig>
+                        <termGrp>
+                            <term>閱讀畫面</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c834">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>reading list</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">A saved collection of pages intended for later reading.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="zh-TW">
+                    <ntig>
+                        <termGrp>
+                            <term>閱讀清單</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c862">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>recovery method</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">A method used to regain access to an account.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="zh-TW">
+                    <ntig>
+                        <termGrp>
+                            <term>救援方式</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c801">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>recovery phone</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">A phone number used to recover access to an account.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="zh-TW">
+                    <ntig>
+                        <termGrp>
+                            <term>救援電話號碼</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c838">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>MIME type</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">A media type identifying the format of content transferred on the internet.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="zh-TW">
+                    <ntig>
+                        <termGrp>
+                            <term>MIME 類型</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c878">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>mask</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">Short for "email mask" or "phone mask". Firefox Relay feature. Email masks and phone masks are masked, or private, email addresses / phone numbers that forward messages to your true email address / phone number. These masks allow you to share these with third parties which will mask your true ones.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="zh-TW">
+                    <ntig>
+                        <termGrp>
+                            <term>轉寄信箱；轉接門號</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c879">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>mask</term>
+                            <termNote type="partOfSpeech">verb</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">To conceal, obscure, or limit the visibility of personal information like email addresses or phone numbers through the use of an email mask or phone mask.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="zh-TW">
+                    <ntig>
+                        <termGrp>
+                            <term>轉寄；轉接</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
         </body>
     </text>
 </martif>

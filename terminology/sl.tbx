@@ -2166,6 +2166,699 @@ See this page for more information: https://bit.ly/l10n-guidance-firefoxview</de
                     </ntig>
                 </langSet>
             </termEntry>
+            <termEntry id="c678">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>Mini Window</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">Firefox feature that lets users pop any tab or a fragment of a tab into a small, always-on-top window over their main browser window.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="sl">
+                    <ntig>
+                        <termGrp>
+                            <term>Mini okno</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c677">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>resource monitor</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">Resource Monitor is a Firefox sidebar panel that shows per-tab memory and CPU usage for all open tabs in the current window, with tab suspend and close actions. It is positioned as a user-facing counterpart to about:processes, using the same underlying data source.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="sl">
+                    <ntig>
+                        <termGrp>
+                            <term>nadzornik sredstev</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c789">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>account</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">A user's identity and associated data or services.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="sl">
+                    <ntig>
+                        <termGrp>
+                            <term>račun</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c844">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>account settings</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">Configurable options for a user's account.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="sl">
+                    <ntig>
+                        <termGrp>
+                            <term>nastavitve računa</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c815">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>address bar</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">The browser field used for URLs, searches, and navigation.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="sl">
+                    <ntig>
+                        <termGrp>
+                            <term>naslovna vrstica</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c853">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>app icon</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">The icon representing an application.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="sl">
+                    <ntig>
+                        <termGrp>
+                            <term>ikona aplikacije</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c793">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>cookie</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">A small piece of data stored by a website in the browser.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="sl">
+                    <ntig>
+                        <termGrp>
+                            <term>piškotek</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c807">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>default browser</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">The browser the operating system opens by default.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="sl">
+                    <ntig>
+                        <termGrp>
+                            <term>privzeti brskalnik</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c823">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>default search engine</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">The search engine used when no other engine is selected.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="sl">
+                    <ntig>
+                        <termGrp>
+                            <term>privzeti iskalnik</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c833">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>developer tools</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">Browser tools for inspecting, debugging, and developing web content.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="sl">
+                    <ntig>
+                        <termGrp>
+                            <term>razvojna orodja</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c788">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>device</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">A computer, phone, tablet, or other endpoint associated with the user.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="sl">
+                    <ntig>
+                        <termGrp>
+                            <term>naprava</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c885">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>history</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">The browser record of pages visited and related browsing activity.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="sl">
+                    <ntig>
+                        <termGrp>
+                            <term>zgodovina</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c889">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>homepage</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">The page displayed at browser startup or when the user selects the Home button. In some browsers that can be set to Firefox Home, a blank page, or a custom URL.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="sl">
+                    <ntig>
+                        <termGrp>
+                            <term>domača stran</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c847">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>home screen</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">The primary screen of a mobile operating system or app.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="sl">
+                    <ntig>
+                        <termGrp>
+                            <term>domači zaslon</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c849">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>inactive tab</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">A tab not used for a defined period or not currently active.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="sl">
+                    <ntig>
+                        <termGrp>
+                            <term>nedejaven zavihek</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c797">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>new tab</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">A newly opened browser tab or the surface shown in it.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="sl">
+                    <ntig>
+                        <termGrp>
+                            <term>nov zavihek</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c787">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>password</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">A secret string used to authenticate a user.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="sl">
+                    <ntig>
+                        <termGrp>
+                            <term>geslo</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c850">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>password reset</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">The process of replacing a forgotten or compromised password.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="sl">
+                    <ntig>
+                        <termGrp>
+                            <term>ponastavitev gesla</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c796">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>payment method</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">A means of paying for a product or subscription.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="sl">
+                    <ntig>
+                        <termGrp>
+                            <term>plačilno sredstvo</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c839">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>phone number</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">A telephone number associated with a user or account.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="sl">
+                    <ntig>
+                        <termGrp>
+                            <term>telefonska številka</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c868">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>postal code</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">A code identifying a postal delivery area.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="sl">
+                    <ntig>
+                        <termGrp>
+                            <term>poštna številka</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c819">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>primary password</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">The Firefox password that protects locally stored logins.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="sl">
+                    <ntig>
+                        <termGrp>
+                            <term>glavno geslo</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c798">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>private browsing</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">A browsing mode that limits local retention of browsing information.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="sl">
+                    <ntig>
+                        <termGrp>
+                            <term>zasebno brskanje</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c790">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>settings</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">User-configurable product options.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="sl">
+                    <ntig>
+                        <termGrp>
+                            <term>nastavitve</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c794">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>subscription</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">An arrangement providing ongoing access to a service, usually for recurring payment.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="sl">
+                    <ntig>
+                        <termGrp>
+                            <term>naročnina</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c791">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>sync</term>
+                            <termNote type="partOfSpeech">verb</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">To keep browser data consistent across devices.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="sl">
+                    <ntig>
+                        <termGrp>
+                            <term>sinhronizirati</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c792">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>sync</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">Feature that keeps browser data consistent across devices.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="sl">
+                    <ntig>
+                        <termGrp>
+                            <term>sinhronizacija</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c830">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>synced device</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">A device connected through browser synchronization.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="sl">
+                    <ntig>
+                        <termGrp>
+                            <term>sinhronizirana naprava</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c829">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>synced tab</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">A tab made available from another synchronized device.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="sl">
+                    <ntig>
+                        <termGrp>
+                            <term>sinhroniziran zavihek</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c786">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>tab</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">A browser tab containing a web page or browser surface.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="sl">
+                    <ntig>
+                        <termGrp>
+                            <term>zavihek</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c808">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>tab group</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">A named or visual collection of browser tabs.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="sl">
+                    <ntig>
+                        <termGrp>
+                            <term>skupina zavihkov</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c812">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>wallpaper</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">A decorative background image used in the browser interface.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="sl">
+                    <ntig>
+                        <termGrp>
+                            <term>ozadje</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c825">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>Wi-Fi</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">A wireless local network or connection to one.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="sl">
+                    <ntig>
+                        <termGrp>
+                            <term>Wi-Fi</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
         </body>
     </text>
 </martif>

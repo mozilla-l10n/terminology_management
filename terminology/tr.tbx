@@ -2229,6 +2229,2169 @@ A code used to recover a user's encrypted account information (such as bookmarks
                     </ntig>
                 </langSet>
             </termEntry>
+            <termEntry id="c789">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>account</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">A user's identity and associated data or services.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="tr">
+                    <ntig>
+                        <termGrp>
+                            <term>hesap</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c844">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>account settings</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">Configurable options for a user's account.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="tr">
+                    <ntig>
+                        <termGrp>
+                            <term>hesap ayarları</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c815">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>address bar</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">The browser field used for URLs, searches, and navigation.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="tr">
+                    <ntig>
+                        <termGrp>
+                            <term>adres çubuğu</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c831">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>AI chatbot</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">A conversational assistant powered by artificial intelligence.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="tr">
+                    <ntig>
+                        <termGrp>
+                            <term>yapay zekâ sohbet botu</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c857">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>AI model</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">A machine-learning model used to provide an AI feature.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="tr">
+                    <ntig>
+                        <termGrp>
+                            <term>yapay zekâ modeli</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c853">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>app icon</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">The icon representing an application.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="tr">
+                    <ntig>
+                        <termGrp>
+                            <term>uygulama simgesi</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c832">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>authenticator app</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">An app that generates time-based authentication codes.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="tr">
+                    <ntig>
+                        <termGrp>
+                            <term>kimlik doğrulama uygulaması</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c882">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>autofill</term>
+                            <termNote type="partOfSpeech">verb</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">To fill a form or form field automatically using saved information.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="tr">
+                    <ntig>
+                        <termGrp>
+                            <term>otomatik doldur</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c804">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>autofill</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">Automatic completion of form fields using saved information.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="tr">
+                    <ntig>
+                        <termGrp>
+                            <term>otomatik doldurma</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c821">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>browsing data</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">Stored browser information such as history, cookies, cache, and site data.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="tr">
+                    <ntig>
+                        <termGrp>
+                            <term>gezinti verileri</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c811">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>browsing history</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">The record of pages a user has visited in the browser.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="tr">
+                    <ntig>
+                        <termGrp>
+                            <term>gezinti geçmişi</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c835">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>character encoding</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">A mapping used to represent text characters as bytes.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="tr">
+                    <ntig>
+                        <termGrp>
+                            <term>karakter kodlaması</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c865">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>connected service</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">An external or Mozilla service linked to an account.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="tr">
+                    <ntig>
+                        <termGrp>
+                            <term>bağlı hizmet</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c793">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>cookie</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">A small piece of data stored by a website in the browser.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="tr">
+                    <ntig>
+                        <termGrp>
+                            <term>çerez</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c883">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>crash</term>
+                            <termNote type="partOfSpeech">verb</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">To stop functioning unexpectedly because of a software error.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="tr">
+                    <ntig>
+                        <termGrp>
+                            <term>çökme</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c803">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>crash report</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">Diagnostic information submitted after a product crash.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="tr">
+                    <ntig>
+                        <termGrp>
+                            <term>çökme raporu</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c816">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>credit card</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">A payment card used for purchases or subscriptions.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="tr">
+                    <ntig>
+                        <termGrp>
+                            <term>kredi kartı</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c840">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>cross-origin request</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">A web request whose target has a different origin from the initiating document.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="tr">
+                    <ntig>
+                        <termGrp>
+                            <term>çapraz köken isteği</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c891">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>dark</term>
+                            <termNote type="partOfSpeech">adjective</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">Theme or display mode that uses light text and icons set against a dark colored background.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="tr">
+                    <ntig>
+                        <termGrp>
+                            <term>koyu</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c858">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>desktop site</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">The desktop-oriented version of a website requested on a mobile device.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="tr">
+                    <ntig>
+                        <termGrp>
+                            <term>masaüstü sitesi</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c892">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>darkest</term>
+                            <termNote type="partOfSpeech">adjective</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">Theme or display mode that uses light text and icons set against a very dark colored background typically designed for OLED screens.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="tr">
+                    <ntig>
+                        <termGrp>
+                            <term>en koyu</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c872">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>dark mode</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">Display mode that uses light text and icons set against a dark colored background.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="tr">
+                    <ntig>
+                        <termGrp>
+                            <term>koyu mod</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c820">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>data collection</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">The collection of product, usage, technical, or personal data.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="tr">
+                    <ntig>
+                        <termGrp>
+                            <term>veri toplama</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c874">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>data saving mode</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">A mode designed to reduce network data usage.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="tr">
+                    <ntig>
+                        <termGrp>
+                            <term>veri tasarrufu modu</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c807">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>default browser</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">The browser the operating system opens by default.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="tr">
+                    <ntig>
+                        <termGrp>
+                            <term>varsayılan tarayıcı</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c823">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>default search engine</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">The search engine used when no other engine is selected.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="tr">
+                    <ntig>
+                        <termGrp>
+                            <term>varsayılan arama motoru</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c833">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>developer tools</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">Browser tools for inspecting, debugging, and developing web content.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="tr">
+                    <ntig>
+                        <termGrp>
+                            <term>geliştirici araçları</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c788">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>device</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">A computer, phone, tablet, or other endpoint associated with the user.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="tr">
+                    <ntig>
+                        <termGrp>
+                            <term>cihaz</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c875">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>device passcode</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">A numeric or alphanumeric code used to unlock a device.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="tr">
+                    <ntig>
+                        <termGrp>
+                            <term>cihaz parolası</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c867">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>display name</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">The name shown to other users or in product UI.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="tr">
+                    <ntig>
+                        <termGrp>
+                            <term>görünen ad</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c854">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>download history</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">A record of files previously downloaded by the browser.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="tr">
+                    <ntig>
+                        <termGrp>
+                            <term>indirme geçmişi</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c818">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>email address</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">An address used to send and receive email.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="tr">
+                    <ntig>
+                        <termGrp>
+                            <term>e-posta adresi</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c881">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>form autofill</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">A browser feature that automatically fills form fields such as address or payment information with saved information.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="tr">
+                    <ntig>
+                        <termGrp>
+                            <term>otomatik form doldurma</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c813">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>free trial</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">A limited period during which a paid service can be used without charge.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="tr">
+                    <ntig>
+                        <termGrp>
+                            <term>ücretsiz deneme</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c841">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>full screen</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">A display mode in which content fills the screen.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="tr">
+                    <ntig>
+                        <termGrp>
+                            <term>tam ekran</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c885">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>history</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">The browser record of pages visited and related browsing activity.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="tr">
+                    <ntig>
+                        <termGrp>
+                            <term>geçmiş</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c888">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>Home</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">The button or navigation item that directs to a user's homepage - the primary or starting destination in a browser or application.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="tr">
+                    <ntig>
+                        <termGrp>
+                            <term>Başlangıç</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c849">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>inactive tab</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">A tab not used for a defined period or not currently active.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="tr">
+                    <ntig>
+                        <termGrp>
+                            <term>pasif sekme</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c822">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>interaction data</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">Data describing how a user interacts with a product or feature.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="tr">
+                    <ntig>
+                        <termGrp>
+                            <term>etkileşim verileri</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c828">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>internet connection</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">A device's connection to the internet.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="tr">
+                    <ntig>
+                        <termGrp>
+                            <term>internet bağlantısı</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c842">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>invoice</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">A document showing charges for a product or service.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="tr">
+                    <ntig>
+                        <termGrp>
+                            <term>fatura</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c890">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>light</term>
+                            <termNote type="partOfSpeech">adjective</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">Theme or display mode that uses dark text and icons set against a light colored background.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="tr">
+                    <ntig>
+                        <termGrp>
+                            <term>açık</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c873">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>light mode</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">Display mode that uses dark text and icons set against a light colored background.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="tr">
+                    <ntig>
+                        <termGrp>
+                            <term>açık mod</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c878">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>mask</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">Short for "email mask" or "phone mask". Firefox Relay feature. Email masks and phone masks are masked, or private, email addresses / phone numbers that forward messages to your true email address / phone number. These masks allow you to share these with third parties which will mask your true ones.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="tr">
+                    <ntig>
+                        <termGrp>
+                            <term>maske</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c879">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>mask</term>
+                            <termNote type="partOfSpeech">verb</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">To conceal, obscure, or limit the visibility of personal information like email addresses or phone numbers through the use of an email mask or phone mask.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="tr">
+                    <ntig>
+                        <termGrp>
+                            <term>maskeleme</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c794">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>subscription</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">An arrangement providing ongoing access to a service, usually for recurring payment.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="tr">
+                    <ntig>
+                        <termGrp>
+                            <term>abonelik</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c887">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>summaries</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">Plural. Generated summaries of webpage content created by Firefox's Shake to Summarize feature.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="tr">
+                    <ntig>
+                        <termGrp>
+                            <term>özetler</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c827">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>summarize</term>
+                            <termNote type="partOfSpeech">verb</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">To generate a concise summary of the current web page or tabs with AI.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="tr">
+                    <ntig>
+                        <termGrp>
+                            <term>özetleme</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c886">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>summary</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">Summary of a webpage's key takeaways generated by Firefox's Shake to Summarize feature.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="tr">
+                    <ntig>
+                        <termGrp>
+                            <term>özet</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c791">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>sync</term>
+                            <termNote type="partOfSpeech">verb</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">To keep browser data consistent across devices.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="tr">
+                    <ntig>
+                        <termGrp>
+                            <term>eşitleme</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c792">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>sync</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">Feature that keeps browser data consistent across devices.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="tr">
+                    <ntig>
+                        <termGrp>
+                            <term>eşitleme</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c830">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>synced device</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">A device connected through browser synchronization.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="tr">
+                    <ntig>
+                        <termGrp>
+                            <term>eşitlenen cihaz</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c829">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>synced tab</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">A tab made available from another synchronized device.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="tr">
+                    <ntig>
+                        <termGrp>
+                            <term>eşitlenmiş sekme</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c786">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>tab</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">A browser tab containing a web page or browser surface.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="tr">
+                    <ntig>
+                        <termGrp>
+                            <term>sekme</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c808">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>tab group</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">A named or visual collection of browser tabs.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="tr">
+                    <ntig>
+                        <termGrp>
+                            <term>sekme grubu</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c863">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>text message</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">A message sent to a telephone number using a mobile messaging service.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="tr">
+                    <ntig>
+                        <termGrp>
+                            <term>kısa mesaj</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c800">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>tracking protection</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">Browser protection that blocks or restricts online tracking technologies.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="tr">
+                    <ntig>
+                        <termGrp>
+                            <term>izlenme koruması</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c802">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>two-step authentication</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">Account authentication that requires a second verification step.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="tr">
+                    <ntig>
+                        <termGrp>
+                            <term>iki aşamalı kimlik doğrulama</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c795">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>URL</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">The address of a resource on the web.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="tr">
+                    <ntig>
+                        <termGrp>
+                            <term>URL</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c871">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>voice search</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">A search initiated using spoken input.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="tr">
+                    <ntig>
+                        <termGrp>
+                            <term>sesle arama</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c812">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>wallpaper</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">A decorative background image used in the browser interface.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="tr">
+                    <ntig>
+                        <termGrp>
+                            <term>duvar kâğıdı</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c880">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>widget</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">A small user-interface component that displays in the New Tab page that provides a certain useful functionality for the user such as a timer, checklist, clock with timezones, etc.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="tr">
+                    <ntig>
+                        <termGrp>
+                            <term>araç</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c825">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>Wi-Fi</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">A wireless local network or connection to one.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="tr">
+                    <ntig>
+                        <termGrp>
+                            <term>kablosuz ağ</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c866">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>account activity</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">Recorded events or actions associated with an account.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="tr">
+                    <ntig>
+                        <termGrp>
+                            <term>hesap hareketleri</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c860">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>authorization code</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">A temporary code used to authorize an operation or exchange.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="tr">
+                    <ntig>
+                        <termGrp>
+                            <term>kimlik doğrulama kodu</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c847">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>home screen</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">The primary screen of a mobile operating system or app.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="tr">
+                    <ntig>
+                        <termGrp>
+                            <term>ana ekran</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c838">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>MIME type</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">A media type identifying the format of content transferred on the internet.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="tr">
+                    <ntig>
+                        <termGrp>
+                            <term>MIME türü</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c797">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>new tab</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">A newly opened browser tab or the surface shown in it.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="tr">
+                    <ntig>
+                        <termGrp>
+                            <term>yeni sekme</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c861">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>night mode</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">A reading or display mode intended for low-light conditions.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="tr">
+                    <ntig>
+                        <termGrp>
+                            <term>gece modu</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c787">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>password</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">A secret string used to authenticate a user.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="tr">
+                    <ntig>
+                        <termGrp>
+                            <term>parola</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c850">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>password reset</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">The process of replacing a forgotten or compromised password.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="tr">
+                    <ntig>
+                        <termGrp>
+                            <term>parola sıfırlama</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c796">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>payment method</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">A means of paying for a product or subscription.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="tr">
+                    <ntig>
+                        <termGrp>
+                            <term>ödeme yöntemi</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c839">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>phone number</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">A telephone number associated with a user or account.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="tr">
+                    <ntig>
+                        <termGrp>
+                            <term>telefon numarası</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c868">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>postal code</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">A code identifying a postal delivery area.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="tr">
+                    <ntig>
+                        <termGrp>
+                            <term>posta kodu</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c819">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>primary password</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">The Firefox password that protects locally stored logins.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="tr">
+                    <ntig>
+                        <termGrp>
+                            <term>ana parola</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c798">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>private browsing</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">A browsing mode that limits local retention of browsing information.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="tr">
+                    <ntig>
+                        <termGrp>
+                            <term>gizli gezinti</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c805">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>private tab</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">A tab opened in private browsing mode.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="tr">
+                    <ntig>
+                        <termGrp>
+                            <term>gizli sekme</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c809">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>private window</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">A browser window opened in private browsing mode.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="tr">
+                    <ntig>
+                        <termGrp>
+                            <term>gizli pencere</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c869">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>profile picture</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">An image representing a user profile.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="tr">
+                    <ntig>
+                        <termGrp>
+                            <term>profil resmi</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c852">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>proxy server</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">An intermediary server through which network requests are routed.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="tr">
+                    <ntig>
+                        <termGrp>
+                            <term>vekil sunucu</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c843">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>public key</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">The non-secret key in an asymmetric cryptographic key pair.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="tr">
+                    <ntig>
+                        <termGrp>
+                            <term>ortak anahtar</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c806">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>QR code</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">A two-dimensional code scanned by a camera.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="tr">
+                    <ntig>
+                        <termGrp>
+                            <term>QR kodu</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c824">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>reader view</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">A simplified page view optimized for reading.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="tr">
+                    <ntig>
+                        <termGrp>
+                            <term>okuyucu görünümü</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c834">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>reading list</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">A saved collection of pages intended for later reading.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="tr">
+                    <ntig>
+                        <termGrp>
+                            <term>okuma listesi</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c862">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>recovery method</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">A method used to regain access to an account.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="tr">
+                    <ntig>
+                        <termGrp>
+                            <term>kurtarma yöntemi</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c801">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>recovery phone</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">A phone number used to recover access to an account.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="tr">
+                    <ntig>
+                        <termGrp>
+                            <term>kurtarma telefonu</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c817">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>saved password</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">A password stored by the browser or account service.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="tr">
+                    <ntig>
+                        <termGrp>
+                            <term>kayıtlı parola</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c870">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>screen lock</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">An operating-system mechanism that locks access to the screen or device.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="tr">
+                    <ntig>
+                        <termGrp>
+                            <term>ekran kilidi</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c799">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>search engine</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">A service used by the browser to search the web.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="tr">
+                    <ntig>
+                        <termGrp>
+                            <term>arama motoru</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c848">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>search history</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">A record of searches previously performed by the user.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="tr">
+                    <ntig>
+                        <termGrp>
+                            <term>arama geçmişi</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c826">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>secure connection</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">A network connection protected against interception or tampering.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="tr">
+                    <ntig>
+                        <termGrp>
+                            <term>güvenli bağlantı</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c855">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>secure DNS</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">DNS resolution protected with encryption, such as DNS over HTTPS.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="tr">
+                    <ntig>
+                        <termGrp>
+                            <term>güvenli DNS</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c790">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>settings</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">User-configurable product options.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="tr">
+                    <ntig>
+                        <termGrp>
+                            <term>ayarlar</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c810">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>site data</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">Plural (when referring to multiple websites). Information that websites store in Firefox locally to remember your preferences such as cookies and local storage.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="tr">
+                    <ntig>
+                        <termGrp>
+                            <term>site verileri</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c884">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>site data</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">Singular (when referring to one website). Information that a website stores in Firefox locally to remember your preferences such as cookies and local storage.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="tr">
+                    <ntig>
+                        <termGrp>
+                            <term>site verisi</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c837">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>split view</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">A layout showing two pieces of content side by side.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="tr">
+                    <ntig>
+                        <termGrp>
+                            <term>ayrık görünüm</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c814">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>service worker</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">A web worker that can intercept requests and support offline or background behavior.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="tr">
+                    <ntig>
+                        <termGrp>
+                            <term>service worker</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c846">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>storage</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">The capacity or system used to save and retain data in a browser, on a device, or in the cloud.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="tr">
+                    <ntig>
+                        <termGrp>
+                            <term>depolama</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c859">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>root certificate</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">A trusted certificate at the root of a certificate chain.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="tr">
+                    <ntig>
+                        <termGrp>
+                            <term>kök sertifikası</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c889">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>homepage</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">The page displayed at browser startup or when the user selects the Home button. In some browsers that can be set to Firefox Home, a blank page, or a custom URL.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="tr">
+                    <ntig>
+                        <termGrp>
+                            <term>giriş sayfası</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c845">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>private key</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">The secret key in an asymmetric cryptographic key pair.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="tr">
+                    <ntig>
+                        <termGrp>
+                            <term>özel anahtar</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c876">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>Face ID</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">Apple's facial authentication feature.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="tr">
+                    <ntig>
+                        <termGrp>
+                            <term>Face ID</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c877">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>Touch ID</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">Apple's fingerprint authentication feature.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="tr">
+                    <ntig>
+                        <termGrp>
+                            <term>Touch ID</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
         </body>
     </text>
 </martif>

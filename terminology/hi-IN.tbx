@@ -32,7 +32,7 @@
                 <langSet xml:lang="hi-IN">
                     <ntig>
                         <termGrp>
-                            <term>संस्करण</term>
+                            <term>वर्ज़न</term>
                         </termGrp>
                     </ntig>
                 </langSet>
@@ -116,7 +116,7 @@
                 <langSet xml:lang="hi-IN">
                     <ntig>
                         <termGrp>
-                            <term>बुकमार्क</term>
+                            <term>बुकमार्क करें</term>
                         </termGrp>
                     </ntig>
                 </langSet>
@@ -221,7 +221,7 @@
                 <langSet xml:lang="hi-IN">
                     <ntig>
                         <termGrp>
-                            <term>डिबग</term>
+                            <term>डिबग करें</term>
                         </termGrp>
                     </ntig>
                 </langSet>
@@ -242,7 +242,7 @@
                 <langSet xml:lang="hi-IN">
                     <ntig>
                         <termGrp>
-                            <term>सक्षम करें</term>
+                            <term>चालू करें</term>
                         </termGrp>
                     </ntig>
                 </langSet>
@@ -284,7 +284,7 @@
                 <langSet xml:lang="hi-IN">
                     <ntig>
                         <termGrp>
-                            <term>फिंगरप्रिंटर</term>
+                            <term>फ़िंगरप्रिंटर</term>
                         </termGrp>
                     </ntig>
                 </langSet>
@@ -305,7 +305,7 @@
                 <langSet xml:lang="hi-IN">
                     <ntig>
                         <termGrp>
-                            <term>मुख पृष्ठ</term>
+                            <term>होम पेज</term>
                         </termGrp>
                     </ntig>
                 </langSet>
@@ -326,7 +326,7 @@
                 <langSet xml:lang="hi-IN">
                     <ntig>
                         <termGrp>
-                            <term>आयात करें</term>
+                            <term>इंपोर्ट करें</term>
                         </termGrp>
                     </ntig>
                 </langSet>
@@ -368,7 +368,7 @@
                 <langSet xml:lang="hi-IN">
                     <ntig>
                         <termGrp>
-                            <term>वरीयता</term>
+                            <term>पसंद</term>
                         </termGrp>
                     </ntig>
                 </langSet>
@@ -389,7 +389,7 @@
                 <langSet xml:lang="hi-IN">
                     <ntig>
                         <termGrp>
-                            <term>रिपोर्ट करें</term>
+                            <term>रिपोर्ट</term>
                         </termGrp>
                     </ntig>
                 </langSet>
@@ -452,7 +452,7 @@
                 <langSet xml:lang="hi-IN">
                     <ntig>
                         <termGrp>
-                            <term>मान्य करें</term>
+                            <term>सत्यापित करें</term>
                         </termGrp>
                     </ntig>
                 </langSet>
@@ -478,27 +478,6 @@
                     </ntig>
                 </langSet>
             </termEntry>
-            <termEntry id="c613">
-                <descrip type="context">The endpoint you are connecting to needs more information to authenticate this connection.</descrip>
-                <langSet xml:lang="en-US">
-                    <ntig>
-                        <termGrp>
-                            <term>authenticate</term>
-                            <termNote type="partOfSpeech">verb</termNote>
-                        </termGrp>
-                    </ntig>
-                    <descripGrp>
-                        <descrip type="definition">To prove user identity, typically to gain access to a system or service</descrip>
-                    </descripGrp>
-                </langSet>
-                <langSet xml:lang="hi-IN">
-                    <ntig>
-                        <termGrp>
-                            <term>प्रमाणित करें</term>
-                        </termGrp>
-                    </ntig>
-                </langSet>
-            </termEntry>
             <termEntry id="c598">
                 <descrip type="context">Warning: Contains unauthenticated content</descrip>
                 <langSet xml:lang="en-US">
@@ -515,7 +494,7 @@
                 <langSet xml:lang="hi-IN">
                     <ntig>
                         <termGrp>
-                            <term>प्रमाणित किया गया</term>
+                            <term>प्रमाणित</term>
                         </termGrp>
                     </ntig>
                 </langSet>
@@ -536,7 +515,7 @@
                 <langSet xml:lang="hi-IN">
                     <ntig>
                         <termGrp>
-                            <term>प्रमाणपत्र प्राधिकार</term>
+                            <term>सर्टिफ़िकेट अथॉरिटी</term>
                         </termGrp>
                     </ntig>
                 </langSet>
@@ -557,7 +536,7 @@
                 <langSet xml:lang="hi-IN">
                     <ntig>
                         <termGrp>
-                            <term>हस्ताक्षरकर्ता...</term>
+                            <term>हस्ताक्षरकर्ता</term>
                         </termGrp>
                     </ntig>
                 </langSet>
@@ -578,7 +557,7 @@
                 <langSet xml:lang="hi-IN">
                     <ntig>
                         <termGrp>
-                            <term>ऑटोप्‍ले</term>
+                            <term>ऑटोप्ले</term>
                         </termGrp>
                     </ntig>
                 </langSet>
@@ -599,7 +578,7 @@
                 <langSet xml:lang="hi-IN">
                     <ntig>
                         <termGrp>
-                            <term>वैकल्पिक‌ टेक्स्ट</term>
+                            <term>वैकल्पिक टेक्स्ट</term>
                         </termGrp>
                     </ntig>
                 </langSet>
@@ -620,7 +599,7 @@
                 <langSet xml:lang="hi-IN">
                     <ntig>
                         <termGrp>
-                            <term>हमला</term>
+                            <term>हमला करना</term>
                         </termGrp>
                     </ntig>
                 </langSet>
@@ -662,7 +641,7 @@
                 <langSet xml:lang="hi-IN">
                     <ntig>
                         <termGrp>
-                            <term>हमला हेतु साइट</term>
+                            <term>हमला करने वाली साइट</term>
                         </termGrp>
                     </ntig>
                 </langSet>
@@ -683,7 +662,7 @@
                 <langSet xml:lang="hi-IN">
                     <ntig>
                         <termGrp>
-                            <term>विराम बिंदु</term>
+                            <term>ब्रेकपॉइंट</term>
                         </termGrp>
                     </ntig>
                 </langSet>
@@ -709,27 +688,6 @@
                     </ntig>
                 </langSet>
             </termEntry>
-            <termEntry id="c588">
-                <descrip type="context">This add-on could not be installed because it appears to be corrupt.</descrip>
-                <langSet xml:lang="en-US">
-                    <ntig>
-                        <termGrp>
-                            <term>corrupt</term>
-                            <termNote type="partOfSpeech">adjective</termNote>
-                        </termGrp>
-                    </ntig>
-                    <descripGrp>
-                        <descrip type="definition">Containing errors or alterations from its original, correct form</descrip>
-                    </descripGrp>
-                </langSet>
-                <langSet xml:lang="hi-IN">
-                    <ntig>
-                        <termGrp>
-                            <term>त्रुटिपूर्ण</term>
-                        </termGrp>
-                    </ntig>
-                </langSet>
-            </termEntry>
             <termEntry id="c587">
                 <descrip type="context">The response from the OCSP server was corrupted or improperly formed</descrip>
                 <langSet xml:lang="en-US">
@@ -746,7 +704,7 @@
                 <langSet xml:lang="hi-IN">
                     <ntig>
                         <termGrp>
-                            <term>त्रुटि उत्पन हुई</term>
+                            <term>करप्ट होना</term>
                         </termGrp>
                     </ntig>
                 </langSet>
@@ -767,7 +725,7 @@
                 <langSet xml:lang="hi-IN">
                     <ntig>
                         <termGrp>
-                            <term>त्रुटिपूर्ण</term>
+                            <term>करप्ट</term>
                         </termGrp>
                     </ntig>
                 </langSet>
@@ -809,28 +767,7 @@
                 <langSet xml:lang="hi-IN">
                     <ntig>
                         <termGrp>
-                            <term>भ्रामक साइट</term>
-                        </termGrp>
-                    </ntig>
-                </langSet>
-            </termEntry>
-            <termEntry id="c576">
-                <descrip type="context">Media resource could not be decoded</descrip>
-                <langSet xml:lang="en-US">
-                    <ntig>
-                        <termGrp>
-                            <term>decode</term>
-                            <termNote type="partOfSpeech">verb</termNote>
-                        </termGrp>
-                    </ntig>
-                    <descripGrp>
-                        <descrip type="definition">Translating date or information that has been encoded back into its original, comprehensible format.</descrip>
-                    </descripGrp>
-                </langSet>
-                <langSet xml:lang="hi-IN">
-                    <ntig>
-                        <termGrp>
-                            <term>डीकोड</term>
+                            <term>धोखाधड़ी वाली साइट</term>
                         </termGrp>
                     </ntig>
                 </langSet>
@@ -872,7 +809,7 @@
                 <langSet xml:lang="hi-IN">
                     <ntig>
                         <termGrp>
-                            <term>फ़र्जी जानकारी</term>
+                            <term>दुष्प्रचार</term>
                         </termGrp>
                     </ntig>
                 </langSet>
@@ -893,7 +830,7 @@
                 <langSet xml:lang="hi-IN">
                     <ntig>
                         <termGrp>
-                            <term>अविश्वसनीय</term>
+                            <term>भरोसा न करना</term>
                         </termGrp>
                     </ntig>
                 </langSet>
@@ -914,7 +851,7 @@
                 <langSet xml:lang="hi-IN">
                     <ntig>
                         <termGrp>
-                            <term>एंकोड</term>
+                            <term>एन्कोड करें</term>
                         </termGrp>
                     </ntig>
                 </langSet>
@@ -1024,27 +961,6 @@
                     </ntig>
                 </langSet>
             </termEntry>
-            <termEntry id="c467">
-                <descrip type="context">Use market-leading research to deliver powerful grassroots-led campaigns.</descrip>
-                <langSet xml:lang="en-US">
-                    <ntig>
-                        <termGrp>
-                            <term>grassroots</term>
-                            <termNote type="partOfSpeech">adjective</termNote>
-                        </termGrp>
-                    </ntig>
-                    <descripGrp>
-                        <descrip type="definition">A campaign or movement that’s led directly by the people in a community</descrip>
-                    </descripGrp>
-                </langSet>
-                <langSet xml:lang="hi-IN">
-                    <ntig>
-                        <termGrp>
-                            <term>जमीनी स्तर पर</term>
-                        </termGrp>
-                    </ntig>
-                </langSet>
-            </termEntry>
             <termEntry id="c463">
                 <descrip type="context">Explore some of our latest innovations</descrip>
                 <langSet xml:lang="en-US">
@@ -1061,7 +977,7 @@
                 <langSet xml:lang="hi-IN">
                     <ntig>
                         <termGrp>
-                            <term>नवाचार</term>
+                            <term>नई सुविधाएँ</term>
                         </termGrp>
                     </ntig>
                 </langSet>
@@ -1187,7 +1103,7 @@
                 <langSet xml:lang="hi-IN">
                     <ntig>
                         <termGrp>
-                            <term>स्थानीय</term>
+                            <term>नेटिव</term>
                         </termGrp>
                     </ntig>
                 </langSet>
@@ -1250,7 +1166,7 @@
                 <langSet xml:lang="hi-IN">
                     <ntig>
                         <termGrp>
-                            <term>बदलें</term>
+                            <term>ओवरराइड करें</term>
                         </termGrp>
                     </ntig>
                 </langSet>
@@ -1292,7 +1208,7 @@
                 <langSet xml:lang="hi-IN">
                     <ntig>
                         <termGrp>
-                            <term>वापस जाएं</term>
+                            <term>रिवर्ट करें</term>
                         </termGrp>
                     </ntig>
                 </langSet>
@@ -1313,7 +1229,7 @@
                 <langSet xml:lang="hi-IN">
                     <ntig>
                         <termGrp>
-                            <term>सुरक्षा कुंजी</term>
+                            <term>सिक्योरिटी की</term>
                         </termGrp>
                     </ntig>
                 </langSet>
@@ -1481,7 +1397,7 @@
                 <langSet xml:lang="hi-IN">
                     <ntig>
                         <termGrp>
-                            <term>अनएनक्रिप्‍टेड</term>
+                            <term>अन-एन्क्रिप्टेड</term>
                         </termGrp>
                     </ntig>
                 </langSet>
@@ -1502,7 +1418,7 @@
                 <langSet xml:lang="hi-IN">
                     <ntig>
                         <termGrp>
-                            <term>गैर-प्रतिक्रियात्मक</term>
+                            <term>अनरिस्पॉन्सिव</term>
                         </termGrp>
                     </ntig>
                 </langSet>
@@ -1523,7 +1439,7 @@
                 <langSet xml:lang="hi-IN">
                     <ntig>
                         <termGrp>
-                            <term>वेब प्रमाणीकरण</term>
+                            <term>वेब ऑथेंटिकेशन</term>
                         </termGrp>
                     </ntig>
                 </langSet>
@@ -1654,27 +1570,6 @@
                     </ntig>
                 </langSet>
             </termEntry>
-            <termEntry id="c628">
-                <descrip type="context">Sign in to sync tabs, bookmarks, passwords, and more.</descrip>
-                <langSet xml:lang="en-US">
-                    <ntig>
-                        <termGrp>
-                            <term>sign in</term>
-                            <termNote type="partOfSpeech">verb</termNote>
-                        </termGrp>
-                    </ntig>
-                    <descripGrp>
-                        <descrip type="definition">To access an account or software through the usage of account information such as user id and password.</descrip>
-                    </descripGrp>
-                </langSet>
-                <langSet xml:lang="hi-IN">
-                    <ntig>
-                        <termGrp>
-                            <term>साइन इन</term>
-                        </termGrp>
-                    </ntig>
-                </langSet>
-            </termEntry>
             <termEntry id="c629">
                 <descrip type="context">With Firefox on all your devices, you can access bookmarks, tabs and passwords with one easy sign-in.</descrip>
                 <langSet xml:lang="en-US">
@@ -1691,7 +1586,7 @@
                 <langSet xml:lang="hi-IN">
                     <ntig>
                         <termGrp>
-                            <term>साइन इन</term>
+                            <term>साइन-इन</term>
                         </termGrp>
                     </ntig>
                 </langSet>
@@ -1713,6 +1608,602 @@
                     <ntig>
                         <termGrp>
                             <term>सेवा की शर्तें</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c625">
+                <descrip type="context">Your account password was reset with an account recovery key</descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>account recovery key</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">Account recovery key for Firefox Accounts. (Formerly called "recovery key".)
+
+A code used to recover a user's encrypted account information (such as bookmarks and passwords) when their Firefox Account password is reset.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="hi-IN">
+                    <ntig>
+                        <termGrp>
+                            <term>अकाउंट रिकवरी की</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c672">
+                <descrip type="context">Ask questions, compare pages, and get personalized suggestions with a built-in assistant.</descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>assistant</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">The assistant is the Smart Window’s built-in, conversational UI. When users “ask” a question in Smart Window, either from the New Tab or in the sidebar when viewing a page, that’s the assistant experience. The assistant is intentionally not personified, nor separately named.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="hi-IN">
+                    <ntig>
+                        <termGrp>
+                            <term>असिस्टेंट</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c613">
+                <descrip type="context">The endpoint you are connecting to needs more information to authenticate this connection.</descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>authenticate</term>
+                            <termNote type="partOfSpeech">verb</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">To prove user identity, typically to gain access to a system or service</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="hi-IN">
+                    <ntig>
+                        <termGrp>
+                            <term>प्रमाणित करें</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c671">
+                <descrip type="context">New Classic Window</descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>Classic Window</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">Classic refers to the current regular Firefox window. Classic Window is used sparingly, only when multiple window types are mentioned in a shared space.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="hi-IN">
+                    <ntig>
+                        <termGrp>
+                            <term>क्लासिक विंडो</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c623">
+                <descrip type="context">Use this colorway.</descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>colorway</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">Colorways change the look of the browser interface. Colorways are different from traditional themes — they color different parts of the user interface (the main chrome, menus/search dropdown, homepage background, and sidebar).
+
+See this page for more information: https://bit.ly/l10n-guidance-colorways</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="hi-IN">
+                    <ntig>
+                        <termGrp>
+                            <term>कलरवे</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c664">
+                <descrip type="context">Enter confirmation code for your Firefox account</descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>confirmation code</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">Confirmation codes are codes sent to a user's email address to confirm their email address. This takes the form of a 6 digit code sent by email. This confirmation code may be sent when registering a new account, registering a new email to an existing account, or part of the sign-in process.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="hi-IN">
+                    <ntig>
+                        <termGrp>
+                            <term>पुष्टि कोड</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c627">
+                <descrip type="context">Firefox automatically tries to reject cookie requests on cookie banners.</descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>cookie banner</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">A cookie banner is a dialog, typically displayed as a notification bar or overlay dialog, that web sites use to inform users about cookies and, if necessary, obtain consent before storing cookies on their devices.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="hi-IN">
+                    <ntig>
+                        <termGrp>
+                            <term>कुकी बैनर</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c588">
+                <descrip type="context">This add-on could not be installed because it appears to be corrupt.</descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>corrupt</term>
+                            <termNote type="partOfSpeech">adjective</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">Containing errors or alterations from its original, correct form</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="hi-IN">
+                    <ntig>
+                        <termGrp>
+                            <term>करप्ट</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c499">
+                <descrip type="context">Install Nightly and help us improve Firefox quality hunt crashes and regressions</descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>crash</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">Occurs when software stops functioning properly and exits or closes unexpectedly.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="hi-IN">
+                    <ntig>
+                        <termGrp>
+                            <term>क्रैश</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c542">
+                <descrip type="context">These cookies follow you from site to site to gather data about what you do online. They are set by third parties such as advertisers and analytics companies. Blocking cross-site tracking cookies reduces the number of ads that follow you around.</descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>cross-site tracking cookie</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">Cookies are invisible pieces of data that a website can ask your browser to store on your device. Trackers use cross-site tracking cookies to collect information about the websites you visit and send them to other companies, often for advertising purposes. When you feel like an advertisement is following you around while you browse, this is a result of cross-site tracking. If the same tracker is present on multiple sites, it can build a more complete profile about you over time.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="hi-IN">
+                    <ntig>
+                        <termGrp>
+                            <term>क्रॉस-साइट ट्रैकिंग कुकी</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c576">
+                <descrip type="context">Media resource could not be decoded</descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>decode</term>
+                            <termNote type="partOfSpeech">verb</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">Translating date or information that has been encoded back into its original, comprehensible format.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="hi-IN">
+                    <ntig>
+                        <termGrp>
+                            <term>डीकोड करें</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c624">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>Firefox View</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">Firefox View is a new surface within the product that is accessed via a pinned toolbar icon. Its purpose is to help users find or return to things they have found before, presented in a way that’s more visual and accessible than current pathways within the product. 
+
+See this page for more information: https://bit.ly/l10n-guidance-firefoxview</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="hi-IN">
+                    <ntig>
+                        <termGrp>
+                            <term>Firefox व्यू</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c467">
+                <descrip type="context">Use market-leading research to deliver powerful grassroots-led campaigns.</descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>grassroots</term>
+                            <termNote type="partOfSpeech">adjective</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">A campaign or movement that’s led directly by the people in a community</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="hi-IN">
+                    <ntig>
+                        <termGrp>
+                            <term>ज़मीनी स्तर का</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c464">
+                <descrip type="context">Choose the independent browser</descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>independent browser</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">Firefox is the only major independent multi-platform browser not associated with a large tech company such as Google or Apple, or built on the same Chromium code base, such as Google Chrome, Microsoft Edge, or other browsers.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="hi-IN">
+                    <ntig>
+                        <termGrp>
+                            <term>स्वतंत्र ब्राउज़र</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c673">
+                <descrip type="context">Firefox can learn from your activity to create memories. They’re used to help personalize responses and are stored locally on this device.</descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>memories</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">Memories are short summaries of what Firefox learns from a user’s activity. Memories help to personalize a user’s experience in Smart Window and make assistant responses more helpful over time. For example, if a user spends time viewing vegan recipes and vegan restaurants, Firefox might create a memory like “Prefers vegan recipes and cuisine”. Memories will always be personal to a user and are best thought of as a type of personalization feature.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="hi-IN">
+                    <ntig>
+                        <termGrp>
+                            <term>मेमोरीज़</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c678">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>Mini Window</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">Firefox feature that lets users pop any tab or a fragment of a tab into a small, always-on-top window over their main browser window.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="hi-IN">
+                    <ntig>
+                        <termGrp>
+                            <term>मिनी विंडो</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c451">
+                <descrip type="context">A decentralized internet owned by all of us is where net neutrality interoperability competition and local contribution thrive</descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>net neutrality</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">Principle that all communication over the Internet must be treated equally by Internet service providers, preventing the filtering of Internet content.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="hi-IN">
+                    <ntig>
+                        <termGrp>
+                            <term>नेट न्यूट्रैलिटी</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c450">
+                <descrip type="context">Mozilla is proudly nonprofit and answers to no one but you</descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>nonprofit</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">Short for non-profit organization, a legal entity organized and operated for a collective, public or social benefit, in contrast with an entity that operates as a business aiming to generate a profit for its owners.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="hi-IN">
+                    <ntig>
+                        <termGrp>
+                            <term>गैर-लाभकारी संस्था</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c605">
+                <descrip type="context">Download Mozilla Firefox, a free Web browser. Firefox is created by a global non-profit dedicated to putting individuals in control online.</descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>non-profit</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">Short for non-profit organization, a legal entity organized and operated for a collective, public or social benefit, in contrast with an entity that operates as a business aiming to generate a profit for its owners.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="hi-IN">
+                    <ntig>
+                        <termGrp>
+                            <term>गैर-लाभकारी संस्था</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c669">
+                <descrip type="context">Use a passkey</descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>passkey</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">A authentication credential stored on the user's device or a hardware authenticator, allowing authentication to a website without a password</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="hi-IN">
+                    <ntig>
+                        <termGrp>
+                            <term>पासकी</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c668">
+                <descrip type="context">With phone number masking, you can now create a phone number mask that helps you get texts and calls without revealing your true number.</descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>phone number mask</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">Feature of Relay Premium. Similar to an email mask, a phone number mask is a phone number that can forward texts and calls to your true phone number without revealing what your true number is to the person calling or texting you.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="hi-IN">
+                    <ntig>
+                        <termGrp>
+                            <term>फ़ोन नंबर मास्क</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c677">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>resource monitor</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">Resource Monitor is a Firefox sidebar panel that shows per-tab memory and CPU usage for all open tabs in the current window, with tab suspend and close actions. It is positioned as a user-facing counterpart to about:processes, using the same underlying data source.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="hi-IN">
+                    <ntig>
+                        <termGrp>
+                            <term>रिसॉर्स मॉनिटर</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c665">
+                <descrip type="context">Extension Not Allowed on Restricted Sites</descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>restricted site</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">A website, identified by Mozilla, where the execution of unverified add-ons is blocked by default for security reasons.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="hi-IN">
+                    <ntig>
+                        <termGrp>
+                            <term>प्रतिबंधित साइट</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c666">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>Review checker</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">Review checker is a built-in Firefox tool that allows users to check the quality of product reviews on shopping sites like Amazon, Walmart, and Best Buy. The tool itself is powered by Fakespot, a Mozilla company.
+
+Note that this is distinct from "review analyzer", which is the name of the tool analyzing reviews on Fakespot, and providing data to the Review checker. Ideally, these tools should have different translations.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="hi-IN">
+                    <ntig>
+                        <termGrp>
+                            <term>रिव्यू चेकर</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c628">
+                <descrip type="context">Sign in to sync tabs, bookmarks, passwords, and more.</descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>sign in</term>
+                            <termNote type="partOfSpeech">verb</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">To access an account or software through the usage of account information such as user id and password.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="hi-IN">
+                    <ntig>
+                        <termGrp>
+                            <term>साइन इन करें</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c670">
+                <descrip type="context">Open Smart Window when Firefox starts, restarts, or opens links from other apps.</descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>Smart Window</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">Smart Window is a distinct window type in Firefox. Smart Window works like a regular Firefox window, but includes a built-in AI assistant that a user can ask questions, compare pages, and get personalized suggestions from.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="hi-IN">
+                    <ntig>
+                        <termGrp>
+                            <term>स्मार्ट विंडो</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c675">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>tag</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">The reference to a context mention (such as a website or Firefox tab) within a Smart Window, created as a result of tagging using @ mention. This is represented within the UI visually as a chip.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="hi-IN">
+                    <ntig>
+                        <termGrp>
+                            <term>टैग</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c674">
+                <descrip type="context">Tag a tab or site</descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>tag</term>
+                            <termNote type="partOfSpeech">verb</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">The action in Smart Window for inserting a context mention (such as a website or Firefox tab) into a prompt via an @ mention.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="hi-IN">
+                    <ntig>
+                        <termGrp>
+                            <term>टैग करें</term>
                         </termGrp>
                     </ntig>
                 </langSet>
