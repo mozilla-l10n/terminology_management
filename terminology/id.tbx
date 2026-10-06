@@ -746,7 +746,7 @@
                 <langSet xml:lang="id">
                     <ntig>
                         <termGrp>
-                            <term>debug</term>
+                            <term>awakutu</term>
                         </termGrp>
                     </ntig>
                 </langSet>
@@ -998,7 +998,7 @@
                 <langSet xml:lang="id">
                     <ntig>
                         <termGrp>
-                            <term>penyerang</term>
+                            <term>menyerang</term>
                         </termGrp>
                     </ntig>
                 </langSet>
@@ -1187,7 +1187,7 @@
                 <langSet xml:lang="id">
                     <ntig>
                         <termGrp>
-                            <term>Laporan bug</term>
+                            <term>Laporan kutu</term>
                         </termGrp>
                     </ntig>
                 </langSet>
@@ -2035,7 +2035,868 @@ Note that this is distinct from "review analyzer", which is the name of the tool
                 <langSet xml:lang="id">
                     <ntig>
                         <termGrp>
-                            <term>breakpoint</term>
+                            <term>titik henti</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c789">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>account</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">A user's identity and associated data or services.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="id">
+                    <ntig>
+                        <termGrp>
+                            <term>akun</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c866">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>account activity</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">Recorded events or actions associated with an account.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="id">
+                    <ntig>
+                        <termGrp>
+                            <term>aktivitas akun</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c815">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>address bar</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">The browser field used for URLs, searches, and navigation.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="id">
+                    <ntig>
+                        <termGrp>
+                            <term>bilah alamat</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c853">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>app icon</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">The icon representing an application.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="id">
+                    <ntig>
+                        <termGrp>
+                            <term>ikon aplikasi</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c832">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>authenticator app</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">An app that generates time-based authentication codes.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="id">
+                    <ntig>
+                        <termGrp>
+                            <term>aplikasi autentikator</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c860">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>authorization code</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">A temporary code used to authorize an operation or exchange.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="id">
+                    <ntig>
+                        <termGrp>
+                            <term>kode otorisasi</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c864">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>billing cycle</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">The recurring period between subscription charges.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="id">
+                    <ntig>
+                        <termGrp>
+                            <term>siklus tagihan</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c821">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>browsing data</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">Stored browser information such as history, cookies, cache, and site data.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="id">
+                    <ntig>
+                        <termGrp>
+                            <term>data perambanan</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c811">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>browsing history</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">The record of pages a user has visited in the browser.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="id">
+                    <ntig>
+                        <termGrp>
+                            <term>riwayat perambanan</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c835">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>character encoding</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">A mapping used to represent text characters as bytes.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="id">
+                    <ntig>
+                        <termGrp>
+                            <term>pengenkodean karakter</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c671">
+                <descrip type="context">New Classic Window</descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>Classic Window</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">Classic refers to the current regular Firefox window. Classic Window is used sparingly, only when multiple window types are mentioned in a shared space.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="id">
+                    <ntig>
+                        <termGrp>
+                            <term>Jendela Klasik</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c865">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>connected service</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">An external or Mozilla service linked to an account.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="id">
+                    <ntig>
+                        <termGrp>
+                            <term>layanan tersambung</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c793">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>cookie</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">A small piece of data stored by a website in the browser.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="id">
+                    <ntig>
+                        <termGrp>
+                            <term>kuki</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c883">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>crash</term>
+                            <termNote type="partOfSpeech">verb</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">To stop functioning unexpectedly because of a software error.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="id">
+                    <ntig>
+                        <termGrp>
+                            <term>mogok</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c803">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>crash report</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">Diagnostic information submitted after a product crash.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="id">
+                    <ntig>
+                        <termGrp>
+                            <term>laporan mogok</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c816">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>credit card</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">A payment card used for purchases or subscriptions.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="id">
+                    <ntig>
+                        <termGrp>
+                            <term>kartu kredit</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c891">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>dark</term>
+                            <termNote type="partOfSpeech">adjective</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">Theme or display mode that uses light text and icons set against a dark colored background.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="id">
+                    <ntig>
+                        <termGrp>
+                            <term>gelap</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c872">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>dark mode</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">Display mode that uses light text and icons set against a dark colored background.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="id">
+                    <ntig>
+                        <termGrp>
+                            <term>mode gelap</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c820">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>data collection</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">The collection of product, usage, technical, or personal data.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="id">
+                    <ntig>
+                        <termGrp>
+                            <term>pengumpulan data</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c874">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>data saving mode</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">A mode designed to reduce network data usage.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="id">
+                    <ntig>
+                        <termGrp>
+                            <term>mode hemat data</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c807">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>default browser</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">The browser the operating system opens by default.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="id">
+                    <ntig>
+                        <termGrp>
+                            <term>peramban baku</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c823">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>default search engine</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">The search engine used when no other engine is selected.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="id">
+                    <ntig>
+                        <termGrp>
+                            <term>mesin pencari baku</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c858">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>desktop site</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">The desktop-oriented version of a website requested on a mobile device.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="id">
+                    <ntig>
+                        <termGrp>
+                            <term>situs desktop</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c833">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>developer tools</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">Browser tools for inspecting, debugging, and developing web content.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="id">
+                    <ntig>
+                        <termGrp>
+                            <term>alat pengembang</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c788">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>device</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">A computer, phone, tablet, or other endpoint associated with the user.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="id">
+                    <ntig>
+                        <termGrp>
+                            <term>peranti</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c867">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>display name</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">The name shown to other users or in product UI.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="id">
+                    <ntig>
+                        <termGrp>
+                            <term>nama tampilan</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c854">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>download history</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">A record of files previously downloaded by the browser.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="id">
+                    <ntig>
+                        <termGrp>
+                            <term>riwayat unduhan</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c818">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>email address</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">An address used to send and receive email.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="id">
+                    <ntig>
+                        <termGrp>
+                            <term>alamat surel</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c841">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>full screen</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">A display mode in which content fills the screen.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="id">
+                    <ntig>
+                        <termGrp>
+                            <term>layar penuh</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c885">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>history</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">The browser record of pages visited and related browsing activity.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="id">
+                    <ntig>
+                        <termGrp>
+                            <term>riwayat</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c888">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>Home</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">The button or navigation item that directs to a user's homepage - the primary or starting destination in a browser or application.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="id">
+                    <ntig>
+                        <termGrp>
+                            <term>Beranda</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c822">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>interaction data</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">Data describing how a user interacts with a product or feature.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="id">
+                    <ntig>
+                        <termGrp>
+                            <term>data interaksi</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c828">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>internet connection</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">A device's connection to the internet.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="id">
+                    <ntig>
+                        <termGrp>
+                            <term>sambungan internet</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c842">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>invoice</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">A document showing charges for a product or service.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="id">
+                    <ntig>
+                        <termGrp>
+                            <term>tagihan</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c890">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>light</term>
+                            <termNote type="partOfSpeech">adjective</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">Theme or display mode that uses dark text and icons set against a light colored background.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="id">
+                    <ntig>
+                        <termGrp>
+                            <term>terang</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c873">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>light mode</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">Display mode that uses dark text and icons set against a light colored background.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="id">
+                    <ntig>
+                        <termGrp>
+                            <term>mode terang</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c797">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>new tab</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">A newly opened browser tab or the surface shown in it.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="id">
+                    <ntig>
+                        <termGrp>
+                            <term>tab baru</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c861">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>night mode</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">A reading or display mode intended for low-light conditions.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="id">
+                    <ntig>
+                        <termGrp>
+                            <term>mode malam</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c787">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>password</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">A secret string used to authenticate a user.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="id">
+                    <ntig>
+                        <termGrp>
+                            <term>kata sandi</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c796">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>payment method</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">A means of paying for a product or subscription.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="id">
+                    <ntig>
+                        <termGrp>
+                            <term>metode pembayaran</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c839">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>phone number</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">A telephone number associated with a user or account.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="id">
+                    <ntig>
+                        <termGrp>
+                            <term>nomor telepon</term>
                         </termGrp>
                     </ntig>
                 </langSet>

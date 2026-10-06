@@ -4392,6 +4392,48 @@ A code used to recover a user's encrypted account information (such as bookmarks
                     </ntig>
                 </langSet>
             </termEntry>
+            <termEntry id="c856">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>AI enhancement</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">An optional product capability powered or enhanced by AI.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="tr">
+                    <ntig>
+                        <termGrp>
+                            <term>yapay zekâ özelliği</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c864">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>billing cycle</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">The recurring period between subscription charges.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="tr">
+                    <ntig>
+                        <termGrp>
+                            <term>faturalama dönemi</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
