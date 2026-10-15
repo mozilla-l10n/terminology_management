@@ -4234,7 +4234,7 @@ A code used to recover a user's encrypted account information (such as bookmarks
                         </termGrp>
                     </ntig>
                     <descripGrp>
-                        <descrip type="definition">A layout showing two pieces of content side by side.</descrip>
+                        <descrip type="definition">Firefox feature that creates a layout by selecting two tabs and showing the content side by side in a single window.</descrip>
                     </descripGrp>
                 </langSet>
                 <langSet xml:lang="tr">
@@ -4430,6 +4430,48 @@ A code used to recover a user's encrypted account information (such as bookmarks
                     <ntig>
                         <termGrp>
                             <term>faturalama dönemi</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c851">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>primary email</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">The main email address associated with an account.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="tr">
+                    <ntig>
+                        <termGrp>
+                            <term>ana e-posta</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c836">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>secondary email</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">An additional email address associated with an account.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="tr">
+                    <ntig>
+                        <termGrp>
+                            <term>ikinci e-posta</term>
                         </termGrp>
                     </ntig>
                 </langSet>
