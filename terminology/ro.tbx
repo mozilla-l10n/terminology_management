@@ -4361,7 +4361,7 @@ Note that this is distinct from "review analyzer", which is the name of the tool
                         </termGrp>
                     </ntig>
                     <descripGrp>
-                        <descrip type="definition">A layout showing two pieces of content side by side.</descrip>
+                        <descrip type="definition">Firefox feature that creates a layout by selecting two tabs and showing the content side by side in a single window.</descrip>
                     </descripGrp>
                 </langSet>
                 <langSet xml:lang="ro">
