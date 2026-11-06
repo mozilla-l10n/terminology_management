@@ -4402,7 +4402,7 @@ A code used to recover a user's encrypted account information (such as bookmarks
                         </termGrp>
                     </ntig>
                     <descripGrp>
-                        <descrip type="definition">A layout showing two pieces of content side by side.</descrip>
+                        <descrip type="definition">Firefox feature that creates a layout by selecting two tabs and showing the content side by side in a single window.</descrip>
                     </descripGrp>
                 </langSet>
                 <langSet xml:lang="ko">

@@ -1507,27 +1507,6 @@
                     </ntig>
                 </langSet>
             </termEntry>
-            <termEntry id="c569">
-                <descrip type="context">Fingerprinters collect settings from your browser and computer to create a profile of you. Using this digital fingerprint, they can track you across different websites.</descrip>
-                <langSet xml:lang="en-US">
-                    <ntig>
-                        <termGrp>
-                            <term>fingerprinter</term>
-                            <termNote type="partOfSpeech">noun</termNote>
-                        </termGrp>
-                    </ntig>
-                    <descripGrp>
-                        <descrip type="definition">A fingerprinter is an entity that gathers information about browser users from configuration and settings information that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.</descrip>
-                    </descripGrp>
-                </langSet>
-                <langSet xml:lang="id">
-                    <ntig>
-                        <termGrp>
-                            <term>pengumpul sidik jari</term>
-                        </termGrp>
-                    </ntig>
-                </langSet>
-            </termEntry>
             <termEntry id="c623">
                 <descrip type="context">Use this colorway.</descrip>
                 <langSet xml:lang="en-US">
@@ -2897,6 +2876,27 @@ Note that this is distinct from "review analyzer", which is the name of the tool
                     <ntig>
                         <termGrp>
                             <term>nomor telepon</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c569">
+                <descrip type="context">Fingerprinters collect settings from your browser and computer to create a profile of you. Using this digital fingerprint, they can track you across different websites.</descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>fingerprinter</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">A fingerprinter is an entity that gathers information about browser users from configuration and settings information that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="id">
+                    <ntig>
+                        <termGrp>
+                            <term>pengumpul sidik jari</term>
                         </termGrp>
                     </ntig>
                 </langSet>

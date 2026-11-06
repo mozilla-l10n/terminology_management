@@ -1801,6 +1801,27 @@
                     </ntig>
                 </langSet>
             </termEntry>
+            <termEntry id="c672">
+                <descrip type="context">Ask questions, compare pages, and get personalized suggestions with a built-in assistant.</descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>assistant</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">The assistant is the Smart Window’s built-in, conversational UI. When users “ask” a question in Smart Window, either from the New Tab or in the sidebar when viewing a page, that’s the assistant experience. The assistant is intentionally not personified, nor separately named.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="tr">
+                    <ntig>
+                        <termGrp>
+                            <term>asistan</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
             <termEntry id="c663">
                 <descrip type="context">Open your authentication app and enter the authentication code it provides.</descrip>
                 <langSet xml:lang="en-US">
@@ -1885,6 +1906,48 @@ See this page for more information: https://bit.ly/l10n-guidance-firefoxview</de
                     <ntig>
                         <termGrp>
                             <term>Firefox View</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c814">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>service worker</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">A web worker that can intercept requests and support offline or background behavior.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="tr">
+                    <ntig>
+                        <termGrp>
+                            <term>service worker</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c792">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>sync</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">Feature that keeps browser data consistent across devices.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="tr">
+                    <ntig>
+                        <termGrp>
+                            <term>eşitleme</term>
                         </termGrp>
                     </ntig>
                 </langSet>
@@ -2162,27 +2225,6 @@ A code used to recover a user's encrypted account information (such as bookmarks
                     <ntig>
                         <termGrp>
                             <term>etiketle</term>
-                        </termGrp>
-                    </ntig>
-                </langSet>
-            </termEntry>
-            <termEntry id="c672">
-                <descrip type="context">Ask questions, compare pages, and get personalized suggestions with a built-in assistant.</descrip>
-                <langSet xml:lang="en-US">
-                    <ntig>
-                        <termGrp>
-                            <term>assistant</term>
-                            <termNote type="partOfSpeech">noun</termNote>
-                        </termGrp>
-                    </ntig>
-                    <descripGrp>
-                        <descrip type="definition">The assistant is the Smart Window’s built-in, conversational UI. When users “ask” a question in Smart Window, either from the New Tab or in the sidebar when viewing a page, that’s the assistant experience. The assistant is intentionally not personified, nor separately named.</descrip>
-                    </descripGrp>
-                </langSet>
-                <langSet xml:lang="tr">
-                    <ntig>
-                        <termGrp>
-                            <term>asistan</term>
                         </termGrp>
                     </ntig>
                 </langSet>
@@ -3279,27 +3321,6 @@ A code used to recover a user's encrypted account information (such as bookmarks
                     </ntig>
                 </langSet>
             </termEntry>
-            <termEntry id="c792">
-                <descrip type="context"></descrip>
-                <langSet xml:lang="en-US">
-                    <ntig>
-                        <termGrp>
-                            <term>sync</term>
-                            <termNote type="partOfSpeech">noun</termNote>
-                        </termGrp>
-                    </ntig>
-                    <descripGrp>
-                        <descrip type="definition">Feature that keeps browser data consistent across devices.</descrip>
-                    </descripGrp>
-                </langSet>
-                <langSet xml:lang="tr">
-                    <ntig>
-                        <termGrp>
-                            <term>eşitleme</term>
-                        </termGrp>
-                    </ntig>
-                </langSet>
-            </termEntry>
             <termEntry id="c830">
                 <descrip type="context"></descrip>
                 <langSet xml:lang="en-US">
@@ -4234,34 +4255,13 @@ A code used to recover a user's encrypted account information (such as bookmarks
                         </termGrp>
                     </ntig>
                     <descripGrp>
-                        <descrip type="definition">A layout showing two pieces of content side by side.</descrip>
+                        <descrip type="definition">Firefox feature that creates a layout by selecting two tabs and showing the content side by side in a single window.</descrip>
                     </descripGrp>
                 </langSet>
                 <langSet xml:lang="tr">
                     <ntig>
                         <termGrp>
                             <term>ayrık görünüm</term>
-                        </termGrp>
-                    </ntig>
-                </langSet>
-            </termEntry>
-            <termEntry id="c814">
-                <descrip type="context"></descrip>
-                <langSet xml:lang="en-US">
-                    <ntig>
-                        <termGrp>
-                            <term>service worker</term>
-                            <termNote type="partOfSpeech">noun</termNote>
-                        </termGrp>
-                    </ntig>
-                    <descripGrp>
-                        <descrip type="definition">A web worker that can intercept requests and support offline or background behavior.</descrip>
-                    </descripGrp>
-                </langSet>
-                <langSet xml:lang="tr">
-                    <ntig>
-                        <termGrp>
-                            <term>service worker</term>
                         </termGrp>
                     </ntig>
                 </langSet>
@@ -4430,6 +4430,48 @@ A code used to recover a user's encrypted account information (such as bookmarks
                     <ntig>
                         <termGrp>
                             <term>faturalama dönemi</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c851">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>primary email</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">The main email address associated with an account.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="tr">
+                    <ntig>
+                        <termGrp>
+                            <term>ana e-posta</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c836">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>secondary email</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">An additional email address associated with an account.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="tr">
+                    <ntig>
+                        <termGrp>
+                            <term>ikinci e-posta</term>
                         </termGrp>
                     </ntig>
                 </langSet>

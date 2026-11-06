@@ -2019,6 +2019,48 @@ A code used to recover a user's encrypted account information (such as bookmarks
                     </ntig>
                 </langSet>
             </termEntry>
+            <termEntry id="c831">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>AI chatbot</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">A conversational assistant powered by artificial intelligence.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="sk">
+                    <ntig>
+                        <termGrp>
+                            <term>Chatbot s umelou inteligenciou</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c801">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>recovery phone</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">A phone number used to recover access to an account.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="sk">
+                    <ntig>
+                        <termGrp>
+                            <term>telefón na obnovenie prístupu</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
             <termEntry id="c669">
                 <descrip type="context">Use a passkey</descrip>
                 <langSet xml:lang="en-US">
@@ -2292,27 +2334,6 @@ A code used to recover a user's encrypted account information (such as bookmarks
                     </ntig>
                 </langSet>
             </termEntry>
-            <termEntry id="c831">
-                <descrip type="context"></descrip>
-                <langSet xml:lang="en-US">
-                    <ntig>
-                        <termGrp>
-                            <term>AI chatbot</term>
-                            <termNote type="partOfSpeech">noun</termNote>
-                        </termGrp>
-                    </ntig>
-                    <descripGrp>
-                        <descrip type="definition">A conversational assistant powered by artificial intelligence.</descrip>
-                    </descripGrp>
-                </langSet>
-                <langSet xml:lang="sk">
-                    <ntig>
-                        <termGrp>
-                            <term>AI chatbot</term>
-                        </termGrp>
-                    </ntig>
-                </langSet>
-            </termEntry>
             <termEntry id="c856">
                 <descrip type="context"></descrip>
                 <langSet xml:lang="en-US">
@@ -2329,7 +2350,7 @@ A code used to recover a user's encrypted account information (such as bookmarks
                 <langSet xml:lang="sk">
                     <ntig>
                         <termGrp>
-                            <term>vylepšenie pomocou AI</term>
+                            <term>funkcia využívajúca umelú inteligenciu</term>
                         </termGrp>
                     </ntig>
                 </langSet>
@@ -2350,7 +2371,7 @@ A code used to recover a user's encrypted account information (such as bookmarks
                 <langSet xml:lang="sk">
                     <ntig>
                         <termGrp>
-                            <term>model AI</term>
+                            <term>model umelej inteligencie</term>
                         </termGrp>
                     </ntig>
                 </langSet>
@@ -2827,7 +2848,7 @@ A code used to recover a user's encrypted account information (such as bookmarks
                         </termGrp>
                     </ntig>
                     <descripGrp>
-                        <descrip type="definition">A layout showing two pieces of content side by side.</descrip>
+                        <descrip type="definition">Firefox feature that creates a layout by selecting two tabs and showing the content side by side in a single window.</descrip>
                     </descripGrp>
                 </langSet>
                 <langSet xml:lang="sk">
@@ -4093,7 +4114,7 @@ A code used to recover a user's encrypted account information (such as bookmarks
                 <langSet xml:lang="sk">
                     <ntig>
                         <termGrp>
-                            <term>zber údajov</term>
+                            <term>zhromažďovanie údajov</term>
                         </termGrp>
                     </ntig>
                 </langSet>
@@ -4157,6 +4178,279 @@ A code used to recover a user's encrypted account information (such as bookmarks
                     <ntig>
                         <termGrp>
                             <term>Face ID</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c843">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>public key</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">The non-secret key in an asymmetric cryptographic key pair.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="sk">
+                    <ntig>
+                        <termGrp>
+                            <term>verejný kľúč</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c806">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>QR code</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">A two-dimensional code scanned by a camera.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="sk">
+                    <ntig>
+                        <termGrp>
+                            <term>QR kód</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c886">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>summary</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">Summary of a webpage's key takeaways generated by Firefox's Shake to Summarize feature.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="sk">
+                    <ntig>
+                        <termGrp>
+                            <term>súhrn</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c814">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>service worker</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">A web worker that can intercept requests and support offline or background behavior.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="sk">
+                    <ntig>
+                        <termGrp>
+                            <term>skript typu worker</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c852">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>proxy server</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">An intermediary server through which network requests are routed.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="sk">
+                    <ntig>
+                        <termGrp>
+                            <term>server proxy</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c869">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>profile picture</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">An image representing a user profile.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="sk">
+                    <ntig>
+                        <termGrp>
+                            <term>profilová fotografia</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c884">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>site data</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">Singular (when referring to one website). Information that a website stores in Firefox locally to remember your preferences such as cookies and local storage.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="sk">
+                    <ntig>
+                        <termGrp>
+                            <term>údaje stránky</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c827">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>summarize</term>
+                            <termNote type="partOfSpeech">verb</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">To generate a concise summary of the current web page or tabs with AI.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="sk">
+                    <ntig>
+                        <termGrp>
+                            <term>vytvor súhrn</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c855">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>secure DNS</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">DNS resolution protected with encryption, such as DNS over HTTPS.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="sk">
+                    <ntig>
+                        <termGrp>
+                            <term>zabezpečené DNS</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c838">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>MIME type</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">A media type identifying the format of content transferred on the internet.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="sk">
+                    <ntig>
+                        <termGrp>
+                            <term>typ MIME</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c822">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>interaction data</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">Data describing how a user interacts with a product or feature.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="sk">
+                    <ntig>
+                        <termGrp>
+                            <term>údaje o používaní</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c881">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>form autofill</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">A browser feature that automatically fills form fields such as address or payment information with saved information.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="sk">
+                    <ntig>
+                        <termGrp>
+                            <term>automatické dopĺňanie formulárov</term>
+                        </termGrp>
+                    </ntig>
+                </langSet>
+            </termEntry>
+            <termEntry id="c813">
+                <descrip type="context"></descrip>
+                <langSet xml:lang="en-US">
+                    <ntig>
+                        <termGrp>
+                            <term>free trial</term>
+                            <termNote type="partOfSpeech">noun</termNote>
+                        </termGrp>
+                    </ntig>
+                    <descripGrp>
+                        <descrip type="definition">A limited period during which a paid service can be used without charge.</descrip>
+                    </descripGrp>
+                </langSet>
+                <langSet xml:lang="sk">
+                    <ntig>
+                        <termGrp>
+                            <term>bezplatná skúšobná verzia</term>
                         </termGrp>
                     </ntig>
                 </langSet>
